@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Esercitazioni di Adobe Sign
-source-git-commit: 9521930d29ca7e73e9658029733c5fe2c267d7ba
+source-git-commit: 626ef6a53b548c77134f9f551d9f8b05581c46db
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '414'
 ht-degree: 6%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 6%
       + [Presentazione rapida di Adobe Sign](sign-beginner-tutorials/quick-tour.md)
       + [Invio a un singolo destinatario](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Invio a più destinatari](sign-beginner-tutorials/send-to-multiple-recipients.md)
+      + [Introduzione a Adobe Sign per nuovi mittenti](sign-beginner-tutorials/new-sender.md)
    + Signing {#getting-started-signing}
       + [Firma elettronica di un documento](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Compilazione e firma di un documento](sign-beginner-tutorials/fill-and-sign.md)
