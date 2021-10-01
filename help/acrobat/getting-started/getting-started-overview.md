@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8d4260937ffc2c0bd907332dd4b805fb59147872
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '338'
 ht-degree: 5%
 
 ---
@@ -34,13 +34,13 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <br>
   </td>
   <td>
-    <a href="where-do-pdfs-come-from.md">
-      <img alt="Da dove vengono i PDF?" src="../assets/WherePDFs.jpg" />
+    <a href="acrobatweb.md">
+      <img alt="Lavorare ovunque con Acrobat Web" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>Da dove vengono i PDF?</strong></a>
+    <a href="acrobatweb.md"><strong>Lavorare ovunque con Acrobat Web</strong></a>
     </div>
-    <em>Comprendere da dove provengono i PDF e i relativi utilizzi</em>
+    <em>Informazioni su come gestire le richieste di documenti aziendali da qualsiasi postazione utilizzando gli strumenti Web Acrobat nel browser</em>
     <br>
   </td>
   <td>
@@ -147,6 +147,28 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <a href="fill-and-sign.md"><strong>Compilare e firmare un modulo PDF</strong></a>
     </div>
     <em>Eseguire rapidamente il riempimento e la firma di un modulo PDF</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="where-do-pdfs-come-from.md">
+      <img alt="Da dove vengono i PDF?" src="../assets/WherePDFs.jpg" />
+    </a>
+    <div>
+    <a href="where-do-pdfs-come-from.md"><strong>Da dove vengono i PDF?</strong></a>
+    </div>
+    <em>Comprendere da dove provengono i PDF e i relativi utilizzi</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
