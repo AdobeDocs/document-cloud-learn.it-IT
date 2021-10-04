@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: a6af71e2c1b20c6b3f9a899cdfecb81dfd7f6c36
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,16 @@ Scopri come tutti i membri del team possono lavorare in modo semplice con file P
     <br>
   </td>
   <td>
+    <a href="createofficeweb.md">
+      <img alt="Crea PDF in [!DNL Office] per il Web" src="../assets/Officeweb_1280.png" />
+    </a>
+    <div>
+    <a href="createofficeweb.md"><strong>Crea PDF in [!DNL Office] per il Web</strong></a>
+    </div>
+    <em>Informazioni su come creare file PDF senza mai lasciare il [!DNL Microsoft Office] per le app Web</em>
+    <br>
+  </td>  
+  <td>
     <a href="acrobatandsp.md">
       <img alt="Utilizzare i file [!DNL SharePoint]" src="../assets/SharePoint.png" />
     </a>
@@ -46,6 +56,8 @@ Scopri come tutti i membri del team possono lavorare in modo semplice con file P
     <em>Semplificazione dei flussi di lavoro dei documenti con [!DNL SharePoint] e Acrobat DC</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="Collaborazione in PDF in [!DNL Microsoft Team]" src="../assets/MicrosoftTeams.png" />
@@ -56,8 +68,6 @@ Scopri come tutti i membri del team possono lavorare in modo semplice con file P
     <em>Collaborare e lavorare con i colleghi visualizzando, annotando e revisionando i PDF senza mai lasciare [!DNL Microsoft Team]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="outlook.md">
       <img alt="Convertire messaggi e allegati in PDF in Outlook" src="../assets/Outlook.jpg" />
@@ -76,11 +86,6 @@ Scopri come tutti i membri del team possono lavorare in modo semplice con file P
     <a href="edge.md"><strong>Crea contenuto PDF durante l'esplorazione con [!DNL Microsoft Edge]</strong></a>
     </div>
     <em>Informazioni su come archiviare le pagine Web in PDF al momento della riproduzione con l'estensione Adobe Acrobat per [!DNL Microsoft Edge]</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
