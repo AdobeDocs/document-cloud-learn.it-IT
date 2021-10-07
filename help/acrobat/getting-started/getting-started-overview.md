@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
+source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '382'
 ht-degree: 6%
 
 ---
@@ -44,6 +44,18 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <br>
   </td>
   <td>
+    <a href="../integrate/integrate-overview.md#microsoft">
+      <img alt="Utilizzo di Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    </a>
+    <div>
+     <a href="../integrate/integrate-overview.md#microsoft"><strong>Utilizzo di Microsoft 365</strong></a>
+    </div>
+    <em>Aumentare la produttività e i flussi di lavoro dei documenti aziendali con Acrobat e [!DNL Microsoft 365]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="collaborate.md">
       <img alt="Collaborare in tempo reale" src="../assets/Collaborate_1280.png" />
     </a>
@@ -53,8 +65,6 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <em>Spostare i progetti in avanti raccogliendo commenti, collaborando alle risposte e tenendo traccia dell'avanzamento dei documenti in tempo reale, da qualsiasi punto</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="Combina file in PDF" src="../assets/Combine.jpg" />
@@ -75,6 +85,8 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <em>Crea PDF da tutti i diversi tipi di documenti</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="comment-on-pdf-files.md">
       <img alt="Commento sui file PDF in Acrobat DC" src="../assets/Comment.jpg" />
@@ -84,9 +96,7 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     </div>
     <em>Aggiungere commenti a un file PDF e condividerli con altri utenti</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="edit-pdf.md">
       <img alt="Modificare un PDF in Acrobat DC" src="../assets/Edit.jpg" />
@@ -107,6 +117,8 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <em>Informazioni su come esportare i file PDF in formati modificabili</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="create-fillable-forms.md">
       <img alt="Crea moduli riempibili" src="../assets/Form.jpg" />
@@ -117,8 +129,6 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <em>Trasformare un documento creato in un'altra applicazione in un modulo PDF compilabile</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="Scansione e OCR" src="../assets/Scan.jpg" />
@@ -139,6 +149,8 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <em>Aggiungere, sostituire, estrarre, ruotare, eliminare e spostare le pagine nel PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="password-protect.md">
       <img alt="Proteggere un file PDF con una password" src="../assets/Protect.jpg" />
@@ -149,8 +161,6 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <em>Aggiungere una password al PDF per proteggere altri utenti dall'apertura o dalla modifica del file</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="Compilare e firmare un modulo PDF" src="../assets/FillSign.jpg" />
@@ -161,7 +171,7 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <em>Eseguire rapidamente il riempimento e la firma di un modulo PDF</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="Da dove vengono i PDF?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -169,11 +179,6 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <a href="where-do-pdfs-come-from.md"><strong>Da dove vengono i PDF?</strong></a>
     </div>
     <em>Comprendere da dove provengono i PDF e i relativi utilizzi</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
