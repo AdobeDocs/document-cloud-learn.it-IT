@@ -1,19 +1,19 @@
 ---
-title: Crea PDF in Acrobat DC
+title: Creare un file PDF
 description: Crea PDF da tutti i diversi tipi di documenti
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 490175fbcac50fe1bd7abf8bbffad6fd97061660
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 0%
+source-wordcount: '48'
+ht-degree: 12%
 
 ---
 
-# Crea PDF in Acrobat DC
+# Creare un file PDF
 
 Informazioni sulla creazione di PDF da tutti i diversi tipi di documenti. Iniziare con un file creato in Microsoft Office o in un&#39;app cloud creativo oppure utilizzare un&#39;immagine, una scansione o persino un sito Web.
 

@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 6%
+source-wordcount: '375'
+ht-degree: 8%
 
 ---
 
@@ -80,7 +80,7 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
       <img alt="Creare file PDF" src="../assets/Create.jpg" />
     </a>
     <div>
-    <a href="create-pdf.md"><strong>Creare file PDF</strong></a>
+    <a href="create-pdf.md"><strong>Creare un file PDF</strong></a>
     </div>
     <em>Crea PDF da tutti i diversi tipi di documenti</em>
     <br>
@@ -92,7 +92,7 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
       <img alt="Commento sui file PDF in Acrobat DC" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>Commento sui file PDF in Acrobat DC</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>Commento su un PDF</strong></a>
     </div>
     <em>Aggiungere commenti a un file PDF e condividerli con altri utenti</em>
     <br>
@@ -102,7 +102,7 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
       <img alt="Modificare un PDF in Acrobat DC" src="../assets/Edit.jpg" />
     </a>
     <div>
-    <a href="edit-pdf.md"><strong>Modificare un PDF in Acrobat DC</strong></a>
+    <a href="edit-pdf.md"><strong>Modifica un PDF</strong></a>
     </div>
     <em>Modifica testo e immagini nei file PDF</em>
     <br>
@@ -166,7 +166,7 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
       <img alt="Compilare e firmare un modulo PDF" src="../assets/FillSign.jpg" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Compilare e firmare un modulo PDF</strong></a>
+    <a href="fill-and-sign.md"><strong>Fill and sign PDF forms</strong></a>
     </div>
     <em>Eseguire rapidamente il riempimento e la firma di un modulo PDF</em>
     <br>
