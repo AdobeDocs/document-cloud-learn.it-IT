@@ -6,41 +6,41 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 1f085348bf86e593e54d8a6851365d1c862c6610
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 2%
 
 ---
 
-# Organizzare le pagine
+# Organizza pagine
 
-Utilizzare **[!UICONTROL Organizza pagine]** in Acrobat DC per aggiungere, sostituire, estrarre, ruotare, eliminare e spostare pagine nel PDF.
+Utilizzo **[!UICONTROL Organizza pagine]** in Acrobat DC per aggiungere, sostituire, estrarre, ruotare, eliminare e spostare le pagine nella PDF.
 
-1. Selezionare **[!UICONTROL Organizza pagine]** dal centro [!UICONTROL Strumenti].
+1. Seleziona **[!UICONTROL Organizza pagine]** dal [!UICONTROL Strumenti] riquadro centrale o destro.
 
-   ![Organizzare il passo 1](../assets/Organize_1.png)
+   ![Organizza punto 1](../assets/Organize_1.png)
 
-1. Posizionare il puntatore del mouse su una pagina per ruotare la pagina in senso orario o antiorario oppure eliminare la pagina.
+1. Passa il mouse su una pagina per ruotare la pagina in senso orario o antiorario oppure eliminare la pagina.
 
-   Per spostare una pagina, fare clic e trascinare la pagina nella nuova posizione.
+   Per spostare una pagina, selezionatela e trascinatela nella nuova posizione.
 
-   ![Organizzare il passo 2](../assets/Organize_2.png)
+   ![Organizza punto 2](../assets/Organize_2.png)
 
-1. Fare clic su **[!UICONTROL Estrai]** nella barra degli strumenti per creare un nuovo PDF da una o più pagine.
+1. Seleziona **[!UICONTROL Extract]** nella barra degli strumenti, per creare un PDF da una o più pagine.
 
-1. Selezionare la pagina o le pagine, quindi fare clic sul pulsante **[!UICONTROL Estrai]**.
+1. Selezionare la pagina o le pagine, quindi selezionare **[!UICONTROL Extract]**.
 
-   È inoltre possibile **[!UICONTROL Inserire]** o **[!UICONTROL Sostituire]** pagine e visualizzare altre opzioni facendo clic su **[!UICONTROL Altro]**.
+   Puoi anche **[!UICONTROL Inserisci]** o **[!UICONTROL Sostituisci]** e visualizzare altre opzioni selezionando **[!UICONTROL Altro]**.
 
-   ![Organizzare il passo 4](../assets/Organize_3.png)
+   ![Organizza punto 4](../assets/Organize_3.png)
 
-1. Selezionare **[!UICONTROL Dividi]** per separare uno o più PDF in più PDF più piccoli.
+1. Seleziona **[!UICONTROL Dividi]** per dividere uno o più PDF in più PDF più piccoli.
 
-   Quando si divide un PDF, è possibile effettuare la separazione in base al numero di pagine, alle dimensioni del file o ai segnalibri di primo livello.
+   Quando suddividete un PDF, potete dividerlo in base al numero di pagine, alle dimensioni del file o ai segnalibri di livello superiore.
 
-   ![Fase di scansione 5](../assets/Organize_4.png)
+   ![Passaggio 5 di scansione](../assets/Organize_4.png)
 
-Fare clic per scaricare un PDF dell&#39;esercitazione *Organizza pagine*.
+Fate clic per scaricare un PDF del *Organizza pagine* esercitazione.
 
-[![Esercitazione Download pagine organizzazione](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCOrganize.pdf)
+[![Esercitazione per il download di Organizza pagine](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCOrganize.pdf)
