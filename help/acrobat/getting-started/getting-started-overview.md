@@ -1,46 +1,46 @@
 ---
-title: Introduzione
-description: Informazioni sull'utilizzo di Adobe Acrobat tramite queste brevi esercitazioni passo per passo (1-2 min)
+title: Panoramica introduttiva
+description: Scopri come iniziare a usare Adobe Acrobat attraverso questi brevi tutorial passo passo (1-2 min)
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '363'
 ht-degree: 8%
 
 ---
 
-# Introduzione alla panoramica
+# Panoramica introduttiva
 
 ![Immagine introduttiva di Acrobat](../assets/Hero-GettingStarted.png)
 
-Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi esercitazioni passo per passo (1-2 min). Dalla creazione di un documento alla protezione dei file PDF, questo contenuto è progettato per facilitare l&#39;accesso ai flussi di lavoro PDF.
+Scoprite come iniziare a utilizzare Adobe Acrobat attraverso queste brevi esercitazioni passo passo (1-2 min). Dalla creazione di un documento alla protezione dei file di PDF, questo contenuto è progettato per facilitare l’accesso ai flussi di lavoro di PDF.
 
-## Esercitazioni di Acrobat
+## Esercitazioni su Acrobat
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Conoscere l'interfaccia di Acrobat DC" src="../assets/Interface.jpg" />
+      <img alt="Nozioni di base sull’area di lavoro" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Scoprire l’interfaccia di Acrobat DC</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Nozioni di base sull’area di lavoro</strong></a>
     </div>
-    <em>Scoprite come l'interfaccia Adobe Acrobat DC facilita l'accesso a file e strumenti tra desktop, Web e dispositivi mobili</em>
+    <em>Scopri come l’interfaccia di Adobe Acrobat DC semplifica l’accesso a file e strumenti su desktop, web e dispositivi mobili</em>
     <br>
   </td>
   <td>
     <a href="acrobatweb.md">
-      <img alt="Lavorare ovunque con Acrobat Web" src="../assets/Acrobatweb_1280.png" />
+      <img alt="Lavora ovunque con Acrobat web" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="acrobatweb.md"><strong>Lavorare ovunque con Acrobat Web</strong></a>
+    <a href="acrobatweb.md"><strong>Lavora ovunque con Acrobat web</strong></a>
     </div>
-    <em>Informazioni su come gestire le richieste di documenti aziendali da qualsiasi postazione utilizzando gli strumenti Web Acrobat nel browser</em>
+    <em>Scopri come gestire le richieste di documenti aziendali ovunque ti trovi utilizzando gli strumenti Web di Acrobat nel tuo browser</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <div>
      <a href="../integrate/integrate-overview.md#microsoft"><strong>Utilizzo di Microsoft 365</strong></a>
     </div>
-    <em>Aumentare la produttività e i flussi di lavoro dei documenti aziendali con Acrobat e [!DNL Microsoft 365]</em>
+    <em>Aumenta la produttività e i flussi di lavoro basati su documenti aziendali con Acrobat e [!DNL Microsoft 365]</em>
     <br>
   </td>
 </tr>
@@ -62,17 +62,17 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <div>
      <a href="collaborate.md"><strong>Collaborare in tempo reale</strong></a>
     </div>
-    <em>Spostare i progetti in avanti raccogliendo commenti, collaborando alle risposte e tenendo traccia dell'avanzamento dei documenti in tempo reale, da qualsiasi punto</em>
+    <em>Porta avanti i tuoi progetti raccogliendo commenti, collaborando alle risposte e monitorando lo stato di avanzamento dei tuoi documenti in tempo reale, ovunque ti trovi</em>
     <br>
   </td>
   <td>
     <a href="combine-to-pdf.md">
-      <img alt="Combina file in PDF" src="../assets/Combine.jpg" />
+      <img alt="Combine Files su PDF" src="../assets/Combine.jpg" />
     </a>
     <div>
-     <a href="combine-to-pdf.md"><strong>Combina file in PDF</strong></a>
+     <a href="combine-to-pdf.md"><strong>Combinare file in PDF</strong></a>
     </div>
-    <em>Combinazione di diversi tipi di file in un singolo PDF</em>
+    <em>Combinare diversi tipi di file in un unico PDF</em>
     <br>
   </td>
   <td>
@@ -82,19 +82,19 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <div>
     <a href="create-pdf.md"><strong>Creare un file PDF</strong></a>
     </div>
-    <em>Crea PDF da tutti i diversi tipi di documenti</em>
+    <em>Creare PDF da tutti i tipi di documenti</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="comment-on-pdf-files.md">
-      <img alt="Commento sui file PDF in Acrobat DC" src="../assets/Comment.jpg" />
+      <img alt="Inserimento di commenti nei file PDF in Acrobat DC" src="../assets/Comment.jpg" />
     </a>
     <div>
     <a href="comment-on-pdf-files.md"><strong>Commento su un PDF</strong></a>
     </div>
-    <em>Aggiungere commenti a un file PDF e condividerli con altri utenti</em>
+    <em>Aggiungere commenti a un file PDF e condividerlo con altri utenti</em>
     <br>
   </td>
   <td>
@@ -104,29 +104,29 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <div>
     <a href="edit-pdf.md"><strong>Modifica un PDF</strong></a>
     </div>
-    <em>Modifica testo e immagini nei file PDF</em>
+    <em>Modificare testo e immagini nei file PDF</em>
     <br>
   </td>
    <td>
     <a href="export-pdf.md">
-      <img alt="Esporta un PDF in formati modificabili" src="../assets/Export.jpg" />
+      <img alt="Esportare un PDF in formati modificabili" src="../assets/Export.jpg" />
     </a>
     <div>
-    <a href="export-pdf.md"><strong>Esporta un PDF in formati modificabili</strong></a>
+    <a href="export-pdf.md"><strong>Esportare un PDF in formati modificabili</strong></a>
     </div>
-    <em>Informazioni su come esportare i file PDF in formati modificabili</em>
+    <em>Scoprite come esportare i file PDF in formati modificabili</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="Crea moduli riempibili" src="../assets/Form.jpg" />
+      <img alt="Creare moduli compilabili" src="../assets/Form.jpg" />
     </a>
     <div>
-    <a href="create-fillable-forms.md"><strong>Crea moduli riempibili</strong></a>
+    <a href="create-fillable-forms.md"><strong>Creare moduli compilabili</strong></a>
     </div>
-    <em>Trasformare un documento creato in un'altra applicazione in un modulo PDF compilabile</em>
+    <em>Trasformare un documento creato in un’altra applicazione in un modulo di PDF compilabile</em>
     <br>
   </td>
   <td>
@@ -136,7 +136,7 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <div>
     <a href="scan-and-ocr.md"><strong>Scansione e OCR</strong></a>
     </div>
-    <em>Ridurre i file di grandi dimensioni e ottimizzare i PDF senza compromettere la qualità per la condivisione, la registrazione o l'archiviazione</em>
+    <em>Riduci i file di grandi dimensioni e ottimizza i tuoi PDF senza compromettere la qualità per la condivisione, la pubblicazione o l'archiviazione</em>
     <br>
   </td>
   <td>
@@ -153,22 +153,22 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
 <tr>
   <td>
     <a href="password-protect.md">
-      <img alt="Proteggere un file PDF con una password" src="../assets/Protect.jpg" />
+      <img alt="Protect un file PDF con una password" src="../assets/Protect.jpg" />
     </a>
     <div>
-    <a href="password-protect.md"><strong>Proteggere un file PDF con una password</strong></a>
+    <a href="password-protect.md"><strong>Protect un file PDF con una password</strong></a>
     </div>
-    <em>Aggiungere una password al PDF per proteggere altri utenti dall'apertura o dalla modifica del file</em>
+    <em>Aggiungere una password al PDF per proteggere gli altri utenti dall'apertura o dalla modifica del file</em>
     <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Compilare e firmare un modulo PDF" src="../assets/FillSign.jpg" />
+      <img alt="Compilare e firmare un modulo di PDF" src="../assets/FillSign.jpg" />
     </a>
     <div>
     <a href="fill-and-sign.md"><strong>Fill and sign PDF forms</strong></a>
     </div>
-    <em>Eseguire rapidamente il riempimento e la firma di un modulo PDF</em>
+    <em>Compilare e firmare rapidamente un modulo di PDF</em>
     <br>
   </td>
   <td>
@@ -178,7 +178,7 @@ Informazioni su come iniziare a utilizzare Adobe Acrobat attraverso queste brevi
     <div>
     <a href="where-do-pdfs-come-from.md"><strong>Da dove vengono i PDF?</strong></a>
     </div>
-    <em>Comprendere da dove provengono i PDF e i relativi utilizzi</em>
+    <em>Comprendere da dove provengono i PDF e i loro usi</em>
     <br>
   </td>
 </tr>
