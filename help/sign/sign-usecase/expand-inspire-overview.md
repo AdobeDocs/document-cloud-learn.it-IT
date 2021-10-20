@@ -1,55 +1,55 @@
 ---
-title: Panoramica di settore e reparto
-description: Scoprite come trasformare le esperienze di e-firma dei clienti e dei dipendenti attraverso il settore e i dipartimenti del mondo reale utilizzando casi, ricette e webinar
+title: Panoramica di settori e reparti
+description: Scopri come trasformare le esperienze di firma elettronica di clienti e dipendenti attraverso questi esempi di utilizzo, ricette e webinar reali per il settore e i reparti
 role: User
 product: adobe sign
 level: Intermediate
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 7a97e60cff77466541f7126b93ee3b8607455f9f
+source-git-commit: 5418e505275fb8c9d889e8928278dad69179cdc1
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
-# Panoramica di settore e reparto
+# Panoramica su settori e reparti
 
-![Immagine dell&#39;industria dei segni di Adobe](../assets/Hero-Industry.png)
+![Immagine del settore Adobe Sign](../assets/Hero-Industry.png)
 
-Scoprite come trasformare le esperienze di e-firma dell&#39;organizzazione esplorando i casi, le ricette e i webinar del settore e dei dipartimenti reali.
+Scopri come trasformare le esperienze di firma elettronica della tua organizzazione esplorando questi esempi di utilizzo, le ricette e i webinar di settore e reparto reali.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="innovation-series.md">
-      <img alt="Generatore di competenze" src="../assets/SB_1280.jpg" />
+      <img alt="Skill Builder" src="../assets/SB_1280.jpg" />
     </a>
     <div>
-    <a href="innovation-series.md"><strong>Generatore di competenze</strong></a>
+    <a href="innovation-series.md"><strong>Skill Builder</strong></a>
     </div>
-    <em>Unisciti a noi per un Generatore di Abilità di 30 minuti per imparare a utilizzare le tue firme elettroniche senza aggiungere altro lavoro al tuo giorno</em>
+    <em>Unisciti a noi per un Skill Builder di 30 minuti e scopri come mettere a frutto le tue firme elettroniche, senza aggiungere altro lavoro alla tua giornata.</em>
     <br>
   </td>
   <td>
     <a href="recipes.md">
-      <img alt="Usa ricette case" src="../assets/Expand_RecipeR.png" />
+      <img alt="Esempi di utilizzo" src="../assets/Expand_RecipeR.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>Usa ricette maiuscole e minuscole</strong></a>
+    <a href="recipes.md"><strong>Esempi di utilizzo</strong></a>
     </div>
-    <em>Scaricare le risorse necessarie per distribuire rapidamente diversi flussi di lavoro dei reparti firma elettronica</em>
+    <em>Scarica le risorse necessarie per distribuire rapidamente i vari flussi di lavoro dei reparti di firma elettronica in modo autonomo</em>
     <br>
   </td>
   <td>
     <a href="use-case-showcase.md">
-      <img alt="Mostra case" src="../assets/UseCaseShowcaseR.png" />
+      <img alt="Esempi di utilizzo" src="../assets/UseCaseShowcaseR.png" />
     </a>
     <div>
-    <a href="use-case-showcase.md"><strong>Mostra caso d'uso</strong></a>
+    <a href="use-case-showcase.md"><strong>Esempi di utilizzo</strong></a>
     </div>
-    <em>Guarda sessioni live o registrate per presentarti nuovi casi e tendenze di utilizzo di Adobe Sign</em>
+    <em>Guarda le sessioni dal vivo o registrate che ti presentano nuovi esempi di utilizzo e tendenze di Adobe Sign</em>
     <br>
   </td>
 </tr>
