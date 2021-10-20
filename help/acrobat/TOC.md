@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 12%
+source-wordcount: '295'
+ht-degree: 10%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 12%
    + [Panoramica](getting-started/getting-started-overview.md)
    + [Spazio di lavoro di base](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Lavora ovunque con Acrobat web](getting-started/acrobatweb.md)
+   + [Produttività in mobilità](getting-started/productivity.md)
    + [Utilizzo [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Collaborare in tempo reale](getting-started/collaborate.md)
    + [Combine Files su PDF](getting-started/combine-to-pdf.md)
@@ -34,7 +35,7 @@ ht-degree: 12%
    + [Scansione e OCR](getting-started/scan-and-ocr.md)
    + [Organizza pagine](getting-started/organize.md)
    + [Protect un file PDF con una password](getting-started/password-protect.md)
-   + [Compilare e firmare moduli PDF](getting-started/fill-and-sign.md)
+   + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
    + [Da dove vengono i PDF?](getting-started/where-do-pdfs-come-from.md)
 + Attività avanzate {#advanced-tasks}
    + [Panoramica](advanced-tasks/advanced-tasks-overview.md)
@@ -63,7 +64,7 @@ ht-degree: 12%
 + Skill Builder {#skill-builders}
    + [Panoramica](skill-builder/skill-builder-overview.md)
    + [Webinar](skill-builder/skill-builder-webinars.md)
-+ Integrare {#integrations}
++ Integrazioni {#integrations}
    + [Panoramica](integrate/integrate-overview.md)
    + [Crea PDF da [!DNL Microsoft Word]](integrate/createfromword.md)
    + [Creare PDF in [!DNL Office] per il web](integrate/createofficeweb.md)
@@ -72,7 +73,7 @@ ht-degree: 12%
    + [Convertire messaggi e allegati e-mail in PDF in Outlook](integrate/outlook.md)
    + [Creare contenuti PDF durante la navigazione con Microsoft Edge](integrate/edge.md)
    + [Adobe Acrobat per Google Drive](integrate/acrobatandgoogle.md)
-+ Settore {#by-industry}
++ Settori e dipartimenti {#by-industry}
    + [Panoramica](industry/industry-overview.md)
    + Pubblica Amministrazione {#gov}
       + [Panoramica](industry/gov/gov-overview.md)
