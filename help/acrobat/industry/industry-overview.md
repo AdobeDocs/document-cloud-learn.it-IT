@@ -1,26 +1,26 @@
 ---
-title: Panoramica del settore
-description: Scoprite come trasformare le esperienze dei clienti e dei dipendenti esplorando i casi di utilizzo del settore e le idee ispirative
+title: Panoramica di settore e reparto
+description: Scopri come trasformare le esperienze di clienti e dipendenti esplorando i casi d'uso del settore e le idee stimolanti
 role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6860.jpg
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Panoramica del settore
+# Panoramica su settori e reparti
 
-![Immagine di Acrobat Industry](../assets/Hero-Industry.png)
+![Immagine del settore Acrobat](../assets/Hero-Industry.png)
 
-Scoprite come trasformare le esperienze dei clienti e dei dipendenti esplorando i casi e le idee di base del settore.
+Scopri come trasformare le esperienze di clienti e dipendenti esplorando i casi d&#39;uso del settore e le idee stimolanti.
 
-## Governo
+## Pubblica Amministrazione
 
-Esplorate le esercitazioni di Acrobat DC progettate appositamente per il governo federale, statale e locale.
+Esplora i nostri tutorial su Acrobat DC progettati appositamente per gli enti pubblici federali, statali e locali.
 
-* [Panoramica sulle esercitazioni di Acrobat per il governo](gov/gov-overview.md)
+* [Panoramica di Acrobat Tutorials per la Pubblica Amministrazione](gov/gov-overview.md)
