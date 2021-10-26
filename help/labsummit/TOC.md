@@ -1,5 +1,5 @@
 ---
-user-guide-title: Esperienza digitale con Adobe Document Cloud
+user-guide-title: Esperienze digitali con Adobe Document Cloud
 solution: Document Cloud
 solution-title: Adobe Document Cloud Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/acrobat.html
@@ -15,11 +15,11 @@ ht-degree: 0%
 ---
 
 
-# Esperienza digitale con Adobe Document Cloud {#lab719}
+# Esperienze digitali con Adobe Document Cloud {#lab719}
 
-+ [Presentazione generale e introduzione](overview.md)
-+ Esperienza digitale con Adobe Document Cloud {#gsd}
-   + [Esperienza digitale con Adobe Document Cloud](gsd.md)
-   + [Ex.1: Analizza qualsiasi modulo](scan.md)
-   + [Ex.2. Compilare e firmare qualsiasi modulo](fillsign.md)
-   + [Ex.3: Condividi file PDF e rivedi online](review.md)
++ [Introduzione e panoramica del laboratorio](overview.md)
++ Esperienze digitali con Adobe Document Cloud {#gsd}
+   + [Esperienze digitali con Adobe Document Cloud](gsd.md)
+   + [Ex 1: Acquisisci qualsiasi modulo](scan.md)
+   + [Ex 2 Compila e firma qualsiasi modulo](fillsign.md)
+   + [Ex 3: Condivisione di file PDF e revisione online](review.md)

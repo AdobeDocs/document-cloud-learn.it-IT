@@ -1,6 +1,6 @@
 ---
 title: Impostazioni generali
-description: Informazioni su come modificare le impostazioni a livello globale per l'intera organizzazione o per gruppi specifici
+description: Scopri come modificare le impostazioni a livello globale per l’intera organizzazione o per gruppi specifici
 role: Admin
 product: adobe sign
 level: Intermediate, Experienced
@@ -16,10 +16,10 @@ ht-degree: 3%
 
 # Impostazioni globali
 
-In questa esercitazione video imparate come modificare le impostazioni a livello globale per l&#39;intera organizzazione o per gruppi specifici.
+In questa esercitazione video, scoprite come modificare le impostazioni a livello globale per l’intera organizzazione o per gruppi specifici.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17358?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Attività avanzate per Admins](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Attività avanzate per gli amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) disponibile gratuitamente ad Experience League!

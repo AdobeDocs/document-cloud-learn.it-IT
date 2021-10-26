@@ -1,6 +1,6 @@
 ---
-title: Firma con [!DNL Intesi Group]
-description: Informazioni sull'utilizzo dell'ID digitale [!DNL Intesi Group] con Adobe Sign
+title: Firma mediante [!DNL Intesi Group]
+description: Scopri come utilizzare il [!DNL Intesi Group] ID digitale con Adobe Sign
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Firma con [!DNL Intesi Group]
+# Firma mediante [!DNL Intesi Group]
 
-Informazioni sull&#39;utilizzo dell&#39;ID digitale [!DNL Intesi Group] per autenticare l&#39;identità e autorizzare una firma digitale remota (firma cloud) in un documento.
+Scopri come utilizzare il [!DNL Intesi Group] ID digitale per autenticare la tua identità e autorizzare una firma digitale remota (firma cloud) su un documento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336989?hidetitle=true)

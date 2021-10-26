@@ -1,6 +1,6 @@
 ---
-title: Contratto di Telefonia
-description: Raccolta efficiente delle firme di tutti i dipendenti su contratti di lavoro, aggiornamenti dei criteri e altro ancora
+title: Accordo Di Telelavoro
+description: Raccogli in modo efficiente le firme di tutti i tuoi dipendenti su accordi di telelavoro, aggiornamenti delle policy e altro ancora
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Contratto di telelavoro
+# Accordo sul telelavoro
 
-Informazioni su come raccogliere in modo efficiente le firme di tutti i dipendenti su contratti di lavoro, aggiornamenti di policy e altro ancora. È innanzitutto necessario creare un modello di documento riutilizzabile che sia rapidamente accessibile dalla raccolta documenti. In secondo luogo, si invia il nuovo modello di documento per la firma a centinaia di dipendenti contemporaneamente utilizzando Mega Sign.
+Scopri come raccogliere in modo efficiente le firme di tutti i tuoi dipendenti su accordi di telelavoro, aggiornamenti delle policy e altro ancora. Innanzitutto, create un modello di documento riutilizzabile che sia rapidamente accessibile dalla libreria di documenti. In secondo luogo, invii il nuovo modello di documento per la firma a centinaia di dipendenti contemporaneamente utilizzando Mega Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33808?hidetitle=true)
 
-Fare clic per scaricare la ricetta PDF passo per i contratti di telelavoro.
+Fai clic per scaricare la ricetta PDF passo passo per gli accordi di telelavoro.
 
-[![Scarica composizione PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)
+[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)

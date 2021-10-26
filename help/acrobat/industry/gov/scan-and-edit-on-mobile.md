@@ -1,6 +1,6 @@
 ---
-title: 5 suggerimenti per lavorare ovunque con Acrobat DC - Scansione e modifica su dispositivi mobili
-description: Informazioni su come utilizzare le app per dispositivi mobili Adobe Scan e Acrobat Reader per ottenere lavoro da qualsiasi luogo
+title: 5 consigli per lavorare ovunque con Acrobat DC - Acquisisci e modifica su dispositivi mobili
+description: Scopri come utilizzare le app mobile Adobe Scan e Acrobat Reader per realizzare progetti ovunque ti trovi
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 ---
 
-# 5 suggerimenti per lavorare ovunque con Acrobat DC - Scansione e modifica su dispositivi mobili
+# 5 consigli per lavorare ovunque con Acrobat DC - Acquisisci e modifica su dispositivi mobili
 
-Informazioni su come utilizzare le app per dispositivi mobili Adobe Scan e Acrobat Reader per ottenere lavoro da qualsiasi luogo.
+Scopri come utilizzare le app mobile Adobe Scan e Acrobat Reader per completare il lavoro ovunque ti trovi.
 
-## Suggerimento n. 5 - Scansione ed editing sul cellulare (1:43)
+## Suggerimento 5 - Scansione e modifica su dispositivi mobili (1:43)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34511)

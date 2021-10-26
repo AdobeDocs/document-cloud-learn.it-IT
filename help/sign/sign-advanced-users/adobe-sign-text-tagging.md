@@ -1,6 +1,6 @@
 ---
-title: Etichettatura testo segni Adobe
-description: Informazioni su come creare i campi modulo di Adobe Sign mediante l'applicazione di tag di testo utilizzando Adobe Acrobat DC
+title: Adobe Sign tag di testo
+description: Creare campi modulo Adobe Sign mediante l’assegnazione di tag di testo con Adobe Acrobat DC
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ---
 
-# Etichettatura testo segni Adobe
+# Adobe Sign tag di testo
 
-In questo webinar registrato (non è necessaria alcuna registrazione), imparate a creare campi modulo Adobe Sign con tag testo utilizzando Adobe Acrobat DC. L&#39;applicazione di tag di testo consente di ridurre notevolmente il tempo necessario per la compilazione e la revisione dei documenti con numerosi campi modulo. I mittenti di documenti non devono inserire singoli campi in ogni documento... un altro significativo risparmio di tempo. Altri vantaggi includono la convalida del campo modulo (raccolta di dati accurata e priva di errori) e la coerenza nella progettazione dei moduli professionali. Sentitevi liberi di inviarci le vostre domande durante il webinar attraverso il pod di domande e risposte. Fare clic sull&#39;immagine sottostante per iniziare a guardare la registrazione.
+In questo webinar registrato (nessuna registrazione necessaria), scopri come creare campi modulo Adobe Sign con tag di testo utilizzando Adobe Acrobat DC. L’assegnazione di tag al testo riduce notevolmente il tempo necessario per la creazione e la revisione di documenti con molti campi modulo. I mittenti dei documenti non devono inserire singoli campi in ogni documento: un altro importante risparmio di tempo. Altri vantaggi includono la convalida dei campi modulo (raccolta di dati accurata e senza errori) e la coerenza nella progettazione di moduli professionali. Non esitare a inviarci le tue domande durante il webinar tramite il contenitore Domande e risposte. Fai clic sull&#39;immagine qui sotto per iniziare a guardare la registrazione.
 
-[![Guarda sessione](../assets/Text-Tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+[![Guarda la sessione](../assets/Text-Tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
-[Guarda il webinar registrato di Adobe Sign Text Tagging](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+[Guarda il webinar sull’assegnazione di tag di testo ad Adobe Sign registrato](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
 >[!TIP]
 >
->Questo video fa parte dei corsi [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) e [Advanced Tasks for Admins](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) disponibili gratuitamente su Experience League!Disponibile gratuitamente su Experience League!
+>Questo video fa parte del [Attività avanzate per gli utenti](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) e [Attività avanzate per gli amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) corsi disponibili gratuitamente su Experience League!che possono essere scaricati gratuitamente su Experience League!

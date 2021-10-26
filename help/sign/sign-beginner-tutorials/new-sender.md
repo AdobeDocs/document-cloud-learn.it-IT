@@ -1,21 +1,22 @@
 ---
-title: Introduzione a Adobe Sign per nuovi mittenti
-description: Questa esercitazione completa è un ottimo punto di partenza per nuovi mittenti in Adobe Sign
+title: Guida introduttiva ad Adobe Sign per nuovi mittenti
+description: Questa esercitazione completa è il punto di partenza ideale per i nuovi mittenti in Adobe Sign
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
-source-git-commit: 626ef6a53b548c77134f9f551d9f8b05581c46db
+exl-id: d4309ad3-003a-4415-9845-8919006c7567
+source-git-commit: 3b2573a49d04ea0b2f4055bdf883fd9a684ef2a3
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Introduzione a Adobe Sign per nuovi mittenti
+# Guida introduttiva ad Adobe Sign per nuovi mittenti
 
-Se siete nuovi a usare Adobe Sign, questa esercitazione è un ottimo punto di partenza. Questa esercitazione completa si concentra su tutte le nozioni di base per consentirvi di essere operativi rapidamente con Adobe Sign.
+Se non conosci ancora Adobe Sign, questa esercitazione è il punto di partenza ideale. Questa esercitazione completa è incentrata su tutte le nozioni di base per consentirti di iniziare subito a usare Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337151?hidetitle=true)

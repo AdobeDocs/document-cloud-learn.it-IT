@@ -1,6 +1,6 @@
 ---
-title: Introduzione
-description: Informazioni su come inviare, firmare e tenere traccia dei documenti con queste brevi esercitazioni passo passo
+title: Panoramica introduttiva
+description: Scopri come inviare, firmare e monitorare i documenti con questi brevi tutorial passo passo
 role: User
 product: adobe sign
 level: Beginner
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 ---
 
-# Introduzione alla panoramica
+# Panoramica introduttiva
 
-![Firma immagine introduttiva](../assets/Hero-GettingStarted.png)
+![Immagine introduttiva di Sign](../assets/Hero-GettingStarted.png)
 
-Informazioni su come inviare, firmare e tenere traccia dei documenti con queste brevi esercitazioni passo a passo. Effettuate un breve tour di Adobe Sign e poi inviate un documento a una o più persone. Questo contenuto è stato progettato per semplificare i flussi di lavoro di firma elettronica.
+Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial passo passo. Accedi a una breve panoramica di Adobe Sign e poi inizia a inviare un documento a una o più persone. Questo contenuto è progettato per facilitare l’accesso ai flussi di lavoro di firma elettronica.
 
 ## Invio in corso
 
@@ -30,7 +30,7 @@ Informazioni su come inviare, firmare e tenere traccia dei documenti con queste 
     <div>
     <a href="quick-tour.md"><strong>Presentazione rapida di Adobe Sign</strong></a>
     </div>
-    <em>Visita veloce l'interfaccia Adobe Sign per l'avvio e l'esecuzione</em>
+    <em>Panoramica dell'interfaccia Adobe Sign per iniziare a utilizzarla</em>
     <br>
   </td>
   <td>
@@ -40,7 +40,7 @@ Informazioni su come inviare, firmare e tenere traccia dei documenti con queste 
     <div>
     <a href="send-to-single-recipient.md"><strong>Invio a un singolo destinatario</strong></a>
     </div>
-    <em>Passa all'interno e scopri quanto è semplice inviare un documento alla firma</em>
+    <em>Scopri come inviare un documento per la firma in tutta semplicità</em>
     <br>
   </td>
   <td>
@@ -50,19 +50,19 @@ Informazioni su come inviare, firmare e tenere traccia dei documenti con queste 
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Invio a più destinatari</strong></a>
     </div>
-    <em>Invia un documento per la firma elettronica a più di una persona esattamente nell'ordine desiderato</em>
+    <em>Inviare un documento per la firma elettronica a più persone nell’ordine desiderato</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="Introduzione a Adobe Sign per nuovi mittenti" src="../assets/gettingstartednew.png" />
+      <img alt="Guida introduttiva ad Adobe Sign per nuovi mittenti" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Introduzione a Adobe Sign per nuovi mittenti</strong></a>
+    <a href="new-sender.md"><strong>Guida introduttiva ad Adobe Sign per nuovi mittenti</strong></a>
     </div>
-    <em>Questa esercitazione completa è un ottimo punto di partenza per nuovi mittenti in Adobe Sign</em>
+    <em>Questa esercitazione completa è il punto di partenza ideale per i nuovi mittenti in Adobe Sign</em>
     <br>
   </td>
   <td>
@@ -89,7 +89,7 @@ Informazioni su come inviare, firmare e tenere traccia dei documenti con queste 
     <div>
     <a href="electronically-sign-a-document.md"><strong>Firma elettronica di un documento</strong></a>
     </div>
-    <em>Scoprite quanto è facile firmare un documento inviato con Adobe Sign</em>
+    <em>Scopri com’è facile firmare un documento che ti è stato inviato con Adobe Sign</em>
     <br>
   </td>
   <td>
@@ -99,39 +99,39 @@ Informazioni su come inviare, firmare e tenere traccia dei documenti con queste 
     <div>
     <a href="fill-and-sign.md"><strong>Compilazione e firma di un documento</strong></a>
     </div>
-    <em>Compilare i moduli e aggiungere la firma elettronica ai documenti</em>
+    <em>Compilare moduli e aggiungere la firma elettronica ai documenti</em>
     <br>
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="Acquisizione di una firma personale" src="../assets/In-person.png" />
+      <img alt="Ottenere una firma di persona" src="../assets/In-person.png" />
     </a>
     <div>
-    <a href="sign-in-person.md"><strong>Acquisizione di una firma personale</strong></a>
+    <a href="sign-in-person.md"><strong>Ottenere una firma di persona</strong></a>
     </div>
-    <em>Ottieni personalmente la firma di un altro utente tramite l'app mobile Adobe Sign</em>
+    <em>Ottieni la firma di persona di un altro utente utilizzando l'app mobile Adobe Sign</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="Cos'è una firma digitale?" src="../assets/Whatisdigsig_1280.jpg" />
+      <img alt="Cos'è una firma digitale" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
     <div>
-    <a href="sign-with-a-digital-signature.md"><strong>Cos'è una firma digitale?</strong></a>
+    <a href="sign-with-a-digital-signature.md"><strong>Cos'è una firma digitale</strong></a>
     </div>
-    <em>Informazioni sulle firme digitali basate su certificati</em>
+    <em>Scopri di più sulle firme digitali basate su certificati</em>
     <br>
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="Firma tramite timbro" src="../assets/Stamp.png" />
+      <img alt="Firma mediante un timbro" src="../assets/Stamp.png" />
     </a>
     <div>
-    <a href="sign-with-a-stamp.md"><strong>Firma tramite timbro</strong></a>
+    <a href="sign-with-a-stamp.md"><strong>Firma mediante un timbro</strong></a>
     </div>
-    <em>Utilizzare i timbri per contrassegnare un documento approvato o completato</em>
+    <em>Utilizzare timbri per contrassegnare un documento approvato o completato</em>
      <br>
   </td> 
   <td>
@@ -148,12 +148,12 @@ Informazioni su come inviare, firmare e tenere traccia dei documenti con queste 
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Gestione e tracciabilità dei documenti" src="../assets/Managing.png" />
+      <img alt="Gestione e monitoraggio dei documenti" src="../assets/Managing.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>Gestione e tracciabilità dei documenti</strong></a>
+    <a href="manage-and-track.md"><strong>Gestione e monitoraggio dei documenti</strong></a>
     </div>
-    <em>Gestisci e registra gli accordi inviati per la firma</em>
+    <em>Gestione e monitoraggio degli accordi inviati per la firma</em>
     <br>
   </td>
   <td>
@@ -163,7 +163,7 @@ Informazioni su come inviare, firmare e tenere traccia dei documenti con queste 
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Creazione di un modello di documento</strong></a>
     </div>
-    <em>Creare un modello di documento riutilizzabile per fornire velocità e coerenza all'organizzazione</em>
+    <em>Crea un modello di documento riutilizzabile per fornire velocità e coerenza alla tua organizzazione</em>
     <br>
   </td>
   <td>
@@ -174,7 +174,7 @@ Informazioni su come inviare, firmare e tenere traccia dei documenti con queste 
     <a href="modify-in-flight.md"><strong>Modifica di un documento già inviato per la firma</strong></a>
     </div>
     <br>
-    <em>Modificare il flusso di lavoro per un documento già in corso</em>
+    <em>Modificare il flusso di lavoro di un documento già in corso</em>
   </td>
 </tr>
 </table>

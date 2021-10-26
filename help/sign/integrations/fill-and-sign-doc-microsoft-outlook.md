@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Riempimento e firma in Outlook
+# Compilazione e firma in Outlook
 
-Informazioni su come semplificare i flussi di lavoro dei documenti compilando e firmando un modulo direttamente in Microsoft Outlook.
+Scoprite come semplificare i flussi di lavoro basati su documenti compilando e firmando un modulo direttamente in Microsoft Outlook.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29764t1?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Uso di Adobe Sign Inside Microsoft Apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Utilizzo di Adobe Sign nelle app Microsoft](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) disponibile gratuitamente ad Experience League!

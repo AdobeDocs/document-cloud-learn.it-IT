@@ -1,6 +1,6 @@
 ---
 title: Impostazione di eventi e avvisi condivisi
-description: Informazioni sugli eventi condivisi e sulle impostazioni di avviso in Adobe Sign
+description: Informazioni sugli eventi condivisi e sulle impostazioni degli avvisi in Adobe Sign
 role: User, Admin
 product: adobe sign
 level: Intermediate
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Impostazione di eventi e avvisi condivisi
 
-In questa esercitazione video imparerete a conoscere gli eventi condivisi e le impostazioni di avviso che potete configurare in Adobe Sign. Gli avvisi sono azioni che non hanno avuto luogo in un determinato intervallo di tempo e gli eventi sono azioni che hanno avuto luogo.
+Questa esercitazione video illustra gli eventi condivisi e le impostazioni degli avvisi che è possibile configurare in Adobe Sign. Gli avvisi sono azioni che non hanno avuto luogo in un determinato periodo di tempo e gli eventi sono azioni che hanno avuto luogo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17359?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: Registrazione in SharePoint Online
-description: Tenere traccia dello stato di avanzamento di un accordo direttamente all'interno di Microsoft Sharepoint
+title: Monitoraggio in SharePoint Online
+description: Monitorare l’avanzamento di un accordo direttamente in Microsoft SharePoint
 role: User
 product: adobe sign
 level: Intermediate
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Registrazione in SharePoint Online
+# Monitoraggio in SharePoint Online
 
-Informazioni su come tenere traccia dello stato di avanzamento di un accordo direttamente in Microsoft SharePoint. Dopo aver inviato un documento per la firma, è possibile tenerne traccia senza uscire da SharePoint.
+Scopri come monitorare l’avanzamento di un accordo direttamente in Microsoft SharePoint. Dopo aver inviato un documento per la firma, puoi monitorarne lo stato senza mai uscire da SharePoint.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29767t1?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Uso di Adobe Sign Inside Microsoft Apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Utilizzo di Adobe Sign nelle app Microsoft](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) disponibile gratuitamente ad Experience League!

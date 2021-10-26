@@ -1,6 +1,6 @@
 ---
-title: Usa ricette maiuscole/minuscole
-description: Accelerare i flussi di lavoro digitali dell'organizzazione con questi esempi governativi e commerciali di firma elettronica
+title: Esempi di utilizzo
+description: Accelera i flussi di lavoro digitali della tua organizzazione con questi esempi di firma elettronica per enti pubblici e aziende
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ---
 
-# Usa ricette case
+# Esempi di utilizzo
 
-Accelerare i flussi di lavoro digitali dell&#39;organizzazione con questi esempi governativi e commerciali di firma elettronica. Fare clic per visualizzare un PDF con risorse e dettagli su come impostare questi casi specifici di utilizzo della firma elettronica.
+Accelera i flussi di lavoro digitali della tua organizzazione con questi esempi di firma elettronica per enti pubblici e aziende. Fai clic per visualizzare un PDF con le risorse e i dettagli su come configurare questi casi d’uso specifici della firma elettronica.
 
-## Casi di utilizzo pubblico
+## Esempi d&#39;uso governativi
 
 <table style="table-layout:fixed">
 <tr>
@@ -31,86 +31,86 @@ Accelerare i flussi di lavoro digitali dell&#39;organizzazione con questi esempi
     <div>
     <a href="usecasegovgrants.md"><strong>Sovvenzioni e prestiti alle imprese</strong></a>
     </div>
-    <em>Fornire assistenza rapida alle imprese fornendo l'accesso self-service ai moduli di richiesta di concessione, prestito e differimento delle imposte</em>
+    <em>Fornire assistenza rapida alle aziende fornendo accesso self-service ai moduli di richiesta di sovvenzioni, prestiti e differimento fiscale</em>
     <br>
   </td> 
   <td>
     <a href="usecasegovtelework.md">
-      <img alt="Contratto di Telefonia" src="../assets/UC_MegasignR.png" />
+      <img alt="Accordo Di Telelavoro" src="../assets/UC_MegasignR.png" />
     </a>
     <div>
-    <a href="usecasegovtelework.md"><strong>Contratto di Telefonia</strong></a>
+    <a href="usecasegovtelework.md"><strong>Accordo Di Telelavoro</strong></a>
     </div>
-    <em>Raccolta efficiente delle firme di tutti i dipendenti su contratti di lavoro, aggiornamenti dei criteri e altro ancora</em>
+    <em>Raccogli in modo efficiente le firme di tutti i tuoi dipendenti su accordi di telelavoro, aggiornamenti delle policy e altro ancora</em>
     <br>
   </td>
   <td>
     <a href="usecasegovcontracts.md">
-      <img alt="Contratti e moduli richiesta" src="../assets/UC_WorkflowR.png" />
+      <img alt="Forms contratti e richieste di acquisto" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasegovcontracts.md"><strong>Contratti e moduli richiesta</strong></a>
+    <a href="usecasegovcontracts.md"><strong>Forms contratti e richieste di acquisto</strong></a>
     </div>
-    <em>Sostituisce rapidamente l'elaborazione della carta con flussi di lavoro digitali conformi, completi di report di controllo</em>
+    <em>Sostituisci rapidamente l'elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="usecasegovreemployment.md">
-      <img alt="Assistenza alla rioccupazione" src="../assets/UC_WebformsR.png" />
+      <img alt="Assistenza Alla Rioccupazione" src="../assets/UC_WebformsR.png" />
     </a>
     <div>
-    <a href="usecasegovreemployment.md"><strong>Assistenza alla rioccupazione</strong></a>
+    <a href="usecasegovreemployment.md"><strong>Assistenza Alla Rioccupazione</strong></a>
     </div>
-    <em>Aiuta i cittadini ad ottenere l'aiuto di cui hanno bisogno senza essere in linea con i moduli applicativi digitali che possono essere trasmessi in tempo reale</em>
+    <em>Aiuta i cittadini a ricevere l'aiuto di cui hanno bisogno senza essere in linea con i moduli di richiesta interamente digitali che possono essere utilizzati in tempo reale</em>
     <br>
   </td>
   <td>
     <a href="usecasegovpaycheck.md">
-      <img alt="Protezione pagamento" src="../assets/UC_PaycheckProtectionR.png" />
+      <img alt="Protezione della busta paga" src="../assets/UC_PaycheckProtectionR.png" />
     </a>
     <div>
-    <a href="usecasegovpaycheck.md"><strong>Protezione pagamento</strong></a>
+    <a href="usecasegovpaycheck.md"><strong>Protezione della busta paga</strong></a>
     </div>
-    <em>Scopri come utilizzare Adobe Sign per convertire il modulo del programma di protezione pagamento in un modulo interattivo online</em>
+    <em>Scopri come utilizzare Adobe Sign per convertire il modulo del programma Protezione pagamenti in un modulo online interattivo</em>
     <br>
   </td>
   <td>
     <a href="usecasegovremote.md">
-      <img alt="Richiesta di mandato remoto" src="../assets/UC_Remote_WarrantR.png" />
+      <img alt="Richiesta di autorizzazione remota" src="../assets/UC_Remote_WarrantR.png" />
     </a>
     <div>
-    <a href="usecasegovremote.md"><strong>Richiesta di mandato remoto</strong></a>
+    <a href="usecasegovremote.md"><strong>Richiesta di autorizzazione remota</strong></a>
     </div>
-    <em>Utilizzare le firme elettroniche e le conferenze web insieme per ridurre il tempo necessario per richiedere e ottenere i mandati dai giudici</em>
+    <em>Usa le firme elettroniche e le conferenze via web insieme per ridurre il tempo necessario per richiedere e garantire i mandati dei giudici</em>
     <br>
   </td>
 </tr>
 </table>
 
-## Casi di uso commerciale
+## Casi d&#39;uso commerciali
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="usecasecomcontracts.md">
-      <img alt="Contratti e moduli richiesta" src="../assets/UC_WorkflowR.png" />
+      <img alt="Forms contratti e richieste di acquisto" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasecomcontracts.md"><strong>Contratti e moduli richiesta</strong></a>
+    <a href="usecasecomcontracts.md"><strong>Forms contratti e richieste di acquisto</strong></a>
     </div>
-    <em>Sostituisce rapidamente l'elaborazione della carta con flussi di lavoro digitali conformi, completi di report di controllo</em>
+    <em>Sostituisci rapidamente l'elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit</em>
     <br>
   </td> 
   <td>
     <a href="usecasecompolicy.md">
-      <img alt="Accordi sui criteri" src="../assets/UC_Policy.png" />
+      <img alt="Accordi politici" src="../assets/UC_Policy.png" />
     </a>
     <div>
-    <a href="usecasecompolicy.md"><strong>Accordi sui criteri</strong></a>
+    <a href="usecasecompolicy.md"><strong>Accordi politici</strong></a>
     </div>
-    <em>Raccolta efficiente delle firme di tutti i dipendenti su contratti di lavoro, aggiornamenti dei criteri e altro ancora</em>
+    <em>Raccogli in modo efficiente le firme di tutti i tuoi dipendenti su accordi di telelavoro, aggiornamenti delle policy e altro ancora</em>
     <br>
   </td>
   <td>

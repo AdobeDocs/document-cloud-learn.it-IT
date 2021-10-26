@@ -1,6 +1,6 @@
 ---
-title: Panoramica attività avanzate
-description: Informazioni su come inviare un documento per la firma a 100 destinatari contemporaneamente, impostare un documento pronto per la firma per il sito Web, gestire le transazioni di firma e creare e gestire i modelli di documento
+title: Panoramica delle attività avanzate
+description: Scopri come inviare un documento per la firma a 100 destinatari contemporaneamente, configurare un documento pronto per la firma per il tuo sito Web, gestire le transazioni di firma e creare e gestire modelli di documento
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ---
 
-# Panoramica attività avanzate
+# Panoramica sulle attività avanzate
 
-![Firma immagine avanzata](../assets/Hero-Advanced.png)
+![Sign Advanced Image](../assets/Hero-Advanced.png)
 
-Informazioni su come inviare un documento per la firma a 100 destinatari contemporaneamente, impostare un documento pronto per la firma per il sito Web, gestire le transazioni di firma e creare e gestire i modelli di documento. Queste esercitazioni sono per chiunque abbia già familiarità con le basi dell&#39;invio e della richiesta di firme, e vuole imparare altri modi in cui Adobe Sign può funzionare per loro.
+Scopri come inviare un documento per la firma a 100 destinatari contemporaneamente, configurare un documento pronto per la firma per il tuo sito Web, gestire le transazioni di firma e creare e gestire modelli di documento. Queste esercitazioni sono destinate a tutti coloro che hanno già familiarità con le nozioni di base relative all&#39;invio e alla richiesta di firme e desiderano scoprire altri modi in cui Adobe Sign può lavorare per loro.
 
 ## Invio in corso
 
@@ -26,12 +26,12 @@ Informazioni su come inviare un documento per la firma a 100 destinatari contemp
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Impostazione dell'ordine di instradamento" src="../assets/Routing.png">
+      <img alt="Impostazione dell'ordine di indirizzamento" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>Impostazione dell'ordine di instradamento</strong></a>
+    <a href="setting-up-routing.md"><strong>Impostazione dell'ordine di indirizzamento</strong></a>
     </div>
-    <em>Imposta l'ordine di instradamento per più sottoscrittori</em>
+    <em>Impostare l’ordine di indirizzamento per più firmatari</em>
     <br>
   </td>
   <td>
@@ -41,7 +41,7 @@ Informazioni su come inviare un documento per la firma a 100 destinatari contemp
     <div>
     <a href="delegate-signature.md"><strong>Delega a un altro utente</strong></a>
     </div>
-    <em>Utilizzare il ruolo delegatore per inviare un documento a un intermediario che può quindi instradare il documento per la firma</em>
+    <em>Utilizzare il ruolo di delegante per inviare un documento a un intermediario che può quindi indirizzare il documento per la firma</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ Informazioni su come inviare un documento per la firma a 100 destinatari contemp
     <div>
     <a href="add-an-approver.md"><strong>Aggiunta di un approvatore</strong></a>
     </div>
-    <em>Aggiungere un ruolo approvatore al processo di approvazione del contratto</em>
+    <em>Aggiungere un ruolo di approvatore al processo di approvazione del contratto</em>
     <br>
   </td>
 </tr>
@@ -63,27 +63,27 @@ Informazioni su come inviare un documento per la firma a 100 destinatari contemp
     <div>
     <a href="megasign.md"><strong>Raccolta di firme in blocco</strong></a>
     </div>
-    <em>Raccogliere centinaia di firme per ogni documento in pochi brevi passaggi</em>
+    <em>Raccogli centinaia di firme alla volta per qualsiasi documento in pochi passaggi</em>
     <br>
   </td>
   <td>
     <a href="webform.md">
-      <img alt="Impostazione di un modulo Web" src="../assets/Webform.png" />
+      <img alt="Configurazione di un modulo Web" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>Impostazione di un modulo Web</strong></a>
+    <a href="webform.md"><strong>Configurazione di un modulo Web</strong></a>
     </div>
-    <em>Crea un documento che può essere firmato elettronicamente direttamente sul sito Web</em>
+    <em>Creare un documento che può essere firmato elettronicamente direttamente sul sito Web</em>
     <br>
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Etichettatura testo segni Adobe" src="../assets/Text-Tagging.png" />
+      <img alt="Adobe Sign tag di testo" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Etichettatura testo segni Adobe</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign tag di testo</strong></a>
     </div>
-    <em>Creare campi modulo di Adobe Sign mediante l'applicazione di tag di testo utilizzando Adobe Acrobat DC</em>
+    <em>Creare campi modulo Adobe Sign mediante l’assegnazione di tag di testo con Adobe Acrobat DC</em>
     <br>
   </td> 
 </table>
@@ -99,7 +99,7 @@ Informazioni su come inviare un documento per la firma a 100 destinatari contemp
     <div>
     <a href="edit-a-template.md"><strong>Gestione dei modelli di documento</strong></a>
     </div>
-    <em>Modificare o eliminare un modello dalla raccolta</em>
+    <em>Modificare o eliminare un modello dalla libreria</em>
     <br>
   </td>  
   <td>

@@ -1,25 +1,26 @@
 ---
-title: Crea PDF in [!DNL Office] per il Web
-description: Informazioni su come creare file PDF senza mai lasciare il  [!DNL Microsoft Office] per le app Web
+title: Creare PDF in [!DNL Office] per il Web
+description: Scopri come creare file PDF senza mai uscire dal tuo [!DNL Microsoft Office] per app web
 role: User
 product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
 thumbnail: kt-8497.jpg
 kt: 8497
-source-git-commit: 43c14489680e482e9450a42e82d126ffa28bb977
+exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
+source-git-commit: 250052be4b31ae35a8e50b057e583422b060a4ac
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-# Crea PDF in [!DNL Office] per il Web
+# Creare PDF in [!DNL Office] per il web
 
-Informazioni su come creare file PDF senza lasciare il [!DNL Microsoft Office] per le app Web. Questo componente aggiuntivo richiede una sottoscrizione a Acrobat DC per team o Acrobat DC per sottoscrizione enterprise.
+Scopri come creare file PDF senza mai uscire dal tuo [!DNL Microsoft Office] per le app web. Questo componente aggiuntivo richiede un abbonamento ad Acrobat DC for teams o Acrobat DC for enterprise.
 
 >[!NOTE]
 >
->Adobe Acrobat per [!DNL Microsoft 365] include funzionalità gratuite (ad esempio visualizzazione e ricerca in PDF) disponibili per tutti gli utenti. Per altre funzionalità, ad esempio la creazione e la combinazione di PDF, è necessario un Acrobat DC a pagamento per i team o Acrobat DC per la sottoscrizione aziendale.
+>Adobe Acrobat per [!DNL Microsoft 365] include funzioni gratuite (ad esempio la visualizzazione e la ricerca nei PDF) disponibili per tutti gli utenti. Altre funzionalità (come la creazione e la combinazione di PDF) richiedono un abbonamento a pagamento ad Acrobat DC for teams o Acrobat DC for enterprise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337482?hidetitle=true)

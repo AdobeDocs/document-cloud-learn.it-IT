@@ -1,6 +1,6 @@
 ---
 title: Firma elettronica di un documento
-description: Scoprite quanto è facile firmare un documento inviato con Adobe Sign
+description: Scopri com’è facile firmare un documento che ti è stato inviato con Adobe Sign
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Firma elettronica di un documento
 
-Scoprite quanto sia semplice firmare un documento inviato con Adobe Sign.
+Scopri com&#39;è facile firmare un documento che ti è stato inviato con Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17360?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: Gestione dei modelli di documento
-description: Modificare o eliminare un modello dalla raccolta
+title: Gestione dei modelli documento
+description: Modificare o eliminare un modello dalla libreria
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Gestione dei modelli di documento
 
-Informazioni su come modificare o eliminare un modello nella raccolta.
+Scopri come modificare o eliminare un modello nella libreria.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17346?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Attività avanzate per utenti](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Attività avanzate per gli utenti](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) disponibile gratuitamente ad Experience League!

@@ -1,20 +1,21 @@
 ---
-title: Lavorare ovunque con Acrobat Web
-description: Informazioni su come gestire le richieste di documenti aziendali da qualsiasi postazione utilizzando gli strumenti Web Acrobat nel browser
+title: Lavora ovunque con Acrobat Web
+description: Scopri come gestire le richieste di documenti aziendali ovunque ti trovi utilizzando gli strumenti Web di Acrobat nel tuo browser
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8498.jpg
 kt: 8498
-source-git-commit: 315ecb65a53d4f76f5ae12a12ff4207ac1f0d01d
+exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
+source-git-commit: 9f5c701693806202365b8a1bd489314e7e8bab35
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# Lavorare ovunque con Acrobat Web
+# Lavora ovunque con Acrobat web
 
-Informazioni su come gestire le richieste di documenti aziendali da qualsiasi postazione utilizzando gli strumenti Web Acrobat nel browser.
+Scopri come gestire le richieste di documenti aziendali ovunque ti trovi utilizzando gli strumenti Web di Acrobat nel browser.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337436?hidetitle=true)

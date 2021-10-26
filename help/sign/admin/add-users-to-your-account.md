@@ -1,6 +1,6 @@
 ---
 title: Aggiunta di utenti
-description: Informazioni su come aggiungere utenti singolarmente o in blocco all'account Adobe Sign
+description: Scopri come aggiungere utenti individualmente o in blocco al tuo account Adobe Sign
 role: Admin
 product: adobe sign
 solution: Document Cloud
@@ -17,6 +17,6 @@ ht-degree: 11%
 
 # Aggiunta di utenti
 
-In questa esercitazione video imparate ad aggiungere utenti singolarmente o in blocco all&#39;account Adobe Sign.
+In questa esercitazione video, scopri come aggiungere utenti singolarmente o in blocco al tuo account Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17356?hidetitle=true)

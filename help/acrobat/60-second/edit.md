@@ -1,6 +1,6 @@
 ---
 title: Modifica PDF con Acrobat Web
-description: Apportare semplici modifiche a testo e immagini senza scaricare il PDF
+description: Apporta semplici modifiche a testo e immagini senza nemmeno scaricare il PDF
 role: User
 product: adobe acrobat
 level: Beginner
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Modifica PDF con Acrobat Web
 
-In questa esercitazione video di 60 secondi, imparate a fare semplici modifiche a testo e immagini senza nemmeno scaricare il PDF.
+In questa esercitazione video di 60 secondi, scoprite come apportare semplici modifiche a testo e immagini senza nemmeno scaricare il PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336362?hidetitle=true)

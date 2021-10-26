@@ -1,6 +1,6 @@
 ---
-title: 5 suggerimenti per lavorare ovunque con Acrobat DC—Ottieni gli strumenti
-description: Informazioni su come utilizzare gli strumenti di Acrobat DC e le app per dispositivi portatili di accompagnamento da qualsiasi postazione
+title: 5 consigli per lavorare ovunque con Acrobat DC - Scarica i tuoi strumenti
+description: Scopri come utilizzare gli strumenti Acrobat DC e le app mobile complementari ovunque ti trovi
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 ---
 
-# 5 suggerimenti per lavorare ovunque con Acrobat DC—Ottieni gli strumenti
+# 5 consigli per lavorare ovunque con Acrobat DC - Scarica i tuoi strumenti
 
-Il primo passo per iniziare a lavorare da qualsiasi luogo è ottenere gli strumenti di Acrobat DC e le app per dispositivi mobili di accompagnamento.
+Il primo passo per iniziare a lavorare ovunque ti trovi è ottenere gli strumenti Acrobat DC e le app mobile complementari.
 
-## Suggerimento 1 - Ottieni gli strumenti (2:59)
+## Suggerimento 1 - Scarica i tuoi strumenti (2:59)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34290)

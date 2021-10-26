@@ -1,5 +1,5 @@
 ---
-title: Accesso ai PDF
+title: Rendere accessibili i PDF
 description: Informazioni sul flusso di lavoro ottimale per la creazione di file PDF accessibili
 role: User
 product: adobe acrobat
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# Accesso ai PDF (14:11 completo)
+# Rendere accessibili i PDF (versione 14:11 completa)
 
-Informazioni sul flusso di lavoro ottimale per la creazione di file PDF accessibili. In primo luogo, verrà spiegato perché l&#39;accessibilità è così importante, seguito da come utilizzare i PDF creati da Microsoft Word, quindi gli strumenti di accessibilità disponibili in Acrobat Pro DC.
+Scoprite il flusso di lavoro ottimale per la creazione di file PDF accessibili. Innanzitutto, scoprirai perché l&#39;accessibilità è così importante, quindi imparerai a lavorare con i PDF creati da Microsoft Word e infine a utilizzare gli strumenti di accessibilità in Acrobat Pro DC.
 
 >[!NOTE]
 >

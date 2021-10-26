@@ -1,6 +1,6 @@
 ---
 title: Collaborazione PDF in [!DNL Microsoft Teams]
-description: Adobe Acrobat for Teams consente agli utenti di collaborare e lavorare con colleghi visualizzando, annotando e revisionando i PDF senza mai uscire [!DNL Microsoft Teams]
+description: Adobe Acrobat for Teams consente agli utenti di collaborare e lavorare con i colleghi visualizzando, annotando e revisionando PDF senza mai uscire [!DNL Microsoft Teams]
 role: User
 product: adobe acrobat
 level: Beginner
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 # Collaborazione PDF in [!DNL Microsoft Teams]
 
-Adobe Acrobat for Teams consente agli utenti di collaborare e lavorare con colleghi visualizzando, annotando e revisionando i PDF senza mai uscire da [!DNL Microsoft Teams]. Tale integrazione comprende:
+Adobe Acrobat for Teams consente agli utenti di collaborare e lavorare con i colleghi visualizzando, annotando e revisionando PDF senza mai uscire [!DNL Microsoft Teams]. Questa integrazione include:
 
-* Visualizzazione di alta qualità - questa è solo l&#39;esperienza di visualizzazione in PDF che consente di aprire PDF di alta fedeltà direttamente all&#39;interno di [!DNL Microsoft Teams], per un&#39;esperienza professionale soddisfacente e semplice
-* Analisi PDF semplificata — raccogliere i commenti dei membri del canale in un singolo PDF direttamente in [!DNL Microsoft Teams] invece di raccogliere e riconciliare i commenti tramite più allegati
-* Stato di avanzamento — riceverai una notifica in team quando altri adottano provvedimenti sui tuoi documenti
-* Tenere informati i revisori — i revisori vengono informati quando altri rispondono ai propri commenti
-* Collaborazione sicura - Collaborare in modo sicuro con i membri attendibili e mantenere la possibilità di memorizzare le versioni dei documenti in [!DNL Microsoft SharePoint] o [!DNL OneDrive]
+* Visualizzazione di alta qualità: questa è solo l’esperienza di visualizzazione PDF che consente di aprire PDF ad alta fedeltà direttamente all’interno di [!DNL Microsoft Teams], per un&#39;esperienza di lavoro soddisfacente e uniforme
+* Semplifica le revisioni dei PDF: raccogli i commenti degli iscritti al canale in un unico PDF direttamente in [!DNL Microsoft Teams] invece di raccogliere e riconciliare i commenti tramite allegati multipli
+* Mantieni una notifica sull’avanzamento: ricevi una notifica in Teams quando altri intervengono sui tuoi documenti
+* Tieni informati i revisori: i revisori ricevono una notifica quando altri rispondono ai loro commenti
+* Collaborazione sicura: collabora in modo sicuro con membri affidabili e mantieni la possibilità di archiviare versioni dei documenti in [!DNL Microsoft SharePoint] o [!DNL OneDrive]
 
 >[!VIDEO](https://video.tv.adobe.com/v/331277?hidetitle=true)

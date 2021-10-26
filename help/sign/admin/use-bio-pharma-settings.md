@@ -1,6 +1,6 @@
 ---
-title: Utilizzo delle impostazioni di Bio-Pharma
-description: Informazioni sulle impostazioni Bio-Pharma che consentono di configurare Adobe Sign per soddisfare i requisiti FDA 21 CFR Part 11
+title: Utilizzo delle impostazioni Bio-Pharma
+description: Scopri le impostazioni Bio-Pharma che consentono di configurare Adobe Sign per soddisfare i requisiti FDA 21 CFR Part 11
 role: Admin
 product: adobe sign
 level: Experienced
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 ---
 
-# Utilizzo delle impostazioni di Bio-Pharma
+# Utilizzo delle impostazioni Bio-Pharma
 
-In questa esercitazione video imparate le impostazioni Bio-Pharma che consentono di configurare Adobe Sign per soddisfare i requisiti FDA 21 CFR Part 11.
+Questa esercitazione video illustra le impostazioni Bio-Pharma che consentono di configurare Adobe Sign in base ai requisiti FDA 21 CFR Part 11.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21748?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Attività avanzate per Admins](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Attività avanzate per gli amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) disponibile gratuitamente ad Experience League!

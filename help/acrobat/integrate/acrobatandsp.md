@@ -1,6 +1,6 @@
 ---
-title: 'Utilizzare i file  [!DNL SharePoint] '
-description: Semplificare i flussi di lavoro dei documenti con [!DNL SharePoint] e Acrobat DC utilizzando Adobe Acrobat per [!DNL Microsoft 365]
+title: Lavora con il tuo [!DNL SharePoint] File
+description: Ottimizza i flussi di lavoro basati su documenti con [!DNL SharePoint] e Acrobat DC con Adobe Acrobat per [!DNL Microsoft 365]
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Utilizzare i file [!DNL SharePoint]
+# Lavora con il tuo [!DNL SharePoint] file
 
-Semplificare i flussi di lavoro dei documenti con [!DNL SharePoint] e Acrobat DC utilizzando [Adobe Acrobat per Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Convertire in modo sicuro [!DNL Microsoft 365] i file in PDF, combinare i documenti in un unico file, commentare e ridisporre le pagine — direttamente da [!DNL SharePoint] online.
+Ottimizza i flussi di lavoro basati su documenti con [!DNL SharePoint] e Acrobat DC utilizzando [Adobe Acrobat per Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Conversione sicura [!DNL Microsoft 365] file a PDF, combinare documenti in un unico file, aggiungere commenti e ridisporre le pagine, direttamente da [!DNL SharePoint] online.
 
 >[!NOTE]
 >
->Adobe Acrobat per [!DNL SharePoint], [!DNL OneDrive] e [!DNL Office 365] include funzionalità gratuite (ad esempio la visualizzazione e la ricerca in PDF) disponibili per tutti gli utenti. Per alcune funzionalità, ad esempio la creazione e la combinazione di PDF, è necessario un Acrobat DC pagato per i team o Acrobat DC per la sottoscrizione aziendale.
+>Adobe Acrobat per [!DNL SharePoint], [!DNL OneDrive]e [!DNL Office 365] include funzioni gratuite (ad esempio la visualizzazione e la ricerca nei PDF) disponibili per tutti gli utenti. Alcune funzionalità (come la creazione e la combinazione di PDF) richiedono un abbonamento a pagamento ad Acrobat DC for teams o Acrobat DC for enterprise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)

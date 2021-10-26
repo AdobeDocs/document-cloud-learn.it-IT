@@ -1,6 +1,6 @@
 ---
-title: Gestione e tracciabilità dei documenti
-description: Informazioni su come gestire e tenere traccia dei contratti inviati per la firma
+title: Gestione e monitoraggio dei documenti
+description: Scopri come gestire e monitorare gli accordi inviati per la firma
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Gestione e tracciabilità dei documenti
+# Gestione e monitoraggio dei documenti
 
-Informazioni su come gestire e tenere traccia dei documenti inviati per la firma in Adobe Sign.
+Scopri come gestire e tenere traccia dei documenti inviati per la firma in Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17341?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Guida introduttiva a Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Guida introduttiva ad Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) disponibile gratuitamente ad Experience League!

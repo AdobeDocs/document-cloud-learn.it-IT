@@ -1,6 +1,6 @@
 ---
-title: Acquisizione di una firma personale
-description: Informazioni su come ottenere la firma personale di un altro utente utilizzando l'app mobile Adobe Sign
+title: Ottenere una firma di persona
+description: Scopri come ottenere la firma di persona di un altro utente utilizzando l’app mobile Adobe Sign
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Acquisizione di una firma personale
+# Ottenere una firma di persona
 
-Impara come ottenere la firma personale di un altro utente utilizzando l&#39;app mobile Adobe Sign.
+Scopri come ottenere la firma di persona di un altro utente utilizzando l’app mobile Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17362?hidetitle=true)

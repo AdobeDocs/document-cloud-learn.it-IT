@@ -1,6 +1,6 @@
 ---
 title: Adobe Acrobat per [!DNL Google Drive}
-description: 'Accesso agli strumenti PDF e ai flussi di lavoro di firma elettronica con risparmio di tempo direttamente all''interno dell''app [!DNL Google Drive] '
+description: Accedi a strumenti di PDF e flussi di lavoro per la firma elettronica che ti permettono di risparmiare tempo direttamente all'interno del [!DNL Google Drive] app
 role: User
 product: adobe acrobat
 level: Beginner
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Adobe Acrobat per [!DNL Google Drive]
 
-Informazioni su come ottenere l&#39;accesso agli strumenti PDF e ai flussi di lavoro di firma elettronica con risparmio di tempo direttamente all&#39;interno dell&#39;app [!DNL Google Drive].
+Scopri come accedere agli strumenti di PDF e ai flussi di lavoro di firma elettronica che ti permettono di risparmiare tempo direttamente all&#39;interno del [!DNL Google Drive] app.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333600?hidetitle=true)

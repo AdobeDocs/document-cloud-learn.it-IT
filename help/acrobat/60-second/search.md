@@ -1,6 +1,6 @@
 ---
-title: Cerca più file PDF contemporaneamente
-description: Avviare una ricerca in un file PDF, quindi aprire Ricerca avanzata e cercare un'intera cartella di file PDF
+title: Ricerca di più file PDF contemporaneamente
+description: Avviare una ricerca in un file PDF, quindi aprire Ricerca avanzata e cercare un’intera cartella di file PDF
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Cerca più file PDF contemporaneamente
+# Ricerca di più file PDF contemporaneamente
 
-In questa esercitazione video di 60 secondi, viene illustrato come avviare una ricerca in un file PDF, quindi aprire Ricerca avanzata e cercare un&#39;intera cartella di file PDF.
+In questa esercitazione video di 60 secondi, scoprite come avviare una ricerca in un file PDF, quindi aprite Ricerca avanzata e cercate un’intera cartella di file PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336363?hidetitle=true)

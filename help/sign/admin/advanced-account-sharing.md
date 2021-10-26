@@ -15,12 +15,12 @@ ht-degree: 4%
 
 ---
 
-# Condivisione avanzata account
+# Condivisione account avanzata
 
-In questa esercitazione video imparate come impostare la condivisione avanzata degli account, consentendo agli amministratori e agli utenti di delegare le autorizzazioni di invio, modifica e visualizzazione.
+In questa esercitazione video, scopri come configurare la condivisione avanzata dell’account, consentendo agli amministratori e agli utenti di delegare le autorizzazioni di invio, modifica e visualizzazione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Attività avanzate per Admins](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Attività avanzate per gli amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) disponibile gratuitamente ad Experience League!

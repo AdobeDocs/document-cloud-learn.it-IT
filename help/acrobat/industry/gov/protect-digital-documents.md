@@ -1,6 +1,6 @@
 ---
-title: 5 consigli per lavorare ovunque con Acrobat DC—Proteggere i documenti digitali
-description: Informazioni su come aggiungere una password al PDF per evitare la copia, la modifica o la stampa
+title: 5 consigli per lavorare ovunque con Acrobat DC - Protect documenti digitali
+description: Scopri come aggiungere una password al tuo PDF per impedirne la copia, la modifica o la stampa
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 ---
 
-# 5 consigli per lavorare ovunque con Acrobat DC—Proteggere i documenti digitali
+# 5 consigli per lavorare ovunque con Acrobat DC - Protect documenti digitali
 
-Aggiungere una password al PDF per evitare la copia, la modifica o la stampa.
+Aggiungete una password al PDF per impedirne la copia, la modifica o la stampa.
 
-## Suggerimento n. 3 - Protezione dei documenti digitali (1:23)
+## Suggerimento 3 - Protect documenti digitali (1:23)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34510)

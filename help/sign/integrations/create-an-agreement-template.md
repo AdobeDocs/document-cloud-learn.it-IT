@@ -1,6 +1,6 @@
 ---
-title: Creazione di un modello di documento in Adobe Sign for Salesforce
-description: Informazioni su come creare un modello di documento riutilizzabile per fornire velocità e coerenza
+title: Creazione di un modello di documento in Adobe Sign per Salesforce
+description: Scopri come creare un modello per documenti riutilizzabile per garantire velocità e coerenza
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Creazione di un modello di documento in Adobe Sign for Salesforce
+# Creazione di un modello di documento in Adobe Sign per Salesforce
 
-Informazioni su come creare un modello di documento per Adobe Sign in Salesforce. I modelli di documento offrono velocità e coerenza nelle transazioni di firma e la possibilità di gestire revisioni e modifiche di documenti.
+Scopri come creare un modello documento per Adobe Sign in Salesforce. I modelli per documenti offrono velocità e coerenza nelle transazioni di firma e la possibilità di gestire le revisioni e le modifiche dei documenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17349?hidetitle=true)

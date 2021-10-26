@@ -1,6 +1,6 @@
 ---
-title: Esercitazioni per liberare esperienze digitali con Adobe Document Cloud
-description: Informazioni su alcuni trucchi e suggerimenti per l'utilizzo di Adobe Document Cloud
+title: Esercitazioni per creare esperienze digitali con Adobe Document Cloud
+description: Scopri alcuni trucchi e suggerimenti per utilizzare Adobe Document Cloud
 solution: Document Cloud
 exl-id: 5fab3cd2-315e-4c5d-b435-2d1401bd172a
 source-git-commit: 99ed9ab8bc276df2011e8a693c043a9d3e1fba17
@@ -10,12 +10,12 @@ ht-degree: 0%
 
 ---
 
-# Esercitazioni per liberare esperienze digitali con Adobe Document Cloud
+# Esercitazioni per creare esperienze digitali con Adobe Document Cloud
 
 [![image](assets/rebrand.png)](assets/Unleash_Digital_Experiences_with_Adobe_Document_Cloud.pdf)
 
-Questo opuscolo contiene ulteriori esercizi e una revisione dei flussi di lavoro trattati. Di seguito sono riportati i file demo utilizzati negli esercizi seguenti. Ogni esercizio rielenca inoltre questo contenuto:
+Questo opuscolo contiene più esercizi e una revisione dei flussi di lavoro interessati. Di seguito sono riportati i file demo utilizzati negli esercizi seguenti. Ogni esercizio rielabora inoltre il contenuto:
 
-* Ex.1: Analizza qualsiasi modulo - utilizza i propri biglietti da visita, ricevute o altro documento cartaceo
-* [Ex.2. Compilare e firmare qualsiasi modulo](assets/03_FillSignScan.zip)
-* [Ex.3: Condividi file PDF e rivedi online](assets/01_Review.zip)
+* Ex 1: Acquisisci qualsiasi modulo: utilizza biglietti da visita, ricevuta o altro documento cartaceo
+* [Ex 2 Compila e firma qualsiasi modulo](assets/03_FillSignScan.zip)
+* [Ex 3: Condivisione di file PDF e revisione online](assets/01_Review.zip)

@@ -1,6 +1,6 @@
 ---
-title: Crea un pulsante personalizzato in Adobe Sign per Salesforce
-description: Informazioni sulla creazione di un pulsante personalizzato che avvia il processo di invio e inserisce automaticamente un contratto
+title: Creare un pulsante personalizzato in Adobe Sign per Salesforce
+description: Scopri come creare un pulsante personalizzato che avvia il processo di invio e compila automaticamente un accordo
 role: Admin
 product: adobe sign
 solution: Document Cloud
@@ -15,8 +15,8 @@ ht-degree: 16%
 
 ---
 
-# Crea un pulsante personalizzato in Adobe Sign per Salesforce
+# Creare un pulsante personalizzato in Adobe Sign per Salesforce
 
-Scopri come creare un pulsante personalizzato in un oggetto standard in Salesforce.com. In questo esempio viene aggiunto un pulsante personalizzato a **Contact** in Salesforce. Quando si fa clic sul pulsante, inizia il processo di invio e inserisce le informazioni dal **Contatto** direttamente nel contratto.
+Scopri come creare un pulsante personalizzato in un oggetto standard in Salesforce.com. In questo esempio, un pulsante personalizzato viene aggiunto a un **Contatti** in Salesforce. Quando si fa clic sul pulsante, viene avviato il processo di invio e vengono compilate le informazioni dal metodo **Contatti** direttamente nell&#39;accordo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17352?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: Accordi sui criteri
-description: Raccolta efficiente delle firme di tutti i dipendenti su contratti, aggiornamenti e altro ancora
+title: Accordi politici
+description: Raccogli in modo efficiente le firme di tutti i tuoi dipendenti su accordi, aggiornamenti e altro ancora
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Accordi politici
 
-Raccolta efficiente delle firme di tutti i dipendenti in contratti criteri, aggiornamenti di criteri e altro ancora. Informazioni su come creare un modulo Web online che può essere completato **e** con firma senza stampa o invio di messaggi.
+Raccogli in modo efficiente le firme di tutti i tuoi dipendenti su accordi, aggiornamenti dei criteri e altro ancora. Scoprite come creare un modulo web online che può essere completato **e** firmata senza stampare o spedire nulla.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33979?hidetitle=true)
 
-Fare clic per scaricare la ricetta PDF step-by-step per gli accordi sui criteri.
+Fai clic per scaricare la ricetta PDF passo passo per gli accordi sui criteri.
 
-[![Scarica composizione PDF](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)
+[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)

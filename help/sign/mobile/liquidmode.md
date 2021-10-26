@@ -1,6 +1,6 @@
 ---
-title: Modalità liquida in Adobe Sign
-description: Scoprite come la modalità Liquid migliora l'esperienza di firma mobile
+title: Liquid Mode in Adobe Sign
+description: Scopri come Liquid Mode migliora l’esperienza di firma su dispositivi mobili
 role: User
 product: adobe sign
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Modalità liquida in Adobe Sign
+# Liquid Mode in Adobe Sign
 
-Informazioni su come la modalità Liquid migliora l&#39;esperienza di firma mobile. Riduce l&#39;inclinazione e lo zoom per la messa a fuoco dei campi riempibili.
+Scopri come Liquid Mode migliora l’esperienza di firma per dispositivi mobili. Riduce le operazioni di pizzico e zoom per concentrarsi facilmente sui campi compilabili.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333803?hidetitle=true)

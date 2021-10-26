@@ -1,6 +1,6 @@
 ---
-title: Impostazione dell'ordine di instradamento
-description: Informazioni su come impostare l'ordine di routing per più sottoscrittori
+title: Configurazione dell’ordine di indirizzamento
+description: Scopri come impostare l’ordine di indirizzamento per più firmatari
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Impostazione dell&#39;ordine di instradamento
+# Impostazione dell&#39;ordine di indirizzamento
 
-Informazioni su come impostare l&#39;ordine di routing per più sottoscrittori. Inviare un documento in sequenza, in parallelo o in una combinazione dei due.
+Scopri come impostare l’ordine di indirizzamento per più firmatari. Inviate un documento in sequenza, in parallelo o in una combinazione delle due.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17347?hidetitle=true)

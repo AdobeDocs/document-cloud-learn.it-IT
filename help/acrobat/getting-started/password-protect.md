@@ -1,6 +1,6 @@
 ---
-title: Proteggere un file PDF con una password
-description: Informazioni su come aggiungere una password al PDF per proteggere altri utenti dall'apertura o dalla modifica del file
+title: Protect un file PDF con una password
+description: Scopri come aggiungere una password al tuo PDF per proteggere altri utenti dall’apertura o dalla modifica del file
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Proteggere un file PDF con una password
+# Protect un file PDF con una password
 
-Informazioni su come aggiungere una password al PDF per proteggere altri utenti dall&#39;apertura o dalla modifica del file.
+Scopri come aggiungere una password al tuo PDF per proteggere gli altri dall’apertura o dalla modifica del file.
 
 >[!TIP]
 >
->Per proteggere con password più file PDF, provare a utilizzare la [Creazione guidata azione](../advanced-tasks/action.md).
+>Per proteggere con password più file PDF, prova a utilizzare il metodo [Action Wizard](../advanced-tasks/action.md).
 
 <br> 
 

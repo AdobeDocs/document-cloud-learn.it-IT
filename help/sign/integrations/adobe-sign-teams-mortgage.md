@@ -1,6 +1,6 @@
 ---
 title: Invio di documenti per la firma in [!DNL Microsoft Teams]
-description: L'integrazione di Adobe Sign & [!DNL Microsoft Teams] consente di inviare contratti per la firma o di controllare lo stato dei contratti esistenti, tutti da [!DNL Microsoft Teams]
+description: Adobe Sign e [!DNL Microsoft Teams] consente di inviare accordi per la firma o controllare lo stato degli accordi esistenti, il tutto dall’interno di [!DNL Microsoft Teams]
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 # Invio di documenti per la firma in [!DNL Microsoft Teams]
 
-L&#39;integrazione di Adobe Sign &amp; [!DNL Microsoft Teams] consente di inviare contratti per la firma o di controllare lo stato dei contratti esistenti, tutti da [!DNL Microsoft Teams]. Questo esempio passa attraverso un broker ipotecario che invia una richiesta di prestito direttamente all&#39;interno del team. Questa stretta integrazione accelera il processo di prestito ipotecario, anche quando si lavora con i richiedenti ipotecari in un ambiente di lavoro remoto.
+Adobe Sign e [!DNL Microsoft Teams] consente di inviare accordi per la firma o controllare lo stato degli accordi esistenti, il tutto dall’interno di [!DNL Microsoft Teams]. Questo esempio illustra un broker ipotecario che invia una domanda di prestito direttamente all&#39;interno di Teams. Questa stretta integrazione accelera il processo di prestito ipotecario, anche quando si lavora con i richiedenti di un mutuo in un ambiente di lavoro remoto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40125?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Uso di Adobe Sign Inside Microsoft Apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Utilizzo di Adobe Sign nelle app Microsoft](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) disponibile gratuitamente ad Experience League!

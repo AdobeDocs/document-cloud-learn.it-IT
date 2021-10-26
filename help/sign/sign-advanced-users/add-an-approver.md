@@ -1,6 +1,6 @@
 ---
 title: Aggiunta di un approvatore
-description: Informazioni su come aggiungere un ruolo di approvazione al processo di approvazione del contratto
+description: Scopri come aggiungere un ruolo di approvatore al processo di approvazione del contratto
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 # Aggiunta di un approvatore
 
-Informazioni su come inviare un documento tramite un processo di approvazione. In questo esempio viene illustrato come inviare un contratto di assunzione tramite HR, dipendente e responsabile dell&#39;assunzione.
+Scopri come inviare un documento attraverso un processo di approvazione. In questo esempio viene illustrato come inviare un contratto di assunzione tramite le risorse umane, i dipendenti e il responsabile delle assunzioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17367?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Attività avanzate per utenti](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Attività avanzate per gli utenti](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) disponibile gratuitamente ad Experience League!
 
 

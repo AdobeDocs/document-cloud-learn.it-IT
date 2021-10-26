@@ -1,6 +1,6 @@
 ---
-title: Distribuisci panoramica
-description: Installazione e best practice di articoli con preziose conoscenze e conoscenze acquisite lavorando con i clienti
+title: Panoramica sulla distribuzione
+description: Articoli sull'implementazione e sulle best practice con approfondimenti e conoscenze preziosi acquisiti lavorando con i nostri clienti
 role: Admin
 product: adobe acrobat
 level: Intermediate
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# Distribuisci panoramica
+# Panoramica sulla distribuzione
 
-![Immagine distribuzione Acrobat](../assets/Hero-Deploy.png)
+![Immagine di distribuzione Acrobat](../assets/Hero-Deploy.png)
 
-Articoli sull&#39;installazione e sulle migliori pratiche con preziose conoscenze e conoscenze acquisite lavorando con i clienti.
+Articoli sull&#39;implementazione e sulle best practice con approfondimenti e conoscenze preziose acquisite lavorando con i nostri clienti.
 
-* Informazioni su come [Distribuire Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target=&quot;_blank&quot;} se si utilizza Adobe® Creative Cloud™ per team o aziende.
+* Scopri come [Distribuzione di Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target=&quot;_blank&quot;} se si utilizza Adobe® Creative Cloud™ for teams o enterprise.
 
-* Informazioni su [Enterprise Toolkit for Acrobat Products](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target=&quot;_blank&quot;} per distribuire prodotti personalizzati all&#39;interno dell&#39;organizzazione, impostare installazioni virtualizzate e creare flussi di lavoro PDF aziendali.
+* Scopri di più sul [Kit di strumenti Enterprise per i prodotti Acrobat](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target=&quot;_blank&quot;} per distribuire prodotti personalizzati all&#39;interno della tua organizzazione, configurare installazioni virtualizzate e creare flussi di lavoro PDF aziendali.
 
-* Informazioni sulle modifiche importanti apportate ai diritti [Acrobat DC inclusi in ETLA](signentitlementchanges.md){target=&quot;_blank&quot;} (Contratto di licenza con termini aziendali) offrono l&#39;inizio di agosto 2020 fino al 20 novembre 2020.
+* Informazioni sulle modifiche importanti [Autorizzazioni Acrobat DC incluse in ETLA](signentitlementchanges.md){target=&quot;_blank&quot;} (Enterprise Term License Agreement) offerte da agosto 2020 al 20 novembre 2020.

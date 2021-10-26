@@ -1,6 +1,6 @@
 ---
 title: Modifica di un documento già inviato per la firma
-description: Informazioni su come modificare il flusso di lavoro per un documento già in corso
+description: Scopri come modificare il flusso di lavoro di un documento già in corso
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Modifica di un documento già inviato per la firma
 
-Informazioni su come modificare un documento già inviato per la firma — come quando un documento viene inviato per errore.
+Scopri come modificare un documento già inviato per la firma, ad esempio quando un documento viene inviato per errore.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17343?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Attività avanzate per utenti](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Attività avanzate per gli utenti](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) disponibile gratuitamente ad Experience League!

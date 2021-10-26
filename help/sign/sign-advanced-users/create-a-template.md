@@ -1,6 +1,6 @@
 ---
 title: Creazione di un modello di documento
-description: Creare un modello di documento riutilizzabile per fornire velocità e coerenza
+description: Creare un modello di documento riutilizzabile per garantire velocità e coerenza
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Creazione di un modello di documento
 
-Informazioni su come creare un modello di documento riutilizzabile e aggiungerlo alla libreria Adobe Sign per un utilizzo futuro. I modelli di documento offrono velocità e coerenza nelle transazioni di firma e la possibilità di gestire revisioni e modifiche di documenti.
+Scoprite come creare un modello di documento riutilizzabile e aggiungerlo alla libreria di Adobe Sign per utilizzarlo in futuro. I modelli per documenti offrono velocità e coerenza nelle transazioni di firma e la possibilità di gestire le revisioni e le modifiche dei documenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/38037?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Guida introduttiva a Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Guida introduttiva ad Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) disponibile gratuitamente ad Experience League!

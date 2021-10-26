@@ -1,6 +1,6 @@
 ---
-title: Creazione di esperienze di firma elettronica e documenti incorporati
-description: Informazioni sull'utilizzo delle API di Adobe Sign per incorporare la firma elettronica e documentare le esperienze nelle piattaforme Web e nei sistemi di gestione dei contenuti e dei documenti
+title: Creazione di firme elettroniche incorporate ed esperienze basate su documenti
+description: Scopri come utilizzare le API di Adobe Sign per incorporare firme elettroniche ed esperienze documentali nelle piattaforme web e nei sistemi di gestione dei contenuti e dei documenti
 role: User, Developer
 level: Intermediate
 topic: Integrations
@@ -14,34 +14,34 @@ ht-degree: 3%
 
 ---
 
-# Crea una firma elettronica e esperienze documento incorporate
+# Creazione di firme elettroniche e documenti incorporati
 
-Informazioni sull&#39;utilizzo delle API di Adobe Sign per incorporare la firma elettronica e documentare le esperienze nelle piattaforme Web e nei sistemi di gestione dei contenuti e dei documenti. L&#39;esercitazione pratica è suddivisa in quattro parti, illustrate nei collegamenti seguenti:
+Scopri come utilizzare le API di Adobe Sign per incorporare firme elettroniche ed esperienze documentali nelle piattaforme web e nei sistemi di gestione dei contenuti e dei documenti. Questa esercitazione pratica è suddivisa in quattro parti, descritte nei collegamenti seguenti:
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="embeddedesignature.md#part1">
-        <img alt="Di cosa avrai bisogno?" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
+        <img alt="Cosa ti servirà" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
     <div>
-    <a href="embeddedesignature.md#part1"><strong>Parte 1: Di cosa avrai bisogno?</strong></a>
+    <a href="embeddedesignature.md#part1"><strong>Parte 1: Cosa ti servirà</strong></a>
     </div>
   </td>
   <td>
     <a href="embeddedesignature.md#part2">
-        <img alt="Parte 2: Codice Basso/No — la potenza dei moduli web" src="assets/embeddedesignature/EmbedPart2_thumb.png" />
+        <img alt="Parte 2: Codice basso/inesistente: la potenza dei moduli web" src="assets/embeddedesignature/EmbedPart2_thumb.png" />
     </a>
     <div>
-    <a href="embeddedesignature.md#part2"><strong>Parte 2: Codice Basso/No — la potenza dei moduli web</strong></a>
+    <a href="embeddedesignature.md#part2"><strong>Parte 2: Codice basso/inesistente: la potenza dei moduli web</strong></a>
     </div>
   </td>
   <td>
    <a href="embeddedesignature.md#part3">
-      <img alt="Parte 3: Invia contratto con un modulo e unisci dati" src="assets/embeddedesignature/EmbedPart3_thumb.png" />
+      <img alt="Parte 3: Inviare un accordo con un modulo e unire i dati" src="assets/embeddedesignature/EmbedPart3_thumb.png" />
    </a>
     <div>
-    <a href="embeddedesignature.md#part3"><strong>Parte 3: Invia contratto con un modulo e unisci dati</strong></a>
+    <a href="embeddedesignature.md#part3"><strong>Parte 3: Inviare un accordo con un modulo e unire i dati</strong></a>
     </div>
   </td>
   <td>
@@ -55,68 +55,68 @@ Informazioni sull&#39;utilizzo delle API di Adobe Sign per incorporare la firma 
 </tr>
 </table>
 
-## Parte 1: Di cosa avrai bisogno? {#part1}
+## Parte 1: Cosa ti servirà {#part1}
 
-Nella prima parte imparerai come iniziare con tutto quello che ti serve per le parti 2-4. Cominciamo con il recupero delle credenziali API.
+Nella parte 1, imparerai come iniziare a usare tutto quello che ti serve per le parti 2-4. Iniziamo con l&#39;ottenimento delle credenziali API.
 
 * [Account per sviluppatori Adobe Sign](https://acrobat.adobe.com/it/it/sign/developer-form.html)
-* [Codice Starter](https://github.com/benvanderberg/adobe-sign-api-tutorial)
-* [Codice VS (o editor di tua scelta)](https://code.visualstudio.com)
+* [Codice iniziale](https://github.com/benvanderberg/adobe-sign-api-tutorial)
+* [VS Code (o editor a scelta)](https://code.visualstudio.com)
 * Python 3.x
-   * Mac — Ebraico
-   * Linux — Installatore integrato
-   * Finestre — Cioccolatino
-   * Tutti — https://www.python.org/downloads/
+   * Mac - Homebrew
+   * Linux - Programma di installazione integrato
+   * Windows - Chocolatey
+   * Tutto - https://www.python.org/downloads/
 
-## Parte 2: Codice Basso/No — la potenza dei moduli web {#part2}
+## Parte 2: Codice basso/inesistente: la potenza dei moduli web {#part2}
 
-Nella parte 2, si esplorerà l&#39;opzione low/no code quando si utilizzano i webform. È sempre una buona idea vedere se all&#39;inizio puoi evitare di scrivere codice.
+Nella parte 2, si esplorerà l’opzione low/no code quando si utilizzano i moduli Web. È sempre consigliabile verificare se è possibile evitare di scrivere il codice all&#39;inizio.
 
-1. Accedi a Adobe Sign con il tuo account sviluppatore.
-1. Fare clic su **Pubblica un modulo Web** nella home page.
+1. Accedi ad Adobe Sign con il tuo account sviluppatore.
+1. Fai clic su **Pubblicare un modulo Web** nella home page.
 
    ![Schermata della home page di Adobe Sign](assets/embeddedesignature/embed_1.png)
 
-1. Crea il contratto.
+1. Crea il tuo accordo.
 
    ![Screenshot di come creare un modulo Web](assets/embeddedesignature/embed_2.png)
 
-1. Incorpora il contratto in una pagina HTML flat.
-1. Esperimento con aggiunta dinamica di parametri di query.
+1. Incorpora il tuo accordo in una pagina HTML semplice.
+1. Provate ad aggiungere i parametri di query in modo dinamico.
 
-   ![Screenshot dell&#39;aggiunta di parametri di query](assets/embeddedesignature/embed_3.png)
+   ![Screenshot dell&#39;aggiunta dei parametri di query](assets/embeddedesignature/embed_3.png)
 
-## Parte 3: Invia contratto con un modulo e unisci dati {#part3}
+## Parte 3: Inviare un accordo con un modulo e unire i dati {#part3}
 
-Nella terza parte, creerete in modo dinamico accordi.
+Nella parte 3, gli accordi verranno creati in modo dinamico.
 
-Per prima cosa, dovrete stabilire l&#39;accesso. Con Adobe Sign, esistono due modi per connettersi tramite API. Token OAuth e chiavi di integrazione. A meno che non si disponga di un motivo specifico per utilizzare OAuth con l&#39;applicazione, è necessario esplorare prima le chiavi di integrazione.
+Innanzitutto, è necessario stabilire l&#39;accesso. Con Adobe Sign, ci sono due modi per connettersi tramite API. Token OAuth e chiavi di integrazione. A meno che non abbiate un motivo molto specifico per utilizzare OAuth con l&#39;applicazione, prima di tutto esplorerete le chiavi di integrazione.
 
-1. Selezionare **Tasto di integrazione** nel menu **Informazioni API** nella scheda **Account** di Adobe Sign.
+1. Seleziona **Chiave di integrazione** sulla **Informazioni API** sotto il **Account** in Adobe Sign.
 
    ![Screenshot di dove trovare la chiave di integrazione](assets/embeddedesignature/embed_4.png)
 
-Ora che hai accesso e puoi interagire con l&#39;API, vedi cosa puoi fare con l&#39;API.
+Ora che hai accesso e puoi interagire con l&#39;API, scopri cosa puoi fare con l&#39;API.
 
-1. Passare all&#39;API [Adobe Sign REST API versione 6 Methods](http://adobesign.com/public/docs/restapi/v6).
+1. Passa al [Metodi API REST versione 6 di Adobe Sign](http://adobesign.com/public/docs/restapi/v6).
 
-   ![Screenshot dei metodi API REST di Adobe Sign Versione 6](assets/embeddedesignature/embed_5.png)
+   ![Screenshot della navigazione dei metodi delle API REST Adobe Sign versione 6](assets/embeddedesignature/embed_5.png)
 
-1. Utilizzare il token come valore &quot;Bearer&quot;.
+1. Utilizzare il token come valore &quot;al portatore&quot;.
 
    ![Screenshot del valore del portatore](assets/embeddedesignature/embed_6.png)
 
-Per inviare il primo contratto è meglio capire come utilizzare l&#39;API.
+Per inviare il primo accordo, è meglio comprendere come utilizzare l’API.
 
-1. Creare un documento temporaneo e inviarlo.
+1. Crea un documento transitorio e invialo.
 
 >[!NOTE]
 >
->Le chiamate di richiesta basate su JSON dispongono di un&#39;opzione &quot;Model&quot; e &quot;Minimal Model Schema&quot;. Questo fornisce le specifiche e un set di payload minimo.
+>Le chiamate di richiesta basate su JSON hanno un&#39;opzione &quot;Model&quot; e &quot;Minimal Model Schema&quot;. Questo dà le specifiche e un insieme di payload minimo.
 
-![Screenshot della creazione di un documento provvisorio](assets/embeddedesignature/embed_7.png)
+![Screenshot della creazione di un documento transitorio](assets/embeddedesignature/embed_7.png)
 
-Dopo aver inviato un accordo per la prima volta, sei pronto ad aggiungere la logica. È sempre una buona idea stabilire degli aiutanti per minimizzare le ripetizioni. Ecco alcuni esempi:
+Dopo aver inviato un accordo per la prima volta, puoi aggiungere la logica. È sempre consigliabile stabilire degli aiutanti per ridurre al minimo le ripetizioni. Ecco alcuni esempi:
 
 **Convalida**
 
@@ -124,71 +124,69 @@ Dopo aver inviato un accordo per la prima volta, sei pronto ad aggiungere la log
 
 **Intestazioni/Auth**
 
-![Screenshot delle intestazioni/logica di autenticazione](assets/embeddedesignature/embed_9.png)
+![Screenshot di intestazioni/logica automatica](assets/embeddedesignature/embed_9.png)
 
-**URI di base**
+**URI base**
 
-![Screenshot della logica dell&#39;URI di base](assets/embeddedesignature/embed_10.png)
+![Screenshot della logica URI di base](assets/embeddedesignature/embed_10.png)
 
-Attenzione a dove atterrano i documenti di Transient nel grande schema dell&#39;ecosistema dei segni.
-Transizione -> Contratto
-Transizione -> Modello -> Contratto
-Transizione -> Widget -> Contratto
+Stai attento a dove atterrano i documenti transitori nell&#39;ambito del grande schema dell&#39;ecosistema di Sign.
+Transiente -> Transiente accordo -> Modello -> Transiente accordo -> Widget -> Accordo
 
-In questo esempio viene utilizzato un modello come origine del documento. Questa è in genere la route migliore, a meno che non si disponga di un valido motivo per generare in modo dinamico documenti per la firma (ad esempio, generazione di codice legacy o di documenti).
+Questo esempio utilizza un modello come origine del documento. Questa è in genere la soluzione migliore, a meno che non si abbia un valido motivo per generare in modo dinamico documenti da firmare (ad esempio, codice precedente o generazione di documenti).
 
-Il codice è abbastanza semplice; utilizza un documento di libreria (modello) per l&#39;origine del documento. Il primo e il secondo firmatario vengono assegnati in modo dinamico. Lo stato `IN_PROCESS` indica che il documento viene inviato immediatamente. Inoltre, `mergeFieldInfo` viene utilizzato per riempire in modo dinamico i campi.
+Il codice è abbastanza semplice; utilizza un documento libreria (modello) per l&#39;origine del documento. Il primo e il secondo firmatario vengono assegnati dinamicamente. Il `IN_PROCESS` stato significa che il documento viene inviato immediatamente. Inoltre, `mergeFieldInfo` viene utilizzato per riempire i campi in modo dinamico.
 
-![Screenshot di codice per aggiungere dinamicamente le firme](assets/embeddedesignature/embed_11.png)
+![Screenshot del codice per aggiungere firme in modo dinamico](assets/embeddedesignature/embed_11.png)
 
 ## Parte 4: Incorpora esperienza di firma, reindirizzamenti e altro ancora {#part4}
 
-In molti casi, è possibile consentire al partecipante che esegue il trigger di firmare immediatamente un accordo. Questa funzione è utile per applicazioni e chioschi rivolti ai clienti.
+In molti casi, puoi consentire al partecipante che attiva l’accordo di firmare immediatamente un accordo. Questa funzione è utile per le applicazioni e i chioschi rivolti ai clienti.
 
-Se non si desidera che il primo messaggio di posta elettronica di invio venga attivato, è facile gestire il comportamento con una modifica alla chiamata API.
+Se non desideri che venga attivato il primo indirizzo e-mail di invio, puoi gestirlo facilmente modificando la chiamata API.
 
-![Screenshot di codice per non attivare l&#39;invio di messaggi di posta elettronica](assets/embeddedesignature/embed_12.png)
+![Screenshot del codice per non attivare l&#39;invio dell&#39;e-mail](assets/embeddedesignature/embed_12.png)
 
 Ecco come controllare il reindirizzamento post-firma:
 
-![Screenshot di codice per controllare il reindirizzamento post-firma](assets/embeddedesignature/embed_13.png)
+![Screenshot del codice per controllare il reindirizzamento dopo la firma](assets/embeddedesignature/embed_13.png)
 
-Dopo aver aggiornato il processo di creazione del contratto, il passaggio finale genera l&#39;URL di firma. Questa chiamata è piuttosto semplice e genera un URL che un firmatario può utilizzare per accedere alla propria parte del processo di firma.
+Dopo aver aggiornato il processo di creazione dell’accordo, il passaggio finale genera l’URL di firma. Anche questa chiamata è piuttosto semplice e genera un URL che un firmatario può utilizzare per accedere alla propria parte del processo di firma.
 
-![Screenshot di codice per generare un URL del firmatario](assets/embeddedesignature/embed_14.png)
+![Screenshot del codice per generare un URL del firmatario](assets/embeddedesignature/embed_14.png)
 
 >[!NOTE]
 >
->Si noti che la chiamata di creazione del contratto è tecnicamente asincrona. Ciò significa che si può fare una chiamata per un accordo &quot;POST&quot;, ma l&#39;accordo non è ancora pronto. La procedura migliore è stabilire un ciclo di tentativi. Utilizzare un nuovo tentativo o qualsiasi altra procedura appropriata per l&#39;ambiente.
+>Tieni presente che la chiamata per la creazione dell’accordo è tecnicamente asincrona. Ciò significa che è possibile effettuare una chiamata di accordo &quot;POST&quot;, ma l’accordo non è ancora pronto. La procedura migliore è quella di stabilire un ciclo di tentativi. Utilizza un nuovo tentativo o qualsiasi altra procedura consigliata per il tuo ambiente.
 
-![Screenshot con cui si dice che è meglio stabilire un ciclo di tentativi](assets/embeddedesignature/embed_15.png)
+![Screenshot con cui si consiglia di stabilire un ciclo di tentativi](assets/embeddedesignature/embed_15.png)
 
-Quando tutto viene messo insieme, la soluzione è piuttosto semplice. Stai stipulando un accordo e quindi stai generando un URL di firma per il firmatario che clicca su e inizia il rituale di firma.
+Quando tutto è messo insieme, la soluzione è abbastanza semplice. Stai creando un accordo e quindi generando un URL di firma affinché il firmatario possa fare clic su e iniziare il rituale di firma.
 
-### Ulteriori argomenti
+### Altri argomenti
 
 * [Eventi JS](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Eventi webhook
    * [API REST](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
-   * [Webhook in Adobe Sign 6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
-* [Riattiva messaggi di posta elettronica richiesta (con eventi)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/accordi/aggiornamentoContratto)
-* [Sostituisci timeout con un tentativo](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
+   * [Webhook in Adobe Sign v6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
+* [Riattiva e-mail di richiesta (con gli eventi)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
+* [Sostituire Timeout con Riprova](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 
    <br> 
-* Promemoria personalizzata
+* Promemoria personalizzati
    * Con la creazione iniziale
 
-      ![Screenshot della guida di Power Automate](assets/embeddedesignature/embed_16.png)
+      ![Screenshot della navigazione in Power Automate](assets/embeddedesignature/embed_16.png)
 
-   * Oppure aggiungetene uno [in volo](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createPromemoriaOnParticipant)
+   * Oppure aggiungetene uno [in volo](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
 
 ## Risorse aggiuntive
 
 http://bit.ly/Summit21-T126
 
-Comprende:
+Include:
 * Account per sviluppatori Adobe Sign
-* Docs API di Adobe Sign
-* Codice esempio
-* Codice di Visual Studio
+* Documenti API di Adobe Sign
+* Codice di esempio
+* Visual Studio Code
 * Python

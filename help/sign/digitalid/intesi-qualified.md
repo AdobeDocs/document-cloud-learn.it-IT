@@ -1,6 +1,6 @@
 ---
-title: Ottieni un ID digitale da [!DNL Intesi Group] (Qualificato)
-description: Informazioni su come ottenere un certificato di firma digitale qualificato da [!DNL Intesi Group]
+title: Ottieni un ID digitale da [!DNL Intesi Group] (qualificato)
+description: Scopri come ottenere un certificato di firma digitale qualificato da [!DNL Intesi Group]
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ---
 
-# Ottieni un ID digitale da [!DNL Intesi Group] (Qualificato)
+# Ottieni un ID digitale da [!DNL Intesi Group] (qualificato)
 
-Informazioni su come ottenere un certificato di firma digitale qualificato da [!DNL Intesi Group]. Dopo la registrazione e la verifica dell&#39;identità, [!DNL Intesi Group] ti rilascia un ID digitale utilizzato per applicare una firma cloud di Adobe Sign.
+Scopri come ottenere un certificato di firma digitale qualificato da [!DNL Intesi Group]. Una volta effettuata la registrazione e verificata la tua identità, [!DNL Intesi Group] problemi con un ID digitale utilizzato per applicare una firma cloud di Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337064?hidetitle=true)
 
 <br> 
 
-**Selezionare l&#39;immagine seguente per imparare come utilizzare il proprio ID  [!DNL Intesi Group] digitale qualificato in Adobe Sign.**
+**Seleziona l&#39;immagine seguente per scoprire come utilizzare i tuoi [!DNL Intesi Group] ID digitale in Adobe Sign.**
 
 [![image](assets/IntesiSign_400.png)](intesi-sign.md)

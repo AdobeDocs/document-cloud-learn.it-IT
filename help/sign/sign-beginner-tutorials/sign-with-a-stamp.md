@@ -1,6 +1,6 @@
 ---
-title: Firma con timbro
-description: Informazioni sull'utilizzo dei timbri per contrassegnare un documento approvato o completato
+title: Firmare con un timbro
+description: Scopri come utilizzare i timbri per contrassegnare un documento approvato o completato
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Firma con timbro
+# Firmare con un timbro
 
-Informazioni sull&#39;utilizzo dei timbri per contrassegnare un documento approvato o completato.
+Scopri come utilizzare i timbri per contrassegnare un documento approvato o completato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/20703?hidetitle=true)

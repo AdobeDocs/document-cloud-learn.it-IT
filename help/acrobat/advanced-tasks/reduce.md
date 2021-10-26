@@ -1,6 +1,6 @@
 ---
-title: Ridurre le dimensioni e ottimizzare i file
-description: Ridurre i file di grandi dimensioni e ottimizzare i PDF senza compromettere la qualità per la condivisione, la registrazione o l'archiviazione
+title: Riduci dimensioni file e ottimizza
+description: Riduci i file di grandi dimensioni e ottimizza i tuoi PDF senza compromettere la qualità per la condivisione, la pubblicazione o l'archiviazione
 role: User
 product: adobe acrobat
 level: Experienced
@@ -13,44 +13,44 @@ ht-degree: 15%
 
 ---
 
-# Ridurre le dimensioni e ottimizzare i file
+# Ridurre le dimensioni dei file e ottimizzare
 
-Ridurre i file di grandi dimensioni e ottimizzare i PDF senza compromettere la qualità per la condivisione, la registrazione o l&#39;archiviazione.
+Riduci i file di grandi dimensioni e ottimizza i tuoi PDF senza compromettere la qualità per la condivisione, la pubblicazione o l&#39;archiviazione.
 
 >[!NOTE]
 >
 >Disponibile solo in Acrobat Pro DC.
 
-1. In Acrobat Pro DC, selezionare **[!UICONTROL Ottimizza PDF]** dal centro o dal riquadro [!UICONTROL Strumenti].
+1. In Acrobat Pro DC, selezionate **[!UICONTROL Optimize PDF]** dal [!UICONTROL Strumenti] centrale o riquadro.
 
-   ![Ridurre il passo 1](../assets/Reduce_1.png)
+   ![Riduci punto 1](../assets/Reduce_1.png)
 
-1. Selezionare **[!UICONTROL Ridurre le dimensioni file]** e scegliere se ridurre un singolo file o più file.
+1. Seleziona **[!UICONTROL Riduci dimensioni file]** e scegliere se ridurre uno o più file.
 
-   Il file viene ridotto alle dimensioni più piccole possibili mantenendo la qualità dei documenti.
+   Il file viene ridotto alla dimensione più piccola possibile mantenendo la qualità del documento.
 
-   ![Ridurre il passo 2](../assets/Reduce_2.png)
+   ![Riduci punto 2](../assets/Reduce_2.png)
 
-1. Per ottimizzare il file, scegliere **[!UICONTROL Ottimizzazione avanzata]**. Quindi selezionare tra le opzioni di Ottimizzazione PDF.
+1. Per ottimizzare il file, scegli **[!UICONTROL Ottimizzazione avanzata]**. Seleziona quindi le opzioni disponibili in Ottimizzatore PDF.
 
-   ![Ridurre il passo 3](../assets/Reduce_3.png)
+   ![Riduci punto 3](../assets/Reduce_3.png)
 
-1. Per utilizzare le impostazioni predefinite, scegliere **[!UICONTROL Standard]** dal menu **[!UICONTROL Impostazioni]**.
+1. Per usare le impostazioni predefinite, scegliete **[!UICONTROL Standard]** dal **[!UICONTROL Impostazioni]** menu.
 
-Se si modificano le impostazioni nella finestra di dialogo **[!UICONTROL Ottimizzazione PDF]**, il menu **Impostazioni** passa automaticamente a **Personalizzata**.
+Le impostazioni nel **[!UICONTROL Ottimizzatore PDF]** , la proprietà **Impostazioni** menu passa automaticamente a **Personalizzato**.
 
-1. Dal menu **Rendi compatibile con**, scegliere **Mantieni esistente** per conservare la versione PDF corrente oppure scegliere una versione di Acrobat. Selezionare la casella di controllo accanto a un pannello (ad esempio, Immagini, Font, Trasparenza), quindi selezionare le opzioni nel relativo pannello. Per impedire l&#39;esecuzione di tutte le opzioni di un pannello durante l&#39;ottimizzazione, deselezionare la casella di controllo relativa a tale pannello.
+1. Dal menu **Rendi compatibile con**, scegliere **Mantieni esistente** per conservare la versione PDF corrente oppure scegliere una versione di Acrobat. Selezionare la casella di controllo accanto a un pannello (ad esempio, Immagini, Font, Trasparenza), quindi selezionare le opzioni nel relativo pannello. Per evitare che tutte le opzioni di un pannello vengano eseguite durante l’ottimizzazione, deselezionate la casella di controllo relativa a tale pannello.
 
-   ![Ridurre il passo 5](../assets/Reduce_5.png)
+   ![Riduci punto 5](../assets/Reduce_5.png)
 
-1. **(Facoltativo)** Per salvare le impostazioni personalizzate, fare clic su  **** Salva e assegnare un nome alle impostazioni. Per eliminare un&#39;impostazione salvata, selezionarla nel menu **Impostazioni** e fare clic su **Elimina**.
+1. **(Facoltativo)** Per salvare le impostazioni personalizzate, fai clic su **Salva** e assegnare un nome alle impostazioni. Per eliminare un’impostazione salvata, selezionatela nella **Impostazioni** e fai clic **Elimina**.
 
-   ![Ridurre il passo 6](../assets/Reduce_6.png)
+   ![Riduci punto 6](../assets/Reduce_6.png)
 
 >[!TIP]
 >
->Per ottimizzare più file PDF, provare a utilizzare la procedura guidata [Azione](../advanced-tasks/action.md).
+>Per ottimizzare più file PDF, provate a utilizzare il metodo [Action Wizard](../advanced-tasks/action.md).
 
-Fare clic per scaricare un PDF dell&#39;esercitazione *Ridurre le dimensioni del file e ottimizzare*.
+Fate clic per scaricare un PDF del *Ridurre le dimensioni dei file e ottimizzare* esercitazione.
 
-[![Scarica Ridurre le dimensioni dei file e ottimizza l&#39;esercitazione](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCReduce.pdf).
+[![Scarica l’esercitazione Riduci dimensioni file e ottimizza](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCReduce.pdf).

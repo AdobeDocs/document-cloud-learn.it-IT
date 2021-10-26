@@ -1,5 +1,5 @@
 ---
-title: Rendere i PDF accessibili—Comprendere l'accessibilità
+title: Accessibilità dei PDF - Nozioni fondamentali sull'accessibilità
 description: Scopri cosa significa rendere accessibile un PDF per le persone con disabilità
 role: User
 product: adobe acrobat
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 ---
 
-# Rendere i PDF accessibili—Comprendere l&#39;accessibilità
+# Accessibilità dei PDF - Nozioni fondamentali sull&#39;accessibilità
 
-Nella prima esercitazione video della serie Making PDF Accessible (PDF accessibile), viene illustrato cosa significa rendere accessibile un PDF alle persone con disabilità.
+Nella prima esercitazione video della serie Rendere accessibili i PDF, viene illustrato cosa significa rendere accessibile un PDF per le persone diversamente abili.
 
-## Parte 1 - Comprensione dell&#39;accessibilità (6:42)
+## Parte 1 - Nozioni di accessibilità (6:42)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34540)

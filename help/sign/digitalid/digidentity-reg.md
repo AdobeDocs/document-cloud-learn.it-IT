@@ -1,6 +1,6 @@
 ---
 title: Ottieni un ID digitale da [!DNL Digidentity]
-description: Informazioni su come ottenere un certificato di firma digitale da [!DNL Digidentity]
+description: Scopri come ottenere un certificato di firma digitale da [!DNL Digidentity]
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 # Ottieni un ID digitale da [!DNL Digidentity]
 
-Informazioni su come ottenere un certificato di firma digitale da [!DNL Digidentity]. Dopo la registrazione e la verifica dell&#39;identità, [!DNL Digidentity] ti rilascia un ID digitale utilizzato per applicare una firma cloud di Adobe Sign.
+Scopri come ottenere un certificato di firma digitale da [!DNL Digidentity]. Una volta effettuata la registrazione e verificata la tua identità, [!DNL Digidentity] problemi con un ID digitale utilizzato per applicare una firma cloud di Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337067?hidetitle=true)
 
 <br> 
 
-**Selezionare l&#39;immagine seguente per imparare come utilizzare il proprio ID  [!DNL Digidentity] digitale in Adobe Sign.**
+**Seleziona l&#39;immagine qui sotto per scoprire come utilizzare la [!DNL Digidentity] ID digitale in Adobe Sign.**
 
 [![image](assets/Digidentitysign_400.png)](digidentity-sign.md)

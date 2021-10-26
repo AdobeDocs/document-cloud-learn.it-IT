@@ -1,6 +1,6 @@
 ---
-title: Invia promemoria utilizzando l'esercitazione video di Adobe Sign for Salesforce e Marketo
-description: In questa esercitazione video imparerai come inviare un promemoria via e-mail da Marketo quando un contratto rimane privo di firma dopo un periodo di tempo
+title: Inviare promemoria con l’esercitazione video Adobe Sign per Salesforce e Marketo
+description: In questa esercitazione video verrà illustrato come inviare un promemoria e-mail da Marketo quando un accordo rimane non firmato dopo un periodo di tempo
 role: Admin
 product: adobe sign
 solution: Adobe Sign, Marketo, Document Cloud
@@ -15,23 +15,23 @@ ht-degree: 4%
 
 ---
 
-# Invia promemoria utilizzando l&#39;esercitazione video di Adobe Sign for Salesforce e Marketo
+# Inviare promemoria con l’esercitazione video Adobe Sign per Salesforce e Marketo
 
-Informazioni su come inviare un promemoria di posta elettronica da Marketo per gli accordi non firmati. Questa integrazione utilizza Adobe Sign, Adobe Sign per Salesforce, Marketo e Marketo Salesforce Sync.
+Scopri come inviare un promemoria e-mail da Marketo per gli accordi non firmati. Questa integrazione utilizza Adobe Sign, Adobe Sign per Salesforce, Marketo e Marketo Salesforce Sync.
 
 ## Prerequisiti
 
-1. Installare Marketo Salesforce Sync.
+1. Installa Marketo Salesforce Sync.
 
-   Le informazioni e il plug-in più recente per Salesforce Sync sono disponibili [qui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   Sono disponibili informazioni e l’ultimo plug-in per Salesforce Sync [qui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 1. Installare Adobe Sign per Salesforce.
 
-   Le informazioni sul plug-in sono disponibili [qui.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   Informazioni su questo plug-in sono disponibili [qui.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 >[!VIDEO](https://video.tv.adobe.com/v/332506?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Accelerare i cicli di vendita con Adobe Sign for Salesforce e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), disponibile gratuitamente con Experience League!
+>Questo video fa parte del corso [Accelera i cicli di vendita con Adobe Sign per Salesforce e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) disponibile gratuitamente ad Experience League!
 

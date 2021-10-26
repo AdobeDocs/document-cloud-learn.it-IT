@@ -1,6 +1,6 @@
 ---
-title: Crea moduli compilabili
-description: Trasformare un documento creato in InDesign, Microsoft Word o Excel in un modulo PDF compilabile
+title: Creare Forms compilabili
+description: Convertire un documento creato in InDesign, Microsoft Word o Excel in un modulo di PDF compilabile
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,34 +13,34 @@ ht-degree: 0%
 
 ---
 
-# Crea moduli riempibili
+# Creare moduli compilabili
 
-Trasformare un modulo o un documento in formato cartaceo digitalizzato creato in InDesign, Microsoft Word, Excel o un&#39;altra applicazione in un formato PDF riempibile in Acrobat DC.
+Trasforma un modulo cartaceo scansionato o un documento creato in InDesign, Microsoft Word, Excel o altre applicazioni in un modulo di PDF compilabile in Acrobat DC.
 
-1. Selezionare **[!UICONTROL Prepara modulo]** dal centro [!UICONTROL Strumenti].
+1. Seleziona **[!UICONTROL Prepare Form]** dal [!UICONTROL Strumenti] centrale.
 
    ![Modulo fase 1](../assets/Form_1.png)
 
-1. Selezionare un documento esistente da utilizzare come modulo, ad esempio un file Word, Excel, InDesign o PDF.
+1. Selezionare un documento esistente da utilizzare come modulo (ad esempio, un file Word, Excel, InDesign o PDF).
 
-   Se [!UICONTROL Rilevamento automatico campo modulo] è attivato, Acrobat rileva automaticamente i campi modulo nel PDF.
+   Se [!UICONTROL Rilevamento automatico dei campi modulo] è ATTIVATO, Acrobat rileva automaticamente i campi modulo nel PDF.
 
-1. Fare clic su **[!UICONTROL Start]** per creare il modulo.
+1. Fai clic su **[!UICONTROL Inizio]** per creare il modulo.
 
-   ![Modulo Fase 2](../assets/Form_2.png)
+   ![Modulo fase 2](../assets/Form_2.png)
 
-   Modificare il modulo utilizzando le opzioni visualizzate. Trascinare i campi dalla barra dei menu superiore e modificare i dettagli del campo modulo nel riquadro destro.
+   Modificare il modulo utilizzando le opzioni visualizzate. Trascina i campi dalla barra dei menu superiore e modifica i dettagli dei campi modulo nel riquadro destro.
 
-1. Fare clic su **[!UICONTROL Anteprima]** per visualizzare il modulo dopo l&#39;aggiunta dei campi.
+1. Fai clic su **[!UICONTROL Anteprima]** per visualizzare il modulo dopo l’aggiunta dei campi.
 
-   ![Modulo fase 3](../assets/Form_3.png)
+   ![Modulo - Fase 3](../assets/Form_3.png)
 
-   Tornare facilmente a **[!UICONTROL Modifica]** per continuare il lavoro.
+   Torna facilmente a **[!UICONTROL Modifica]** per continuare il lavoro.
 
-   ![Modulo 4](../assets/Form_4.png)
+   ![Modulo - Fase 4](../assets/Form_4.png)
 
-1. Fare clic su **[!UICONTROL File > Salva con nome]** per salvare il modulo PDF.
+1. Fai clic su **[!UICONTROL File > Salva con nome]** per salvare il modulo di PDF.
 
-Fare clic per scaricare un PDF dell&#39;esercitazione *Crea moduli riempibili*.
+Fate clic per scaricare un PDF del *Creare moduli compilabili* esercitazione.
 
-[![Esercitazione per la creazione di moduli riempibili](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCForms.pdf)
+[![Esercitazione per la creazione di moduli compilabili](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCForms.pdf)

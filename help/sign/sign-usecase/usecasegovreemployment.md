@@ -1,6 +1,6 @@
 ---
-title: Assistenza alla rioccupazione
-description: Aiuta i cittadini ad ottenere l'aiuto di cui hanno bisogno senza essere in linea con i moduli applicativi digitali che possono essere trasmessi in tempo reale
+title: Assistenza Alla Rioccupazione
+description: Aiuta i cittadini a ricevere l'aiuto di cui hanno bisogno senza essere in linea con i moduli di richiesta interamente digitali che possono essere utilizzati in tempo reale
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Assistenza alla rioccupazione
+# Assistenza alla riconversione
 
-Aiuta i cittadini ad ottenere l&#39;aiuto di cui hanno bisogno senza allinearsi ai moduli di applicazione digitale che possono essere trasmessi in tempo reale. Informazioni su come creare un modulo Web online che può essere completato **e** con firma senza stampa o invio di messaggi.
+Aiuta i cittadini a ricevere l&#39;aiuto di cui hanno bisogno senza essere in linea con i moduli di richiesta interamente digitali che possono essere utilizzati in tempo reale. Scoprite come creare un modulo web online che può essere completato **e** firmata senza stampare o spedire nulla.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33809?hidetitle=true)
 
-Fare clic per scaricare la ricetta PDF passo per la riassunzione.
+Fai clic per scaricare la ricetta PDF passo passo per assistenza al reimpiego.
 
-[![Scarica composizione PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)
+[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)

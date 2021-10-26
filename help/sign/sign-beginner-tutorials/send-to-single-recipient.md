@@ -1,6 +1,6 @@
 ---
 title: Invio a un singolo destinatario
-description: Passa all'interno e scopri quanto è facile inviare un documento per la firma
+description: Scopri com'è facile inviare un documento per la firma
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Invio a un singolo destinatario
 
-Il flusso di lavoro più comune in Adobe Sign—inviare un documento per la firma. In questa esercitazione video imparate a caricare un documento, aggiungere campi modulo e inviare a un utente per la firma.
+Il flusso di lavoro più comune in Adobe Sign: inviare un documento per la firma. In questa esercitazione video, scopri come caricare un documento, aggiungere campi modulo e inviarlo a qualcuno per la firma.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33659?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Guida introduttiva a Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Guida introduttiva ad Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) disponibile gratuitamente ad Experience League!

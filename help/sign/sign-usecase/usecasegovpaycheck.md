@@ -1,6 +1,6 @@
 ---
-title: Protezione pagamento
-description: Scopri come utilizzare Adobe Sign per convertire il modulo del programma di protezione pagamento in un modulo interattivo online
+title: Protezione della busta paga
+description: Scopri come utilizzare Adobe Sign per convertire il modulo del programma Protezione pagamenti in un modulo online interattivo
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Protezione pagamento
+# Protezione della busta paga
 
-Fare clic sull&#39;immagine seguente per vedere come utilizzare Adobe Sign per convertire il modulo del programma di protezione pagamento in un modulo interattivo online.
+Fai clic sull’immagine qui sotto per scoprire come utilizzare Adobe Sign per convertire il modulo del programma Protezione pagamenti in un modulo interattivo online.
 
-[![Procedura dettagliata interattiva acquisizione pagamenti](../assets/Paycheck.jpg)](https://acrobatusers.com/paycheck-protection-program-resource-hub/walkthrough/)
+[![Presentazione interattiva di Payment Capture](../assets/Paycheck.jpg)](https://acrobatusers.com/paycheck-protection-program-resource-hub/walkthrough/)

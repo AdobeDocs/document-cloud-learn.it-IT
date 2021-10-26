@@ -1,6 +1,6 @@
 ---
 title: Creare un file PDF
-description: Crea PDF da tutti i diversi tipi di documenti
+description: Creare PDF da tutti i tipi di documenti
 role: User
 product: adobe acrobat
 level: Beginner
@@ -15,6 +15,6 @@ ht-degree: 12%
 
 # Creare un file PDF
 
-Informazioni sulla creazione di PDF da tutti i diversi tipi di documenti. Iniziare con un file creato in Microsoft Office o in un&#39;app cloud creativo oppure utilizzare un&#39;immagine, una scansione o persino un sito Web.
+Scopri come creare PDF da tutti i diversi tipi di documenti. Inizia con un file creato in Microsoft Office o in un’app per Creative Cloud oppure usa un’immagine, una scansione o un sito Web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35491?hidetitle=true)

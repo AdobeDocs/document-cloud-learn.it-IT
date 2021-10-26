@@ -1,6 +1,6 @@
 ---
-title: Combina file in un PDF
-description: Creare rapidamente un documento combinando diversi tipi di file in un singolo PDF
+title: Combine Files in un unico PDF
+description: Creare rapidamente un documento combinando diversi tipi di file in un unico PDF
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Combina file in un PDF
+# Combinare più file in un unico PDF
 
-In questa esercitazione video di 60 secondi, imparate a creare rapidamente un documento combinando diversi tipi di file in un singolo PDF.
+In questa esercitazione video di 60 secondi, scoprite come creare rapidamente un documento combinando diversi tipi di file in un unico PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336361?hidetitle=true)

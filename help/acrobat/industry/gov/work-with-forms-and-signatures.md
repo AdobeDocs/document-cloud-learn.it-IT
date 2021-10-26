@@ -1,6 +1,6 @@
 ---
-title: '5 Suggerimenti per l''utilizzo in qualsiasi luogo con Acrobat DC: utilizzo di moduli e firme'
-description: Informazioni su come rimanere digitali durante la compilazione dei moduli
+title: 5 consigli per lavorare ovunque con Acrobat DC - Utilizzo di Forms e firme
+description: Scopri come rimanere digitale durante la compilazione dei moduli
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 ---
 
-# 5 Suggerimenti per l&#39;utilizzo in qualsiasi luogo con Acrobat DC: utilizzo di moduli e firme
+# 5 consigli per lavorare ovunque con Acrobat DC - Utilizzo di Forms e firme
 
-Tutti, ad un certo punto, devono compilare moduli. Poiché non sempre si ha accesso a una stampante, imparare a rimanere digitali durante la compilazione dei moduli.
+A un certo punto tutti devono compilare i moduli. Poiché non sempre è possibile accedere a una stampante, è possibile apprendere come mantenere il formato digitale durante la compilazione dei moduli.
 
-## Suggerimento n. 4 - Utilizzo di moduli e firme (7:03)
+## Suggerimento 4 - Utilizzare moduli e firme (7:03)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34512)

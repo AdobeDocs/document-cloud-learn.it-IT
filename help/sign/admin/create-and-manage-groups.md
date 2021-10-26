@@ -1,6 +1,6 @@
 ---
-title: Creazione e gestione di gruppi
-description: Informazioni su come creare gruppi, aggiungere utenti ai gruppi e modificare le impostazioni dei gruppi
+title: Creazione e gestione dei gruppi
+description: Scopri come creare gruppi, aggiungere utenti ai gruppi e modificare le impostazioni dei gruppi
 role: Admin
 product: adobe sign
 solution: Document Cloud
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Creazione e gestione di gruppi
 
-In questa esercitazione video imparate a creare gruppi, aggiungere utenti a gruppi e modificare le impostazioni del gruppo.
+In questa esercitazione video, scoprite come creare gruppi, aggiungere utenti ai gruppi e modificare le impostazioni dei gruppi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17355?hidetitle=true)

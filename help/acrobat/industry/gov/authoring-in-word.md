@@ -1,5 +1,5 @@
 ---
-title: Accesso ai PDF - Creazione in Microsoft Word
+title: Rendere accessibili i PDF - Creazione in Microsoft Word
 description: Creazione di documenti accessibili in Microsoft Word
 role: User
 product: adobe acrobat
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 ---
 
-# Accesso ai PDF - Creazione in Microsoft Word
+# Rendere accessibili i PDF - Creazione in Microsoft Word
 
-Nella seconda esercitazione video della serie Making PDFs Accessible, verranno illustrate le procedure consigliate per la creazione di file PDF creati in Microsoft Word.
+Nella seconda esercitazione video della serie Making PDF Accessible, verranno illustrate le procedure consigliate per la creazione di file PDF creati in Microsoft Word.
 
-## Parte 2 - Authoring in Microsoft Word (2:51)
+## Parte 2 - Creazione in Microsoft Word (2:51)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34513)

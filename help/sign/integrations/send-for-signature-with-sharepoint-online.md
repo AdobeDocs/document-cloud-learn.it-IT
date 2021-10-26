@@ -1,6 +1,6 @@
 ---
-title: Invia per firma in SharePoint Online
-description: Invia un documento per la firma direttamente all'interno di Sharepoint Online
+title: Send for Signature in SharePoint Online
+description: Inviare un documento per la firma direttamente in SharePoint Online
 role: User
 product: adobe sign
 level: Intermediate
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Invia per firma in SharePoint Online
+# Invia per la firma in SharePoint Online
 
-Informazioni su come semplificare i flussi di lavoro dei documenti inviando un documento per la firma direttamente all&#39;interno di Sharepoint Online.
+Scopri come semplificare i flussi di lavoro basati su documenti inviando un documento per la firma direttamente in SharePoint Online.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41263?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Uso di Adobe Sign Inside Microsoft Apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Utilizzo di Adobe Sign nelle app Microsoft](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) disponibile gratuitamente ad Experience League!

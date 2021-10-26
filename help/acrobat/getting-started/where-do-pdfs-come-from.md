@@ -1,6 +1,6 @@
 ---
 title: Da dove vengono i PDF?
-description: Comprendere da dove provengono i PDF e i relativi utilizzi
+description: Comprendere da dove provengono i PDF e i loro usi
 role: User
 product: adobe acrobat
 level: Beginner
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Da dove vengono i PDF?
 
-Scopri da dove provengono i PDF e come possono essere utilizzati nei flussi di lavoro digitali.
+Scopri da dove provengono i PDF e come utilizzarli nei flussi di lavoro digitali.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17096?hidetitle=true)

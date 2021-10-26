@@ -1,6 +1,6 @@
 ---
 title: Sovvenzioni e prestiti alle imprese
-description: Fornire assistenza rapida alle imprese fornendo l'accesso self-service ai moduli di richiesta di concessione, prestito e differimento delle imposte
+description: Fornire assistenza rapida alle aziende fornendo accesso self-service ai moduli di richiesta di sovvenzioni, prestiti e differimento fiscale
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Sovvenzioni e prestiti alle imprese
 
-Fornire assistenza rapida alle imprese fornendo l&#39;accesso self-service ai moduli di richiesta di sovvenzioni, prestiti e differimento delle imposte. Informazioni su come creare un modulo Web online che può essere completato **e** con firma senza stampa o invio di messaggi.
+Fornisci assistenza rapida alle aziende fornendo accesso self-service a moduli di richiesta di sovvenzioni, prestiti e differimento fiscale. Scoprite come creare un modulo web online che può essere completato **e** firmata senza stampare o spedire nulla.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33810?hidetitle=true)
 
-Fare clic per scaricare la ricetta PDF passo per le sovvenzioni e i prestiti aziendali.
+Fai clic per scaricare la ricetta PDF passo-passo per sovvenzioni e prestiti aziendali.
 
-[![Scarica composizione PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)
+[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)

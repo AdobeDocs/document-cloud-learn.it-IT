@@ -1,6 +1,6 @@
 ---
-title: 5 suggerimenti per lavorare ovunque con Acrobat DC—Collaborare sui documenti
-description: Creazione di flussi di lavoro semplici e semplici per la collaborazione su documenti
+title: 5 consigli per lavorare ovunque con Acrobat DC - Collaborare su documenti
+description: Creazione di flussi di lavoro semplici e intuitivi per la collaborazione sui documenti
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 ---
 
-# 5 suggerimenti per lavorare ovunque con Acrobat DC—Collaborare sui documenti
+# 5 consigli per lavorare ovunque con Acrobat DC - Collaborare su documenti
 
-Creazione di flussi di lavoro semplici e facili per la collaborazione sui documenti.
+Crea flussi di lavoro semplici e intuitivi per collaborare ai documenti.
 
-## Suggerimento n. 2 - Collaborazione sui documenti (2:03)
+## Suggerimento 2 - Collaborare sui documenti (2:03)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34509)

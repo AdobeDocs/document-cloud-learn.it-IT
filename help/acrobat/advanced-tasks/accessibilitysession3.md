@@ -1,6 +1,6 @@
 ---
 title: Tabelle complesse
-description: Questa sessione on demand affronta uno dei problemi più comuni e impegnativi per la risoluzione di un PDF per l'accessibilità, ovvero tabelle complesse
+description: Questa sessione on demand risolve uno dei problemi più comuni e complessi nel rimediare alle PDF per l'accessibilità di tabelle complesse
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Tabelle complesse
 
-Questa sessione on demand affronta uno dei problemi più comuni e impegnativi per la risoluzione di un PDF per l&#39;accessibilità, ovvero tabelle complesse.
+Questa sessione on demand risolve uno dei problemi più comuni e impegnativi nel rimediare alle PDF per l&#39;accessibilità di tabelle complesse.
 
-Fare clic su [qui](../assets/accessibilitysession3.zip) per scaricare un file zip dei file in anteprima per la sessione.
+Fai clic su [qui](../assets/accessibilitysession3.zip) per scaricare un file zip dei file pratici per questa sessione.
 
-Selezionare l&#39;immagine per visualizzare il video in una scheda del browser separata.
+Selezionate l’immagine per visualizzare il video in una scheda browser separata.
 
-[![Sessione 3 Video](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target=&quot;_blank&quot;}
+[![Video della terza sessione](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target=&quot;_blank&quot;}

@@ -1,6 +1,6 @@
 ---
-title: Esportare un PDF nei formati di Microsoft Office
-description: Informazioni su come esportare i file PDF in formati modificabili come Microsoft Word, Excel o PowerPoint
+title: Esportare un PDF in formato Microsoft Office
+description: Scopri come esportare i file PDF in formati modificabili come Microsoft Word, Excel o PowerPoint
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Esporta un PDF in formati Microsoft Office
+# Esportare un PDF nei formati Microsoft Office
 
-Informazioni su come esportare i file PDF in formati modificabili, ad esempio Microsoft Word, PowerPoint ed Excel. L&#39;esportazione in un altro formato di file consente di effettuare revisioni significative e aggiornamenti ai documenti.
+Scopri come esportare i file PDF in formati modificabili, ad esempio Microsoft Word, PowerPoint ed Excel. L’esportazione in un altro formato di file consente di apportare modifiche e aggiornamenti significativi ai documenti.
 
 >[!TIP]
 >
->Per esportare più file PDF in un altro formato, provare a utilizzare la procedura guidata [Azione](../advanced-tasks/action.md).
+>Per esportare più file PDF in un altro formato, provate a utilizzare il metodo [Action Wizard](../advanced-tasks/action.md).
 
 <br> 
 
@@ -27,4 +27,4 @@ Informazioni su come esportare i file PDF in formati modificabili, ad esempio Mi
 
 >[!TIP]
 >
->Informazioni su come lavorare con [Acrobat e Microsoft 365](../integrate/integrate-overview.md).
+>Scopri come utilizzare [Acrobat e Microsoft 365](../integrate/integrate-overview.md).

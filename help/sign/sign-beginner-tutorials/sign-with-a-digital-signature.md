@@ -1,6 +1,6 @@
 ---
-title: Cos'è una firma digitale?
-description: Informazioni sulle firme digitali basate su certificati
+title: Cos'è una firma digitale
+description: Scopri di più sulle firme digitali basate su certificati
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Cos&#39;è una firma digitale?
+# Cos&#39;è una firma digitale
 
-Scoprite le firme digitali basate su certificati, che sono conformi alle più severe normative vigenti in tutto il mondo e offrono il massimo livello di garanzia dell&#39;identità di un firmatario.
+Scopri le firme digitali basate su certificati, che sono conformi alle più severe normative legali in tutto il mondo e offrono il massimo livello di garanzia dell&#39;identità di un firmatario.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337130?hidetitle=true)

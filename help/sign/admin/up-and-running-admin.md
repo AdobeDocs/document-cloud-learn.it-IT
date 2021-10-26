@@ -1,6 +1,6 @@
 ---
-title: Funzionamento ed esecuzione per gli amministratori di Adobe Sign
-description: Panoramica di sette aree chiave per consentire agli amministratori di avviare e eseguire rapidamente in Adobe Sign
+title: Funzionalità per gli amministratori di Adobe Sign
+description: Panoramica di sette aree chiave per consentire agli amministratori di iniziare a lavorare rapidamente in Adobe Sign
 role: Admin
 product: adobe sign
 level: Intermediate
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 ---
 
-# Funzionamento ed esecuzione per gli amministratori di Adobe Sign
+# Funzionalità per gli amministratori di Adobe Sign
 
-In questa esercitazione video, imparate le sette aree chiave su cui gli amministratori dovrebbero concentrarsi per iniziare a lavorare rapidamente in Adobe Sign.
+In questa esercitazione video impara le sette aree principali sulle quali gli amministratori devono concentrarsi per iniziare a lavorare rapidamente in Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Guida introduttiva ad Adobe Sign for Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Guida introduttiva ad Adobe Sign per amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) disponibile gratuitamente ad Experience League!

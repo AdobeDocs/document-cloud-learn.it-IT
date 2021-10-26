@@ -1,6 +1,6 @@
 ---
 title: Creazione di un report
-description: Informazioni su come eseguire, salvare e pianificare report in Adobe Sign
+description: Scoprite come eseguire, salvare e pianificare i rapporti in Adobe Sign
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Creazione di un report
 
-In questa esercitazione video imparate come eseguire, salvare e programmare report in Adobe Sign.
+In questa esercitazione video, scoprite come eseguire, salvare e pianificare i rapporti in Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Guida introduttiva ad Adobe Sign for Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Guida introduttiva ad Adobe Sign per amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) disponibile gratuitamente ad Experience League!

@@ -1,6 +1,6 @@
 ---
-title: Creazione di un PDF di foto in un'applicazione immediata
-description: Informazioni su come trascinare un gruppo di JPG sull'icona di Acrobat per creare un PDF
+title: Creare un PDF di foto in un attimo
+description: Scopri come trascinare un gruppo di JPG sull’icona Acrobat per creare un PDF
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Crea un PDF delle foto in un istante
+# Creazione immediata di un PDF di foto
 
-In questa esercitazione video di 60 secondi, imparate a trascinare un gruppo di JPG sull&#39;icona di Acrobat. Fare clic su Sì per creare un PDF a più pagine. Quindi, potete semplicemente trascinare altri file JPG nel pannello Pagine per aggiungere ulteriori pagine al PDF.
+In questa esercitazione video di 60 secondi, scoprite come trascinare un gruppo di JPG sull’icona Acrobat. Fate clic su Sì per creare un PDF multipagina. Potete quindi trascinare più file JPG nel pannello Pagine per aggiungere altre pagine al PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336365?hidetitle=true)

@@ -1,5 +1,5 @@
 ---
-title: Impostazione del mapping dei dati
+title: Configurazione della mappatura dati
 description: Scopri come impostare un mapping dei dati per Adobe Sign in Salesforce
 role: Admin
 product: adobe sign
@@ -14,8 +14,8 @@ ht-degree: 25%
 
 ---
 
-# Impostazione del mapping dei dati in Salesforce
+# Configurazione della mappatura dei dati in Salesforce
 
-Informazioni su come impostare il mapping dei dati per Adobe Sign in Salesforce. Il mapping dei dati consente di richiamare i dati in Salesforce dopo la firma di un accordo.
+Scopri come impostare la mappatura dei dati per Adobe Sign in Salesforce. La mappatura dati consente di riportare i dati in Salesforce dopo la firma di un accordo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17351?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
 title: Compilazione e firma di un documento
-description: Informazioni su come compilare i moduli e aggiungere la firma elettronica ai documenti
+description: Scopri come compilare moduli e aggiungere la tua firma elettronica ai documenti
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Compilazione e firma di un documento
 
-Informazioni su come compilare i moduli e aggiungere la firma elettronica ai documenti.
+Scopri come compilare i moduli E aggiungere la tua firma elettronica ai documenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33660?hidetitle=true)

@@ -1,5 +1,5 @@
 ---
-title: Accessibilità dei PDF - Finitura in Acrobat
+title: Rendere accessibili i PDF - Completamento in Acrobat
 description: Completare la creazione di documenti accessibili in Acrobat DC
 role: User
 product: adobe acrobat
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# Accessibilità dei PDF - Finitura in Acrobat
+# Rendere accessibili i PDF - Completamento in Acrobat
 
-Nella terza esercitazione video, imparerete a rendere accessibile il file PDF utilizzando gli strumenti di Acrobat Pro DC.
+Nella terza esercitazione video, imparerai a rendere il file PDF accessibile utilizzando gli strumenti di Acrobat Pro DC.
 
 >[!NOTE]
 >

@@ -1,6 +1,6 @@
 ---
-title: Carica commenti PDF in InDesign
-description: Informazioni su come caricare i commenti PDF in InDesign dopo una revisione condivisa di Acrobat
+title: Caricare commenti PDF in InDesign
+description: Scoprite come caricare nuovamente i commenti di PDF in InDesign dopo una revisione condivisa di Acrobat
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Carica commenti PDF in InDesign
+# Caricare commenti di PDF in InDesign
 
-In questa esercitazione video di 60 secondi, imparate a caricare i commenti PDF in InDesign dopo una revisione condivisa di Acrobat. Questo flusso di lavoro digitale consente di completare le revisioni in fase di registrazione.
+In questa esercitazione video di 60 secondi, scoprite come caricare nuovamente i commenti di PDF in InDesign dopo una revisione condivisa di Acrobat. Questo flusso di lavoro digitale consente di completare le revisioni in tempi record.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336907?hidetitle=true)

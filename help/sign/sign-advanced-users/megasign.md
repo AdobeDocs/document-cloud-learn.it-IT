@@ -1,6 +1,6 @@
 ---
-title: Raccolta firme in blocco
-description: Informazioni su come raccogliere centinaia di firme contemporaneamente per qualsiasi documento in pochi brevi passaggi
+title: Raccogli firme in blocco
+description: Scopri come raccogliere centinaia di firme contemporaneamente per qualsiasi documento in pochi passaggi
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -14,16 +14,16 @@ ht-degree: 0%
 
 ---
 
-# Raccolta firme in blocco
+# Raccogli le firme in blocco
 
-Scoprite come raccogliere centinaia di firme in pochi brevi passaggi. In questo caso d&#39;uso, tutti ottengono la propria rinuncia alla responsabilità da firmare, e puoi seguire l&#39;avanzamento di ogni singola deroga, in modo da sapere esattamente chi o chi non ha firmato. Ogni firma online che si acquisisce è sicura, sicura e giuridicamente valida.
+Scopri come raccogliere centinaia di firme in pochi passaggi. In questo caso d&#39;uso, tutti possono ottenere la propria rinuncia alla responsabilità da firmare e puoi monitorare l&#39;avanzamento di ogni singola rinuncia in modo da sapere esattamente chi o chi non ha firmato. Ogni firma online acquisita è sicura, sicura e legalmente valida.
 
-Guarda questo ulteriore caso di utilizzo nel mondo reale [Contratto di Telework](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en).
+Scopri questo nuovo mondo reale [Accordo sul telelavoro](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en) esempio di utilizzo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37839?hidetitle=true)
 
-[Scarica file CSV di esempio in formato ZIP](../assets/megasign_merge_sample.zip)
+[Scarica il file CSV di esempio in formato ZIP](../assets/megasign_merge_sample.zip)
 
 >[!TIP]
 >
->Questo video fa parte dei corsi [Attività avanzate per utenti](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) e [Guida introduttiva a Adobe Sign for Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) disponibili gratuitamente su Experience League!
+>Questo video fa parte del [Attività avanzate per gli utenti](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) e [Guida introduttiva ad Adobe Sign per amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) Corsi disponibili gratuitamente ad Experience League!

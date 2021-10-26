@@ -1,6 +1,6 @@
 ---
 title: Configurazione di Adobe Sign per Workday
-description: Informazioni su come configurare Adobe Sign per l'utilizzo diretto in Workday per gestire in modo semplice tutti i documenti HR
+description: Scopri come configurare Adobe Sign per lavorare direttamente in Workday per gestire senza problemi tutti i documenti relativi alle risorse umane
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
@@ -15,6 +15,6 @@ ht-degree: 15%
 
 # Configurazione di Adobe Sign per Workday
 
-Semplificare i flussi di lavoro delle firme e rendere il team ancora più produttivo utilizzando Adobe Sign for Workday. In questa esercitazione video, imparate a configurare Adobe Sign per l&#39;utilizzo diretto all&#39;interno di Workday per gestire in modo semplice tutti i documenti HR.
+Ottimizza i flussi di lavoro di firma e rendi il tuo team ancora più produttivo utilizzando Adobe Sign per Workday. In questa esercitazione video, scopri come configurare Adobe Sign per lavorare direttamente in Workday per gestire senza problemi tutti i documenti relativi alle risorse umane.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39372?hidetitle=true)

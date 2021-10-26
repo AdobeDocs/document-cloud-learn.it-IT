@@ -1,6 +1,6 @@
 ---
 title: Presentazione rapida di Adobe Sign
-description: Visita veloce di Adobe Sign per l'avvio e l'esecuzione
+description: Presentazione rapida di Adobe Sign per iniziare a utilizzarlo
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # Presentazione rapida di Adobe Sign
 
-Effettuate una breve presentazione video dell&#39;area di lavoro di Adobe Sign per l&#39;avvio e l&#39;esecuzione.
+Per iniziare a usare l’area di lavoro di Adobe Sign, fate una breve panoramica video.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41205?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Guida introduttiva a Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Guida introduttiva ad Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) disponibile gratuitamente ad Experience League!
 

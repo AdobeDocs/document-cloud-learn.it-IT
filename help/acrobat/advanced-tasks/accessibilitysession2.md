@@ -1,6 +1,6 @@
 ---
-title: Modifica di un PDF inaccessibile
-description: In questa sessione on demand, informazioni sul flusso di lavoro per convertire un documento di Word e risolvere alcuni problemi di base relativi all'applicazione di tag utilizzando gli strumenti di Acrobat Pro DC mostrati nel webinar dell'introduzione
+title: Modifica di un PDF non accessibile
+description: In questa sessione on demand, scopri il flusso di lavoro per convertire un documento Word e risolvere alcuni problemi di base relativi ai tag utilizzando gli strumenti di Acrobat Pro DC mostrati nel webinar di introduzione
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Modificare un PDF inaccessibile
+# Correggere un PDF inaccessibile
 
-In questa sessione on-demand, informazioni sul flusso di lavoro per convertire un documento di Word e risolvere alcuni problemi di base relativi all&#39;applicazione di tag utilizzando gli strumenti Acrobat Pro DC visualizzati nel webinar dell&#39;introduzione.
+In questa sessione on demand, scopri il flusso di lavoro per convertire un documento Word e risolvere alcuni problemi di base relativi ai tag utilizzando gli strumenti di Acrobat Pro DC mostrati nel webinar di introduzione.
 
-Fare clic su [qui](../assets/accessibilitysession2.zip) per scaricare una cartella zip dei file della sessione di disponibilità.
+Fai clic su [qui](../assets/accessibilitysession2.zip) per scaricare una cartella zip dei file di sessione pratica.
 
-Selezionare l&#39;immagine per visualizzare il video in una scheda del browser separata.
+Selezionate l’immagine per visualizzare il video in una scheda browser separata.
 
-[![Sessione 2 Video](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target=&quot;_blank&quot;}
+[![Video della seconda sessione](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target=&quot;_blank&quot;}

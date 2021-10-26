@@ -1,6 +1,6 @@
 ---
-title: Impostazione del mapping unione
-description: Informazioni su come unire i dati da Salesforce direttamente in un accordo
+title: Impostazione della mappatura unione
+description: Scopri come unire i dati da Salesforce direttamente in un accordo
 role: Admin
 product: adobe sign
 level: Intermediate
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Impostazione del mapping unione in Salesforce
+# Impostazione della mappatura unione in Salesforce
 
-Informazioni su come impostare il mapping di unione per Adobe Sign in Salesforce. Unisci mapping consente di unire i dati da Salesforce direttamente in un accordo.
+Scopri come impostare la mappatura unione per Adobe Sign in Salesforce. La mappatura unione consente di unire i dati di Salesforce direttamente in un accordo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17350?hidetitle=true)

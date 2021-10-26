@@ -1,6 +1,6 @@
 ---
 title: Aggiunta di campi modulo a un PDF con tag
-description: Questa sessione on demand è dedicata all'aggiunta di campi modulo a un PDF con tag precedente
+description: Questa sessione on demand si concentra sull’aggiunta di campi modulo a un PDF con tag in precedenza
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Aggiunta di campi modulo a un PDF con tag
 
-Questa sessione on demand è dedicata all&#39;aggiunta di campi modulo a un PDF con tag in precedenza.
+Questa sessione on demand si concentra sull’aggiunta di campi modulo a un PDF con tag in precedenza.
 
-Fare clic su [qui](../assets/accessibilitysession5.zip) per scaricare un file zip dei file in anteprima per la sessione.
+Fai clic su [qui](../assets/accessibilitysession5.zip) per scaricare un file zip dei file pratici per questa sessione.
 
-Selezionare l&#39;immagine per visualizzare il video in una scheda del browser separata.
+Selezionate l’immagine per visualizzare il video in una scheda browser separata.
 
-[![Sessione 5 Video](../assets/Accessibilitysession5_YT.png)](https://youtu.be/vaM9R-mt5Jo){target=&quot;_blank&quot;}
+[![Video della sessione 5](../assets/Accessibilitysession5_YT.png)](https://youtu.be/vaM9R-mt5Jo){target=&quot;_blank&quot;}

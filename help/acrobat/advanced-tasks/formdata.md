@@ -1,6 +1,6 @@
 ---
-title: Utilizzo dei dati del modulo
-description: Unisci i dati dei campi modulo in un unico foglio di calcolo in Acrobat DC
+title: Operazioni Con I Dati Del Modulo
+description: Unire i dati dei campi modulo in un unico foglio di calcolo in Acrobat DC
 role: User
 product: adobe acrobat
 level: Experienced
@@ -13,28 +13,28 @@ ht-degree: 0%
 
 ---
 
-# Utilizzo dei dati del modulo
+# Operazioni con i dati del modulo
 
-Se si dispone di un set di moduli completati e si desidera compilare i dati, è possibile utilizzare Acrobat DC per unire le risposte in un unico foglio di calcolo.
+Se si dispone di un set di moduli compilati e si devono compilare i dati, è possibile utilizzare Acrobat DC per unire le risposte in un singolo foglio di calcolo.
 
-1. Iniziare inserendo tutti i file PDF in una cartella del computer.
+1. Inizia inserendo tutti i file PDF in una cartella sul computer.
 
-   ![Data modulo Fase 1](../assets/FormData_1.png)
+   ![Dati modulo Fase 1](../assets/FormData_1.png)
 
-1. Apritene uno per i file di modulo in Acrobat DC e selezionate **[!UICONTROL Prepara modulo]** dal centro o dal riquadro Strumenti.
+1. Aprire un file modulo in Acrobat DC e selezionare **[!UICONTROL Prepare Form]** dal centro o dal riquadro Strumenti.
 
-   ![Data modulo Passaggio 2](../assets/FormData_2.png)
+   ![Dati modulo Fase 2](../assets/FormData_2.png)
 
-1. Nel riquadro destro, selezionare **[!UICONTROL Altro, Unisci file di dati in Spreadsheet]**.
+1. Nel riquadro a destra, seleziona **[!UICONTROL Per saperne di più, Unisci file di dati in foglio di calcolo]**.
 
-   ![Data modulo Fase 3](../assets/FormData_3.png)
+   ![Dati modulo Fase 3](../assets/FormData_3.png)
 
-1. Selezionare la cartella creata con le risposte al modulo.
+1. Seleziona la cartella creata con le risposte del modulo.
 
-   ![Data modulo - Passaggio 4](../assets/FormData_4.png)
+   ![Modulo Data Fase 4](../assets/FormData_4.png)
 
    Acrobat estrae i dati da ciascuno e crea un foglio di calcolo di tutti i dati.
 
-Fare clic per scaricare un&#39;esercitazione *PDF dell&#39;esercitazione Utilizzo dei dati del modulo*.
+Fai clic per scaricare un *PDF di Operazioni con i dati del modulo* esercitazione.
 
-[![Download Utilizzo dell&#39;esercitazione](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCFormData.pdf) sui dati del modulo.
+[![Download Esercitazione sull’utilizzo dei dati del modulo](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCFormData.pdf).

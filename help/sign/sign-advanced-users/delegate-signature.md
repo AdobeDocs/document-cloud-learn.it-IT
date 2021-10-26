@@ -1,6 +1,6 @@
 ---
-title: Delega a qualcun altro
-description: Utilizzare il ruolo delegatore per inviare un documento a un intermediario che può quindi instradare il documento per la firma
+title: Delegare a qualcun altro
+description: Utilizzare il ruolo di delegante per inviare un documento a un intermediario che può quindi indirizzare il documento per la firma
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Delega a un altro utente
 
-Informazioni sull&#39;utilizzo del ruolo delegatore per inviare un documento a un intermediario che può quindi indirizzare il documento per la firma.
+Scoprite come utilizzare il ruolo di delegante per inviare un documento a un intermediario che può quindi indirizzare il documento per la firma.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17366?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Attività avanzate per utenti](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Attività avanzate per gli utenti](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) disponibile gratuitamente ad Experience League!

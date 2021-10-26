@@ -1,6 +1,6 @@
 ---
-title: Documenti ed elenchi complessi analizzati
-description: Questa sessione on-demand affronta i problemi più complessi che le persone spesso eseguono, ad esempio documenti digitalizzati ed elenchi complessi
+title: Documenti acquisiti e elenchi complessi
+description: Questa sessione on demand affronta i problemi più complessi che spesso si verificano nelle persone, ad esempio documenti acquisiti da scanner ed elenchi complessi
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Documenti analizzati ed elenchi complessi
+# Documenti acquisiti e elenchi complessi
 
-Questa sessione on demand affronta i problemi più complessi che le persone spesso affrontano, ad esempio i documenti digitalizzati e gli elenchi complessi.
+Questa sessione on demand affronta i problemi più complessi che spesso si verificano nelle persone, come documenti acquisiti da scanner ed elenchi complessi.
 
-Fare clic su [qui](../assets/accessibilitysession4.zip) per scaricare un file zip dei file in anteprima per la sessione.
+Fai clic su [qui](../assets/accessibilitysession4.zip) per scaricare un file zip dei file pratici per questa sessione.
 
-Selezionare l&#39;immagine per visualizzare il video in una scheda del browser separata.
+Selezionate l’immagine per visualizzare il video in una scheda browser separata.
 
-[![Sessione 4 Video](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target=&quot;_blank&quot;}
+[![Video della sessione 4](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target=&quot;_blank&quot;}

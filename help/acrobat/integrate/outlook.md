@@ -1,6 +1,6 @@
 ---
-title: Converti messaggi e-mail e allegati in PDF in [!DNL Outlook]
-description: Informazioni su come distribuire le informazioni in modo più professionale e sicuro all'interno di [!DNL Outlook]
+title: Converti messaggi e-mail e allegati in PDF [!DNL Outlook]
+description: Scopri come distribuire le informazioni in modo più professionale e sicuro all'interno di [!DNL Outlook]
 role: User
 product: adobe acrobat
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Converti messaggi e-mail e allegati in PDF in [!DNL Outlook]
+# Convertire messaggi e allegati e-mail in PDF [!DNL Outlook]
 
-Informazioni su come archiviare i messaggi e-mail e gli allegati in PDF in [!DNL Outlook] per i progetti. Impara a fornire informazioni in modo più professionale e sicuro convertendo automaticamente gli allegati in PDF. Questo strumento è disponibile solo per Windows.
+Scoprite come archiviare i messaggi e-mail e gli allegati in PDF [!DNL Outlook] per i tuoi progetti. Scopri come distribuire le informazioni in modo più professionale e sicuro convertendo automaticamente gli allegati in PDF. Questo strumento è disponibile solo per Windows.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336859?hidetitle=true)

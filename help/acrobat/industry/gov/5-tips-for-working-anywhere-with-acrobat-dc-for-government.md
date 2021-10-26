@@ -1,6 +1,6 @@
 ---
 title: 5 consigli per lavorare ovunque con Acrobat DC
-description: 5 suggerimenti per i dipendenti governativi che lavorano ovunque con Acrobat DC
+description: 5 suggerimenti per i dipendenti pubblici che lavorano ovunque con Acrobat DC
 role: User
 product: adobe acrobat
 level: Beginner
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# 5 suggerimenti per l&#39;utilizzo ovunque con Acrobat DC (15:12)
+# 5 suggerimenti per lavorare ovunque con Acrobat DC (versione completa 15:12)
 
-In questa esercitazione video imparerai come utilizzare gli strumenti in Acrobat DC e le relative app per PC portatili per lavorare da qualsiasi luogo.
+In questa esercitazione video imparerai come ottenere e utilizzare gli strumenti di Acrobat DC e le app mobile correlate per lavorare ovunque ti trovi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34200?chaptermarkers=on)

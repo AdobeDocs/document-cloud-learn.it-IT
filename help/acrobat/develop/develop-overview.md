@@ -1,6 +1,6 @@
 ---
-title: Panoramica sviluppo
-description: Sviluppare software che si integri con Acrobat e Adobe Reader utilizzando JavaScript, Plug-in o IAC
+title: Panoramica sullo sviluppo
+description: Sviluppare software che si integra con Acrobat e Adobe Reader utilizzando JavaScript, plug-in o IAC
 role: Developer
 product: adobe acrobat
 level: Intermediate
@@ -8,22 +8,22 @@ thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
 source-git-commit: ef4a9f39084c7803a9e277182534376298e8fc7f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '94'
+ht-degree: 5%
 
 ---
 
-# Sviluppo di una panoramica
+# Panoramica sullo sviluppo
 
-![Acrobat Sviluppa immagine](../assets/Hero-Develop.png)
+![Immagine di sviluppo di Acrobat](../assets/Hero-Develop.png)
 
-Sviluppare software che si integri con Acrobat e Adobe Reader utilizzando JavaScript, Plug-in o IAC.
+Sviluppate software che si integra con Acrobat e Adobe Reader utilizzando JavaScript, plug-in o IAC.
 
 ## Acrobat SDK
 
-[Acrobat DC SDK](https://www.adobe.io/apis/documentcloud/acrobat.html){target=&quot;_blank&quot;} è un insieme di strumenti che consentono di sviluppare software che interagisce con la tecnologia Acrobat.
+Il [Acrobat DC SDK](https://www.adobe.io/apis/documentcloud/acrobat.html){target=&quot;_blank&quot;} è un set di strumenti che consente di sviluppare software in grado di interagire con la tecnologia Acrobat.
 
-## API di Adobe Document Services
+## Adobe API Document Services
 
-[API per la visualizzazione e la manipolazione incorporate di PDF](https://www.adobe.io/apis/documentcloud/dcsdk/){target=&quot;_blank&quot;} tutorial
-[ di ](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html)Adobe Document Services{target=&quot;_blank&quot;}
+[API per la visualizzazione e la manipolazione dei PDF incorporati](https://www.adobe.io/apis/documentcloud/dcsdk/){target=&quot;_blank&quot;}
+[Adobe di esercitazioni di Document Services](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html){target=&quot;_blank&quot;}

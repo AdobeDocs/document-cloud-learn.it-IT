@@ -1,6 +1,6 @@
 ---
-title: Rendere le schede PDF più accessibili
-description: Informazioni sulle aree chiave dell'accessibilità PDF necessarie per consentire agli utenti delle tecnologie di assistenza, come i lettori dello schermo, di leggere e completare le schede elettorali
+title: Rendere Più Accessibili Le Schede PDF
+description: Informazioni sulle principali aree di accessibilità PDF necessarie per consentire agli utenti di tecnologie di supporto, quali gli screen reader, di leggere e completare il proprio voto
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Rendere più accessibili le schede PDF
 
-Le schede PDF disponibili elettronicamente devono essere accessibili e utilizzabili da tutti gli elettori. Il webinar riguarderà alcune aree chiave di accessibilità PDF necessarie per consentire agli utenti di tecnologie di assistenza, come i lettori di schermo, di leggere e completare le schede elettorali.
+Le schede PDF che sono disponibili elettronicamente devono essere accessibili e utilizzabili da tutti gli elettori. Il presente webinar si occuperà di alcuni settori chiave dell&#39;accessibilità per i PDF, necessari per consentire agli utenti di tecnologie di supporto, quali gli screen reader, di leggere e completare il proprio voto.
 
-La sessione si concentrerà sul miglioramento dell&#39;accessibilità delle schede elettroniche esistenti - per rendere le schede pienamente accessibili e utilizzabili per tutti gli utenti potrebbe essere necessario un processo più completo. Verranno affrontate le modifiche ad alta priorità che possono essere apportate per consentire a un maggior numero di utenti di utilizzare la scheda PDF corrente, inclusi gli utenti non vedenti o con problemi di vista e gli utenti che dipendono da una tastiera per visualizzare e interagire con la scheda.
+La sessione si concentrerà sul miglioramento dell&#39;accessibilità delle schede elettroniche esistenti, per rendere le schede interamente accessibili e utilizzabili per tutti gli utenti può richiedere un processo più completo. Risolveremo i cambiamenti ad alta priorità che possono essere fatti per rendere il tuo attuale voto PDF in grado di essere utilizzato da più utenti, compresi gli utenti che sono ciechi o a bassa visione e gli utenti che dipendono da una tastiera per visualizzare e interagire con il voto.
 
-[Guarda la sessione Rendendo più accessibili le schede PDF](https://event.on24.com/wcc/r/2620020/599427B9BC7DA6BB34A4D46EB0EB1F63)
+[Guarda la sessione per rendere più accessibili le schede PDF](https://event.on24.com/wcc/r/2620020/599427B9BC7DA6BB34A4D46EB0EB1F63)
 
 Data: 2020-09-10

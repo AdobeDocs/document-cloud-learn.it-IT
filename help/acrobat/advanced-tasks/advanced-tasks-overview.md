@@ -1,6 +1,6 @@
 ---
-title: Panoramica attività avanzate
-description: Per andare oltre le nozioni di base, utilizzare questi strumenti avanzati in Acrobat
+title: Panoramica delle attività avanzate
+description: Vai oltre le nozioni di base utilizzando questi strumenti avanzati in Acrobat
 role: User
 product: adobe acrobat
 level: Experienced
@@ -13,24 +13,24 @@ ht-degree: 3%
 
 ---
 
-# Panoramica attività avanzate
+# Panoramica sulle attività avanzate
 
 ![Immagine introduttiva di Acrobat](../assets/Hero-AdvancedTasks.png)
 
-Oltre le nozioni di base con questi strumenti avanzati in Acrobat DC. Informazioni su come creare un&#39;azione per ripetere attività ordinarie, rimuovere informazioni riservate, ridurre e ottimizzare i file di grandi dimensioni, raccogliere rapidamente i dati dei moduli e creare file PDF accessibili a tutti.
+Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat DC. Scoprite come creare un’azione per ripetere le attività ordinarie, rimuovere informazioni riservate, ridurre e ottimizzare file di grandi dimensioni, raccogliere rapidamente i dati dei moduli e creare file PDF accessibili a tutti.
 
-## Esercitazioni di Acrobat
+## Esercitazioni su Acrobat
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="compare.md">
-      <img alt="Rileva differenze tra due PDF" src="../assets/Compare_1280.png" />
+      <img alt="Rilevare le differenze tra due PDF" src="../assets/Compare_1280.png" />
     </a>
     <div>
-    <a href="compare.md"><strong>Rileva differenze tra due PDF</strong></a>
+    <a href="compare.md"><strong>Rilevare le differenze tra due PDF</strong></a>
     </div>
-    <em>Individuazione rapida e precisa delle differenze tra due file PDF per migliorare i flussi di lavoro di revisione dei documenti</em>
+    <em>Rilevamento rapido e accurato delle differenze tra due file PDF per migliorare i flussi di lavoro di revisione dei documenti</em>
     <br>
   </td>
   <td>
@@ -40,39 +40,39 @@ Oltre le nozioni di base con questi strumenti avanzati in Acrobat DC. Informazio
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Creare un'azione per applicare automaticamente un insieme di comandi a uno o più file</em>
+    <em>Creare un’azione per applicare automaticamente un set di comandi a uno o più file</em>
     <br>
   </td>
   <td>
     <a href="redact.md">
-      <img alt="Riproduzione e pulizia" src="../assets/Redact.jpg" />
+      <img alt="Redazione e rimozione" src="../assets/Redact.jpg" />
     </a>
     <div>
-    <a href="redact.md"><strong>Riproduzione e pulizia</strong></a>
+    <a href="redact.md"><strong>Redazione e rimozione</strong></a>
     </div>
-    <em>Rimuovere definitivamente le informazioni riservate o riservate dal PDF</em>
+    <em>Rimuovi in modo permanente informazioni private o riservate dal tuo PDF</em>
     <br>
   </td>  
 </tr>
 <tr>
   <td>
     <a href="reduce.md">
-      <img alt="Ridurre le dimensioni e ottimizzare i file" src="../assets/Reduce.jpg" />
+      <img alt="Ridurre le dimensioni dei file e ottimizzare" src="../assets/Reduce.jpg" />
     </a>
     <div>
-    <a href="reduce.md"><strong>Ridurre le dimensioni e ottimizzare i file</strong></a>
+    <a href="reduce.md"><strong>Ridurre le dimensioni dei file e ottimizzare</strong></a>
     </div>
-    <em>Ridurre i file di grandi dimensioni e ottimizzare i PDF senza compromettere la qualità per la condivisione, la registrazione o l'archiviazione</em>
+    <em>Riduci i file di grandi dimensioni e ottimizza i tuoi PDF senza compromettere la qualità per la condivisione, la pubblicazione o l'archiviazione</em>
     <br>
   </td>
   <td>
     <a href="formdata.md">
-      <img alt="Creazione guidata azione" src="../assets/FormData.jpg" />
+      <img alt="Action Wizard" src="../assets/FormData.jpg" />
     </a>
     <div>
-    <a href="formdata.md"><strong>Utilizzo dei dati del modulo</strong></a>
+    <a href="formdata.md"><strong>Operazioni con i dati del modulo</strong></a>
     </div>
-    <em>Compila dati modulo in un unico foglio di calcolo</em>
+    <em>Compilare i dati del modulo in un singolo foglio di calcolo</em>
     <br>
   </td>
   <td>
@@ -80,9 +80,9 @@ Oltre le nozioni di base con questi strumenti avanzati in Acrobat DC. Informazio
       <img alt="Preparazione dei file PDF accessibili" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Preparazione dei file PDF accessibili</strong></a>
+    <a href="accessibility.md"><strong>Preparazione dei file di PDF accessibili</strong></a>
     </div>
-    <em>Crea file PDF universalmente accessibili</em>
+    <em>Creazione di file PDF universalmente accessibili</em>
     <br>
   </td>
 </tr>
@@ -92,9 +92,9 @@ Oltre le nozioni di base con questi strumenti avanzati in Acrobat DC. Informazio
       <img alt="Preparazione dei file PDF accessibili" src="../assets/Accessibilityseries_1280.png" />
     </a>
     <div>
-    <a href="accessibility-series.md"><strong>Serie Acrobat Accessibility</strong></a>
+    <a href="accessibility-series.md"><strong>Serie Accessibilità di Acrobat</strong></a>
     </div>
-    <em>In questa serie web a sei parti on demand, passare dalle basi dell'accessibilità a un'immersione profonda dei file PDF</em>
+    <em>In questa serie di webinar on demand in sei parti, passa dalle nozioni di base sull’accessibilità a una panoramica approfondita sull’assegnazione di tag ai file PDF</em>
     <br>
   </td>
   <td>

@@ -1,6 +1,6 @@
 ---
-title: Aggiunta di campi modulo a un PDF non contrassegnato
-description: Questa sessione on demand è più dettagliata nella creazione di campi modulo manuali e proprietà aggiuntive del campo modulo
+title: Aggiunta di campi modulo a un PDF senza tag
+description: Questa sessione on demand approfondisce la creazione di campi modulo manuali e proprietà aggiuntive dei campi modulo
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Aggiunta di campi modulo a un PDF non contrassegnato
+# Aggiunta di campi modulo a un PDF senza tag
 
-Questa sessione on-demand è più dettagliata nella creazione di campi modulo manuali e proprietà aggiuntive del campo modulo.
+Questa sessione on demand approfondisce la creazione di campi modulo manuali e proprietà aggiuntive dei campi modulo.
 
-Fare clic su [qui](../assets/accessibilitysession6.zip) per scaricare un file zip dei file in anteprima per la sessione.
+Fai clic su [qui](../assets/accessibilitysession6.zip) per scaricare un file zip dei file pratici per questa sessione.
 
-Selezionare l&#39;immagine per visualizzare il video in una scheda del browser separata.
+Selezionate l’immagine per visualizzare il video in una scheda browser separata.
 
-[![Sessione 6 Video](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw){target=&quot;_blank&quot;}
+[![Video della sessione 6](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw){target=&quot;_blank&quot;}
