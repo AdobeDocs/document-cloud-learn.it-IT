@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,19 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     <em>Scopri come convertire un allegato PowerPoint e-mail in PDF sul telefono</em>
     <br>
   </td>  
- <td>
+  <td>
+    <a href="sign.md">
+      <img alt="Firma elettronica di un documento cartaceo" src="../assets/60sec_Sign_1280.jpg" />
+    </a>
+    <div>
+    <a href="sign.md"><strong>Firma elettronica di un documento cartaceo</strong></a>
+    </div>
+    <em>Scoprite come utilizzare Adobe Scan per firmare un modulo stampato</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
     <a href="indesign.md">
       <img alt="Caricare commenti di PDF in InDesign" src="../assets/60sec_InDesign_1280.jpg" />
     </a>
@@ -85,10 +97,8 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     </div>
     <em>Scoprite come caricare nuovamente i commenti di PDF in InDesign dopo una revisione condivisa di Acrobat</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="editphoto.md">
       <img alt="Modificare una foto nel PDF" src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
@@ -107,8 +117,10 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     </div>
     <em>Scoprite come apportare modifiche avanzate a un elemento grafico del vostro PDF con Illustrator</em>
     <br>
-  </td>  
- <td>
+  </td> 
+</tr>
+<tr>
+  <td>
     <a href="organize.md">
       <img alt="Organizzazione rapida delle pagine" src="../assets/60sec_Organize_1280.jpg" />
     </a>
@@ -116,6 +128,16 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     <a href="organize.md"><strong>Organizzazione rapida delle pagine</strong></a>
     </div>
     <em>Scopri come utilizzare lo strumento Organizza pagine per ottenere una visione a volo d’uccello del tuo PDF</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>  
 </tr>
