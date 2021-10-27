@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: a81b5f4f9c60ecdcf95e4d5555c32e98b031a6ed
+source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -84,6 +84,38 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     <a href="indesign.md"><strong>Caricare commenti di PDF in InDesign</strong></a>
     </div>
     <em>Scoprite come caricare nuovamente i commenti di PDF in InDesign dopo una revisione condivisa di Acrobat</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
+    <a href="editphoto.md">
+      <img alt="Modificare una foto nel PDF" src="../assets/60sec_Editphoto_1280.jpg" />
+    </a>
+    <div>
+    <a href="editphoto.md"><strong>Modificare una foto nel PDF</strong></a>
+    </div>
+    <em>Scoprite come apportare modifiche avanzate a una foto nel PDF con Photoshop</em>
+    <br>
+  </td>
+  <td>
+    <a href="editgraphic.md">
+      <img alt="Modificare un elemento grafico nel PDF" src="../assets/60sec_Editgraphic_1280.jpg" />
+    </a>
+    <div>
+    <a href="editgraphic.md"><strong>Modificare un elemento grafico nel PDF</strong></a>
+    </div>
+    <em>Scoprite come apportare modifiche avanzate a un elemento grafico del vostro PDF con Illustrator</em>
+    <br>
+  </td>  
+ <td>
+    <a href="organize.md">
+      <img alt="Organizzazione rapida delle pagine" src="../assets/60sec_Organize_1280.jpg" />
+    </a>
+    <div>
+    <a href="organize.md"><strong>Organizzazione rapida delle pagine</strong></a>
+    </div>
+    <em>Scopri come utilizzare lo strumento Organizza pagine per ottenere una visione a volo d’uccello del tuo PDF</em>
     <br>
   </td>  
 </tr>
