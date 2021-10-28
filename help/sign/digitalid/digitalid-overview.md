@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 30917ce6eb6d682649a21d486eefa9482339410e
+source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,33 @@ Analogamente a un passaporto in formato elettronico, l&#39;identità digitale (I
 >[!NOTE]
 >
 >Prima di poter utilizzare un ID digitale con una firma cloud, consulta l’amministratore della tua organizzazione per confermare che la soluzione del provider è abilitata in Adobe Sign.
+
+## [!DNL Aadhaar]
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+    <a href="aadhaar-sign.md">
+      <img alt="Firma mediante [!DNL Aadhaar]" src="assets/Aadhaarsign_1280.png" />
+    </a>
+    <div>
+    <a href="aadhaar-sign.md"><strong>Firma mediante [!DNL Aadhaar]</strong></a>
+    </div>
+    <em>Scopri come utilizzare il [!DNL Aadhaar] ID digitale con Adobe Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ## [!DNL Digidentity]
 
