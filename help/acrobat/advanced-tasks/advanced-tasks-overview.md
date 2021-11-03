@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: bfdfb6c9b4d3bb76d8526b0c0f8707c20cf26b5a
+source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '201'
+ht-degree: 2%
 
 ---
 
@@ -40,7 +40,7 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat DC. Scopri
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Creare un’azione per applicare automaticamente un set di comandi a uno o più file</em>
+    <em>Risparmiare tempo e tasti usando un’azione per applicare automaticamente un set di comandi a uno o più comandi</em>
     <br>
   </td>
   <td>
