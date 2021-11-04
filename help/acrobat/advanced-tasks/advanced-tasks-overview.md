@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
+source-git-commit: 19eaddb4279de3cb41675714575ee451089c947c
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '209'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,7 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat DC. Scopri
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Risparmiare tempo e tasti usando un’azione per applicare automaticamente un set di comandi a uno o più comandi</em>
+    <em>Risparmiare tempo e tasti usando un’azione per applicare automaticamente un set di comandi a uno o più file</em>
     <br>
   </td>
   <td>
@@ -77,12 +77,12 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat DC. Scopri
   </td>
   <td>
     <a href="accessibility.md">
-      <img alt="Preparazione dei file PDF accessibili" src="../assets/PreparingAccessible.jpg" />
+      <img alt="Verifica accessibilità PDF" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Preparazione dei file di PDF accessibili</strong></a>
+    <a href="accessibility.md"><strong>Verifica accessibilità PDF</strong></a>
     </div>
-    <em>Creazione di file PDF universalmente accessibili</em>
+    <em>Scopri come verificare se il tuo PDF è universalmente accessibile alle persone diversamente abili</em>
     <br>
   </td>
 </tr>
@@ -94,7 +94,7 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat DC. Scopri
     <div>
     <a href="accessibility-series.md"><strong>Serie Accessibilità di Acrobat</strong></a>
     </div>
-    <em>In questa serie di webinar on demand in sei parti, passa dalle nozioni di base sull’accessibilità a una panoramica approfondita sull’assegnazione di tag ai file PDF</em>
+    <em>In questa serie di webinar on demand in sei parti, passa dalle nozioni di base sull’accessibilità a un’analisi approfondita dell’assegnazione dei tag ai file PDF</em>
     <br>
   </td>
   <td>
