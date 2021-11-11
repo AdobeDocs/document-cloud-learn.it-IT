@@ -4,9 +4,9 @@ description: Adobe Acrobat Skill Builder sono sessioni di 30 minuti progettate p
 product: adobe acrobat
 level: Intermediate
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
+source-git-commit: 4f6de1f7ec3ccd061bcb125a2aaf18c9070f76e1
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '810'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,33 @@ ht-degree: 0%
 Adobe Acrobat Skill Builders è una sessione di 30 minuti progettata per far fare un salto di qualità ai tuoi flussi di lavoro PDF. Ogni mese viene evidenziato un nuovo argomento.
 
 ## Sessioni mensili
+
+* **[PDF forms 101](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
+Data: 24 marzo 2022 Scopri le nozioni di base per lavorare con i PDF forms: Come aggiungere campi modulo a qualsiasi PDF per raccogliere informazioni da altri utenti e come completare e firmare autonomamente un modulo.
+
+* **[Aggiunta di interattività ai PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
+Data: 24 febbraio 2022 Partecipa a questa sessione per scoprire come rendere i tuoi PDF interattivi con video, collegamenti ipertestuali, pulsanti, segnalibri e altro ancora.
+
+* **[Produttività, ovunque ti trovi](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
+Data: 27 gennaio 2022 In questa sessione verrà illustrato come accedere agli strumenti Acrobat preferiti da qualsiasi browser Web o dal dispositivo mobile. Acrobat sul Web ti offre la possibilità di lavorare ovunque ti trovi e l&#39;app mobile Acrobat estende la tua produttività ai contesti in mobilità.
+
+* **[Utilizzo dei PDF nelle app Microsoft](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
+Data: 16 dicembre 2021 Scopri come aggiungere flussi di lavoro PDF alle app Microsoft che usi ogni giorno, tra cui Teams, Outlook, SharePoint e Word, Powerpoint ed Excel.
+
+* **[Collaborazione PDF: Condivisione, revisione e collaborazione](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
+Data: 18 novembre 2021 Scopri il modo più semplice per rivedere i documenti con il tuo team e visualizza una panoramica degli strumenti di creazione commenti disponibili. Parleremo anche della revisione di PDF con altri utenti in Microsoft Teams e di come fornire feedback ovunque si trovino utilizzando l&#39;app mobile Acrobat e Acrobat Web.
+
+* **[Riutilizza i contenuti del tuo PDF: Modifica ed esportazione](https://primetime.bluejeans.com/a2m/events/playback/9eb8dbdb-c6b1-40c9-b826-70a255a59139){target=&quot;_blank&quot;}**
+Data: 28 ottobre 2021 Scopri come modificare i PDF esistenti: modifica testo e immagini, aggiungi collegamenti ipertestuali e segnalibri, converti in file Microsoft Word, PowerPoint ed Excel e altro ancora.
+
+* **[Guida introduttiva ad Acrobat DC](https://primetime.bluejeans.com/a2m/events/playback/98e95413-4743-4377-8649-baf8c10628d4){target=&quot;_blank&quot;}**
+Data: 23 settembre 2021 Inizia a usare Adobe Acrobat e PDF. Lori DeFurio, Principal Product Evangelist di Adobe Document Cloud, vi presenterà l&#39;interfaccia Acrobat DC e vi mostrerà come:
+   * Creare PDF da file di immagini e documenti, tra cui Word, Excel e PowerPoint
+   * Combina più file - PDF, Word, immagini e molto altro - in un unico PDF modificabile
+   * Lavora ovunque in qualsiasi momento con Acrobat Web e Mobile
+
+* **[Opzioni di protezione per i tuoi PDF: Password e redazione](https://acrobat-skill-builder-pdf-security.joinus.adobeevents.com?utm_source=exl&amp;utm_campaign=exl){target=&quot;_blank&quot;}**
+Data: 26 agosto 2021 Scopri come impedire ad altri utenti di visualizzare, modificare o copiare un PDF e scopri come rimuovere definitivamente le informazioni riservate.
 
 * **[Suggerimenti avanzati per la creazione di PDF forms](https://acrobat-skill-builder-advanced-forms.joinus.adobeevents.com/register/registration/form){target=&quot;_blank&quot;}**
 Data: 29 luglio 2021 Hai già visto come Acrobat DC può aiutarti a creare e distribuire facilmente PDF forms. Ora avete l&#39;opportunità di fare molto di più. In una sessione di 30 minuti con suggerimenti avanzati, scopri le gemme nascoste nella finestra di dialogo delle proprietà del campo e aggiungi ulteriori dettagli interattivi.
