@@ -8,9 +8,9 @@ topic-revisit: Integrations
 thumbnail: KT-8494.jpg
 kt: 8494
 exl-id: 8876c886-fe3a-4a51-91c7-0aac0ee4ada7
-source-git-commit: 490175fbcac50fe1bd7abf8bbffad6fd97061660
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -20,3 +20,7 @@ ht-degree: 0%
 Scoprite come archiviare i messaggi e-mail e gli allegati in PDF [!DNL Outlook] per i tuoi progetti. Scopri come distribuire le informazioni in modo più professionale e sicuro convertendo automaticamente gli allegati in PDF. Questo strumento è disponibile solo per Windows.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336859?hidetitle=true)
+
+>[!TIP]
+>
+>Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponibile gratuitamente ad Experience League!

@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 5d32ecf3a2a4a71eb82a0532c1d251495e99eda9
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 2%
+source-wordcount: '219'
+ht-degree: 1%
 
 ---
 
@@ -44,3 +44,7 @@ Ora puoi eseguire l’azione personalizzata in qualsiasi momento per eseguire qu
 Seleziona l&#39;icona PDF per scaricare il *Action Wizard* esercitazione.
 
 [![Esercitazione per il download dell’Action Wizard](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).
+
+>[!TIP]
+>
+>Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponibile gratuitamente ad Experience League!

@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 490175fbcac50fe1bd7abf8bbffad6fd97061660
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -25,3 +25,7 @@ Adobe Acrobat for Teams consente agli utenti di collaborare e lavorare con i col
 * Collaborazione sicura: collabora in modo sicuro con membri affidabili e mantieni la possibilità di archiviare versioni dei documenti in [!DNL Microsoft SharePoint] o [!DNL OneDrive]
 
 >[!VIDEO](https://video.tv.adobe.com/v/331277?hidetitle=true)
+
+>[!TIP]
+>
+>Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponibile gratuitamente ad Experience League!

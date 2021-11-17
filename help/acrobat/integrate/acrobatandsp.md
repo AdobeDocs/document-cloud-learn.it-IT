@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: ed5786b2b3c440033f1cbd92bfa9729cbb027cdb
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -23,3 +23,7 @@ Ottimizza i flussi di lavoro basati su documenti con [!DNL SharePoint] e Acrobat
 >Adobe Acrobat per [!DNL SharePoint], [!DNL OneDrive]e [!DNL Office 365] include funzioni gratuite (ad esempio la visualizzazione e la ricerca nei PDF) disponibili per tutti gli utenti. Alcune funzionalità (come la creazione e la combinazione di PDF) richiedono un abbonamento a pagamento ad Acrobat DC for teams o Acrobat DC for enterprise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)
+
+>[!TIP]
+>
+>Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponibile gratuitamente ad Experience League!

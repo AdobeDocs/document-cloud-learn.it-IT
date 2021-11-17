@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-8496.jpg
 kt: 8496
 exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
-source-git-commit: fd48e13ce27554d84618ea6b7b67b26b8318c485
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -23,3 +23,7 @@ Non commettere mai l&#39;errore di lavorare con la versione errata di un file. R
 >Disponibile solo in Acrobat Pro DC.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337211?hidetitle=true)
+
+>[!TIP]
+>
+>Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponibile gratuitamente ad Experience League!
