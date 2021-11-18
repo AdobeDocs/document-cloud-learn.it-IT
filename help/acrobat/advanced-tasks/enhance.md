@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: c27632c8a4ed98d75120062bb0ee976a3bb9fb21
+source-git-commit: e3a2ea5687ac123e88a051f320df2d4051cb63d7
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,9 @@ In questa esercitazione pratica, scopri come trasformare il tuo PDF aggiungendo 
 
 >[!TIP]
 >
->[![Scarica file](../assets/Getfiles.png)](../assets/Enhance.zip)
-> Scarica questi file di esempio per le esercitazioni (ZIP, 342 KB)
+>Scarica questi file di esempio per le esercitazioni (ZIP, 342 KB)
+
+[![Ottieni file](../assets/Getfiles.png)](../assets/Enhance.zip)
 
 ## Scopri come aggiungere grafica di sfondo
 
