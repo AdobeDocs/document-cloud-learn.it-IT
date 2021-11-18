@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: c27632c8a4ed98d75120062bb0ee976a3bb9fb21
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,10 @@ ht-degree: 0%
 
 In questa esercitazione pratica, scopri come trasformare il tuo PDF aggiungendo miglioramenti grafici e numerazione automatica.
 
-<br> 
-
-## Cosa ti serve
-
-[![Scarica file](../assets/Getfiles.png)](../assets/Enhance.zip)
-File di esempio per le esercitazioni (ZIP, 342 KB)
-
-<br> 
+>[!TIP]
+>
+>[![Scarica file](../assets/Getfiles.png)](../assets/Enhance.zip)
+> Scarica questi file di esempio per le esercitazioni (ZIP, 342 KB)
 
 ## Scopri come aggiungere grafica di sfondo
 
@@ -39,7 +35,7 @@ L’aggiunta di sfondi consente di aggiungere elementi visivi al PDF senza torna
 1. Apri *Altura Technology Employee Handbook.pdf* dai file di esempio.
 1. Seleziona **Edit PDF** nel riquadro a destra.
 1. Seleziona **Altro > Sfondo > Aggiungi**.
-1. Seleziona **Opzioni intervallo pagine...** e scegli da 2 a 26 sotto il **Pagine da:** , quindi seleziona **OK**.
+1. Seleziona **Opzioni intervallo pagine...** e scegliere da 2 a 26 in **Pagine da** , quindi seleziona **OK**.
 1. Sotto l’opzione Sorgente, scegli **File** e seleziona **Sfoglia** per aggiungere la proprietà *Background Graphic.pdf* file di esempio.
 1. Seleziona **OK** per aggiungere la grafica di sfondo.
 
