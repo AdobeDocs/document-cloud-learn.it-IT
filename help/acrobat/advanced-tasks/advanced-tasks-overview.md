@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: cf207a5bda859635de879758aae307689b708678
+source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '224'
 ht-degree: 2%
 
 ---
@@ -23,6 +23,16 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat DC. Scopri
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="enhance.md">
+      <img alt="Migliora il tuo PDF" src="../assets/Enhance_1280.png" />
+    </a>
+    <div>
+    <a href="enhance.md"><strong>Migliora il tuo PDF</strong></a>
+    </div>
+    <em>Trasforma il tuo PDF aggiungendo decorazioni grafiche e numerazione automatica</em>
+    <br>
+  </td>
   <td>
     <a href="compare.md">
       <img alt="Rilevare le differenze tra due PDF" src="../assets/Compare_1280.png" />
@@ -42,7 +52,9 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat DC. Scopri
     </div>
     <em>Risparmiare tempo e tasti usando un’azione per applicare automaticamente un set di comandi a uno o più file</em>
     <br>
-  </td>
+  </td>  
+</tr>
+<tr>
   <td>
     <a href="redact.md">
       <img alt="Redazione e rimozione" src="../assets/Redact.jpg" />
@@ -52,9 +64,7 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat DC. Scopri
     </div>
     <em>Rimuovi in modo permanente informazioni private o riservate dal tuo PDF</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="reduce.md">
       <img alt="Ridurre le dimensioni dei file e ottimizzare" src="../assets/Reduce.jpg" />
@@ -75,6 +85,8 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat DC. Scopri
     <em>Compilare i dati del modulo in un singolo foglio di calcolo</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility.md">
       <img alt="Verifica accessibilità PDF" src="../assets/Checkingaccessible_1280.jpg" />
@@ -85,8 +97,6 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat DC. Scopri
     <em>Scopri come verificare se il tuo PDF è universalmente accessibile alle persone diversamente abili</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="Preparazione dei file PDF accessibili" src="../assets/Accessibilityseries_1280.png" />
@@ -95,11 +105,6 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat DC. Scopri
     <a href="accessibility-series.md"><strong>Serie Accessibilità di Acrobat</strong></a>
     </div>
     <em>In questa serie di webinar on demand in sei parti, passa dalle nozioni di base sull’accessibilità a un’analisi approfondita dell’assegnazione dei tag ai file PDF</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
