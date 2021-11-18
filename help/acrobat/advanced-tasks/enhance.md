@@ -1,27 +1,28 @@
 ---
 title: Migliora il tuo PDF
-description: Scopri come trasformare il tuo PDF aggiungendo elementi grafici e numerazione automatica
+description: Scopri come trasformare il tuo PDF aggiungendo miglioramenti grafici e numerazione automatica
 role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 8aef75c4b6317ce72dad3c57ca46dd1f4636ef23
+source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
 # Migliora il tuo PDF
 
-Scopri come trasformare il tuo PDF aggiungendo elementi grafici e numerazione automatica.
+In questa esercitazione pratica, scopri come trasformare il tuo PDF aggiungendo miglioramenti grafici e numerazione automatica.
 
 <br> 
 
 ## Cosa ti serve
 
-[![Scarica file](../assets/Getfiles.png)](../assets/Enhance.zip)   File di esempio per le esercitazioni (ZIP, 342 KB)
+[![Scarica file](../assets/Getfiles.png)](../assets/Enhance.zip)
+File di esempio per le esercitazioni (ZIP, 342 KB)
 
 <br> 
 
