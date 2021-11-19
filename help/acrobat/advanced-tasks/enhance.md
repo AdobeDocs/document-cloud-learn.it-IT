@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: e3a2ea5687ac123e88a051f320df2d4051cb63d7
+exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
+source-git-commit: b9fa2e683c88094f1fa92628c04f5d2bd4c00b94
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -19,9 +20,9 @@ In questa esercitazione pratica, scopri come trasformare il tuo PDF aggiungendo 
 
 >[!TIP]
 >
->Scarica questi file di esempio per le esercitazioni (ZIP, 342 KB)
+>[Scarica questi file di esempio](../assets/Enhance.zip) per le esercitazioni (ZIP, 342 KB)
 
-[![Ottieni file](../assets/Getfiles.png)](../assets/Enhance.zip)
+[![Ottieni file](../assets/Getfiles.svg)](../assets/Enhance.zip)
 
 ## Scopri come aggiungere grafica di sfondo
 
@@ -61,5 +62,3 @@ L’aggiunta di nuove intestazioni o piè di pagina consente di creare file di P
 1. Scegliete 0,7 nella **Inferiore** riquadro della sezione Margini.
 1. Seleziona **Salva impostazioni**, digitare Revision 3.0 nella casella e selezionare **OK**.
 1. Seleziona **OK** per applicare il nuovo piè di pagina al PDF.
-
-
