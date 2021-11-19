@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 912ddee4f8bb9a5f6854908aeb8f1aabd98db910
+source-git-commit: fbf25815db0f441874f7afaf9ffdbdcddfad70da
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -18,16 +18,9 @@ ht-degree: 0%
 
 In questa esercitazione pratica, scopri come trasformare il tuo PDF aggiungendo miglioramenti grafici e numerazione automatica.
 
-<table style="table-layout:auto">
-<tr>
-  <td>
-   <img alt="Scarica file" src="../assets/Getfiles.svg" />
-  </td>
-  <td>
-    Scarica questi file di esempio per le esercitazioni (ZIP, 342 KB)
-  </td>
-</tr>
-</table>
+[![Scarica file](../assets/Getfiles.svg)](../assets/Enhance.zip)   Scarica questi file di esempio per le esercitazioni (ZIP, 342 KB)
+
+<br> 
 
 ## Scopri come aggiungere grafica di sfondo
 
@@ -65,14 +58,14 @@ L’aggiunta di nuove intestazioni o piè di pagina consente di creare file di P
 1. Immettere 2 nel parametro **Pagina di anteprima** scatola.
 1. Nella sezione Font, selezionate Grassetto calibri nel menu **Nome** a discesa.
 Selezionare 12 nella **Dimensioni** e scegliete un colore bianco.
-1. Type Altura Technology Confidential nel **Testo piè di pagina sinistro** scatola.
+1. Tipo *Altura Technology Confidential* nel **Testo piè di pagina sinistro** scatola.
 1. Seleziona **Inserisci numero pagina** nel **Centra testo piè di pagina** scatola.
-1. Type Revision 3.0 nel **Testo a piè di pagina destro** scatola.
+1. Tipo *Revisione 3.0* nel **Testo a piè di pagina destro** scatola.
 1. Seleziona **Numero pagina e formato data**.
 Immettere 2 in **Numero pagina iniziale** e seleziona **OK**.
 1. Seleziona **Opzioni intervallo pagine...**.
 Immettere da 2 a 26 sotto il **Pagine da:** , quindi seleziona **OK**.
 1. Immettere 0,7 nella **Inferiore** riquadro della sezione Margini.
 1. Seleziona **Salva impostazioni**.
-Digitare Revision 3.0 nella casella e selezionare **OK**.
+Tipo *Revisione 3.0* nella casella e seleziona **OK**.
 1. Seleziona **OK** per applicare il nuovo piè di pagina al PDF.
