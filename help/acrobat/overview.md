@@ -1,14 +1,14 @@
 ---
 title: Esercitazioni
-description: Una raccolta di esercitazioni, webinar e esempi di utilizzo per Adobe Acrobat DC
+description: Una raccolta di esercitazioni, webinar e esempi di utilizzo per Adobe Acrobat
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 5%
 
 ---

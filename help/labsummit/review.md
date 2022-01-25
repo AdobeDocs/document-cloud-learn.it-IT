@@ -3,16 +3,16 @@ title: Condivisione di file PDF e revisione online
 description: Scopri alcuni trucchi e suggerimenti per utilizzare Adobe Document Cloud
 solution: Document Cloud
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 790f1dd6bdf8755c2a4891be33b9c3fa0052ae9b
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '521'
 ht-degree: 26%
 
 ---
 
 # Condivisione di file PDF e revisione online
 
-Utilizzate il servizio di revisione Adobe Document Cloud per condividere facilmente i file PDF per la revisione dall&#39;applicazione desktop Acrobat DC, dal Web di Document Cloud o dall&#39;app mobile Acrobat Reader. Quando un revisore fa clic sull’URL nell’e-mail di invito sul proprio computer, può fornire i suoi commenti in un normale browser, senza dover accedere ad alcun servizio né installare alcun software aggiuntivo.
+Utilizzate il servizio di revisione Adobe Document Cloud per condividere facilmente i file PDF per la revisione dall&#39;applicazione desktop Acrobat, dal Web di Document Cloud o dall&#39;app mobile Acrobat Reader. Quando un revisore fa clic sull’URL nell’e-mail di invito sul proprio computer, può fornire i suoi commenti in un normale browser, senza dover accedere ad alcun servizio né installare alcun software aggiuntivo.
 
 In questo esercizio esaminiamo come,
 

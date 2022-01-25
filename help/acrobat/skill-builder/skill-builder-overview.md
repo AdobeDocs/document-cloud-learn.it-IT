@@ -1,21 +1,21 @@
 ---
 title: Acrobat DC Skill Builders
-description: Impara a usare Acrobat DC con questi generatori di competenze interattivi
+description: Impara a usare Acrobat con questi generatori di competenze interattivi
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: 44e5709089c40474fae3646da79577a1cf6c2761
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
 # Acrobat Skill Builders
 
-Accedi subito ad Acrobat DC con questi generatori di competenze interattivi. Oppure, unisci un [sessione live mensile](skill-builder-webinars.md).
+Accedi subito ad Acrobat con questi generatori di competenze interattivi. Oppure, unisci un [sessione live mensile](skill-builder-webinars.md).
 
 ![Immagine di Acrobat Skill Builder](../assets/Hero-SkillBuilders.png)
 

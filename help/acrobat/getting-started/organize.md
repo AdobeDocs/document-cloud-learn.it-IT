@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 1f085348bf86e593e54d8a6851365d1c862c6610
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '163'
 ht-degree: 2%
 
 ---
 
 # Organizza pagine
 
-Utilizzo **[!UICONTROL Organizza pagine]** in Acrobat DC per aggiungere, sostituire, estrarre, ruotare, eliminare e spostare le pagine nella PDF.
+Utilizzo **[!UICONTROL Organizza pagine]** in Acrobat per aggiungere, sostituire, estrarre, ruotare, eliminare e spostare le pagine nella PDF.
 
 1. Seleziona **[!UICONTROL Organizza pagine]** dal [!UICONTROL Strumenti] riquadro centrale o destro.
 

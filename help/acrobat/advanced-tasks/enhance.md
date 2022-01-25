@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 20fc08c045a8ade2ebd4994e9d6295a18c9f33a2
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Usa lo strumento Modifica per aggiungere grafica di sfondo al tuo PDF.
 
 <br> 
 
-**Cosa hai imparato: Per aggiungere elementi grafici di sfondo al PDF con lo strumento Modifica.**
+## Cosa hai imparato: Per aggiungere elementi grafici di sfondo al PDF
 
 L’aggiunta di sfondi consente di aggiungere elementi visivi al PDF senza tornare al file o all’applicazione sorgente originale.
 
@@ -55,7 +55,7 @@ Usa lo strumento Modifica per aggiungere un nuovo piè di pagina al tuo PDF.
 
 <br> 
 
-**Cosa hai imparato: Per aggiungere un nuovo piè di pagina al tuo PDF.**
+## Cosa hai imparato: Per aggiungere un nuovo piè di pagina al PDF
 
 L’aggiunta di nuove intestazioni o piè di pagina consente di creare file di PDF uniformi per una migliore esperienza di visualizzazione.
 

@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: ef4a9f39084c7803a9e277182534376298e8fc7f
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 5%
 
 ---
@@ -21,7 +21,7 @@ Sviluppate software che si integra con Acrobat e Adobe Reader utilizzando JavaSc
 
 ## Acrobat SDK
 
-Il [Acrobat DC SDK](https://www.adobe.io/apis/documentcloud/acrobat.html){target=&quot;_blank&quot;} è un set di strumenti che consente di sviluppare software in grado di interagire con la tecnologia Acrobat.
+Il [Acrobat SDK](https://www.adobe.io/apis/documentcloud/acrobat.html){target=&quot;_blank&quot;} è un set di strumenti che consente di sviluppare software in grado di interagire con la tecnologia Acrobat.
 
 ## Adobe API Document Services
 
