@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -33,6 +33,8 @@ Lo strumento Prepare Form consente di aggiungere automaticamente i campi modulo 
 >[!TIP]
 >
 >Attiva gli acceleratori a tasto singolo nelle Preferenze nella categoria Generali.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
 
@@ -89,6 +91,8 @@ Le proprietà Comb vengono utilizzate per distribuire uniformemente il testo lun
 
 ## Impostare le proprietà di più campi contemporaneamente, l’ordine di tabulazione e proteggere un modulo
 
+<br> 
+
 >[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
@@ -104,13 +108,13 @@ Per impostare le proprietà di più campi contemporaneamente, l&#39;ordine di ta
 
 L’impostazione dell’ordine di tabulazione consente di spostare facilmente il modulo da un campo all’altro durante la compilazione del modulo.
 
-1. Digitate Maiusc + N per visualizzare l’ordine di tabulazione.
+1. Tipo *Maiusc + N* per visualizzare l&#39;ordine di tabulazione.
 1. Spostare la *Sede centrale* sotto il *Numero di dipendenti* nel riquadro a destra.
 1. Spostare la *Inizio progetto* e *Fine progetto* campi sotto il *INDIRIZZO E-MAIL* nel riquadro a destra.
 
 La protezione di un modulo garantisce che i campi o il contenuto del documento non possano essere modificati.
 
-1. Digita Ctrl + D (Comando + D sul Mac) per visualizzare il **Proprietà documento** di dialogo.
+1. Tipo *Ctrl + D (Comando + D sul Mac)* per visualizzare il **Proprietà documento** di dialogo.
 1. Selezionate la proprietà **Sicurezza** tab.
 1. Seleziona **Protezione con password** sotto il **Metodo di protezione:** a discesa.
 1. Verifica **Limitare la modifica e la stampa del documento. Per modificare queste impostazioni di autorizzazione, verrà richiesta una password.**
