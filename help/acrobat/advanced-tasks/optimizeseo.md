@@ -5,9 +5,10 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
-source-git-commit: 388ef8f5d320ecdcd0d5167b83728302c2ea473e
+exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
+source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '655'
 ht-degree: 0%
 
 ---
@@ -71,7 +72,7 @@ Questo passaggio riduce le dimensioni del file e abilita **Visualizzazione Web v
 
 ## Creare un nome file di parola chiave
 
-Il nome del file diventa parte dell’URL quando un PDF viene pubblicato sul Web. È consigliabile abbinare il titolo ottimizzato per le parole chiave al nome del file. Per migliorare la ricerca: usa lettere minuscole, nessuna punteggiatura o hash ed evita le parole di interruzione (a, an, the e, it, for o, but, in, my, your, our e their, ecc.). Se usate parole separate, aggiungete un trattino o un carattere di sottolineatura tra le parole.
+Il nome del file diventa parte dell’URL quando un PDF viene pubblicato sul Web. È buona norma abbinare il titolo ottimizzato per le parole chiave al nome del file. Per migliorare la ricerca: usa lettere minuscole, nessuna punteggiatura o hash ed evita le parole di interruzione (a, an, the e, it, for o, but, in, my, your, our e their, ecc.). Se usate parole separate, aggiungete un trattino o un carattere di sottolineatura tra le parole.
 
 ## Proteggi il tuo PDF
 
