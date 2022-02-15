@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '218'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ Risparmiate tempo e tasti usando un’azione per applicare automaticamente un se
 
 >[!NOTE]
 >
->Disponibile solo in Acrobat Pro DC.
+>Disponibile solo in Acrobat Pro.
 
 1. Seleziona **[!UICONTROL Action Wizard]** dal [!UICONTROL Strumenti] riquadro centrale o destro.
 

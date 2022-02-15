@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 2cb4368511dc41bac8f64ddddb2d8d0647488ef5
+source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '248'
 ht-degree: 7%
 
 ---
@@ -19,7 +19,7 @@ Riduci i file di grandi dimensioni e ottimizza i tuoi PDF senza compromettere la
 
 >[!NOTE]
 >
->Disponibile solo in Acrobat Pro DC.
+>Disponibile solo in Acrobat Pro.
 
 1. Seleziona **[!UICONTROL Optimize PDF]** dal [!UICONTROL Strumenti] riquadro centrale o destro.
 
