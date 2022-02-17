@@ -1,15 +1,15 @@
 ---
 title: Acrobat Panoramica Di 60 Secondi
-description: Acrobat di 60 secondi offre tutorial di dimensioni ridotte per imparare un nuovo trucco in Acrobat DC in un minuto o meno
+description: Acrobat di 60 secondi offre tutorial di dimensioni ridotte per imparare un nuovo trucco in Acrobat in un minuto o meno
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
+source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '529'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,75 @@ ht-degree: 0%
 
 ![Immagine Acrobat di 60 secondi](../assets/Hero-60sec.png)
 
-Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi trucchi in Acrobat DC in un minuto o meno. Questi suggerimenti basati su attività consentono di acquisire nuove competenze per lavorare con i file PDF sbloccando alcune delle gemme nascoste di Acrobat. Puoi guardarne uno per ottenere una risposta rapida o guardarne cinque per aumentare la produttività dei documenti e avere comunque il tempo di godersi la pausa caffè.
+Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi trucchi in Acrobat in un minuto o meno. Questi suggerimenti basati su attività consentono di acquisire nuove competenze per lavorare con i file PDF sbloccando alcune delle gemme nascoste di Acrobat. Puoi guardarne uno per ottenere una risposta rapida o guardarne cinque per aumentare la produttività dei documenti e avere comunque il tempo di godersi la pausa caffè.
 
 ## Esercitazioni di Acrobat di 60 secondi
 
 <table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="optimize.md">
+      <img alt="Creazione immediata di file PDF più efficienti" src="../assets/60sec_Optimize_1280.jpg" />
+    </a>
+    <div>
+    <a href="optimize.md"><strong>Creazione immediata di file PDF più efficienti</strong></a>
+    </div>
+    <em>Con lo strumento Optimize PDF puoi ridurre notevolmente le dimensioni dei file PDF</em>
+    <br>
+  </td>
+  <td>
+    <a href="protect.md">
+      <img alt="Protect i file PDF con una password" src="../assets/60sec_Protect_1280.jpg" />
+    </a>
+    <div>
+    <a href="protect.md"><strong>Protect i file PDF con una password</strong></a>
+    </div>
+    <em>Protect un PDF in modo che sia necessaria una password per aprire o modificare il PDF</em>
+    <br>
+  </td>
+  <td>
+    <a href="wordform.md">
+      <img alt="Convertire Word in PDF, inclusi i campi modulo" src="../assets/60sec_Wordform_1280.jpg" />
+    </a>
+    <div>
+     <a href="wordform.md"><strong>Convertire Word in PDF, inclusi i campi modulo</strong></a>
+    </div>
+    <em>Converti file Word e moduli in PDF e crea automaticamente campi modulo</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="accessible.md">
+      <img alt="Consenti ad Acrobat di creare PDF accessibili" src="../assets/60sec_Accessible_1280.jpg" />
+    </a>
+    <div>
+    <a href="accessible.md"><strong>Consenti ad Acrobat di creare PDF accessibili</strong></a>
+    </div>
+    <em>Verificare se un PDF è accessibile</em>
+    <br>
+  </td>
+  <td>
+    <a href="exportwordphone.md">
+      <img alt="Export PDF a Word dal telefono" src="../assets/60sec_Exportphone_1280.jpg" />
+    </a>
+    <div>
+    <a href="exportwordphone.md"><strong>Export PDF a Word dal telefono</strong></a>
+    </div>
+    <em>Convertire un file PDF in un documento Microsoft Word completamente modificabile con l'app mobile Acrobat</em>
+    <br>
+  </td>
+  <td>
+    <a href="textrecognition.md">
+      <img alt="Riconoscere il testo in un file PDF acquisito da scanner" src="../assets/60sec_Textrecognition_1280.jpg" />
+    </a>
+    <div>
+     <a href="textrecognition.md"><strong>Riconoscere il testo in un file PDF acquisito da scanner</strong></a>
+    </div>
+    <em>Convertire un PDF acquisito mediante scansione per consentire la ricerca di testo nel PDF</em>
+    <br>
+  </td>
+</tr>
 <tr>
   <td>
     <a href="combine-to-one-pdf.md">

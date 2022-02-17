@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: f9b2d1afb21b3b6b67fbc8f2ef7f5f0b8aa80d0c
+source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 10%
+source-wordcount: '387'
+ht-degree: 9%
 
 ---
 
@@ -61,6 +61,12 @@ ht-degree: 10%
       + [Aggiunta di campi modulo a un PDF senza tag](advanced-tasks/accessibilitysession6.md)
 + Acrobat di 60 secondi {#60-second}
    + [Panoramica](60-second/60-second-overview.md)
+   + [Creazione immediata di file PDF più efficienti](60-second/optimize.md)
+   + [Protect i file PDF con una password](60-second/protect.md)
+   + [Convertire Word in PDF, inclusi i campi modulo](60-second/wordform.md)
+   + [Consenti ad Acrobat di creare PDF accessibili](60-second/accessible.md)
+   + [Export PDF a Word dal telefono](60-second/exportwordphone.md)
+   + [Riconoscere il testo in un file PDF acquisito da scanner](60-second/textrecognition.md)
    + [Combinare più file in un unico PDF](60-second/combine-to-one-pdf.md)
    + [Modificare il PDF con Acrobat Web](60-second/edit.md)
    + [Ricerca di più file PDF contemporaneamente](60-second/search.md)
