@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '299'
 ht-degree: 4%
 
 ---
@@ -23,6 +23,16 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="custom.md">
+      <img alt="Comandi e strumenti personalizzati" src="../assets/Createcustom_1280.png" />
+    </a>
+    <div>
+    <a href="custom.md"><strong>Comandi e strumenti personalizzati</strong></a>
+    </div>
+    <em>Migliorare la produttività del flusso di lavoro dei documenti utilizzando comandi e set di strumenti personalizzati</em>
+    <br>
+  </td>
   <td>
     <a href="advancedforms.md">
       <img alt="Campi modulo avanzati" src="../assets/Advancedforms_1280.png" />
@@ -43,6 +53,8 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Ottimizza le PDF per una migliore visibilità e la classificazione dei motori di ricerca sul web</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="workforms.md">
       <img alt="Utilizzo dei campi modulo" src="../assets/Workform_1280.png" />
@@ -53,8 +65,6 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Aggiungere diversi tipi di campi modulo, impostare le proprietà dei campi modulo e aggiungere protezione per creare moduli professionali di alta qualità</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="Migliora il tuo PDF" src="../assets/Enhance_1280.png" />
@@ -74,7 +84,9 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     </div>
     <em>Rilevamento rapido e accurato delle differenze tra due file PDF</em>
     <br>
-  </td> 
+  </td>   
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -84,9 +96,7 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     </div>
     <em>Risparmiare tempo e tasti usando un’azione per applicare automaticamente un set di comandi a uno o più file</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="redact.md">
       <img alt="Redazione e rimozione" src="../assets/Redact.jpg" />
@@ -107,7 +117,9 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Riduci i file di grandi dimensioni e ottimizza i tuoi PDF senza compromettere la qualità per la condivisione, la pubblicazione o l'archiviazione</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
     </a>
@@ -117,8 +129,6 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Compilare i dati del modulo in un singolo foglio di calcolo</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessibility.md">
       <img alt="Verifica accessibilità PDF" src="../assets/Checkaccessible_1280.jpg" />
@@ -129,7 +139,7 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Verifica che il tuo PDF sia universalmente accessibile alle persone diversamente abili</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="accessibility-series.md">
       <img alt="Preparazione dei file PDF accessibili" src="../assets/Accessibilityseries_1280.png" />
     </a>
@@ -137,11 +147,6 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <a href="accessibility-series.md"><strong>Serie Accessibilità di Acrobat</strong></a>
     </div>
     <em>In questa serie di webinar on demand in sei parti, passa dalle nozioni di base sull’accessibilità a un’analisi approfondita dell’assegnazione dei tag ai file PDF</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
