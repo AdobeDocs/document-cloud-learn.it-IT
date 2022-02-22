@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
+source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 4%
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Immagine introduttiva di Acrobat](../assets/Hero-AdvancedTasks.png)
 
-Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite come creare un’azione per ripetere le attività ordinarie, rimuovere informazioni riservate, ridurre e ottimizzare file di grandi dimensioni, raccogliere rapidamente i dati dei moduli e creare file PDF accessibili a tutti.
+Go beyond the basics with these advanced tools in Acrobat. Scoprite come creare un’azione per ripetere le attività ordinarie, rimuovere informazioni riservate, ridurre e ottimizzare file di grandi dimensioni, raccogliere rapidamente i dati dei moduli e creare file PDF accessibili a tutti.
 
 ## Esercitazioni su Acrobat
 
@@ -30,7 +30,7 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <div>
     <a href="custom.md"><strong>Comandi e strumenti personalizzati</strong></a>
     </div>
-    <em>Migliorare la produttività del flusso di lavoro dei documenti utilizzando comandi e set di strumenti personalizzati</em>
+    <em>Migliorare la produttività del flusso di lavoro dei documenti utilizzando comandi e strumenti personalizzati</em>
     <br>
   </td>
   <td>
@@ -45,12 +45,12 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
   </td>
   <td>
     <a href="optimizeseo.md">
-      <img alt="Optimize PDF per SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
+      <img alt="Optimize PDFs for SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
     </a>
     <div>
     <a href="optimizeseo.md"><strong>Optimize PDF per SEO (Search Engine Optimization)</strong></a>
     </div>
-    <em>Ottimizza le PDF per una migliore visibilità e la classificazione dei motori di ricerca sul web</em>
+    <em>Optimize a PDF for improved discoverability and search engine ranking on the web</em>
     <br>
   </td>
 </tr>
