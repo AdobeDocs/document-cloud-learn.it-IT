@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: eabcb0741c65c37561ffee0f5f99fa0ed3eb0682
+source-git-commit: bb9dd666e77c36a1d16ec747a1182f71e388efa3
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scoprite come ottimizzare un PDF per migliorare la visibilità e la classificazione dei motori di ricerca sul Web.
 
-## Creazione di contenuti esclusivi
+## 1. Crea contenuti esclusivi
 
 Create contenuti PDF diversi dalle informazioni delle pagine Web.
 
@@ -39,7 +39,7 @@ Il contenuto PDF deve essere univoco e strutturato nel modo seguente:
 
 <br> 
 
-## Aggiungi proprietà documento
+## 2. Aggiungi proprietà documento
 
 I file PDF hanno un titolo e una descrizione meta, proprio come una pagina Web.
 
@@ -60,7 +60,7 @@ Prova a iniziare il riepilogo utilizzando un verbo d’azione come Impara, Scopr
 
 <br> 
 
-## Applicare tag al PDF
+## 3. Applica tag al tuo PDF
 
 >[!NOTE]
 >
@@ -84,7 +84,7 @@ Applicare i tag a un PDF nel modo seguente:
 
 <br> 
 
-## Preparazione per il Web
+## 4. Preparazione per il Web
 
 Ottimizzate l&#39;esperienza di interazione con il vostro PDF preparandolo per la visualizzazione sul Web e riducendo le dimensioni del file.
 
@@ -108,7 +108,7 @@ Questo passaggio riduce le dimensioni del file e abilita **Visualizzazione Web v
 
 <br> 
 
-## Creare un nome file di parola chiave
+## 5. Creare un nome file di parola chiave
 
 +++Visualizza i dettagli su come creare un nome file per parole chiave
 
@@ -120,7 +120,7 @@ Il nome del file diventa parte dell’URL quando un PDF viene pubblicato sul Web
 
 <br> 
 
-## Proteggi il tuo PDF
+## 6. Proteggi il tuo PDF
 
 L&#39;ultimo passaggio consiste nel proteggere il PDF per evitare modifiche non autorizzate.
 
