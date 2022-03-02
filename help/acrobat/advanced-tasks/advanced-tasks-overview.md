@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
+source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 4%
+source-wordcount: '321'
+ht-degree: 3%
 
 ---
 
@@ -17,12 +17,22 @@ ht-degree: 4%
 
 ![Immagine introduttiva di Acrobat](../assets/Hero-AdvancedTasks.png)
 
-Go beyond the basics with these advanced tools in Acrobat. Scoprite come creare un’azione per ripetere le attività ordinarie, rimuovere informazioni riservate, ridurre e ottimizzare file di grandi dimensioni, raccogliere rapidamente i dati dei moduli e creare file PDF accessibili a tutti.
+Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite come creare un’azione per ripetere le attività ordinarie, rimuovere informazioni riservate, ridurre e ottimizzare file di grandi dimensioni, raccogliere rapidamente i dati dei moduli e creare file PDF accessibili a tutti.
 
 ## Esercitazioni su Acrobat
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="optimizescan.md">
+      <img alt="Ottimizzare i documenti scansionati" src="../assets/Scan_1280.png" />
+    </a>
+    <div>
+    <a href="optimizescan.md"><strong>Ottimizzare i documenti scansionati</strong></a>
+    </div>
+    <em>Scopri come ottimizzare i documenti scansionati per un’esperienza di visualizzazione e ricerca più coinvolgente per il PDF</em>
+    <br>
+  </td>
   <td>
     <a href="custom.md">
       <img alt="Comandi e strumenti personalizzati" src="../assets/Createcustom_1280.png" />
@@ -43,18 +53,18 @@ Go beyond the basics with these advanced tools in Acrobat. Scoprite come creare 
     <em>Tecniche avanzate per la creazione di PDF forms professionali</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="optimizeseo.md">
-      <img alt="Optimize PDFs for SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
+      <img alt="Optimize PDF per SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
     </a>
     <div>
     <a href="optimizeseo.md"><strong>Optimize PDF per SEO (Search Engine Optimization)</strong></a>
     </div>
-    <em>Optimize a PDF for improved discoverability and search engine ranking on the web</em>
+    <em>Ottimizza le PDF per una migliore visibilità e la classificazione dei motori di ricerca sul web</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="workforms.md">
       <img alt="Utilizzo dei campi modulo" src="../assets/Workform_1280.png" />
@@ -74,7 +84,9 @@ Go beyond the basics with these advanced tools in Acrobat. Scoprite come creare 
     </div>
     <em>Trasforma il tuo PDF aggiungendo miglioramenti grafici e numerazione automatica</em>
     <br>
-  </td>
+  </td>   
+</tr>
+<tr>
   <td>
     <a href="compare.md">
       <img alt="Rileva le differenze tra due PDF" src="../assets/Compare_1280.png" />
@@ -84,9 +96,7 @@ Go beyond the basics with these advanced tools in Acrobat. Scoprite come creare 
     </div>
     <em>Rilevamento rapido e accurato delle differenze tra due file PDF</em>
     <br>
-  </td>   
-</tr>
-<tr>
+  </td>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -107,7 +117,9 @@ Go beyond the basics with these advanced tools in Acrobat. Scoprite come creare 
     <em>Rimuovi in modo permanente informazioni private o riservate dal tuo PDF</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+ <td>
     <a href="reduce.md">
       <img alt="Ridurre le dimensioni dei file e ottimizzare" src="../assets/Reduce.jpg" />
     </a>
@@ -117,8 +129,6 @@ Go beyond the basics with these advanced tools in Acrobat. Scoprite come creare 
     <em>Riduci i file di grandi dimensioni e ottimizza i tuoi PDF senza compromettere la qualità per la condivisione, la pubblicazione o l'archiviazione</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
@@ -139,6 +149,8 @@ Go beyond the basics with these advanced tools in Acrobat. Scoprite come creare 
     <em>Verifica che il tuo PDF sia universalmente accessibile alle persone diversamente abili</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="Preparazione dei file PDF accessibili" src="../assets/Accessibilityseries_1280.png" />
@@ -149,5 +161,15 @@ Go beyond the basics with these advanced tools in Acrobat. Scoprite come creare 
     <em>In questa serie di webinar on demand in sei parti, passa dalle nozioni di base sull’accessibilità a un’analisi approfondita dell’assegnazione dei tag ai file PDF</em>
     <br>
   </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>  
 </tr>
 </table>
