@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
+source-git-commit: 5adbbe1b9791cc50822e49957a254f79639a30cc
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '342'
 ht-degree: 3%
 
 ---
@@ -23,6 +23,16 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="bookmarks.md">
+      <img alt="Aggiunta di segnalibri e collegamenti ipertestuali" src="../assets/Bookmarks_1280.png" />
+    </a>
+    <div>
+    <a href="bookmarks.md"><strong>Aggiunta di segnalibri e collegamenti ipertestuali</strong></a>
+    </div>
+    <em>Scopri come ottimizzare i documenti scansionati per un’esperienza di visualizzazione e ricerca più coinvolgente per il PDF</em>
+    <br>
+  </td>
   <td>
     <a href="optimizescan.md">
       <img alt="Ottimizzare i documenti scansionati" src="../assets/Scan_1280.png" />
@@ -43,7 +53,9 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Migliorare la produttività del flusso di lavoro dei documenti utilizzando comandi e strumenti personalizzati</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
     <a href="advancedforms.md">
       <img alt="Campi modulo avanzati" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -53,9 +65,7 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Tecniche avanzate per la creazione di PDF forms professionali</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="optimizeseo.md">
       <img alt="Optimize PDF per SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
     </a>
@@ -75,6 +85,8 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Aggiungere diversi tipi di campi modulo, impostare le proprietà dei campi modulo e aggiungere protezione per creare moduli professionali di alta qualità</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="enhance.md">
       <img alt="Migliora il tuo PDF" src="../assets/Enhance_1280.png" />
@@ -84,10 +96,8 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     </div>
     <em>Trasforma il tuo PDF aggiungendo miglioramenti grafici e numerazione automatica</em>
     <br>
-  </td>   
-</tr>
-<tr>
-  <td>
+  </td>
+ <td>
     <a href="compare.md">
       <img alt="Rileva le differenze tra due PDF" src="../assets/Compare_1280.png" />
     </a>
@@ -107,7 +117,9 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Risparmiare tempo e tasti usando un’azione per applicare automaticamente un set di comandi a uno o più file</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="redact.md">
       <img alt="Redazione e rimozione" src="../assets/Redact.jpg" />
     </a>
@@ -117,8 +129,6 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Rimuovi in modo permanente informazioni private o riservate dal tuo PDF</em>
     <br>
   </td>
-</tr>
-<tr>
  <td>
     <a href="reduce.md">
       <img alt="Ridurre le dimensioni dei file e ottimizzare" src="../assets/Reduce.jpg" />
@@ -139,7 +149,9 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Compilare i dati del modulo in un singolo foglio di calcolo</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="accessibility.md">
       <img alt="Verifica accessibilità PDF" src="../assets/Checkaccessible_1280.jpg" />
     </a>
@@ -149,9 +161,7 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Verifica che il tuo PDF sia universalmente accessibile alle persone diversamente abili</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="accessibility-series.md">
       <img alt="Preparazione dei file PDF accessibili" src="../assets/Accessibilityseries_1280.png" />
     </a>
@@ -159,11 +169,6 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <a href="accessibility-series.md"><strong>Serie Accessibilità di Acrobat</strong></a>
     </div>
     <em>In questa serie di webinar on demand in sei parti, passa dalle nozioni di base sull’accessibilità a un’analisi approfondita dell’assegnazione dei tag ai file PDF</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
