@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 5adbbe1b9791cc50822e49957a254f79639a30cc
+source-git-commit: 058905c4830374745bc3e42dab923b9dd57ed056
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '340'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <div>
     <a href="bookmarks.md"><strong>Aggiunta di segnalibri e collegamenti ipertestuali</strong></a>
     </div>
-    <em>Scopri come ottimizzare i documenti scansionati per un’esperienza di visualizzazione e ricerca più coinvolgente per il PDF</em>
+    <em>Scopri come aggiungere segnalibri e collegamenti ipertestuali per una migliore navigazione e interazione</em>
     <br>
   </td>
   <td>
