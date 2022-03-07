@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '204'
 ht-degree: 1%
 
 ---
@@ -40,10 +40,6 @@ Risparmiate tempo e tasti usando un’azione per applicare automaticamente un se
 1. Seleziona **[!UICONTROL Salva]** e assegnare un nome all&#39;azione in modo che venga visualizzata sul **[!UICONTROL Elenco azioni]**.
 
 Ora puoi eseguire l’azione personalizzata in qualsiasi momento per eseguire questa serie di passaggi specifica su uno o più file PDF.
-
-Seleziona l&#39;icona PDF per scaricare il *Action Wizard* esercitazione.
-
-[![Esercitazione per il download dell’Action Wizard](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).
 
 >[!TIP]
 >

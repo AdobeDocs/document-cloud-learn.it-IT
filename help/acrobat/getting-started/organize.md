@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '145'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,3 @@ Utilizzo **[!UICONTROL Organizza pagine]** in Acrobat per aggiungere, sostituire
    Quando suddividete un PDF, potete dividerlo in base al numero di pagine, alle dimensioni del file o ai segnalibri di livello superiore.
 
    ![Passaggio 5 di scansione](../assets/Organize_4.png)
-
-Fate clic per scaricare un PDF del *Organizza pagine* esercitazione.
-
-[![Esercitazione per il download di Organizza pagine](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCOrganize.pdf)

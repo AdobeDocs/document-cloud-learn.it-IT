@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: dede0ea5f15c49b27a210d0574e6fb2e3255269b
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,3 @@ Trasforma un modulo cartaceo scansionato o un documento creato in InDesign, Micr
 1. Seleziona **[!UICONTROL Modifica]** per continuare il lavoro o selezionare **[!UICONTROL File]** **>** **[!UICONTROL Salva con nome]** per salvare il modulo di PDF.
 
    ![Modulo - Fase 4](../assets/Form_4.png)
-
-Seleziona l&#39;icona PDF per scaricare il *Creare moduli compilabili* esercitazione.
-
-[![Esercitazione per la creazione di moduli compilabili](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCForms.pdf)
