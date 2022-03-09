@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 34490d609f3e19d2e0100a96e6c4858831e5c22c
+source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -197,7 +197,7 @@ Puoi utilizzare Adobe Sign in altre applicazioni già utilizzate dalla tua organ
       <img alt="Inviare promemoria con l’esercitazione video Adobe Sign per Salesforce e Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Inviare promemoria con l’esercitazione Adobe Sign per Salesforce e Marketovideo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Inviare promemoria con l’esercitazione video Adobe Sign per Salesforce e Marketo</strong></a>
     </div>
     <em>Scopri come inviare un promemoria e-mail da Marketo quando un accordo rimane non firmato dopo un periodo di tempo</em>
     <br>
