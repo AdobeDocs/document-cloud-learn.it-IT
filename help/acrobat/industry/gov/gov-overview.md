@@ -5,31 +5,139 @@ role: User
 product: adobe acrobat
 level: Beginner
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 507d16c6e791d30b314b8771ea992b5adf25b0f7
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
 
 # Acrobat per la Pubblica Amministrazione
 
-Rispondi rapidamente alle sfide urgenti dei governi federale, statale e locale con questa raccolta di ricette e video didattici selezionati.
+Esplora i nostri tutorial su Acrobat progettati appositamente per gli enti pubblici federali, statali e locali.
 
-L’esercitazione 5 consigli è l’insieme completo di suggerimenti. Se si desidera esaminare un flusso di lavoro specifico, è sufficiente ignorare il video completo selezionando il suggerimento più interessante.
-
-[5 suggerimenti per lavorare ovunque con Acrobat for Government (15:12 completi)](5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-1. [Strumenti (2:59)](get-your-tools.md)
-1. [Collaborare su documenti (2:03)](collaborate-on-documents.md)
-1. [Documenti digitali Protect (1:23)](protect-digital-documents.md)
-1. [Utilizzo di Forms e firme (7:03)](work-with-forms-and-signatures.md)
-1. [Scansione ed elaborazione su dispositivi mobili (1:43)](scan-and-edit-on-mobile.md)
-
-Consulta l’esercitazione Rendi accessibili i PDF o seleziona un flusso di lavoro specifico all’interno del corso di formazione di cui sei interessato.
-
-[Rendere Accessibili I PDF (14:11 Completo)](making-pdfs-accessible.md)
-1. [Nozioni fondamentali sull&#39;accessibilità (6:42)](understanding-accessibility.md)
-1. [Creazione in Word (2:51)](authoring-in-word.md)
-1. [Fine in Acrobat (4:37)](finishing-in-acrobat.md)
-
-[Rendere Più Accessibili Le Schede PDF](making-pdf-ballots-accessible.md)
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md">
+      <img alt="5 suggerimenti per lavorare ovunque con Acrobat (15:12 completi)" src="../../assets/5tipscomplete.png" />
+    </a>
+    <div>
+    <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>5 suggerimenti per lavorare ovunque con Acrobat (15:12 completi)</strong></a>
+    </div>
+    <em>Scopri come ottenere e utilizzare gli strumenti di Acrobat e le app mobile correlate per lavorare ovunque ti trovi</em>
+    <br>
+  </td>
+  <td>
+    <a href="get-your-tools.md">
+      <img alt="Suggerimento 1: Scarica i tuoi strumenti" src="../../assets/Tip1.png" />
+    </a>
+    <div>
+    <a href="get-your-tools.md"><strong>Suggerimento 1: Scarica i tuoi strumenti</strong></a>
+    </div>
+    <em>Il primo passo per iniziare a lavorare ovunque ti trovi è ottenere gli strumenti Acrobat e le app mobile complementari</em>
+    <br>
+  </td>  
+  <td>
+    <a href="collaborate-on-documents.md">
+      <img alt="Suggerimento 2: Collaborazione sui documenti" src="../../assets/Tip2.png" />
+    </a>
+    <div>
+    <a href="collaborate-on-documents.md"><strong>Suggerimento 2: Collaborazione sui documenti</strong></a>
+    </div>
+    <em>Creazione di flussi di lavoro semplici e intuitivi per la collaborazione sui documenti</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
+    <a href="protect-digital-documents.md">
+      <img alt="Suggerimento: 3 Protect di documenti digitali" src="../../assets/Tip3.png" />
+    </a>
+    <div>
+    <a href="protect-digital-documents.md"><strong>Suggerimento 3: Protect documenti digitali</strong></a>
+    </div>
+    <em>Aggiungere una password al PDF per impedirne la copia, la modifica o la stampa</em>
+    <br>
+  </td>
+  <td>
+    <a href="work-with-forms-and-signatures.md">
+      <img alt="Suggerimento 4: Utilizzo di moduli e firme" src="../../assets/Tip4.png" />
+    </a>
+    <div>
+    <a href="work-with-forms-and-signatures.md"><strong>Suggerimento 4: Utilizzo di moduli e firme</strong></a>
+    </div>
+    <em>Scopri come rimanere digitale durante la compilazione dei moduli</em>
+    <br>
+  </td>
+  <td>
+    <a href="scan-and-edit-on-mobile.md">
+      <img alt="Suggerimento 5: Scansione ed elaborazione su dispositivi mobili" src="../../assets/Tip5.png" />
+    </a>
+    <div>
+    <a href="scan-and-edit-on-mobile.md"><strong>Suggerimento 5: Scansione ed elaborazione su dispositivi mobili</strong></a>
+    </div>
+    <em>Scopri come utilizzare le app mobile Adobe Scan e Acrobat Reader per realizzare progetti ovunque ti trovi</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="making-pdfs-accessible.md">
+      <img alt="Rendere Accessibili I PDF (14:11 Completo)" src="../../assets/Accessiblecomplete.png" />
+    </a>
+    <div>
+    <a href="making-pdfs-accessible.md"><strong>Rendere Accessibili I PDF (14:11 Completo)</strong></a>
+    </div>
+    <em>Informazioni sul flusso di lavoro ottimale per la creazione di file PDF accessibili</em>
+    <br>
+  </td>
+  <td>
+    <a href="understanding-accessibility.md">
+      <img alt="Rendere accessibili i PDF: Nozioni fondamentali sull'accessibilità" src="../../assets/Accessibiityunderstanding.png" />
+    </a>
+    <div>
+    <a href="understanding-accessibility.md"><strong>Rendere accessibili i PDF: Nozioni fondamentali sull'accessibilità</strong></a>
+    </div>
+    <em>Scopri cosa significa rendere accessibile un PDF per le persone con disabilità</em>
+    <br>
+  </td>  
+  <td>
+    <a href="collaborate-on-documents.md">
+      <img alt="Rendere accessibili i PDF: Creazione in Word" src="../../assets/Accessibilityword.png" />
+    </a>
+    <div>
+    <a href="collaborate-on-documents.md"><strong>Rendere accessibili i PDF: Creazione in Word</strong></a>
+    </div>
+    <em>Procedure ottimali per la creazione di file PDF creati in [!DNL Microsoft Word]</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
+    <a href="finishing-in-acrobat.md">
+      <img alt="Rendere accessibili i PDF: Finitura in Acrobat" src="../../assets/Accessibilityacrobat.png" />
+    </a>
+    <div>
+    <a href="finishing-in-acrobat.md"><strong>Rendere accessibili i PDF: Finitura in Acrobat</strong></a>
+    </div>
+    <em>Scoprite come completare l’accessibilità del file PDF utilizzando gli strumenti di Acrobat Pro</em>
+    <br>
+  </td>
+  <td>
+    <a href="making-pdf-ballots-accessible.md">
+      <img alt="Rendere più accessibili le schede PDF" src="../../assets/Accessibleballots.png" />
+    </a>
+    <div>
+    <a href="making-pdf-ballots-accessible.md"><strong>Rendere più accessibili le schede PDF</strong></a>
+    </div>
+    <em>Questo webinar tratta le principali aree di accessibilità dei PDF necessarie per consentire agli utenti di tecnologie di supporto, come gli screen reader, di leggere e completare il proprio voto</em>
+    <br>
+  </td>  
+  <td>
+   <img alt="Spaziatore" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
