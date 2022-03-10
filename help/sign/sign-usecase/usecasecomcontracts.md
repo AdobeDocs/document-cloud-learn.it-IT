@@ -7,16 +7,16 @@ solution: Document Cloud
 level: Intermediate
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # Moduli di richiesta e contratti
 
-Sostituisci rapidamente l&#39;elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit. Scopri come utilizzare lo strumento Progettazione flussi di lavoro di Adobe Sign per semplificare l’intero processo.
+Sostituisci rapidamente l&#39;elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit. Scopri lo strumento Adobe Sign Workflow Designer per semplificare l’intero processo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?hidetitle=true)
 

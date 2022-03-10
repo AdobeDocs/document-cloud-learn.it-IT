@@ -9,7 +9,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: b958523f87b657f0a9db8c1eea0de829ab32b02b
+source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -36,20 +36,20 @@ Accelera i flussi di lavoro digitali della tua organizzazione con questi esempi 
   </td> 
   <td>
     <a href="usecasegovtelework.md">
-      <img alt="Accordo Di Telelavoro" src="../assets/UC_MegasignR.png" />
+      <img alt="Accordo sul telelavoro" src="../assets/UC_MegasignR.png" />
     </a>
     <div>
-    <a href="usecasegovtelework.md"><strong>Accordo Di Telelavoro</strong></a>
+    <a href="usecasegovtelework.md"><strong>Accordo sul telelavoro</strong></a>
     </div>
     <em>Raccogli in modo efficiente le firme di tutti i tuoi dipendenti su accordi di telelavoro, aggiornamenti delle policy e altro ancora</em>
     <br>
   </td>
   <td>
     <a href="usecasegovcontracts.md">
-      <img alt="Forms contratti e richieste di acquisto" src="../assets/UC_WorkflowR.png" />
+      <img alt="Moduli di richiesta e contratti" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasegovcontracts.md"><strong>Forms contratti e richieste di acquisto</strong></a>
+    <a href="usecasegovcontracts.md"><strong>Moduli di richiesta e contratti</strong></a>
     </div>
     <em>Sostituisci rapidamente l'elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit</em>
     <br>
@@ -95,10 +95,10 @@ Accelera i flussi di lavoro digitali della tua organizzazione con questi esempi 
 <tr>
   <td>
     <a href="usecasecomcontracts.md">
-      <img alt="Forms contratti e richieste di acquisto" src="../assets/UC_WorkflowR.png" />
+      <img alt="Moduli di richiesta e contratti" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasecomcontracts.md"><strong>Forms contratti e richieste di acquisto</strong></a>
+    <a href="usecasecomcontracts.md"><strong>Moduli di richiesta e contratti</strong></a>
     </div>
     <em>Sostituisci rapidamente l'elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit</em>
     <br>

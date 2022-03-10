@@ -8,7 +8,7 @@ level: Intermediate
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: 44e5709089c40474fae3646da79577a1cf6c2761
+source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![banner use case](../assets/UCSC_Rebrand.png)
 
-Esempi di utilizzo è una sessione in livestream che ti introduce ai nuovi casi di utilizzo di Adobe Sign, alle nuove tendenze e mostra come la tua organizzazione può implementarli e trarne vantaggio. Ogni mese viene evidenziato un nuovo argomento.
+La vetrina dei casi d&#39;uso è una sessione in livestream che ti introduce ai nuovi casi d&#39;uso, tendenze e tendenze di Adobe Sign e mostra come la tua organizzazione può implementarli e trarne vantaggio. Ogni mese viene evidenziato un nuovo argomento.
 
 Di seguito sono riportati i collegamenti di registrazione per le ultime sessioni:
 
