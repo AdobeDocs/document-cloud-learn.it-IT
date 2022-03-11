@@ -1,22 +1,22 @@
 ---
 title: Introduzione all'accessibilità per PDF
-description: In questa sessione, scopri cosa significa rendere accessibile un PDF, come configurare Acrobat Pro DC per lavorare sui PDF per l’accessibilità e il processo di conversione da un documento di origine a un PDF
+description: In questa sessione, scopri cosa significa rendere accessibile un PDF, come configurare Acrobat Pro per lavorare sui PDF per l’accessibilità e il processo di conversione da un documento di origine a un PDF
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-8606.jpg
 kt: 8606
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
-source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 # Introduzione all&#39;accessibilità per PDF
 
-In questa sessione, scopri cosa significa rendere accessibile un PDF, come configurare Acrobat Pro DC per lavorare sui PDF per l’accessibilità e il processo di conversione da un documento di origine a un PDF.
+In questa sessione, scopri cosa significa rendere accessibile un PDF, come configurare Acrobat Pro per lavorare sui PDF per l’accessibilità e il processo di conversione da un documento di origine a un PDF.
 
 Fai clic su [qui](../assets/accessibilitysession1.zip) per scaricare una cartella zip dei file di sessione pratica.
 

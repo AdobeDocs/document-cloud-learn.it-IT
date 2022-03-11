@@ -1,23 +1,23 @@
 ---
 title: Panoramica introduttiva
-description: Learn how to start using Adobe Acrobat through these brief (1-2 min) step-by-step tutorials
+description: Scopri come iniziare a usare Adobe Acrobat attraverso questi brevi tutorial passo passo (1-2 min)
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 1e8dc23acc3d461b5623855b348329479958baf5
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 5%
+source-wordcount: '411'
+ht-degree: 6%
 
 ---
 
 # Panoramica introduttiva
 
-![Acrobat Getting Started Image](../assets/Hero-GettingStarted.png)
+![Immagine introduttiva di Acrobat](../assets/Hero-GettingStarted.png)
 
-Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutorial passo passo. From creating a document to protecting your PDF files, this content is designed to ease you into PDF workflows.
+Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutorial passo passo. Dalla creazione di un documento alla protezione dei file di PDF, questo contenuto è progettato per facilitare l’accesso ai flussi di lavoro di PDF.
 
 ## Esercitazioni su Acrobat
 
@@ -30,7 +30,7 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Nozioni di base sull’area di lavoro</strong></a>
     </div>
-    <em>Scopri come l’interfaccia di Adobe Acrobat DC semplifica l’accesso a file e strumenti su desktop, web e dispositivi mobili</em>
+    <em>Scoprite come l'area di lavoro di Adobe Acrobat semplifica l'accesso a file e strumenti da computer desktop, Web e dispositivi mobili</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
       <img alt="Produttività in mobilità" src="../assets/Productivity_1280.png" />
     </a>
     <div>
-     <a href="productivity.md"><strong>Productivity on the go</strong></a>
+     <a href="productivity.md"><strong>Produttività in mobilità</strong></a>
     </div>
     <em>Ottieni di più direttamente dal tuo tablet o smartphone con l'app mobile Acrobat Reader</em>
     <br>
@@ -82,7 +82,7 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <div>
      <a href="combine-to-pdf.md"><strong>Combinare file in PDF</strong></a>
     </div>
-    <em>Combine many different types of files into a single PDF</em>
+    <em>Combinare diversi tipi di file in un unico PDF</em>
     <br>
   </td>
 </tr>
@@ -99,7 +99,7 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
   </td>
  <td>
     <a href="comment-on-pdf-files.md">
-      <img alt="Inserimento di commenti nei file PDF in Acrobat DC" src="../assets/Comment.jpg" />
+      <img alt="Commento su un PDF" src="../assets/Comment.jpg" />
     </a>
     <div>
     <a href="comment-on-pdf-files.md"><strong>Commento su un PDF</strong></a>
@@ -109,19 +109,19 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
   </td>
   <td>
     <a href="edit-pdf.md">
-      <img alt="Modificare un PDF in Acrobat DC" src="../assets/Edit.jpg" />
+      <img alt="Modifica un PDF" src="../assets/Edit.jpg" />
     </a>
     <div>
     <a href="edit-pdf.md"><strong>Modifica un PDF</strong></a>
     </div>
-    <em>Edit text and images in PDF files</em>
+    <em>Modificare testo e immagini nei file PDF</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="export-pdf.md">
-      <img alt="Export a PDF to editable formats" src="../assets/Export.jpg" />
+      <img alt="Esportare un PDF in formati modificabili" src="../assets/Export.jpg" />
     </a>
     <div>
     <a href="export-pdf.md"><strong>Esportare un PDF in formati modificabili</strong></a>
@@ -131,10 +131,10 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
   </td>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="Create fillable forms" src="../assets/Form_1280.png" />
+      <img alt="Creare moduli compilabili" src="../assets/Form_1280.png" />
     </a>
     <div>
-    <a href="create-fillable-forms.md"><strong>Create fillable forms</strong></a>
+    <a href="create-fillable-forms.md"><strong>Creare moduli compilabili</strong></a>
     </div>
     <em>Trasformare un documento creato in un’altra applicazione in un modulo di PDF compilabile</em>
     <br>
@@ -185,7 +185,7 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
 <tr>
   <td>
     <a href="signatures.md">
-      <img alt="Get signatures" src="../assets/Signatures_1280.png" />
+      <img alt="Raccogli firme" src="../assets/Signatures_1280.png" />
     </a>
     <div>
     <a href="signatures.md"><strong>Raccogli firme</strong></a>
@@ -200,12 +200,12 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <div>
     <a href="track.md"><strong>Monitorare i documenti</strong></a>
     </div>
-    <em>Always know which files are waiting on signatures and which have been signed</em>
+    <em>Scopri sempre quali file sono in attesa di firma e quali sono stati firmati</em>
     <br>
   </td>
    <td>
     <a href="where-do-pdfs-come-from.md">
-      <img alt="Where do PDFs come from?" src="../assets/WherePDFs.jpg" />
+      <img alt="Da dove vengono i PDF?" src="../assets/WherePDFs.jpg" />
     </a>
     <div>
     <a href="where-do-pdfs-come-from.md"><strong>Da dove vengono i PDF?</strong></a>

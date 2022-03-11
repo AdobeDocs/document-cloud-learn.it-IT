@@ -7,9 +7,9 @@ level: Experienced
 thumbnail: KT-8364.jpg
 kt: 8364
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 490175fbcac50fe1bd7abf8bbffad6fd97061660
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ In questa serie di webinar on demand in sei parti, passa dalle nozioni di base s
     <div>
     <a href="accessibilitysession1.md"><strong>Introduzione all'accessibilità per PDF</strong></a>
     </div>
-    <em>In questa sessione on demand, scopri cosa significa rendere accessibile un PDF, come configurare Acrobat Pro DC per lavorare sui PDF per l’accessibilità e il processo di conversione da un documento di origine a un PDF</em>
+    <em>In questa sessione on demand, scopri cosa significa rendere accessibile un PDF, come configurare Acrobat Pro per lavorare sui PDF per l’accessibilità e il processo di conversione da un documento di origine a un PDF</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ In questa serie di webinar on demand in sei parti, passa dalle nozioni di base s
     <div>
     <a href="accessibilitysession2.md"><strong>Correggere un PDF inaccessibile</strong></a>
     </div>
-    <em>In questa sessione on demand, scopri il flusso di lavoro per convertire un documento Word e risolvere alcuni problemi di base relativi ai tag utilizzando gli strumenti di Acrobat Pro DC mostrati nel webinar di introduzione</em>
+    <em>In questa sessione on demand, scopri il flusso di lavoro per convertire un documento Word e risolvere alcuni problemi di base relativi ai tag utilizzando gli strumenti di Acrobat Pro mostrati nel webinar di introduzione</em>
     <br>
   </td>  
   <td>

@@ -3,9 +3,9 @@ title: Condivisione di file PDF e revisione online
 description: Scopri alcuni trucchi e suggerimenti per utilizzare Adobe Document Cloud
 solution: Document Cloud
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '519'
 ht-degree: 26%
 
 ---
@@ -39,7 +39,7 @@ Riceverai una notifica e-mail dopo che i destinatari avranno visualizzato il fil
 
 ## Esperienza revisore
 
-I revisori ricevono un invito e-mail contenente un link per rivedere il PDF. Quando si fa clic sul link o sul pulsante **[!UICONTROL Rivedi]** nell’invito, il PDF si apre in un browser Web. Utilizzare gli strumenti di creazione dei commenti per aggiungere i commenti al PDF. È inoltre possibile aggiungere commenti utilizzando l’applicazione Acrobat Reader DC o Acrobat DC per computer desktop.
+I revisori ricevono un invito e-mail contenente un link per rivedere il PDF. Quando si fa clic sul link o sul pulsante **[!UICONTROL Rivedi]** nell’invito, il PDF si apre in un browser Web. Utilizzare gli strumenti di creazione dei commenti per aggiungere i commenti al PDF. È inoltre possibile aggiungere commenti utilizzando l’applicazione Acrobat Reader o Acrobat per computer desktop.
 
 ## Inviare un link anonimo o pubblico tramite e-mail
 
