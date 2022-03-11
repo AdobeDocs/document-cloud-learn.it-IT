@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: bb9dd666e77c36a1d16ec747a1182f71e388efa3
+source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -62,10 +62,6 @@ Prova a iniziare il riepilogo utilizzando un verbo d’azione come Impara, Scopr
 
 ## 3. Applica tag al tuo PDF
 
->[!NOTE]
->
->Disponibile solo in Acrobat Pro.
-
 L’assegnazione di tag ai contenuti nel PDF non solo crea il file [Accessibile](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) per i disabili, migliorando anche la SEO.
 
 +++Visualizza i dettagli su come assegnare tag a un PDF
@@ -81,6 +77,10 @@ Applicare i tag a un PDF nel modo seguente:
    ![Screenshot dell’impostazione del testo alternativo in PDF](../assets/optimizeseo3.png)
 
 +++
+
+>[!NOTE]
+>
+>Disponibile solo in Acrobat Pro.
 
 <br> 
 
