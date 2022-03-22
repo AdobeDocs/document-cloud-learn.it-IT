@@ -1,5 +1,5 @@
 ---
-title: Panoramica sulle integrazioni
+title: Panoramica delle integrazioni Acrobat
 description: Integrazione di Acrobat con le app Box, Dropbox, Google Drive, OneDrive e Microsoft
 role: User
 product: adobe acrobat
@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '281'
 ht-degree: 1%
 
 ---
@@ -93,7 +93,7 @@ Scopri come tutti i membri del tuo team possono lavorare senza problemi con i fi
 
 ## Google Drive
 
-Scopri come fare di più in meno tempo con il PDF essenziale e gli strumenti di firma elettronica all&#39;interno [!DNL Google Drive].
+Scopri come fare di più in meno tempo con il PDF essenziale e gli strumenti di firma elettronica all’interno [!DNL Google Drive].
 
 <table style="table-layout:fixed">
 <tr>

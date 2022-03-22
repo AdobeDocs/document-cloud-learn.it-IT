@@ -1,5 +1,5 @@
 ---
-title: Panoramica delle attività avanzate
+title: Panoramica delle attività avanzate di Sign
 description: Scopri come inviare un documento per la firma a 100 destinatari contemporaneamente, configurare un documento pronto per la firma per il tuo sito Web, gestire le transazioni di firma e creare e gestire modelli di documento
 role: User
 product: adobe sign
@@ -7,9 +7,9 @@ solution: Document Cloud
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---

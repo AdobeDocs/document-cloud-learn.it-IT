@@ -1,14 +1,14 @@
 ---
-title: Panoramica sulla distribuzione
+title: Panoramica sulla distribuzione di Acrobat
 description: Articoli sull'implementazione e sulle best practice con approfondimenti e conoscenze preziosi acquisiti lavorando con i nostri clienti
 role: Admin
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6862.jpg
 exl-id: 571db5c8-bac5-4066-af0f-f7e2d3a9105b
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
