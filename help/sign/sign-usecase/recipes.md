@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -110,12 +110,17 @@ Accelera i flussi di lavoro digitali della tua organizzazione con questi esempi 
     <div>
     <a href="usecasecompolicy.md"><strong>Accordi politici</strong></a>
     </div>
-    <em>Raccogli in modo efficiente le firme di tutti i tuoi dipendenti su accordi di telelavoro, aggiornamenti delle policy e altro ancora</em>
+    <em>Raccogli in modo efficiente le firme di tutti i tuoi dipendenti su accordi e aggiornamenti relativi alle policy</em>
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <a href="usecasecomtelework.md">
+      <img alt="Accordo sul telelavoro" src="../assets/UC_MegasignR.png" />
+    </a>
     <div>
+    <a href="usecasecomtelework.md"><strong>Accordo sul telelavoro</strong></a>
+    </div>
+    <em>Raccogli in modo efficiente le firme di tutti i tuoi dipendenti sugli accordi di telelavoro</em>
     <br>
   </td>
 </tr>

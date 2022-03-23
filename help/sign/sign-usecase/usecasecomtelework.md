@@ -1,24 +1,23 @@
 ---
-title: Accordo di telelavoro Pubblico
-description: Raccogli in modo efficiente le firme di tutti i tuoi dipendenti su accordi di telelavoro, aggiornamenti delle policy e altro ancora
+title: Accordo sul telelavoro Commerciale
+description: Raccogli in modo efficiente le firme di tutti i tuoi dipendenti sugli accordi di telelavoro
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Intermediate
-thumbnail: 33808.jpg
-exl-id: 4efd2d9a-715b-4d1a-9c6b-0ff5795cbf3b
+thumbnail: 33978.jpg
 source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
-# Accordo governativo sul telelavoro
+# Accordo sul telelavoro commerciale
 
 Scopri come raccogliere in modo efficiente le firme di tutti i tuoi dipendenti su accordi di telelavoro, aggiornamenti delle policy e altro ancora. Innanzitutto, create un modello di documento riutilizzabile che sia rapidamente accessibile dalla libreria di documenti. In secondo luogo, invii il nuovo modello di documento per la firma a centinaia di dipendenti contemporaneamente utilizzando Mega Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/33808?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33978?hidetitle=true)
 
 Fai clic per scaricare la ricetta PDF passo passo per gli accordi di telelavoro.
 

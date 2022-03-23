@@ -7,7 +7,7 @@ solution: Document Cloud
 level: Intermediate
 thumbnail: 33811.jpg
 exl-id: 8d882a5d-01b8-4cd4-b55f-2ef1e537dec5
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%

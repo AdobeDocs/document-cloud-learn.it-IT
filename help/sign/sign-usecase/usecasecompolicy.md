@@ -1,5 +1,5 @@
 ---
-title: Accordi politici
+title: Accordi di politica commerciale
 description: Raccogli in modo efficiente le firme di tutti i tuoi dipendenti su accordi, aggiornamenti e altro ancora
 role: User
 product: adobe sign
@@ -7,14 +7,14 @@ solution: Document Cloud
 level: Intermediate
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Accordi politici
+# Accordi in materia di politica commerciale
 
 Raccogli in modo efficiente le firme di tutti i tuoi dipendenti su accordi, aggiornamenti dei criteri e altro ancora. Scoprite come creare un modulo web online che può essere completato **e** firmata senza stampare o spedire nulla.
 
