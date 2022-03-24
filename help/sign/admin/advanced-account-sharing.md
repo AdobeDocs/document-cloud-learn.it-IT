@@ -8,16 +8,20 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: 0ed358068fefe5ce52f7afb0ecdba7d5a5b750bf
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 4%
+source-wordcount: '186'
+ht-degree: 1%
 
 ---
 
 # Condivisione account avanzata
 
-In questa esercitazione video, scopri come configurare la condivisione avanzata dell’account, consentendo agli amministratori e agli utenti di delegare le autorizzazioni di invio, modifica e visualizzazione.
+Scopri come configurare la condivisione avanzata degli account, consentendo agli amministratori e agli utenti di delegare le autorizzazioni di invio, modifica e visualizzazione. La condivisione degli account è perfetta nelle situazioni in cui un utente è in vacanza o in assenza. Oppure, puoi creare un account utente virtuale, come un account utente di gestione risorse umane, e quindi concedere l’autorizzazione a più utenti all’interno del gruppo risorse umane che possono agire tutti per conto dell’utente virtuale.
+
+>[!NOTE]
+>
+>La condivisione account avanzata è disponibile solo per i piani a livello Enterprise. Il supporto tecnico può abilitare la condivisione avanzata, ma una volta attivata, modifica le relazioni degli oggetti condivisi in modo che non possano essere invertite. Per questo motivo, si consiglia di contattare il Customer Success Manager e disporre di un account di prova configurato per verificare la funzionalità e verificare che consenta di eseguire tutto ciò che si desidera ottenere.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)
 
