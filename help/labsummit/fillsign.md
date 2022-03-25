@@ -1,9 +1,9 @@
 ---
 title: Compila e firma qualsiasi modulo su desktop o mobile
 description: Compila, firma e invia rapidamente moduli dal desktop, dal browser o dall'app mobile
-solution: Document Cloud
+solution: Acrobat Sign
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 790f1dd6bdf8755c2a4891be33b9c3fa0052ae9b
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 0%

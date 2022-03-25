@@ -3,11 +3,11 @@ title: Sovvenzioni e prestiti alle imprese pubbliche
 description: Fornire assistenza rapida alle aziende fornendo accesso self-service ai moduli di richiesta di sovvenzioni, prestiti e differimento fiscale
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33810.jpg
 exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
-source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%

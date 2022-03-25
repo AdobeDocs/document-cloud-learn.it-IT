@@ -3,12 +3,12 @@ title: Ottieni un ID digitale da [!DNL Intesi Group] (qualificato)
 description: Scopri come ottenere un certificato di firma digitale qualificato da [!DNL Intesi Group]
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-8704.jpg
 kt: 8704
 exl-id: aea17112-0a06-4ea6-8a44-9f4ba5eebc29
-source-git-commit: 30917ce6eb6d682649a21d486eefa9482339410e
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%

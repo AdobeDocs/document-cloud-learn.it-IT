@@ -3,11 +3,11 @@ title: Delegare a qualcun altro
 description: Utilizzare il ruolo di delegante per inviare un documento a un intermediario che può quindi indirizzare il documento per la firma
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%

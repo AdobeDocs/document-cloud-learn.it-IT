@@ -3,11 +3,11 @@ title: Creazione di un flusso di lavoro personalizzato
 description: Scopri come personalizzare e automatizzare i flussi di lavoro basati su documenti per ottenere rapidamente firme elettroniche e raccogliere i dati dei moduli
 role: User, Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%

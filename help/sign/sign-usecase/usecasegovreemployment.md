@@ -3,11 +3,11 @@ title: Assistenza Alla Rioccupazione
 description: Aiuta i cittadini a ricevere l'aiuto di cui hanno bisogno senza essere in linea con i moduli di richiesta interamente digitali che possono essere utilizzati in tempo reale
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33809.jpg
 exl-id: 02a9b62f-fbcd-43d1-8372-c2d7dc8e2eff
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
