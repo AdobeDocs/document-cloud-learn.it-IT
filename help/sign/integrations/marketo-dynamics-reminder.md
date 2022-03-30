@@ -3,12 +3,12 @@ title: Inviare promemoria con Adobe Sign per Microsoft Dynamics 365 e Marketo
 description: Scopri come inviare un promemoria e-mail quando un accordo rimane non firmato dopo un periodo di tempo
 role: Admin
 product: adobe sign
-solution: Adobe Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: bcddb0ee106239f2786debaed908b2a2ec5ce792
+source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 3%

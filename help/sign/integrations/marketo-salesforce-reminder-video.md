@@ -3,12 +3,12 @@ title: Inviare promemoria con l’esercitazione video Adobe Sign per Salesforce 
 description: In questa esercitazione video verrà illustrato come inviare un promemoria e-mail da Marketo quando un accordo rimane non firmato dopo un periodo di tempo
 role: Admin
 product: adobe sign
-solution: Adobe Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 4%
