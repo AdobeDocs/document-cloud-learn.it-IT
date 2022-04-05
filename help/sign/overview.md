@@ -1,23 +1,23 @@
 ---
 title: Esercitazioni
-description: Una raccolta di esercitazioni, webinar e esempi di utilizzo progettati per mettere rapidamente in sintonia principianti e amministratori su Adobe Sign
+description: Una raccolta di esercitazioni, webinar e esempi di utilizzo progettati per consentire a principianti e amministratori di familiarizzare rapidamente con Acrobat Sign
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: ec2ddf579a10d659ac8f92f2c8d7dcade74c56b9
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 6%
+ht-degree: 4%
 
 ---
 
-# Esercitazioni di Adobe Sign
+# Esercitazioni per Acrobat Sign
 
-![Adobe Sign Hero Image](assets/Hero_Sign.jpg)
+![Immagine eroe di Acrobat Sign](assets/Hero_Sign.jpg)
 
-Adobe Sign, una soluzione Adobe Document Cloud, si adatta alle esigenze della tua organizzazione con integrazioni, API, autenticazione avanzata, funzionalità di amministrazione aggiuntive e altro ancora. Qui puoi trovare un’ampia gamma di esperienze di apprendimento progettate per portare rapidamente a portata di mano sia principianti che amministratori su Adobe Sign.
+Acrobat Sign, una soluzione Adobe Document Cloud, si adatta alle esigenze della tua organizzazione con integrazioni, API, autenticazione avanzata, funzionalità di amministrazione aggiuntive e altro ancora. Qui puoi trovare un’ampia gamma di esperienze di apprendimento progettate per consentire a principianti e amministratori di familiarizzare rapidamente con Acrobat Sign.
 
 ## Percorsi di apprendimento
 
@@ -62,7 +62,7 @@ Adobe Sign, una soluzione Adobe Document Cloud, si adatta alle esigenze della tu
     <div>
     <a href="digitalid/digitalid-overview.md"><strong>ID digitale</strong></a>
     </div>
-    <em>Scopri come utilizzare gli ID digitali di tutto il mondo con Adobe Sign</em>
+    <em>Scopri come utilizzare gli ID digitali di tutto il mondo con Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -72,7 +72,7 @@ Adobe Sign, una soluzione Adobe Document Cloud, si adatta alle esigenze della tu
     <div>
     <a href="integrations/integrations-overview.md"><strong>Integrazioni</strong></a>
     </div>
-    <em>Aggiungere Adobe Sign direttamente in altre applicazioni già utilizzate dall'organizzazione</em>
+    <em>Aggiungere Acrobat Sign direttamente in altre applicazioni già utilizzate dalla tua organizzazione</em>
     <br>
   </td>
   <td>
@@ -94,7 +94,7 @@ Adobe Sign, una soluzione Adobe Document Cloud, si adatta alle esigenze della tu
     <div>
     <a href="develop/develop-overview.md"><strong>Sviluppare</strong></a>
     </div>
-    <em>Risorse di sviluppo su Adobe Sign I/O</em>
+    <em>Risorse di sviluppo su Acrobat Sign I/O</em>
     <br>
   </td>
    <td>
@@ -104,7 +104,7 @@ Adobe Sign, una soluzione Adobe Document Cloud, si adatta alle esigenze della tu
     <div>
     <a href="deploy-overview.md"><strong>Distribuisci</strong></a>
     </div>
-    <em>Informazioni e best practice per la distribuzione di Adobe Sign all'interno dell'organizzazione</em>
+    <em>Informazioni e best practice per la distribuzione di Acrobat Sign all’interno dell’organizzazione</em>
     <br>
   </td>
   <td>

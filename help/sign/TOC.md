@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe Sign Tutorials
+user-guide-title: Tutorials di Acrobat Sign
 solution: Acrobat Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
@@ -7,8 +7,8 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Adobe Sign Tutorials
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+breadcrumb-title: Tutorials di Acrobat Sign
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 6%
@@ -16,16 +16,16 @@ ht-degree: 6%
 ---
 
 
-# Adobe Sign Tutorials {#sign-learning-hub}
+# Tutorials di Acrobat Sign {#sign-learning-hub}
 
 + [Panoramica](overview.md)
 + Guida introduttiva {#getting-started}
    + [Panoramica](sign-beginner-tutorials/beginner-users-overview.md)
    + Invio in corso {#getting-started-sending}
-      + [Presentazione rapida di Adobe Sign](sign-beginner-tutorials/quick-tour.md)
+      + [Presentazione rapida di Acrobat Sign](sign-beginner-tutorials/quick-tour.md)
       + [Invio a un singolo destinatario](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Invio a più destinatari](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [Guida introduttiva ad Adobe Sign per nuovi mittenti](sign-beginner-tutorials/new-sender.md)
+      + [Guida introduttiva ad Acrobat Sign per nuovi mittenti](sign-beginner-tutorials/new-sender.md)
    + Signing {#getting-started-signing}
       + [Firma elettronica di un documento](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Compilazione e firma di un documento](sign-beginner-tutorials/fill-and-sign.md)
@@ -44,7 +44,7 @@ ht-degree: 6%
       + [Aggiunta di un approvatore](sign-advanced-users/add-an-approver.md)
       + [Raccolta di firme in blocco](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Configurazione di un modulo Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Adobe Sign tag di testo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Assegnazione tag di testo di Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + Gestione {#advanced-tasks-managing}
       + [Gestione dei modelli di documento](sign-advanced-users/edit-a-template.md)
 + Amministrare {#admin-set-up}
@@ -65,7 +65,7 @@ ht-degree: 6%
       + [Condivisione dell’accesso all’account](admin/share-account-access.md)
       + [Condivisione account avanzata](admin/advanced-account-sharing.md)
       + [Usa impostazioni Bio-Pharma](admin/use-bio-pharma-settings.md)
-      + [Adobe Sign tag di testo](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [Assegnazione tag di testo di Acrobat Sign](sign-advanced-users/adobe-sign-text-tagging.md)
 + ID digitale {#digital-id}
    + [Panoramica](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
@@ -85,20 +85,20 @@ ht-degree: 6%
       + [Invia per la firma in SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
       + [Monitoraggio in SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
       + [Invio di documenti per la firma in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [Automazione dei documenti con Adobe Sign per Microsoft Power Platform](integrations/documentautomation.md)
+      + [Automazione dei documenti con Acrobat Sign per Microsoft Power Platform](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [Creazione di un modello di documento](integrations/create-an-agreement-template.md)
       + [Configurazione della mappatura dati](integrations/set-up-data-mapping.md)
       + [Impostazione della mappatura unione](integrations/set-up-merging-map.md)
       + [Creazione di un pulsante personalizzato](integrations/create-a-custom-button.md)
    + Workday {#workday}
-      + [Configurazione di Adobe Sign con Workday](integrations/workday.md)
+      + [Configurazione di Acrobat Sign con Workday](integrations/workday.md)
    + Marketo {#marketo}
-      + [Inviare notifiche utilizzando Adobe Sign per Salesforce e Marketo](integrations/marketo-salesforce-sms.md)
-      + [Inviare promemoria con l’esercitazione video Adobe Sign per Salesforce e Marketo](integrations/marketo-salesforce-reminder-video.md)
-      + [Inviare promemoria utilizzando la guida alla configurazione di Adobe Sign per Salesforce e Marketo](integrations/marketo-salesforce-reminder.md)
-      + [Inviare notifiche utilizzando Adobe Sign per Microsoft Dynamics e Marketo](integrations/marketo-dynamics-sms.md)
-      + [Inviare promemoria con Adobe Sign per Microsoft Dynamics 365 e Marketo](integrations/marketo-dynamics-reminder.md)
+      + [Inviare notifiche utilizzando Acrobat Sign per Salesforce e Marketo](integrations/marketo-salesforce-sms.md)
+      + [Inviare promemoria con l’esercitazione video Acrobat Sign per Salesforce e Marketo](integrations/marketo-salesforce-reminder-video.md)
+      + [Inviare promemoria utilizzando la guida alla configurazione di Acrobat Sign per Salesforce e Marketo](integrations/marketo-salesforce-reminder.md)
+      + [Inviare notifiche utilizzando Acrobat Sign per Microsoft Dynamics e Marketo](integrations/marketo-dynamics-sms.md)
+      + [Inviare promemoria con Acrobat Sign per Microsoft Dynamics 365 e Marketo](integrations/marketo-dynamics-reminder.md)
 + Settori e dipartimenti {#expand}
    + [Panoramica](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
@@ -127,5 +127,5 @@ ht-degree: 6%
    + [Panoramica](deploy-overview.md)
 + Mobile {#mobile}
    + [Panoramica](mobile/mobile-overview.md)
-   + Esercitazioni per Mobile {#mobile-tutorials}
-      + [Liquid Mode in Adobe Sign](mobile/liquidmode.md)
+   + Esercitazioni per dispositivi mobili {#mobile-tutorials}
+      + [Liquid Mode in Acrobat Sign](mobile/liquidmode.md)

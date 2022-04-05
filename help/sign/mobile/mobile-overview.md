@@ -1,5 +1,5 @@
 ---
-title: Panoramica mobile
+title: Panoramica di Mobile
 description: Invia documenti per la firma, monitora lo stato di avanzamento delle firme elettroniche e ottieni aggiornamenti in tempo reale tutto sul tuo dispositivo mobile
 role: User
 product: adobe sign
@@ -7,16 +7,16 @@ level: Intermediate
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 29%
 
 ---
 
-# Panoramica mobile
+# Panoramica di Mobile
 
-![Immagine di Sign per dispositivi mobili](../assets/Hero-Mobile.png)
+![Immagine Mobile Sign](../assets/Hero-Mobile.png)
 
 Invia documenti per la firma, monitora lo stato di avanzamento delle firme elettroniche e ottieni aggiornamenti in tempo reale tutto sul tuo dispositivo mobile.
 
@@ -24,12 +24,12 @@ Invia documenti per la firma, monitora lo stato di avanzamento delle firme elett
 <tr>
   <td>
     <a href="liquidmode.md">
-      <img alt="Liquid Mode in Adobe Sign" src="assets/liquidmode.png" />
+      <img alt="Liquid Mode in Acrobat Sign" src="assets/liquidmode.png" />
     </a>
     <div>
-    <a href="liquidmode.md"><strong>Liquid Mode in Adobe Sign</strong></a>
+    <a href="liquidmode.md"><strong>Liquid Mode in Acrobat Sign</strong></a>
     </div>
-    <em>Scopri come Liquid Mode migliora l’esperienza di firma su dispositivi mobili</em>
+    <em>Scopri come Liquid Mode migliora l’esperienza di firma per dispositivi mobili</em>
     <br>
   </td>
   <td>
@@ -37,7 +37,7 @@ Invia documenti per la firma, monitora lo stato di avanzamento delle firme elett
       <img alt="Download per iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Download dell’app mobile Adobe Sign per iOS</strong></a>
+    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Download dell’app Mobile Acrobat Sign per iOS</strong></a>
     <br>
   </td>
   <td>
@@ -45,7 +45,7 @@ Invia documenti per la firma, monitora lo stato di avanzamento delle firme elett
       <img alt="Download per Android" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Download dell’app mobile Adobe Sign per Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Download dell’app Mobile Acrobat Sign per Android</strong></a>
     <br>
   </td>
 </tr>

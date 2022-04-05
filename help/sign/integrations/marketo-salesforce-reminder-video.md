@@ -1,5 +1,5 @@
 ---
-title: Inviare promemoria con l’esercitazione video Adobe Sign per Salesforce e Marketo
+title: Inviare promemoria con l’esercitazione video Acrobat Sign per Salesforce e Marketo
 description: In questa esercitazione video verrà illustrato come inviare un promemoria e-mail da Marketo quando un accordo rimane non firmato dopo un periodo di tempo
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
-# Inviare promemoria con l’esercitazione video Adobe Sign per Salesforce e Marketo
+# Inviare promemoria con l’esercitazione video Acrobat Sign per Salesforce e Marketo
 
-Scopri come inviare un promemoria e-mail da Marketo per gli accordi non firmati. Questa integrazione utilizza Adobe Sign, Adobe Sign per Salesforce, Marketo e Marketo Salesforce Sync.
+Scopri come inviare un promemoria e-mail da Marketo per gli accordi non firmati. Questa integrazione utilizza Acrobat Sign, Acrobat Sign per Salesforce, Marketo e Marketo Salesforce Sync.
 
 ## Prerequisiti
 
@@ -25,7 +25,7 @@ Scopri come inviare un promemoria e-mail da Marketo per gli accordi non firmati.
 
    Sono disponibili informazioni e l’ultimo plug-in per Salesforce Sync [qui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Installare Adobe Sign per Salesforce.
+1. Installa Acrobat Sign per Salesforce.
 
    Informazioni su questo plug-in sono disponibili [qui.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
@@ -33,5 +33,5 @@ Scopri come inviare un promemoria e-mail da Marketo per gli accordi non firmati.
 
 >[!TIP]
 >
->Questo video fa parte del corso [Accelera i cicli di vendita con Adobe Sign per Salesforce e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) disponibile gratuitamente ad Experience League!
+>Questo video fa parte del corso [Accelera i cicli di vendita con Acrobat Sign per Salesforce e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) disponibile gratuitamente ad Experience League!
 

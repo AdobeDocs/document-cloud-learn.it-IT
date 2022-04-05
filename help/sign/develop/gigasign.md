@@ -7,16 +7,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 5%
+ht-degree: 2%
 
 ---
 
 # Raccolta di documenti ad alto volume con GigaSign
 
-Gigasign consente di inviare, raccogliere e monitorare i documenti da firmare a migliaia di persone contemporaneamente. È progettato per comunicazioni ad elevata capacità con dipendenti e clienti, supportando fino a 2.500 destinatari per ogni invio in blocco. GigaSign utilizza l&#39;API Adobe Sign per fornire la stessa funzionalità di MegaSign e include il supporto per più firmatari, gruppi di destinatari, ruoli dei destinatari, nomi degli accordi, copia delle informazioni e altro ancora.
+Gigasign consente di inviare, raccogliere e monitorare i documenti da firmare a migliaia di persone contemporaneamente. È progettato per comunicazioni ad elevata capacità con dipendenti e clienti, supportando fino a 2.500 destinatari per ogni invio in blocco. GigaSign utilizza l&#39;API di Acrobat Sign per fornire la stessa funzionalità di MegaSign e include il supporto per più firmatari, gruppi di destinatari, ruoli dei destinatari, nomi degli accordi, copia delle informazioni e altro ancora.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
 
@@ -30,7 +30,7 @@ Gigasign consente di inviare, raccogliere e monitorare i documenti da firmare a 
 
 ## Istruzioni di configurazione di base
 
-1. Accedi al tuo account Adobe Sign.
+1. Accedi al tuo account Acrobat Sign.
 
 1. Fai clic su **[!UICONTROL Gruppo]** o **[!UICONTROL Account]**, a seconda di quale sia la parte superiore.
 

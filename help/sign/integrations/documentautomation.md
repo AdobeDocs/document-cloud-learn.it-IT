@@ -1,39 +1,39 @@
 ---
-title: Automazione dei documenti con Adobe Sign per Microsoft Power Platform
-description: Scopri come attivare e utilizzare i connettori Adobe Sign e Adobe PDF Tools per Microsoft Power Apps. Crea flussi di lavoro che automatizzano i processi di approvazione e firma delle aziende in modo rapido e sicuro, senza bisogno di codice
+title: Automazione dei documenti con Acrobat Sign per Microsoft Power Platform
+description: Scopri come attivare e utilizzare i connettori Acrobat Sign e Adobe PDF Tools per Microsoft Power Apps. Crea flussi di lavoro che automatizzano i processi di approvazione e firma delle aziende in modo rapido e sicuro, senza bisogno di codice
 role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg
 kt: 7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '2436'
 ht-degree: 0%
 
 ---
 
-# Automazione dei documenti con Adobe Sign per Microsoft Power Platform
+# Automazione dei documenti con Acrobat Sign per Microsoft Power Platform
 
-Scopri come attivare e utilizzare i connettori Adobe Sign e Adobe PDF Tools per Microsoft Power Apps. Crea flussi di lavoro che automatizzano i processi di approvazione e firma aziendali in modo rapido e sicuro, senza bisogno di codice. Questa esercitazione pratica è suddivisa in quattro parti, descritte nei collegamenti seguenti:
+Scopri come attivare e utilizzare i connettori Acrobat Sign e Adobe PDF Tools per Microsoft Power Apps. Crea flussi di lavoro che automatizzano i processi di approvazione e firma aziendali in modo rapido e sicuro, senza bisogno di codice. Questa esercitazione pratica è suddivisa in quattro parti, descritte nei collegamenti seguenti:
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="documentautomation.md#part1">
-        <img alt="Parte 1: Archiviare gli accordi firmati in SharePoint con Adobe Sign" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
+        <img alt="Parte 1: Archiviare gli accordi firmati in SharePoint con Acrobat Sign" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part1"><strong>Parte 1: Archiviare gli accordi firmati in SharePoint con Adobe Sign</strong></a>
+    <a href="documentautomation.md#part1"><strong>Parte 1: Archiviare gli accordi firmati in SharePoint con Acrobat Sign</strong></a>
     </div>
   </td>
   <td>
     <a href="documentautomation.md#part2">
-        <img alt="Parte 2: Processo di approvazione automatizzato per ottenere la firma elettronica con Adobe Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
+        <img alt="Parte 2: Processo di approvazione automatizzato per ottenere la firma elettronica con Acrobat Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part2"><strong>Parte 2: Processo di approvazione automatizzato per ottenere la firma elettronica con Adobe Sign</strong></a>
+    <a href="documentautomation.md#part2"><strong>Parte 2: Processo di approvazione automatizzato per ottenere la firma elettronica con Acrobat Sign</strong></a>
     </div>
   </td>
   <td>
@@ -58,13 +58,13 @@ Scopri come attivare e utilizzare i connettori Adobe Sign e Adobe PDF Tools per 
 ## Prerequisiti
 
 * Microsoft 365 e familiarità con Power Automate
-* conoscenza di Adobe Sign
-* Account Microsoft 365 con accesso a SharePoint e Power Automate (Basic per Adobe Sign, Premium per Adobe PDF Tools)
-* Account per sviluppatori Adobe Sign for enterprise o Adobe Sign
+* Conoscenza di Acrobat Sign
+* Account Microsoft 365 con accesso a SharePoint e Power Automate (Basic per Acrobat Sign, Premium per Adobe PDF Tools)
+* Account per sviluppatori Acrobat Sign for enterprise o Acrobat Sign
 
 **Esercizi 1 e 2**
 
-* Account Adobe Sign con accesso all’API. Un account sviluppatore o un account Enterprise.
+* Account Acrobat Sign con accesso all’API. Un account sviluppatore o un account Enterprise.
 * SharePoint sito accessibile da Power Automate per il quale disponi delle autorizzazioni di modifica. Si consiglia l’accesso amministratore completo.
 * Documento di esempio per la richiesta e la firma di approvazione della firma.
 
@@ -72,27 +72,27 @@ Scopri come attivare e utilizzare i connettori Adobe Sign e Adobe PDF Tools per 
 
 Download dei materiali [qui](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)
 
-## Parte 1: Archiviare gli accordi firmati in SharePoint con Adobe Sign {#part1}
+## Parte 1: Archiviare gli accordi firmati in SharePoint con Acrobat Sign {#part1}
 
 Nella prima parte, userai un modello Power Automate Flow per configurare un flusso di lavoro automatizzato che salverà tutti gli accordi firmati nel tuo sito SharePoint.
 
 1. Passa a Power Automate.
-1. Search for Adobe Sign.
+1. Cerca Acrobat Sign.
 
    ![Screenshot della navigazione in Power Automate](assets/documentautomation/automation_1.png)
 
-1. Scegli **Salvare un accordo Adobe Sign completato nella libreria SharePoint**.
+1. Scegli **Salvare un accordo completato con Acrobat Sign nella libreria SharePoint**.
 
-   ![Screenshot dell’azione Salva un accordo Adobe Sign completato in SharePoint libreria](assets/documentautomation/automation_2.png)
+   ![Schermata dell’azione Salva un accordo completato con Acrobat Sign in SharePoint libreria](assets/documentautomation/automation_2.png)
 
-1. Rivedi la schermata e configura tutte le connessioni necessarie. Abilita la connessione Adobe Sign.
+1. Rivedi la schermata e configura tutte le connessioni necessarie. Abilita la connessione ad Acrobat Sign.
 1. Fate clic sul blu `+` simbolo.
 
-   ![Screenshot della connessione di flusso di Adobe Sign e SharePoint](assets/documentautomation/automation_3.png)
+   ![Screenshot della connessione di flusso di Acrobat Sign e SharePoint](assets/documentautomation/automation_3.png)
 
-1. Immetti il tuo indirizzo e-mail dell’account Adobe Sign e fai clic sul campo password nella nuova finestra.
+1. Immetti l’indirizzo e-mail dell’account Acrobat Sign e fai clic sul campo password nella nuova finestra.
 
-   ![Screenshot della schermata di accesso di Adobe Sign](assets/documentautomation/automation_4.png)
+   ![Screenshot della schermata di accesso di Acrobat](assets/documentautomation/automation_4.png)
 
    Attendi un momento per un Adobe per controllare il tuo account.
 
@@ -125,7 +125,7 @@ Nella prima parte, userai un modello Power Automate Flow per configurare un flus
 
 Questo flusso verrà provato nella parte successiva.
 
-## Parte 2: Processo di approvazione automatizzato per ottenere la firma elettronica con Adobe Sign {#part2}
+## Parte 2: Processo di approvazione automatizzato per ottenere la firma elettronica con Acrobat Sign {#part2}
 
 Nella seconda parte, si sviluppa la prima parte con un flusso più robusto e si provano entrambi i flussi per vederli in azione.
 
@@ -179,11 +179,11 @@ Nella seconda parte, si sviluppa la prima parte con un flusso più robusto e si 
 
    **Indirizzo del sito:** Il tuo sito SharePoint.
    **Identificatore file:** Cerca &quot;identifier&quot; e scegli Identifier dal menu **Ottieni proprietà file** passo.
-1. Cerca &quot;Adobe&quot; e scegli **Adobe Sign** per aggiungere un’altra azione.
+1. Cerca &quot;Adobe&quot; e scegli **Acrobat Sign** per aggiungere un’altra azione.
 
    ![Screenshot del menu di ricerca](assets/documentautomation/automation_16.png)
 
-1. Immetti &quot;upload&quot; nella casella di ricerca di Adobe Sign e seleziona **Caricare un documento e ottenere un ID documento**.
+1. Immetti &quot;upload&quot; nella casella di ricerca di Acrobat Sign e seleziona **Caricare un documento e ottenere un ID documento**.
 1. Ricerca della variabile dinamica **Nome** per ottenere il nome dell’elemento/documento selezionato nel trigger in **Nome file**.
 1. Fai clic su **Espressione** nell&#39;assistente variabile sotto **Contenuto file**.
 
@@ -195,7 +195,7 @@ Nella seconda parte, si sviluppa la prima parte con un flusso più robusto e si 
 
    ![Screenshot dell&#39;aspetto che dovrebbe avere la schermata Dynamic Content](assets/documentautomation/automation_18.png)
 
-1. Cerca &quot;create&quot; nell’area di ricerca di Adobe Sign per aggiungere un’altra azione Adobe Sign.
+1. Cerca &quot;crea&quot; nell’area di ricerca di Acrobat Sign per aggiungere un’altra azione di Acrobat Sign.
 1. Seleziona **Creare e firmare un accordo da un documento caricato e inviarlo per la firma**.
 
    ![Screenshot della ricerca di create](assets/documentautomation/automation_19.png)
@@ -262,7 +262,7 @@ Queste cartelle sono ora indicate come parte del flusso di Power Automate.
    ![Screenshot della selezione del simbolo +](assets/documentautomation/automation_27.png)
 
 1. Passate a https://www.adobe.com/go/powerautomate_getstarted in una nuova scheda.
-1. Fai clic su **Introduzione**.
+1. Fai clic su **Guida introduttiva**.
 
    ![Screenshot del pulsante Introduzione](assets/documentautomation/automation_28.png)
 
@@ -282,7 +282,7 @@ Queste cartelle sono ora indicate come parte del flusso di Power Automate.
 
    ![Schermata di immissione delle credenziali di PDF Tools](assets/documentautomation/automation_32.png)
 
-1. Fare clic su **Continua**.
+1. Fai clic su **Continua**.
 
    ![Screenshot di dove fare clic su Continua](assets/documentautomation/automation_33.png)
 

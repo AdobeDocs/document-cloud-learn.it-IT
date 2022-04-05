@@ -1,13 +1,13 @@
 ---
 title: Panoramica sullo sviluppo
-description: Scopri come utilizzare le API di Adobe Sign per creare applicazioni personalizzate per team, partner e clienti
+description: Scopri come utilizzare le API di Acrobat Sign per creare applicazioni personalizzate per team, partner e clienti
 role: Developer
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 3f23da91f1b4c90e8c70e564653c6be44d1f5b58
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 12%
@@ -18,7 +18,7 @@ ht-degree: 12%
 
 ![Immagine di sviluppo di Sign](../assets/Hero-Develop.png)
 
-Il 40% degli accordi in Adobe Sign vengono creati utilizzando le API. Usa le API per creare applicazioni personalizzate per i tuoi team, partner e clienti.
+Il 40% degli accordi in Acrobat Sign vengono creati utilizzando le API. Usa le API per creare applicazioni personalizzate per i tuoi team, partner e clienti.
 
 <table style="table-layout:fixed">
 <tr>
@@ -39,7 +39,7 @@ Il 40% degli accordi in Adobe Sign vengono creati utilizzando le API. Usa le API
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Scopri cosa puoi fare</strong></a>
     </div>
-    <em>Scoprite come incorporare le funzionalità di Adobe Sign in qualsiasi applicazione esterna</em>
+    <em>Scopri come incorporare le funzionalità di Acrobat Sign in qualsiasi applicazione esterna</em>
     <br>
   </td>  
   <td>
@@ -61,7 +61,7 @@ Il 40% degli accordi in Adobe Sign vengono creati utilizzando le API. Usa le API
     <div>
     <a href="embeddedesignature.md"><strong>Creazione di firme elettroniche e documenti incorporati</strong></a>
     </div>
-    <em>Scopri come utilizzare le API di Adobe Sign per incorporare firme elettroniche ed esperienze documentali nelle piattaforme web e nei sistemi di gestione dei contenuti e dei documenti</em>
+    <em>Scopri come utilizzare le API di Acrobat Sign per incorporare firme elettroniche ed esperienze documentali nelle piattaforme web e nei sistemi di gestione dei contenuti e dei documenti</em>
     <br>
   </td>
   <td>

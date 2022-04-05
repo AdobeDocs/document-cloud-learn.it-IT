@@ -1,13 +1,13 @@
 ---
 title: Creazione di firme elettroniche incorporate ed esperienze basate su documenti
-description: Scopri come utilizzare le API di Adobe Sign per incorporare firme elettroniche ed esperienze documentali nelle piattaforme web e nei sistemi di gestione dei contenuti e dei documenti
+description: Scopri come utilizzare le API di Acrobat Sign per incorporare firme elettroniche ed esperienze documentali nelle piattaforme web e nei sistemi di gestione dei contenuti e dei documenti
 role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: f015bd7ea1a25772a12cd0852d452d120f205a5c
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '928'
 ht-degree: 3%
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 # Creazione di firme elettroniche e documenti incorporati
 
-Scopri come utilizzare le API di Adobe Sign per incorporare firme elettroniche ed esperienze documentali nelle piattaforme web e nei sistemi di gestione dei contenuti e dei documenti. Questa esercitazione pratica è suddivisa in quattro parti, descritte nei collegamenti seguenti:
+Scopri come utilizzare le API di Acrobat Sign per incorporare firme elettroniche ed esperienze documentali nelle piattaforme web e nei sistemi di gestione dei contenuti e dei documenti. Questa esercitazione pratica è suddivisa in quattro parti, descritte nei collegamenti seguenti:
 
 <table style="table-layout:fixed">
 <tr>
@@ -59,7 +59,7 @@ Scopri come utilizzare le API di Adobe Sign per incorporare firme elettroniche e
 
 Nella parte 1, imparerai come iniziare a usare tutto quello che ti serve per le parti 2-4. Iniziamo con l&#39;ottenimento delle credenziali API.
 
-* [Account per sviluppatori Adobe Sign](https://acrobat.adobe.com/it/it/sign/developer-form.html)
+* [Account per sviluppatori Acrobat Sign](https://acrobat.adobe.com/it/it/sign/developer-form.html)
 * [Codice iniziale](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS Code (o editor a scelta)](https://code.visualstudio.com)
 * Python 3.x
@@ -72,10 +72,10 @@ Nella parte 1, imparerai come iniziare a usare tutto quello che ti serve per le 
 
 Nella parte 2, si esplorerà l’opzione low/no code quando si utilizzano i moduli Web. È sempre consigliabile verificare se è possibile evitare di scrivere il codice all&#39;inizio.
 
-1. Accedi ad Adobe Sign con il tuo account sviluppatore.
+1. Accedi ad Acrobat Sign con il tuo account sviluppatore.
 1. Fai clic su **Pubblicare un modulo Web** nella home page.
 
-   ![Schermata della home page di Adobe Sign](assets/embeddedesignature/embed_1.png)
+   ![Screenshot della home page di Acrobat Sign](assets/embeddedesignature/embed_1.png)
 
 1. Crea il tuo accordo.
 
@@ -90,17 +90,17 @@ Nella parte 2, si esplorerà l’opzione low/no code quando si utilizzano i modu
 
 Nella parte 3, gli accordi verranno creati in modo dinamico.
 
-Innanzitutto, è necessario stabilire l&#39;accesso. Con Adobe Sign, ci sono due modi per connettersi tramite API. Token OAuth e chiavi di integrazione. A meno che non abbiate un motivo molto specifico per utilizzare OAuth con l&#39;applicazione, prima di tutto esplorerete le chiavi di integrazione.
+Innanzitutto, è necessario stabilire l&#39;accesso. Con Acrobat Sign, ci sono due modi per connettersi tramite API. Token OAuth e chiavi di integrazione. A meno che non abbiate un motivo molto specifico per utilizzare OAuth con l&#39;applicazione, prima di tutto esplorerete le chiavi di integrazione.
 
-1. Seleziona **Chiave di integrazione** sulla **Informazioni API** sotto il **Account** in Adobe Sign.
+1. Seleziona **Chiave di integrazione** sulla **Informazioni API** sotto il **Account** in Acrobat Sign.
 
    ![Screenshot di dove trovare la chiave di integrazione](assets/embeddedesignature/embed_4.png)
 
 Ora che hai accesso e puoi interagire con l&#39;API, scopri cosa puoi fare con l&#39;API.
 
-1. Passa al [Metodi API REST versione 6 di Adobe Sign](http://adobesign.com/public/docs/restapi/v6).
+1. Passa al [Metodi API REST versione 6 di Acrobat Sign](http://adobesign.com/public/docs/restapi/v6).
 
-   ![Screenshot della navigazione dei metodi delle API REST Adobe Sign versione 6](assets/embeddedesignature/embed_5.png)
+   ![Schermata di navigazione dei metodi REST API di Acrobat Sign versione 6](assets/embeddedesignature/embed_5.png)
 
 1. Utilizzare il token come valore &quot;al portatore&quot;.
 
@@ -168,7 +168,7 @@ Quando tutto è messo insieme, la soluzione è abbastanza semplice. Stai creando
 * [Eventi JS](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Eventi webhook
    * [API REST](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
-   * [Webhook in Adobe Sign v6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
+   * [Webhook in Acrobat Sign v6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
 * [Riattiva e-mail di richiesta (con gli eventi)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
 * [Sostituire Timeout con Riprova](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 
@@ -185,8 +185,8 @@ Quando tutto è messo insieme, la soluzione è abbastanza semplice. Stai creando
 http://bit.ly/Summit21-T126
 
 Include:
-* Account per sviluppatori Adobe Sign
-* Documenti API di Adobe Sign
+* Account per sviluppatori Acrobat Sign
+* Documenti API di Acrobat Sign
 * Codice di esempio
 * Visual Studio Code
 * Python

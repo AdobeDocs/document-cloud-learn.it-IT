@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Panoramica su settori e reparti
 
-![Immagine del settore Adobe Sign](../assets/Hero-Industry.png)
+![Immagine del settore Acrobat Sign](../assets/Hero-Industry.png)
 
 Scopri come trasformare le esperienze di firma elettronica della tua organizzazione esplorando questi esempi di utilizzo, le ricette e i webinar di settore e reparto reali.
 
@@ -49,7 +49,7 @@ Scopri come trasformare le esperienze di firma elettronica della tua organizzazi
     <div>
     <a href="use-case-showcase.md"><strong>Esempi di utilizzo</strong></a>
     </div>
-    <em>Guarda le sessioni dal vivo o registrate che ti presentano nuovi esempi di utilizzo e tendenze di Adobe Sign</em>
+    <em>Guarda le sessioni dal vivo o registrate che ti presentano i nuovi casi di utilizzo e le tendenze di Acrobat Sign</em>
     <br>
   </td>
 </tr>

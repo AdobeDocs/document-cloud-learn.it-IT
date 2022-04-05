@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 1%
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Immagine Amministratori Sign](../assets/Hero-Admin.png)
 
-Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere l’accesso e configurare un flusso di lavoro, un archivio esterno e gli eventi e gli avvisi condivisi. Queste esercitazioni sono progettate per gli amministratori che hanno superato la fase di installazione e sono pronti per avviare l’amministrazione di Adobe Sign. Le attività avanzate riguardano argomenti che si estendono oltre la porzione di configurazione dell’amministratore e passano alla definizione di impostazioni globali, all’accesso e alla condivisione dell’account e all’assegnazione di tag di testo.
+Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere l’accesso e configurare un flusso di lavoro, un archivio esterno e gli eventi e gli avvisi condivisi. Queste esercitazioni sono progettate per gli amministratori che hanno superato la fase di installazione e sono pronti per avviare l’amministrazione di Acrobat Sign. Le attività avanzate riguardano argomenti che si estendono oltre la porzione di configurazione dell’amministratore e passano alla definizione di impostazioni globali, all’accesso e alla condivisione dell’account e all’assegnazione di tag di testo.
 
 ## Guida introduttiva
 
@@ -31,7 +31,7 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere l�
     <div>
     <a href="up-and-running-admin.md"><strong>Configurabile e in esecuzione per gli amministratori</strong></a>
     </div>
-    <em>Panoramica di 7 aree chiave per consentire agli amministratori di iniziare subito a lavorare in Adobe Sign</em>
+    <em>Panoramica di 7 aree chiave per consentire agli amministratori di iniziare subito a lavorare in Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere l�
     <div>
     <a href="add-users-to-your-account.md"><strong>Aggiunta di utenti</strong></a>
     </div>
-    <em>Aggiungere utenti singolarmente o in blocco al proprio account Adobe Sign</em>
+    <em>Aggiungere utenti singolarmente o in blocco all’account Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere l�
     <div>
     <a href="create-a-report.md"><strong>Creazione di un report</strong></a>
     </div>
-    <em>Creare e pianificare report per ottenere visibilità sull'utilizzo di Adobe Sign da parte della tua organizzazione</em>
+    <em>Creare e pianificare report per ottenere visibilità sull'utilizzo di Acrobat Sign da parte della tua organizzazione</em>
     <br>
   </td>
   <td>
@@ -191,12 +191,12 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere l�
   </td> 
   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign tag di testo" src="../assets/Text-Tagging.png" />
+      <img alt="Assegnazione tag di testo di Acrobat Sign" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Adobe Sign tag di testo</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Assegnazione tag di testo di Acrobat Sign</strong></a>
     <div>
-    <em>Creare campi modulo Adobe Sign mediante l’assegnazione di tag di testo con Adobe Acrobat</em>
+    <em>Creare i campi modulo di Acrobat Sign mediante l’assegnazione di tag di testo con Adobe Acrobat</em>
     <br>
   </td>
   <td>

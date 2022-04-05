@@ -3,12 +3,11 @@ title: Condivisione account avanzata
 description: La condivisione avanzata degli account consente agli amministratori e agli utenti di delegare le autorizzazioni di invio, modifica e visualizzazione
 role: User, Admin
 product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 1%

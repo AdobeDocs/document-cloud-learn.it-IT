@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Sign Advanced Image](../assets/Hero-Advanced.png)
 
-Scopri come inviare un documento per la firma a 100 destinatari contemporaneamente, configurare un documento pronto per la firma per il tuo sito Web, gestire le transazioni di firma e creare e gestire modelli di documento. Queste esercitazioni sono destinate a tutti coloro che hanno già familiarità con le nozioni di base relative all&#39;invio e alla richiesta di firme e desiderano scoprire altri modi in cui Adobe Sign può lavorare per loro.
+Scopri come inviare un documento per la firma a 100 destinatari contemporaneamente, configurare un documento pronto per la firma per il tuo sito Web, gestire le transazioni di firma e creare e gestire modelli di documento. Queste esercitazioni sono destinate a tutti coloro che hanno già familiarità con le nozioni di base relative all&#39;invio e alla richiesta di firme e desiderano scoprire altri modi in cui Acrobat Sign può funzionare per loro.
 
 ## Invio in corso
 
@@ -78,12 +78,12 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign tag di testo" src="../assets/Text-Tagging.png" />
+      <img alt="Assegnazione tag di testo di Acrobat Sign" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign tag di testo</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Assegnazione tag di testo di Acrobat Sign</strong></a>
     </div>
-    <em>Creare campi modulo Adobe Sign mediante l’assegnazione di tag di testo con Adobe Acrobat</em>
+    <em>Creare i campi modulo di Acrobat Sign mediante l’assegnazione di tag di testo con Adobe Acrobat</em>
     <br>
   </td> 
 </table>

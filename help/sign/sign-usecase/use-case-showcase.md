@@ -1,6 +1,6 @@
 ---
 title: Esempi di utilizzo
-description: Esempi di utilizzo è una sessione in livestream che ti introduce ai nuovi casi di utilizzo, tendenze e modalità di implementazione e utilizzo di Adobe Sign da parte della tua organizzazione
+description: Esempi di utilizzo è una sessione in livestream che ti introduce ai nuovi casi d’uso, tendenze e modalità di implementazione e utilizzo di Acrobat Sign da parte della tua organizzazione
 role: User
 product: adobe sign
 solution: Acrobat Sign
@@ -8,7 +8,7 @@ level: Intermediate
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![banner use case](../assets/UCSC_Rebrand.png)
 
-La vetrina dei casi d&#39;uso è una sessione in livestream che ti introduce ai nuovi casi d&#39;uso, tendenze e tendenze di Adobe Sign e mostra come la tua organizzazione può implementarli e trarne vantaggio. Ogni mese viene evidenziato un nuovo argomento.
+Acrobat La vetrina dei casi d’uso è una sessione in livestream che ti presenta i nuovi casi d’uso, le tendenze e le modalità di implementazione e i vantaggi che possono trarre dalla tua organizzazione. Ogni mese viene evidenziato un nuovo argomento.
 
 Di seguito sono riportati i collegamenti di registrazione per le ultime sessioni:
 
@@ -34,41 +34,41 @@ Come sarà il futuro dello shopping automobilistico? Per la casa automobilistica
 Unisciti a noi per una conversazione dietro le quinte con Volvo Cars, in cui discutono di come hanno preso grandi idee e le hanno trasformate in realtà - e di come altre aziende possono imparare dalle loro esperienze di trasformazione.
 
 * **[5 modi in cui le agenzie governative si trasformeranno nella registrazione on demand per il 2021](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/){target=&quot;_blank&quot;}**
-In che modo Adobe Sign può aiutare le agenzie governative a servire meglio i propri cittadini? Sia i cittadini che i dipendenti ora si aspettano esperienze online più coinvolgenti. E per passare al digitale, i processi pubblici devono soddisfare rigorosi requisiti di sicurezza, privacy e conformità. Quando la pandemia ha colpito, gli enti pubblici hanno dovuto intensificare gli sforzi di trasformazione digitale per continuare a soddisfare le esigenze dei loro cittadini e mantenere la continuità operativa.
+In che modo Acrobat Sign può aiutare gli enti pubblici a servire meglio i propri cittadini? Sia i cittadini che i dipendenti ora si aspettano esperienze online più coinvolgenti. E per passare al digitale, i processi pubblici devono soddisfare rigorosi requisiti di sicurezza, privacy e conformità. Quando la pandemia ha colpito, gli enti pubblici hanno dovuto intensificare gli sforzi di trasformazione digitale per continuare a soddisfare le esigenze dei loro cittadini e mantenere la continuità operativa.
 
-Segui Adobe Sign Use Case Showcase e scopri come gli esperti governativi hanno affrontato le sfide che gli enti federali, statali e locali hanno dovuto affrontare e come continuano a innovare per garantire il funzionamento della pubblica amministrazione.
+Segui la presentazione dei casi di utilizzo di Acrobat Sign e scopri come gli esperti governativi hanno affrontato le sfide che gli enti federali, statali e locali hanno dovuto affrontare e come continuano a innovare per garantire il funzionamento della pubblica amministrazione.
 
 ## Sessioni 2020 per settore
 
 * **[Pubblica Amministrazione](https://event.on24.com/wcc/r/2790280/7FFF27458A6834FDF8C73C5149637590?partnerref=EXL){target=&quot;_blank&quot;}**
-Focus: I nostri relatori esperti trattano le best practice e una serie di casi d’uso specifici per gli enti pubblici per illustrarti come Adobe Sign può consentire al tuo team di risparmiare tempo, denaro e risorse, garantendo allo stesso tempo la conformità e la sicurezza.
+Focus: I nostri relatori esperti trattano le best practice e una serie di casi d’uso specifici per gli enti pubblici per illustrarti come Acrobat Sign può consentire al tuo team di risparmiare tempo, denaro e risorse, garantendo allo stesso tempo la conformità e la sicurezza.
 
 * **[Note legali](https://event.on24.com/wcc/r/2634329/292CA0B317E56600A114508CC55376BF?partnerref=EXL){target=&quot;_blank&quot;}**
-Focus: I nostri relatori discutono su come i reparti legali stanno gestendo il passaggio a processi documentali completamente remoti. Che tu stia appena iniziando o abbia già digitalizzato alcuni flussi di lavoro, Adobe Sign può amplificare la produttività del tuo team in ogni fase della trasformazione digitale.
+Focus: I nostri relatori discutono su come i reparti legali stanno gestendo il passaggio a processi documentali completamente remoti. Che tu stia appena iniziando o abbia già digitalizzato alcuni flussi di lavoro, Acrobat Sign può amplificare la produttività del tuo team in ogni fase di trasformazione digitale.
 
 * **[Vendite](https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-use-case-showcase-sales.html){target=&quot;_blank&quot;}**
 Focus: Gli esperti Adobi mettono in evidenza le best practice per una trasformazione digitale di successo nell&#39;approvvigionamento e la discussione riguarda le tendenze del settore e i requisiti per offrire esperienze utente eccellenti.
 
 * **[Acquisti e logistica](https://event.on24.com/wcc/r/2514418/278FB6F16C198E2B866CF487AF9514F6){target=&quot;_blank&quot;}**
-Focus: Come funziona Adobe Sign nell&#39;approvvigionamento e nella logistica.
+Focus: Come funziona Acrobat Sign nell’approvvigionamento e nella logistica.
 
 * **[HR Applications](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target=&quot;_blank&quot;}**
-Focus: Come funziona Adobe Sign in varie applicazioni HR.
+Focus: Come funziona Acrobat Sign in varie applicazioni HR.
 
 * **[Pubblica Amministrazione](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target=&quot;_blank&quot;}**
-Focus: Come funziona Adobe Sign negli enti pubblici locali e statali.
+Focus: Come funziona Acrobat Sign negli enti pubblici locali e statali.
 
 * **[Istruzione](https://event.on24.com/wcc/r/2241711/762243D5EE65DAC44D3AE7BCCD3388A7){target=&quot;_blank&quot;}**
-Focus: Come funziona Adobe Sign per il settore dell&#39;Istruzione.
+Focus: Come funziona Acrobat Sign per il settore dell&#39;Istruzione.
 
 * **[Scienza della vita](https://event.on24.com/wcc/r/2204781/2C266134D08DDE48E17C77746F192AA6){target=&quot;_blank&quot;}**
-Focus: Come funziona Adobe Sign per le scienze della vita.
+Focus: Come funziona Acrobat Sign per Life Sciences.
 
 * **[Assistenza Sanitaria](https://event.on24.com/wcc/r/2202626/1D60C42BD396AE273CB09CF53F1051BE){target=&quot;_blank&quot;}**
-Focus: Come funziona Adobe Sign per il settore sanitario. Tra gli argomenti trattati: crescente utilizzo della telesalute e della trasformazione digitale - infrastruttura e scalabilità.
+Focus: Come funziona Acrobat Sign per il settore sanitario. Tra gli argomenti trattati: crescente utilizzo della telesalute e della trasformazione digitale - infrastruttura e scalabilità.
 
 * **[Servizi finanziari](https://event.on24.com/wcc/r/2177152/40A4315A5D32F21AFB5EB03E25C15992){target=&quot;_blank&quot;}**
-Focus: Come funziona Adobe Sign per il settore bancario. Tra gli argomenti trattati: le tendenze del settore per il 2020 e oltre, i documenti e i processi digitali come parte di una più ampia trasformazione digitale, le best practice, i casi d’uso e i vantaggi offerti da Adobe Sign.
+Focus: Come funziona Acrobat Sign per il settore bancario. Tra gli argomenti trattati: le tendenze del settore per il 2020 e oltre, i documenti e i processi digitali come parte di una più ampia trasformazione digitale, le best practice, i casi d’uso e i vantaggi di Acrobat Sign.
 
 * **[Assicurazione](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6){target=&quot;_blank&quot;}**
-Focus: Come funziona Adobe Sign per i servizi finanziari e le assicurazioni. Tra gli argomenti trattati: le tendenze del settore, la conformità e i requisiti normativi nel settore finanziario e la fornitura di un&#39;esperienza utente eccellente.
+Focus: Come funziona Acrobat Sign per i servizi finanziari e le assicurazioni. Tra gli argomenti trattati: le tendenze del settore, la conformità e i requisiti normativi nel settore finanziario e la fornitura di un&#39;esperienza utente eccellente.

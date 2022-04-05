@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![Immagine introduttiva di Sign](../assets/Hero-GettingStarted.png)
 
-Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial passo passo. Accedi a una breve panoramica di Adobe Sign e poi inizia a inviare un documento a una o più persone. Questo contenuto è progettato per facilitare l’accesso ai flussi di lavoro di firma elettronica.
+Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial passo passo. Accedi a una breve panoramica di Acrobat Sign e inizia subito a inviare un documento a una o più persone. Questo contenuto è progettato per facilitare l’accesso ai flussi di lavoro di firma elettronica.
 
 ## Invio in corso
 
@@ -25,12 +25,12 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Presentazione rapida di Adobe Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Presentazione rapida di Acrobat Sign" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Presentazione rapida di Adobe Sign</strong></a>
+    <a href="quick-tour.md"><strong>Presentazione rapida di Acrobat Sign</strong></a>
     </div>
-    <em>Panoramica dell'interfaccia Adobe Sign per iniziare a utilizzarla</em>
+    <em>Panoramica dell’interfaccia di Acrobat Sign per iniziare a utilizzarla</em>
     <br>
   </td>
   <td>
@@ -57,12 +57,12 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="Guida introduttiva ad Adobe Sign per nuovi mittenti" src="../assets/gettingstartednew.png" />
+      <img alt="Guida introduttiva ad Acrobat Sign per nuovi mittenti" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Guida introduttiva ad Adobe Sign per nuovi mittenti</strong></a>
+    <a href="new-sender.md"><strong>Guida introduttiva ad Acrobat Sign per nuovi mittenti</strong></a>
     </div>
-    <em>Questa esercitazione completa è il punto di partenza ideale per i nuovi mittenti in Adobe Sign</em>
+    <em>Questa esercitazione completa è il punto di partenza ideale per i nuovi mittenti in Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -89,7 +89,7 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
     <div>
     <a href="electronically-sign-a-document.md"><strong>Firma elettronica di un documento</strong></a>
     </div>
-    <em>Scopri com’è facile firmare un documento che ti è stato inviato con Adobe Sign</em>
+    <em>Scopri com’è facile firmare un documento che ti è stato inviato con Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -109,7 +109,7 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
     <div>
     <a href="sign-in-person.md"><strong>Ottenere una firma di persona</strong></a>
     </div>
-    <em>Ottieni la firma di persona di un altro utente utilizzando l'app mobile Adobe Sign</em>
+    <em>Ottieni la firma di persona di un altro utente utilizzando l’app mobile Acrobat Sign</em>
     <br>
   </td>
 </tr>
