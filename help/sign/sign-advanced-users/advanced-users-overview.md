@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -26,12 +26,12 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Impostazione dell'ordine di indirizzamento" src="../assets/Routing.png">
+      <img alt="Impostazione dell’ordine di firma" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>Impostazione dell'ordine di indirizzamento</strong></a>
+    <a href="setting-up-routing.md"><strong>Impostazione dell’ordine di firma</strong></a>
     </div>
-    <em>Impostare l’ordine di indirizzamento per più firmatari</em>
+    <em>Impostare l’ordine di firma per più firmatari</em>
     <br>
   </td>
   <td>
