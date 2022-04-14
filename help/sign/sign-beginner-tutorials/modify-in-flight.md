@@ -7,16 +7,21 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: fccb3631326f0a7d6196f20c40b96270a6de23a4
+source-git-commit: 600c63c455acf3f4d0884b62a883b7ed94670fe9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
 # Modifica di un documento dopo l’invio
 
-Scopri come modificare un documento già inviato per la firma, ad esempio quando il documento sbagliato viene inviato per errore.
+Scopri come modificare un documento già inviato per la firma, ad esempio quando il documento sbagliato viene inviato per errore. La modifica degli accordi può essere utilizzata solo per i documenti che soddisfano i seguenti criteri:
+
+* Il documento non è stato firmato, approvato o delegato
+* Il documento non include una firma digitale o una firma manuale
+* Il documento non è stato avviato da un flusso di lavoro personalizzato
+
 
 >[!NOTE]
 >
