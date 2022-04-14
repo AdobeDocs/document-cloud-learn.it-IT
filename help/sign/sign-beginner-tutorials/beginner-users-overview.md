@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
     <div>
     <a href="quick-tour.md"><strong>Presentazione rapida di Acrobat Sign</strong></a>
     </div>
-    <em>Panoramica dell’interfaccia di Acrobat Sign per iniziare a utilizzarla</em>
+    <em>Panoramica dell'interfaccia Acrobat Sign per iniziare a utilizzarla</em>
     <br>
   </td>
   <td>
@@ -65,10 +65,15 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
     <em>Questa esercitazione completa è il punto di partenza ideale per i nuovi mittenti in Acrobat Sign</em>
     <br>
   </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="modify-in-flight.md">
+      <img alt="Modifica di un documento dopo l’invio" src="../assets/Modifying-sending.png" />
+    </a>
     <div>
+    <a href="modify-in-flight.md"><strong>Modifica di un documento dopo l’invio</strong></a>
+    </div>
     <br>
+    <em>Modificare un documento già in corso</em>
   </td>
   <td>
     <img alt="Spaziatore" src="../assets/Grayspacer.png" />
@@ -109,7 +114,7 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
     <div>
     <a href="sign-in-person.md"><strong>Ottenere una firma di persona</strong></a>
     </div>
-    <em>Ottieni la firma di persona di un altro utente utilizzando l’app mobile Acrobat Sign</em>
+    <em>Ottieni la firma di persona di un altro utente utilizzando l'app mobile Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -167,14 +172,9 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
     <br>
   </td>
   <td>
-    <a href="modify-in-flight.md">
-      <img alt="Modifica di un documento già inviato per la firma" src="../assets/Modifying-sending.png" />
-    </a>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
     <div>
-    <a href="modify-in-flight.md"><strong>Modifica di un documento già inviato per la firma</strong></a>
-    </div>
     <br>
-    <em>Modificare il flusso di lavoro di un documento già in corso</em>
   </td>
 </tr>
 </table>

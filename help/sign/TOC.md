@@ -7,10 +7,10 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+breadcrumb-title: Tutorials di Acrobat Sign
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 6%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 6%
       + [Invio a un singolo destinatario](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Invio a più destinatari](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Guida introduttiva ad Acrobat Sign per nuovi mittenti](sign-beginner-tutorials/new-sender.md)
+      + [Modifica di un documento dopo l’invio](sign-beginner-tutorials/modify-in-flight.md)
    + Signing {#getting-started-signing}
       + [Firma elettronica di un documento](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Compilazione e firma di un documento](sign-beginner-tutorials/fill-and-sign.md)
@@ -35,7 +36,6 @@ ht-degree: 6%
    + Gestione {#getting-started-managing}
       + [Gestione e monitoraggio degli accordi](sign-beginner-tutorials/manage-and-track.md)
       + [Creazione di un modello di documento](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
-      + [Modifica di un documento già inviato per la firma](sign-beginner-tutorials/modify-in-flight.md)
 + Attività avanzate {#advanced-tasks}
    + [Panoramica](sign-advanced-users/advanced-users-overview.md)
    + Invio in corso {#advanced-tasks-sending}
@@ -127,5 +127,5 @@ ht-degree: 6%
    + [Panoramica](deploy-overview.md)
 + Mobile {#mobile}
    + [Panoramica](mobile/mobile-overview.md)
-   + Esercitazioni per dispositivi mobili {#mobile-tutorials}
+   + Esercitazioni per Mobile {#mobile-tutorials}
       + [Liquid Mode in Acrobat Sign](mobile/liquidmode.md)
