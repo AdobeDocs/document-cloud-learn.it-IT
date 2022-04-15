@@ -1,5 +1,5 @@
 ---
-user-guide-title: Tutorials di Acrobat Sign
+user-guide-title: Acrobat Sign Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
@@ -7,10 +7,10 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Tutorials di Acrobat Sign
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+breadcrumb-title: Acrobat Sign Tutorials
+source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '421'
 ht-degree: 6%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 6%
       + [Invio a più destinatari](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Guida introduttiva ad Acrobat Sign per nuovi mittenti](sign-beginner-tutorials/new-sender.md)
       + [Modifica di un documento dopo l’invio](sign-beginner-tutorials/modify-in-flight.md)
+      + [Sostituzione di un firmatario](sign-beginner-tutorials/replace-signer.md)
    + Signing {#getting-started-signing}
       + [Firma elettronica di un documento](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Compilazione e firma di un documento](sign-beginner-tutorials/fill-and-sign.md)
