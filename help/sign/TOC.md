@@ -1,5 +1,5 @@
 ---
-user-guide-title: Acrobat Sign Tutorials
+user-guide-title: Tutorials di Acrobat Sign
 solution: Acrobat Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
@@ -7,11 +7,11 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+breadcrumb-title: Tutorials di Acrobat Sign
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 6%
+source-wordcount: '418'
+ht-degree: 7%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 6%
 + Guida introduttiva {#getting-started}
    + [Panoramica](sign-beginner-tutorials/beginner-users-overview.md)
    + Invio in corso {#getting-started-sending}
-      + [Presentazione rapida di Acrobat Sign](sign-beginner-tutorials/quick-tour.md)
+      + [Nozioni di base sull’area di lavoro](sign-beginner-tutorials/quick-tour.md)
       + [Invio a un singolo destinatario](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Invio a più destinatari](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Guida introduttiva ad Acrobat Sign per nuovi mittenti](sign-beginner-tutorials/new-sender.md)
@@ -128,5 +128,5 @@ ht-degree: 6%
    + [Panoramica](deploy-overview.md)
 + Mobile {#mobile}
    + [Panoramica](mobile/mobile-overview.md)
-   + Esercitazioni per Mobile {#mobile-tutorials}
+   + Esercitazioni per dispositivi mobili {#mobile-tutorials}
       + [Liquid Mode in Acrobat Sign](mobile/liquidmode.md)
