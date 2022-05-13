@@ -1,13 +1,13 @@
 ---
 title: Panoramica delle integrazioni di Sign
-description: Scopri come aggiungere Acrobat Sign a sistemi, processi e applicazioni esistenti
+description: Scoprite come aggiungere Acrobat Sign a sistemi, processi e applicazioni esistenti
 role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 799dbf108a41b7e2286b99df49d259aa0b382f0e
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Integrare l’immagine in Sign](../assets/Hero-Integrate.png)
 
-Puoi utilizzare Acrobat Sign in altre applicazioni che la tua organizzazione utilizza già, come Microsoft, Salesforce, Workday e Marketo per nominarne alcune. Scopri come semplificare i flussi di lavoro di firma elettronica in queste guide ed esercitazioni di integrazione.
+Puoi utilizzare Acrobat Sign in altre applicazioni già utilizzate dalla tua organizzazione, ad esempio Microsoft, Salesforce, Workday e Marketo per nominarne alcune. Scopri come semplificare i flussi di lavoro di firma elettronica in queste guide ed esercitazioni di integrazione.
 
 >[!NOTE]
 > In caso di problemi di accesso a una di queste funzioni, rivolgiti all’amministratore dell’organizzazione per assicurarti che l’integrazione sia abilitata.
@@ -197,7 +197,7 @@ Puoi utilizzare Acrobat Sign in altre applicazioni che la tua organizzazione uti
       <img alt="Inviare promemoria con l’esercitazione video Acrobat Sign per Salesforce e Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Inviare promemoria con l’esercitazione video Acrobat Sign per Salesforce e Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Inviare promemoria con l’esercitazione video Adobe Sign per Salesforce e Marketo</strong></a>
     </div>
     <em>Scopri come inviare un promemoria e-mail da Marketo quando un accordo rimane non firmato dopo un periodo di tempo</em>
     <br>
