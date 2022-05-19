@@ -7,10 +7,10 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 16%
+source-wordcount: '152'
+ht-degree: 9%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 16%
 
 ![Sign Deploy Image](assets/Hero-Deploy.png)
 
-Articoli di best practice con informazioni preziose sulla distribuzione di Acrobat Sign all’interno dell’organizzazione.
+Articoli di best practice con informazioni preziose sulla distribuzione di Acrobat Sign all&#39;interno dell&#39;organizzazione.
 
 <table style="table-layout:fixed">
 <tr>
@@ -27,17 +27,17 @@ Articoli di best practice con informazioni preziose sulla distribuzione di Acrob
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Gestione di Acrobat Sign nell’Admin Console</strong></a>
+    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Gestione di Acrobat Sign sull’Admin Console</strong></a>
     </div>
-    <em>Scopri come gestire gli utenti e le licenze di Acrobat Sign sulla piattaforma aziendale di Adobe Adobe Admin Console</em>
+    <em>Scopri come gestire gli utenti e le licenze Acrobat Sign sulla piattaforma aziendale di Adobe Adobe Admin Console</em>
     <br>
   </td>
   <td>
-    <a href="https://helpx.adobe.com/it/sign/using/adobe-sign-training-best-practice.html" target="_blank">
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank">
       <img alt="Best practice" src="assets/Deploy_BP.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Procedure ottimali</strong></a>
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Procedure ottimali</strong></a>
     </div>
     <em>Rivedi le conoscenze e le conoscenze preziose acquisite dal lavoro del nostro Customer Success Manager con i nostri clienti nella distribuzione di Acrobat Sign</em>
     <br>
