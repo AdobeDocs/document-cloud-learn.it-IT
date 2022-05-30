@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Creazione di un modello di documento in Acrobat Sign per Salesforce
 
-Scopri come creare un modello di documento per Acrobat Sign in Salesforce. I modelli per documenti offrono velocità e coerenza nelle transazioni di firma e la possibilità di gestire le revisioni e le modifiche dei documenti.
+Scopri come creare un modello documento per Acrobat Sign in Salesforce. I modelli per documenti offrono velocità e coerenza nelle transazioni di firma e la possibilità di gestire le revisioni e le modifiche dei documenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17349?hidetitle=true)

@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ---
 
-# Panoramica di Mobile
+# Panoramica mobile
 
-![Immagine di Acrobat Mobile](../assets/Hero-Mobile.png)
+![Acrobat Mobile Image](../assets/Hero-Mobile.png)
 
 Crea, compila e firma PDF sul tuo dispositivo mobile.
 

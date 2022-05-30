@@ -16,7 +16,7 @@ ht-degree: 7%
 
 # Nozioni di base sull’area di lavoro
 
-Guarda un breve video dell’area di lavoro di Acrobat Sign per iniziare.
+Per iniziare a usare l’area di lavoro di Acrobat Sign, fate una breve panoramica video.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41205?hidetitle=true)
 

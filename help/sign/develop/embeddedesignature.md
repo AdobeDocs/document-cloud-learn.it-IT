@@ -75,7 +75,7 @@ Nella parte 2, si esplorerà l’opzione low/no code quando si utilizzano i modu
 1. Accedi ad Acrobat Sign con il tuo account sviluppatore.
 1. Fai clic su **Pubblicare un modulo Web** nella home page.
 
-   ![Screenshot della home page di Acrobat Sign](assets/embeddedesignature/embed_1.png)
+   ![Schermata della home page di Acrobat Sign](assets/embeddedesignature/embed_1.png)
 
 1. Crea il tuo accordo.
 
@@ -100,7 +100,7 @@ Ora che hai accesso e puoi interagire con l&#39;API, scopri cosa puoi fare con l
 
 1. Passa al [Metodi API REST versione 6 di Acrobat Sign](http://adobesign.com/public/docs/restapi/v6).
 
-   ![Schermata di navigazione dei metodi REST API di Acrobat Sign versione 6](assets/embeddedesignature/embed_5.png)
+   ![Screenshot della navigazione dei metodi delle API REST Acrobat Sign versione 6](assets/embeddedesignature/embed_5.png)
 
 1. Utilizzare il token come valore &quot;al portatore&quot;.
 

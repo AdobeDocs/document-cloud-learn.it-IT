@@ -1,5 +1,5 @@
 ---
-title: Assegnazione tag di testo di Acrobat Sign
+title: Acrobat Sign tag di testo
 description: Creare campi modulo Acrobat Sign mediante l’assegnazione di tag di testo con Adobe Acrobat
 role: User, Admin
 product: adobe sign
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Assegnazione tag di testo di Acrobat Sign
+# Acrobat Sign tag di testo
 
 In questo webinar registrato (nessuna registrazione necessaria), scopri come creare campi modulo Acrobat Sign con tag di testo utilizzando Adobe Acrobat. L’assegnazione di tag al testo riduce notevolmente il tempo necessario per la creazione e la revisione di documenti con molti campi modulo. I mittenti dei documenti non devono inserire singoli campi in ogni documento: un altro importante risparmio di tempo. Altri vantaggi includono la convalida dei campi modulo (raccolta di dati accurata e senza errori) e la coerenza nella progettazione di moduli professionali. Non esitare a inviarci le tue domande durante il webinar tramite il contenitore Domande e risposte. Fai clic sull&#39;immagine qui sotto per iniziare a guardare la registrazione.
 

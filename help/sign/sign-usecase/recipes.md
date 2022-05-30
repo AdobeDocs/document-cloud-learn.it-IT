@@ -73,7 +73,7 @@ Accelera i flussi di lavoro digitali della tua organizzazione con questi esempi 
     <div>
     <a href="usecasegovpaycheck.md"><strong>Protezione della busta paga</strong></a>
     </div>
-    <em>Scopri come utilizzare Acrobat Sign per convertire il modulo del programma Protezione pagamenti in un modulo interattivo online</em>
+    <em>Scopri come utilizzare Acrobat Sign per convertire il modulo del programma Protezione pagamenti in un modulo online interattivo</em>
     <br>
   </td>
   <td>

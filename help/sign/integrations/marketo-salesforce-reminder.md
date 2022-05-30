@@ -31,7 +31,7 @@ Scopri come inviare un promemoria e-mail da Marketo quando un accordo rimane non
 
 ## Trovare l’oggetto personalizzato
 
-Al termine delle configurazioni Marketo Salesforce Sync e Acrobat Sign per Salesforce, nel Terminale di amministrazione di Marketo vengono visualizzate diverse nuove opzioni.
+Al termine delle configurazioni Marketo Salesforce Sync e Acrobat Sign per Salesforce, nel Marketo Admin Terminal vengono visualizzate diverse nuove opzioni.
 
 ![Ammin.](assets/adminTab.png)
 

@@ -49,7 +49,7 @@ Scopri come trasformare le esperienze di firma elettronica della tua organizzazi
     <div>
     <a href="use-case-showcase.md"><strong>Esempi di utilizzo</strong></a>
     </div>
-    <em>Guarda le sessioni dal vivo o registrate che ti presentano i nuovi casi di utilizzo e le tendenze di Acrobat Sign</em>
+    <em>Guarda le sessioni dal vivo o registrate che ti presentano nuovi esempi di utilizzo e tendenze di Acrobat Sign</em>
     <br>
   </td>
 </tr>

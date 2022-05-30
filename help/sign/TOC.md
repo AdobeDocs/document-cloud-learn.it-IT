@@ -1,5 +1,5 @@
 ---
-user-guide-title: Tutorials di Acrobat Sign
+user-guide-title: Acrobat Sign Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
@@ -7,7 +7,7 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Tutorials di Acrobat Sign
+breadcrumb-title: Acrobat Sign Tutorials
 source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
 source-wordcount: '418'
@@ -16,7 +16,7 @@ ht-degree: 7%
 ---
 
 
-# Tutorials di Acrobat Sign {#sign-learning-hub}
+# Acrobat Sign Tutorials {#sign-learning-hub}
 
 + [Panoramica](overview.md)
 + Guida introduttiva {#getting-started}
@@ -45,7 +45,7 @@ ht-degree: 7%
       + [Aggiunta di un approvatore](sign-advanced-users/add-an-approver.md)
       + [Raccolta di firme in blocco](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Configurazione di un modulo Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Assegnazione tag di testo di Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Acrobat Sign tag di testo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + Gestione {#advanced-tasks-managing}
       + [Gestione dei modelli di documento](sign-advanced-users/edit-a-template.md)
 + Amministrare {#admin-set-up}
@@ -66,7 +66,7 @@ ht-degree: 7%
       + [Condivisione dell’accesso all’account](admin/share-account-access.md)
       + [Condivisione account avanzata](admin/advanced-account-sharing.md)
       + [Usa impostazioni Bio-Pharma](admin/use-bio-pharma-settings.md)
-      + [Assegnazione tag di testo di Acrobat Sign](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [Acrobat Sign tag di testo](sign-advanced-users/adobe-sign-text-tagging.md)
 + ID digitale {#digital-id}
    + [Panoramica](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}

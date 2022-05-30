@@ -26,4 +26,4 @@ Scopri questo nuovo mondo reale [Accordo sul telelavoro](https://experienceleagu
 
 >[!TIP]
 >
->Questo video fa parte del [Attività avanzate per gli utenti](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) e [Guida introduttiva ad Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) Corsi disponibili gratuitamente ad Experience League!
+>Questo video fa parte del [Attività avanzate per gli utenti](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) e [Guida introduttiva ad Acrobat Sign per amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) Corsi disponibili gratuitamente ad Experience League!

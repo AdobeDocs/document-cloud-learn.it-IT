@@ -25,4 +25,4 @@ Scoprite come eseguire, salvare e pianificare i rapporti in Acrobat Sign.
 
 >[!TIP]
 >
->Questo video fa parte del corso [Guida introduttiva ad Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) disponibile gratuitamente ad Experience League!
+>Questo video fa parte del corso [Guida introduttiva ad Acrobat Sign per amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) disponibile gratuitamente ad Experience League!

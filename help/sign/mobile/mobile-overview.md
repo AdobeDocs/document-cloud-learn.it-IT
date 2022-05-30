@@ -1,5 +1,5 @@
 ---
-title: Panoramica di Mobile
+title: Panoramica mobile
 description: Invia documenti per la firma, monitora lo stato di avanzamento delle firme elettroniche e ottieni aggiornamenti in tempo reale tutto sul tuo dispositivo mobile
 role: User
 product: adobe sign
@@ -14,9 +14,9 @@ ht-degree: 29%
 
 ---
 
-# Panoramica di Mobile
+# Panoramica mobile
 
-![Immagine Mobile Sign](../assets/Hero-Mobile.png)
+![Immagine di Sign per dispositivi mobili](../assets/Hero-Mobile.png)
 
 Invia documenti per la firma, monitora lo stato di avanzamento delle firme elettroniche e ottieni aggiornamenti in tempo reale tutto sul tuo dispositivo mobile.
 
@@ -37,7 +37,7 @@ Invia documenti per la firma, monitora lo stato di avanzamento delle firme elett
       <img alt="Download per iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Download dell’app Mobile Acrobat Sign per iOS</strong></a>
+    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Download dell’app mobile Acrobat Sign per iOS</strong></a>
     <br>
   </td>
   <td>
@@ -45,7 +45,7 @@ Invia documenti per la firma, monitora lo stato di avanzamento delle firme elett
       <img alt="Download per Android" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Download dell’app Mobile Acrobat Sign per Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Download dell’app mobile Acrobat Sign per Android</strong></a>
     <br>
   </td>
 </tr>

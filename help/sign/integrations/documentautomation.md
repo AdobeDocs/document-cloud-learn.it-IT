@@ -58,7 +58,7 @@ Scopri come attivare e utilizzare i connettori Acrobat Sign e Adobe PDF Tools pe
 ## Prerequisiti
 
 * Microsoft 365 e familiarità con Power Automate
-* Conoscenza di Acrobat Sign
+* conoscenza di Acrobat Sign
 * Account Microsoft 365 con accesso a SharePoint e Power Automate (Basic per Acrobat Sign, Premium per Adobe PDF Tools)
 * Account per sviluppatori Acrobat Sign for enterprise o Acrobat Sign
 
@@ -81,18 +81,18 @@ Nella prima parte, userai un modello Power Automate Flow per configurare un flus
 
    ![Screenshot della navigazione in Power Automate](assets/documentautomation/automation_1.png)
 
-1. Scegli **Salvare un accordo completato con Acrobat Sign nella libreria SharePoint**.
+1. Scegli **Salvare un accordo Acrobat Sign completato nella libreria SharePoint**.
 
-   ![Schermata dell’azione Salva un accordo completato con Acrobat Sign in SharePoint libreria](assets/documentautomation/automation_2.png)
+   ![Screenshot dell’azione Salva un accordo Acrobat Sign completato in SharePoint libreria](assets/documentautomation/automation_2.png)
 
-1. Rivedi la schermata e configura tutte le connessioni necessarie. Abilita la connessione ad Acrobat Sign.
+1. Rivedi la schermata e configura tutte le connessioni necessarie. Abilita la connessione Acrobat Sign.
 1. Fate clic sul blu `+` simbolo.
 
    ![Screenshot della connessione di flusso di Acrobat Sign e SharePoint](assets/documentautomation/automation_3.png)
 
-1. Immetti l’indirizzo e-mail dell’account Acrobat Sign e fai clic sul campo password nella nuova finestra.
+1. Immetti il tuo indirizzo e-mail dell’account Acrobat Sign e fai clic sul campo password nella nuova finestra.
 
-   ![Screenshot della schermata di accesso di Acrobat](assets/documentautomation/automation_4.png)
+   ![Screenshot della schermata di accesso di Acrobat Sign](assets/documentautomation/automation_4.png)
 
    Attendi un momento per un Adobe per controllare il tuo account.
 
@@ -195,7 +195,7 @@ Nella seconda parte, si sviluppa la prima parte con un flusso più robusto e si 
 
    ![Screenshot dell&#39;aspetto che dovrebbe avere la schermata Dynamic Content](assets/documentautomation/automation_18.png)
 
-1. Cerca &quot;crea&quot; nell’area di ricerca di Acrobat Sign per aggiungere un’altra azione di Acrobat Sign.
+1. Cerca &quot;create&quot; nell’area di ricerca di Acrobat Sign per aggiungere un’altra azione Acrobat Sign.
 1. Seleziona **Creare e firmare un accordo da un documento caricato e inviarlo per la firma**.
 
    ![Screenshot della ricerca di create](assets/documentautomation/automation_19.png)

@@ -9,7 +9,7 @@ exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
 source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
 workflow-type: tm+mt
 source-wordcount: '740'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -52,7 +52,7 @@ Contatta il tuo contatto di Adobe per scoprire come puoi continuare a fornire le
 
 ## Accesso agli accordi esistenti
 
-Gli utenti potranno comunque accedere agli accordi inviati prima di questa azione tramite Adobe Document Cloud accedendo con il proprio Adobe ID all’indirizzo https://documentcloud.adobe.com. Se l’utente è pianificato per la migrazione a Sign Enterprise, dovrà attenersi a queste [disposizioni](https://helpx.adobe.com/sign/kb/how-to-download-signed-documents---adobe-sign.html).
+Gli utenti potranno comunque accedere agli accordi inviati prima di questa azione tramite Adobe Document Cloud accedendo con il proprio Adobe ID all’indirizzo https://documentcloud.adobe.com. Se l’utente è pianificato per la migrazione a Sign Enterprise, dovrà attenersi a queste [disposizioni](https://helpx.adobe.com/it/sign/kb/how-to-download-signed-documents---adobe-sign.html).
 
 ## Acrobat DC senza [!DNL Sign Individual] autorizzazione
 

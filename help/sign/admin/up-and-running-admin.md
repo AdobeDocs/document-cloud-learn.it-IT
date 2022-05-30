@@ -1,6 +1,6 @@
 ---
-title: Installazione ed esecuzione per gli amministratori di Acrobat Sign
-description: Panoramica di sette aree chiave per consentire agli amministratori di iniziare subito a lavorare in Acrobat Sign
+title: Installazione ed esecuzione per gli amministratori Acrobat Sign
+description: Panoramica di sette aree chiave per consentire agli amministratori di iniziare a lavorare rapidamente in Acrobat Sign
 role: Admin
 product: adobe sign
 level: Intermediate
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 ---
 
-# Installazione e funzionamento per gli amministratori di Acrobat Sign
+# Funzionalità per gli amministratori di Acrobat Sign
 
-Scopri le sette aree principali su cui gli amministratori devono concentrarsi per iniziare a lavorare rapidamente in Acrobat Sign.
+Scoprite le sette aree principali su cui gli amministratori devono concentrarsi per iniziare a lavorare rapidamente in Acrobat Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Guida introduttiva ad Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) disponibile gratuitamente ad Experience League!
+>Questo video fa parte del corso [Guida introduttiva ad Acrobat Sign per amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) disponibile gratuitamente ad Experience League!

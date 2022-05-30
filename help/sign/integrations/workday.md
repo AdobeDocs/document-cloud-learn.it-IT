@@ -1,5 +1,5 @@
 ---
-title: Configurazione di Acrobat Sign per Workday
+title: Configurare Acrobat Sign per Workday
 description: Scopri come configurare Acrobat Sign per lavorare direttamente in Workday per gestire senza problemi tutti i documenti relativi alle risorse umane
 product: adobe sign
 level: Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Configurazione di Acrobat Sign per Workday
+# Configurare Acrobat Sign per Workday
 
-Ottimizza i flussi di lavoro di firma e rendi il tuo team ancora più produttivo utilizzando Acrobat Sign per Workday. In questa esercitazione video, scopri come configurare Acrobat Sign affinché funzioni direttamente in Workday per gestire senza problemi tutti i documenti relativi alle risorse umane.
+Ottimizza i flussi di lavoro di firma e rendi il tuo team ancora più produttivo utilizzando Acrobat Sign per Workday. In questa esercitazione video, scopri come configurare Acrobat Sign per lavorare direttamente in Workday per gestire senza problemi tutti i documenti relativi alle risorse umane.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39372?hidetitle=true)

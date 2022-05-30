@@ -51,7 +51,7 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere lâ
     <div>
     <a href="add-users-to-your-account.md"><strong>Aggiunta di utenti</strong></a>
     </div>
-    <em>Aggiungere utenti singolarmente o in blocco allâ€™account Acrobat Sign</em>
+    <em>Aggiungere utenti singolarmente o in blocco al proprio account Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -191,12 +191,12 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere lâ
   </td> 
   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Assegnazione tag di testo di Acrobat Sign" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign tag di testo" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Assegnazione tag di testo di Acrobat Sign</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign tag di testo</strong></a>
     <div>
-    <em>Creare i campi modulo di Acrobat Sign mediante lâ€™assegnazione di tag di testo con Adobe Acrobat</em>
+    <em>Creare campi modulo Acrobat Sign mediante lâ€™assegnazione di tag di testo con Adobe Acrobat</em>
     <br>
   </td>
   <td>
