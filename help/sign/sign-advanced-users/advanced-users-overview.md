@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Sign Advanced Image](../assets/Hero-Advanced.png)
 
-Scopri come inviare un documento per la firma a 100 destinatari contemporaneamente, configurare un documento pronto per la firma per il tuo sito Web, gestire le transazioni di firma e creare e gestire modelli di documento. Queste esercitazioni sono destinate a tutti coloro che hanno già familiarità con le nozioni di base relative all&#39;invio e alla richiesta di firme e desiderano scoprire altri modi in cui Acrobat Sign può funzionare per loro.
+Scopri come inviare un documento per la firma a 100 destinatari contemporaneamente, configurare un documento pronto per la firma per il tuo sito Web, gestire le transazioni di firma e creare e gestire modelli di documento. Queste esercitazioni sono destinate a tutti coloro che hanno già familiarità con le nozioni di base relative all&#39;invio e alla richiesta di firme e desiderano scoprire altri modi in cui Acrobat Sign può lavorare per loro.
 
 ## Invio in corso
 
@@ -39,7 +39,7 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
       <img alt="Delega a un altro utente" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>Delega a un altro utente</strong></a>
+    <a href="delegate-signature.md"><strong>Uso del ruolo di delegante</strong></a>
     </div>
     <em>Utilizzare il ruolo di delegante per inviare un documento a un intermediario che può quindi indirizzare il documento per la firma</em>
     <br>
@@ -78,12 +78,12 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Assegnazione tag di testo di Acrobat Sign" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign tag di testo" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Assegnazione tag di testo di Acrobat Sign</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign tag di testo</strong></a>
     </div>
-    <em>Creare i campi modulo di Acrobat Sign mediante l’assegnazione di tag di testo con Adobe Acrobat</em>
+    <em>Creare campi modulo Acrobat Sign mediante l’assegnazione di tag di testo con Adobe Acrobat</em>
     <br>
   </td> 
 </table>

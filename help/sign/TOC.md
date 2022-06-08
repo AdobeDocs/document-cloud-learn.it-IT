@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 8301e965961140248467733e83d9f5c1dad87a6f
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 7%
    + [Panoramica](sign-advanced-users/advanced-users-overview.md)
    + Invio in corso {#advanced-tasks-sending}
       + [Impostazione dell’ordine di firma](sign-advanced-users/setting-up-routing.md)
-      + [Delega a un altro utente](sign-advanced-users/delegate-signature.md)
+      + [Uso del ruolo di delegante](sign-advanced-users/delegate-signature.md)
       + [Aggiunta di un approvatore](sign-advanced-users/add-an-approver.md)
       + [Raccolta di firme in blocco](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Configurazione di un modulo Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)

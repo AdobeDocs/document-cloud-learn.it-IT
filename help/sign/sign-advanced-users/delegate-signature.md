@@ -1,5 +1,5 @@
 ---
-title: Delegare a qualcun altro
+title: Uso del ruolo di delegante
 description: Utilizzare il ruolo di delegante per inviare un documento a un intermediario che può quindi indirizzare il documento per la firma
 role: User
 product: adobe sign
@@ -7,18 +7,22 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 7%
 
 ---
 
-# Delega a un altro utente
+# Uso del ruolo di delegante
 
 Scoprite come utilizzare il ruolo di delegante per inviare un documento a un intermediario che può quindi indirizzare il documento per la firma.
 
->[!VIDEO](https://video.tv.adobe.com/v/17366?hidetitle=true)
+>[!NOTE]
+>
+>Il ruolo di delegante è disponibile solo per i piani a livello aziendale. L’amministratore Acrobat Sign potrebbe dover abilitare **Consenti ai mittenti di contrassegnare alcuni destinatari come deleganti** impostazione nel **Impostazioni di invio** sezione del **Impostazioni account** per utilizzare questa funzione.
+
+>[!VIDEO](https://video.tv.adobe.com/v/343621?hidetitle=true)
 
 >[!TIP]
 >
