@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8301e965961140248467733e83d9f5c1dad87a6f
+source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '398'
 ht-degree: 1%
 
 ---
@@ -110,10 +110,10 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere l�
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="Raccogli firme in blocco" src="../assets/Megasign.png" />
+      <img alt="Inviare e raccogliere più firme in blocco" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Raccogli le firme in blocco</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Inviare e raccogliere più firme in blocco</strong></a>
     </div>
     <em>Raccogli centinaia di firme alla volta per qualsiasi documento</em>
     <br>
