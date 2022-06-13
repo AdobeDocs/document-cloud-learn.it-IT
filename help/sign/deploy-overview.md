@@ -7,10 +7,10 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
+source-git-commit: 4ecbad448752f43a2deab48bf87de8076b0df9c2
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 9%
+source-wordcount: '115'
+ht-degree: 10%
 
 ---
 
@@ -33,16 +33,6 @@ Articoli di best practice con informazioni preziose sulla distribuzione di Acrob
     <br>
   </td>
   <td>
-    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank">
-      <img alt="Best practice" src="assets/Deploy_BP.png" />
-    </a>
-    <div>
-    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Procedure ottimali</strong></a>
-    </div>
-    <em>Rivedi le conoscenze e le conoscenze preziose acquisite dal lavoro del nostro Customer Success Manager con i nostri clienti nella distribuzione di Acrobat Sign</em>
-    <br>
-  </td>  
-  <td>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
       <img alt="Centro protezione di Adobe" src="assets/Deploy_Trust.png" />
     </a>
@@ -52,8 +42,6 @@ Articoli di best practice con informazioni preziose sulla distribuzione di Acrob
     <em>Scopri i nostri continui sforzi in materia di sicurezza, legalità e standard per Acrobat Sign</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="assets/SignStudyGuide.pdf">
       <img alt="Guida allo studio di Acrobat Sign Essentials" src="assets/SignStudyGuide.png" />
@@ -62,16 +50,6 @@ Articoli di best practice con informazioni preziose sulla distribuzione di Acrob
     <a href="assets/SignStudyGuide.pdf"><strong>Guida allo studio di Acrobat Sign Essentials</strong></a>
     </div>
     <em>Guida allo studio di Acrobat Sign per la valutazione degli elementi essenziali di Acrobat Sign (AD3-D104)</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
