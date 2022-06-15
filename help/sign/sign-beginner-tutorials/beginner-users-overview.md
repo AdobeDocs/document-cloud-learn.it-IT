@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
+source-git-commit: a58206e7d5da3d0f18b9d70b58407be033983c8f
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ![Immagine introduttiva di Sign](../assets/Hero-GettingStarted.png)
 
-Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial passo passo. Accedi a una breve panoramica di Acrobat Sign e inizia subito a inviare un documento a una o più persone. Questo contenuto è progettato per facilitare l’accesso ai flussi di lavoro di firma elettronica.
+Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial passo passo. Accedi a una breve panoramica di Acrobat Sign e poi inizia a inviare un documento a una o più persone. Questo contenuto è progettato per facilitare l’accesso ai flussi di lavoro di firma elettronica.
 
 ## Invio in corso
 
@@ -125,6 +125,16 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
 </tr>
 <tr>
   <td>
+    <a href="delegate-signing.md">
+      <img alt="Delegare la firma a un altro utente" src="../assets/Delegatesigning.png" />
+    </a>
+    <div>
+    <a href="delegate-signing.md"><strong>Delegare la firma a un altro utente</strong></a>
+    </div>
+    <em>Scopri come delegare la firma di un documento a un altro utente</em>
+    <br>
+  </td>
+  <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="Cos'è una firma digitale" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
@@ -144,11 +154,6 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
     <em>Utilizzare timbri per contrassegnare un documento approvato o completato</em>
      <br>
   </td> 
-  <td>
-    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>  
 </table>
 
