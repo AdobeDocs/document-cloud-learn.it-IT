@@ -1,5 +1,5 @@
 ---
-title: Aggiunta di un approvatore
+title: Uso del ruolo di approvazione
 description: Scopri come aggiungere un ruolo di approvatore al processo di approvazione del contratto
 role: User
 product: adobe sign
@@ -7,18 +7,18 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 22%
 
 ---
 
-# Aggiunta di un approvatore
+# Uso del ruolo di approvazione
 
-Scopri come inviare un documento attraverso un processo di approvazione. In questo esempio viene illustrato come inviare un contratto di assunzione tramite le risorse umane, i dipendenti e il responsabile delle assunzioni.
+Scopri come inviare un documento attraverso un processo di approvazione. In questo esempio, scopri come inviare un contratto di assunzione tramite HR, un potenziale dipendente e il responsabile delle assunzioni. Il ruolo Approvatore è utile per le situazioni in cui un utente deve “dare l’OK” prima di inviare un documento al firmatario.
 
->[!VIDEO](https://video.tv.adobe.com/v/17367?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343854?hidetitle=true)
 
 >[!TIP]
 >
