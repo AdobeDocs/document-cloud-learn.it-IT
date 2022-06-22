@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: a58206e7d5da3d0f18b9d70b58407be033983c8f
+source-git-commit: 0241cf9189ec43ba3e216423049091226b0172a6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '365'
+ht-degree: 1%
 
 ---
 
@@ -99,7 +99,7 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
     <div>
     <a href="electronically-sign-a-document.md"><strong>Firma elettronica di un documento</strong></a>
     </div>
-    <em>Scopri com’è facile firmare un documento che ti è stato inviato con Acrobat Sign</em>
+    <em>Scopri com’è facile firmare un documento che ti viene inviato con Acrobat Sign</em>
     <br>
   </td>
   <td>
