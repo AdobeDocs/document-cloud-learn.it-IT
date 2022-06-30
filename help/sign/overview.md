@@ -1,23 +1,23 @@
 ---
-title: Esercitazioni
-description: Una raccolta di esercitazioni, webinar e esempi di utilizzo progettati per consentire a principianti e amministratori di familiarizzare rapidamente con Acrobat Sign
+title: Acrobat Sign Tutorials
+description: Una raccolta di esercitazioni, webinar e esempi di utilizzo progettati per mettere rapidamente in sintonia principianti e amministratori su Acrobat Sign
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '200'
 ht-degree: 4%
 
 ---
 
-# Esercitazioni per Acrobat Sign
+# Esercitazioni su Acrobat Sign
 
-![Immagine eroe di Acrobat Sign](assets/Hero_Sign.jpg)
+![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
-Acrobat Sign, una soluzione Adobe Document Cloud, si adatta alle esigenze della tua organizzazione con integrazioni, API, autenticazione avanzata, funzionalità di amministrazione aggiuntive e altro ancora. Qui puoi trovare un’ampia gamma di esperienze di apprendimento progettate per consentire a principianti e amministratori di familiarizzare rapidamente con Acrobat Sign.
+Acrobat Sign, una soluzione Adobe Document Cloud, si adatta alle esigenze della tua organizzazione con integrazioni, API, autenticazione avanzata, funzionalità di amministrazione aggiuntive e altro ancora. Qui puoi trovare un’ampia gamma di esperienze di apprendimento progettate per portare rapidamente a portata di mano sia principianti che amministratori su Acrobat Sign.
 
 ## Percorsi di apprendimento
 
@@ -72,7 +72,7 @@ Acrobat Sign, una soluzione Adobe Document Cloud, si adatta alle esigenze della 
     <div>
     <a href="integrations/integrations-overview.md"><strong>Integrazioni</strong></a>
     </div>
-    <em>Aggiungere Acrobat Sign direttamente in altre applicazioni già utilizzate dalla tua organizzazione</em>
+    <em>Aggiungere Acrobat Sign direttamente in altre applicazioni già utilizzate dall'organizzazione</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ Acrobat Sign, una soluzione Adobe Document Cloud, si adatta alle esigenze della 
     <div>
     <a href="deploy-overview.md"><strong>Distribuisci</strong></a>
     </div>
-    <em>Informazioni e best practice per la distribuzione di Acrobat Sign all’interno dell’organizzazione</em>
+    <em>Informazioni e best practice per la distribuzione di Acrobat Sign all'interno dell'organizzazione</em>
     <br>
   </td>
   <td>
