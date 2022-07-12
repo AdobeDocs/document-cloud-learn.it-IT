@@ -7,7 +7,7 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
+source-git-commit: f68fc211dc315a7d7ef508787c80fbe9882fcdc3
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 3%
@@ -33,6 +33,8 @@ Nella parte 1, scopri come iniziare a usare tutto quello che ti serve per le par
    * Windows - Chocolatey
    * Tutto - https://www.python.org/downloads/
 
++++
+
 ## Parte 2: Codice basso/inesistente: la potenza dei moduli web
 
 Nella parte 2, scopri l’opzione di utilizzo dei moduli Web in modalità low/no code. È sempre consigliabile verificare se è possibile evitare di scrivere il codice all&#39;inizio.
@@ -54,6 +56,8 @@ Nella parte 2, scopri l’opzione di utilizzo dei moduli Web in modalità low/no
 1. Provate ad aggiungere i parametri di query in modo dinamico.
 
    ![Screenshot dell&#39;aggiunta dei parametri di query](assets/embeddedesignature/embed_3.png)
+
++++
 
 ## Parte 3: Inviare un accordo con un modulo e unire i dati
 
@@ -110,6 +114,8 @@ Il codice è abbastanza semplice; utilizza un documento libreria (modello) per l
 
 ![Screenshot del codice per aggiungere firme in modo dinamico](assets/embeddedesignature/embed_11.png)
 
++++
+
 ## Parte 4: Incorpora esperienza di firma, reindirizzamenti e altro ancora
 
 In molti casi, puoi consentire al partecipante che attiva l’accordo di firmare immediatamente un accordo. Questa funzione è utile per le applicazioni e i chioschi rivolti ai clienti.
@@ -135,6 +141,8 @@ Dopo aver aggiornato il processo di creazione dell’accordo, il passaggio final
 ![Screenshot con cui si consiglia di stabilire un ciclo di tentativi](assets/embeddedesignature/embed_15.png)
 
 Quando tutto è messo insieme, la soluzione è abbastanza semplice. Stai creando un accordo e quindi generando un URL di firma affinché il firmatario possa fare clic su e iniziare il rituale di firma.
+
++++
 
 ## Altri argomenti
 
