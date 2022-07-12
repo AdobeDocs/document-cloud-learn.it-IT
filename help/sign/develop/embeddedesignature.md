@@ -7,57 +7,22 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
 
 # Creazione di firme elettroniche e documenti incorporati
 
-Scopri come utilizzare le API di Acrobat Sign per incorporare firme elettroniche ed esperienze documentali nelle piattaforme web e nei sistemi di gestione dei contenuti e dei documenti. Questa esercitazione pratica è suddivisa in quattro parti, descritte nei collegamenti seguenti:
+Scopri come utilizzare le API di Acrobat Sign per incorporare firme elettroniche ed esperienze documentali nelle piattaforme web e nei sistemi di gestione dei contenuti e dei documenti. Ci sono quattro parti in questo tutorial pratico.
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="embeddedesignature.md#part1">
-        <img alt="Cosa ti servirà" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part1"><strong>Parte 1: Cosa ti servirà</strong></a>
-    </div>
-  </td>
-  <td>
-    <a href="embeddedesignature.md#part2">
-        <img alt="Parte 2: Codice basso/inesistente: la potenza dei moduli web" src="assets/embeddedesignature/EmbedPart2_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part2"><strong>Parte 2: Codice basso/inesistente: la potenza dei moduli web</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part3">
-      <img alt="Parte 3: Inviare un accordo con un modulo e unire i dati" src="assets/embeddedesignature/EmbedPart3_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part3"><strong>Parte 3: Inviare un accordo con un modulo e unire i dati</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part4">
-      <img alt="Parte 4: Incorpora esperienza di firma, reindirizzamenti e altro ancora" src="assets/embeddedesignature/EmbedPart4_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part4"><strong>Parte 4: Incorpora esperienza di firma, reindirizzamenti e altro ancora</strong></a>
-    </div>
-  </td>
-</tr>
-</table>
+## Parte 1: Cosa ti serve
 
-## Parte 1: Cosa ti servirà {#part1}
+Nella parte 1, scopri come iniziare a usare tutto quello che ti serve per le parti 2-4. Iniziamo con l&#39;ottenimento delle credenziali API.
 
-Nella parte 1, imparerai come iniziare a usare tutto quello che ti serve per le parti 2-4. Iniziamo con l&#39;ottenimento delle credenziali API.
++++Visualizza i dettagli su come ottenere le credenziali API
 
 * [Account per sviluppatori Acrobat Sign](https://acrobat.adobe.com/it/it/sign/developer-form.html)
 * [Codice iniziale](https://github.com/benvanderberg/adobe-sign-api-tutorial)
@@ -68,12 +33,15 @@ Nella parte 1, imparerai come iniziare a usare tutto quello che ti serve per le 
    * Windows - Chocolatey
    * Tutto - https://www.python.org/downloads/
 
-## Parte 2: Codice basso/inesistente: la potenza dei moduli web {#part2}
+## Parte 2: Codice basso/inesistente: la potenza dei moduli web
 
-Nella parte 2, si esplorerà l’opzione low/no code quando si utilizzano i moduli Web. È sempre consigliabile verificare se è possibile evitare di scrivere il codice all&#39;inizio.
+Nella parte 2, scopri l’opzione di utilizzo dei moduli Web in modalità low/no code. È sempre consigliabile verificare se è possibile evitare di scrivere il codice all&#39;inizio.
+
++++Visualizza i dettagli su come creare un modulo Web
 
 1. Accedi ad Acrobat Sign con il tuo account sviluppatore.
-1. Fai clic su **Pubblicare un modulo Web** nella home page.
+
+1. Seleziona **Pubblicare un modulo Web** nella home page.
 
    ![Schermata della home page di Acrobat Sign](assets/embeddedesignature/embed_1.png)
 
@@ -82,15 +50,18 @@ Nella parte 2, si esplorerà l’opzione low/no code quando si utilizzano i modu
    ![Screenshot di come creare un modulo Web](assets/embeddedesignature/embed_2.png)
 
 1. Incorpora il tuo accordo in una pagina HTML semplice.
+
 1. Provate ad aggiungere i parametri di query in modo dinamico.
 
    ![Screenshot dell&#39;aggiunta dei parametri di query](assets/embeddedesignature/embed_3.png)
 
-## Parte 3: Inviare un accordo con un modulo e unire i dati {#part3}
+## Parte 3: Inviare un accordo con un modulo e unire i dati
 
-Nella parte 3, gli accordi verranno creati in modo dinamico.
+Nella parte 3, crea accordi in modo dinamico.
 
-Innanzitutto, è necessario stabilire l&#39;accesso. Con Acrobat Sign, ci sono due modi per connettersi tramite API. Token OAuth e chiavi di integrazione. A meno che non abbiate un motivo molto specifico per utilizzare OAuth con l&#39;applicazione, prima di tutto esplorerete le chiavi di integrazione.
++++Visualizza i dettagli su come creare accordi in modo dinamico
+
+Innanzitutto, è necessario stabilire l&#39;accesso. Con Acrobat Sign, ci sono due modi per connettersi tramite API. Token OAuth e chiavi di integrazione. A meno che non abbiate un motivo molto specifico per utilizzare OAuth con l&#39;applicazione, è necessario esaminare innanzitutto le chiavi di integrazione.
 
 1. Seleziona **Chiave di integrazione** sulla **Informazioni API** sotto il **Account** in Acrobat Sign.
 
@@ -139,9 +110,11 @@ Il codice è abbastanza semplice; utilizza un documento libreria (modello) per l
 
 ![Screenshot del codice per aggiungere firme in modo dinamico](assets/embeddedesignature/embed_11.png)
 
-## Parte 4: Incorpora esperienza di firma, reindirizzamenti e altro ancora {#part4}
+## Parte 4: Incorpora esperienza di firma, reindirizzamenti e altro ancora
 
 In molti casi, puoi consentire al partecipante che attiva l’accordo di firmare immediatamente un accordo. Questa funzione è utile per le applicazioni e i chioschi rivolti ai clienti.
+
++++Visualizza i dettagli su come incorporare l’esperienza di firma
 
 Se non desideri che venga attivato il primo indirizzo e-mail di invio, puoi gestirlo facilmente modificando la chiamata API.
 
@@ -163,7 +136,7 @@ Dopo aver aggiornato il processo di creazione dell’accordo, il passaggio final
 
 Quando tutto è messo insieme, la soluzione è abbastanza semplice. Stai creando un accordo e quindi generando un URL di firma affinché il firmatario possa fare clic su e iniziare il rituale di firma.
 
-### Altri argomenti
+## Altri argomenti
 
 * [Eventi JS](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Eventi webhook
@@ -179,14 +152,3 @@ Quando tutto è messo insieme, la soluzione è abbastanza semplice. Stai creando
       ![Screenshot della navigazione in Power Automate](assets/embeddedesignature/embed_16.png)
 
    * Oppure aggiungetene uno [in volo](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
-
-## Risorse aggiuntive
-
-http://bit.ly/Summit21-T126
-
-Include:
-* Account per sviluppatori Acrobat Sign
-* Documenti API di Acrobat Sign
-* Codice di esempio
-* Visual Studio Code
-* Python
