@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 2%
+source-wordcount: '265'
+ht-degree: 4%
 
 ---
 
@@ -57,6 +57,16 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
 </tr>
 <tr>
   <td>
+    <a href="set-up-online-payments.md">
+      <img alt="Impostare i pagamenti online" src="../assets/Payments.png" />
+    </a>
+    <div>
+    <a href="set-up-online-payments.md"><strong>Impostare i pagamenti online</strong></a>
+    </div>
+    <em>Scopri come impostare e accettare pagamenti online nei documenti</em>
+    <br>
+  </td>
+  <td>
     <a href="megasign.md">
       <img alt="Inviare e raccogliere più firme in blocco" src="../assets/Megasign.png" />
     </a>
@@ -75,8 +85,10 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
     </div>
     <em>Creare un documento che può essere firmato elettronicamente direttamente sul sito Web</em>
     <br>
-  </td> 
-  <td>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign tag di testo" src="../assets/Text-Tagging.png" />
   </a>
@@ -85,7 +97,18 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
     </div>
     <em>Creare campi modulo Acrobat Sign mediante l’assegnazione di tag di testo con Adobe Acrobat</em>
     <br>
-  </td> 
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
 
 ## Gestione

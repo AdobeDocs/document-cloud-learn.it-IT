@@ -1,5 +1,5 @@
 ---
-title: Uso del ruolo di approvazione
+title: Utilizzo del ruolo di approvatore
 description: Scopri come aggiungere un ruolo di approvatore al processo di approvazione del contratto
 role: User
 product: adobe sign
@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
+source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 22%

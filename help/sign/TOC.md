@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
+source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '429'
+ht-degree: 9%
 
 ---
 
@@ -46,6 +46,7 @@ ht-degree: 0%
       + [Uso del ruolo di approvazione](sign-advanced-users/add-an-approver.md)
       + [Inviare e raccogliere più firme in blocco](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Configurazione di un modulo Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [Impostare i pagamenti online](sign-advanced-users/set-up-online-payments.md)
       + [Acrobat Sign tag di testo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + Gestione {#advanced-tasks-managing}
       + [Gestione dei modelli di documento](sign-advanced-users/edit-a-template.md)
