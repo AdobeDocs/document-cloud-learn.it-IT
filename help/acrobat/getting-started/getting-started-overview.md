@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '431'
 ht-degree: 6%
 
 ---
@@ -25,12 +25,22 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Nozioni di base sull’area di lavoro" src="../assets/Workspace_1280.png" />
+      <img alt="Nozioni di base sull’area di lavoro" src="../assets/NewWorkspace.png" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Nozioni di base sull’area di lavoro</strong></a>
     </div>
     <em>Scoprite come l'area di lavoro di Acrobat semplifica l'accesso a file e strumenti da computer desktop, Web e dispositivi mobili</em>
+    <br>
+  </td>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="Nuova esperienza dell’area di lavoro" src="../assets/Acrobatweb_1280.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>Nuova esperienza dell’area di lavoro</strong></a>
+    </div>
+    <em>Scopri la nuova esperienza dell’area di lavoro che puoi attivare in Acrobat</em>
     <br>
   </td>
   <td>
@@ -43,7 +53,9 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <em>Scopri come gestire le richieste di documenti aziendali ovunque ti trovi utilizzando gli strumenti Web di Acrobat nel tuo browser</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
     <a href="productivity.md">
       <img alt="Produttività in mobilità" src="../assets/Productivity_1280.png" />
     </a>
@@ -53,9 +65,7 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <em>Ottieni di più direttamente dal tuo tablet o smartphone con l'app mobile Acrobat Reader</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="../integrate/integrate-overview.md#microsoft">
       <img alt="Utilizzo di Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
     </a>
@@ -75,6 +85,8 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <em>Porta avanti i tuoi progetti raccogliendo commenti, collaborando alle risposte e monitorando lo stato di avanzamento dei tuoi documenti in tempo reale, ovunque ti trovi</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine Files su PDF" src="../assets/Combine.jpg" />
@@ -85,9 +97,7 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <em>Combinare diversi tipi di file in un unico PDF</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="create-pdf.md">
       <img alt="Creare file PDF" src="../assets/Create.jpg" />
     </a>
@@ -107,6 +117,8 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <em>Aggiungere commenti a un file PDF e condividerlo con altri utenti</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="edit-pdf.md">
       <img alt="Modifica un PDF" src="../assets/Edit.jpg" />
@@ -117,8 +129,6 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <em>Modificare testo e immagini nei file PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="export-pdf.md">
       <img alt="Esportare un PDF in formati modificabili" src="../assets/Export.jpg" />
@@ -139,7 +149,9 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <em>Trasformare un documento creato in un’altra applicazione in un modulo di PDF compilabile</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="scan-and-ocr.md">
       <img alt="Scansione e OCR" src="../assets/Scan.jpg" />
     </a>
@@ -149,9 +161,7 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <em>Riduci i file di grandi dimensioni e ottimizza i tuoi PDF senza compromettere la qualità per la condivisione, la pubblicazione o l'archiviazione</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="organize.md">
       <img alt="Organizza pagine" src="../assets/Organize.jpg" />
     </a>
@@ -171,6 +181,8 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <em>Aggiungere una password al PDF per proteggere gli altri utenti dall'apertura o dalla modifica del file</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="Compila e firma un modulo PDF" src="../assets/FillSign_1280.png" />
@@ -181,8 +193,6 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <em>Compilare e firmare rapidamente un modulo di PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="signatures.md">
       <img alt="Raccogli firme" src="../assets/Signatures_1280.png" />
@@ -203,7 +213,9 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <em>Scopri sempre quali file sono in attesa di firma e quali sono stati firmati</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="Da dove vengono i PDF?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -211,6 +223,18 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <a href="where-do-pdfs-come-from.md"><strong>Da dove vengono i PDF?</strong></a>
     </div>
     <em>Comprendere da dove provengono i PDF e i loro usi</em>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
