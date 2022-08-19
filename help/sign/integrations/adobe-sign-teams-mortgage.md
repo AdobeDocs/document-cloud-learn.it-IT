@@ -1,6 +1,6 @@
 ---
-title: Invio di documenti per la firma in [!DNL Microsoft Teams]
-description: Acrobat Sign e [!DNL Microsoft Teams] consente di inviare accordi per la firma o controllare lo stato degli accordi esistenti, il tutto dall’interno di [!DNL Microsoft Teams]
+title: Invia per firma in [!DNL Microsoft Teams]
+description: Scopri come inviare accordi per la firma, controllare lo stato degli accordi e inviare promemoria da [!DNL Microsoft Teams]
 role: User
 product: adobe sign
 solution: Acrobat Sign
@@ -8,18 +8,19 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 40125.jpg
 exl-id: dc6b8cc8-6d9d-46a0-add2-dc5ada06fbaf
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 14c0cab2c17cae777e7ea5aaaa97fcc0dfca41f4
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-# Invio di documenti per la firma in [!DNL Microsoft Teams]
+# Invia per firma in [!DNL Microsoft Teams]
 
-Acrobat Sign e [!DNL Microsoft Teams] consente di inviare accordi per la firma o controllare lo stato degli accordi esistenti, il tutto dall’interno di [!DNL Microsoft Teams]. Questo esempio illustra un broker ipotecario che invia una domanda di prestito direttamente all&#39;interno di Teams. Questa stretta integrazione accelera il processo di prestito ipotecario, anche quando si lavora con i richiedenti di un mutuo in un ambiente di lavoro remoto.
+Scopri come inviare accordi per la firma, controllare lo stato degli accordi e inviare promemoria da [!DNL Microsoft Teams].
+Questo esempio illustra un broker ipotecario che invia una richiesta di prestito per la firma direttamente all&#39;interno di Teams. Questa stretta integrazione accelera il processo di prestito ipotecario, anche quando si lavora con i richiedenti di un mutuo in un ambiente di lavoro remoto.
 
->[!VIDEO](https://video.tv.adobe.com/v/40125?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/346545?hidetitle=true)
 
 >[!TIP]
 >
