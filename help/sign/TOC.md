@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 59ff31d39cbc890a68fba1ca62efb278f154c155
+source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,9 +23,10 @@ ht-degree: 9%
    + [Panoramica](sign-beginner-tutorials/beginner-users-overview.md)
    + Invio in corso {#getting-started-sending}
       + [Nozioni di base sull’area di lavoro](sign-beginner-tutorials/quick-tour.md)
+      + [Guida introduttiva ad Acrobat Sign per nuovi mittenti](sign-beginner-tutorials/new-sender.md)
       + [Invio a un singolo destinatario](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Invio a più destinatari](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [Guida introduttiva ad Acrobat Sign per nuovi mittenti](sign-beginner-tutorials/new-sender.md)
+      + [Aggiunta di campi ai documenti](sign-beginner-tutorials/adding-fields.md)
       + [Modifica di un documento dopo l’invio](sign-beginner-tutorials/modify-in-flight.md)
       + [Sostituzione di un firmatario](sign-beginner-tutorials/replace-signer.md)
    + Signing {#getting-started-signing}
