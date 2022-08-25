@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
+source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '422'
+ht-degree: 1%
 
 ---
 
@@ -66,6 +66,16 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
 </tr>
 <tr>
   <td>
+    <a href="sending-options.md">
+      <img alt="Configurare le opzioni di invio" src="../assets/Sendingoptions.png" />
+    </a>
+    <div>
+    <a href="sending-options.md"><strong>Configurare le opzioni di invio</strong></a>
+    </div>
+    <em>Scopri come configurare varie opzioni quando si invia un documento per la firma</em>
+    <br>
+  </td>
+  <td>
     <a href="adding-fields.md">
       <img alt="Aggiunta di campi ai documenti" src="../assets/AddingFields.png" />
     </a>
@@ -75,7 +85,7 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
     <em>Scopri come aggiungere diversi tipi di campi ai documenti</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="modify-in-flight.md">
       <img alt="Modifica di un documento dopo l’invio" src="../assets/Modifying-sending.png" />
     </a>
@@ -85,7 +95,7 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
     <em>Modificare un documento già in corso</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="replace-signer.md">
       <img alt="Sostituzione di un firmatario" src="../assets/replace-signer.png" />
     </a>
@@ -94,11 +104,6 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
     </div>
     <em>Scopri come modificare il firmatario di un documento già in corso</em>
      <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
