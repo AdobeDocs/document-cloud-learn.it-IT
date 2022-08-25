@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
+source-git-commit: e44f36c10c666fc4734df0521dc7c25ae60ce960
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 1%
+source-wordcount: '416'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Immagine Amministratori Sign](../assets/Hero-Admin.png)
 
-Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere lâ€™accesso e configurare un flusso di lavoro, un archivio esterno e gli eventi e gli avvisi condivisi. Queste esercitazioni sono progettate per gli amministratori che hanno superato la fase di installazione e sono pronti per avviare lâ€™amministrazione di Acrobat Sign. Le attivitÃ  avanzate riguardano argomenti che si estendono oltre la porzione di configurazione dellâ€™amministratore e passano alla definizione di impostazioni globali, allâ€™accesso e alla condivisione dellâ€™account e allâ€™assegnazione di tag di testo.
+Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere lâ€™accesso e configurare un flusso di lavoro, un archivio esterno e gli eventi e gli avvisi condivisi. Queste esercitazioni sono progettate per gli amministratori che hanno superato la fase di installazione e sono pronti per avviare lâ€™amministrazione di Acrobat Sign. Le attivitÃ  avanzate riguardano argomenti che si espandono oltre la configurazione dellâ€™amministratore e passano alla definizione di impostazioni globali, accesso e condivisione dellâ€™account e assegnazione di tag di testo.
 
 ## Guida introduttiva
 
@@ -54,8 +54,6 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere lâ
     <em>Aggiungere utenti singolarmente o in blocco al proprio account Acrobat Sign</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-and-manage-groups.md">
       <img alt="Creazione e gestione dei gruppi" src="../assets/Creating-Groups.png" />
@@ -66,7 +64,9 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere lâ
     <em>Creare gruppi, aggiungere utenti ai gruppi e modificare le impostazioni dei gruppi</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="set-up-your-external-archive.md">
       <img alt="Configurazione di un archivio esterno" src="../assets/ExternalArchive.png" />
     </a>
@@ -86,8 +86,6 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere lâ
     <em>Creare un modello di documento riutilizzabile per garantire velocitÃ  e coerenza</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-report.md">
       <img alt="Creazione di un report" src="../assets/Report.png" />
@@ -108,6 +106,18 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere lâ
     <em>Creare un documento che puÃ² essere firmato elettronicamente direttamente sul sito Web</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="../sign-advanced-users/modify-webform.md">
+      <img alt="Modificare un modulo Web esistente" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/modify-webform.md"><strong>Modificare un modulo Web esistente</strong></a>
+    </div>
+    <em>Scopri come disattivare, modificare e riattivare un modulo Web esistente</em>
+    <br>
+  </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="Inviare e raccogliere piÃ¹ firme in blocco" src="../assets/Megasign.png" />
@@ -118,8 +128,6 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere lâ
     <em>Raccogli centinaia di firme alla volta per qualsiasi documento</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Impostazione di un flusso di lavoro" src="../assets/BuildingWorkflow.png" />
@@ -128,11 +136,6 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere lâ
     <a href="building-a-custom-workflow.md"><strong>Impostazione di un flusso di lavoro</strong></a>
     </div>
     <em>Automatizza i flussi di lavoro basati su documenti per ottenere rapidamente firme elettroniche e dati</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
@@ -177,8 +180,6 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere lâ
     <em>Configura la condivisione dellâ€™account per consentire agli amministratori e agli utenti di delegare le autorizzazioni di invio, modifica e visualizzazione</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="use-bio-pharma-settings.md">
       <img alt="Utilizzo delle impostazioni Bio-Pharma" src="../assets/Bio_1280.png" />
@@ -189,7 +190,9 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere lâ
     <em>Configurare le impostazioni Bio-Pharma che consentono di soddisfare i requisiti FDA 21 CFR Part 11</em>
     <br>
   </td> 
-  <td>
+</tr>
+<tr>
+   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign tag di testo" src="../assets/Text-Tagging.png" />
     </a>
@@ -197,6 +200,16 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere lâ
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign tag di testo</strong></a>
     <div>
     <em>Creare campi modulo Acrobat Sign mediante lâ€™assegnazione di tag di testo con Adobe Acrobat</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
