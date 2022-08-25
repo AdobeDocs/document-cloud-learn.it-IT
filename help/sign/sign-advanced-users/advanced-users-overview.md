@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e5ac7f7782df654f2a59326b8dc14df7abba97ad
+source-git-commit: c1f3544017f268b7f0c9050ed440b3dc97fd20dd
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '284'
 ht-degree: 4%
 
 ---
@@ -54,8 +54,6 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
     <em>Aggiungere un ruolo di approvatore al processo di approvazione del contratto</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="set-up-online-payments.md">
       <img alt="Impostare i pagamenti online" src="../assets/Payments.png" />
@@ -66,7 +64,9 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
     <em>Scopri come impostare e accettare i pagamenti online nei tuoi documenti</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="megasign.md">
       <img alt="Inviare e raccogliere più firme in blocco" src="../assets/Megasign.png" />
     </a>
@@ -86,9 +86,7 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
     <em>Creare un documento che può essere firmato elettronicamente direttamente sul sito Web</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign tag di testo" src="../assets/Text-Tagging.png" />
   </a>
@@ -96,16 +94,6 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
     <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign tag di testo</strong></a>
     </div>
     <em>Creare campi modulo Acrobat Sign mediante l’assegnazione di tag di testo con Adobe Acrobat</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +111,16 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
     <a href="edit-a-template.md"><strong>Gestione dei modelli di documento</strong></a>
     </div>
     <em>Modificare o eliminare un modello dalla libreria</em>
+    <br>
+  </td>
+  <td>
+    <a href="modify-webform.md">
+      <img alt="Modificare un modulo Web esistente" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="modify-webform.md"><strong>Modificare un modulo Web esistente</strong></a>
+    </div>
+    <em>Scopri come disattivare, modificare e riattivare un modulo Web esistente</em>
     <br>
   </td>  
   <td>
