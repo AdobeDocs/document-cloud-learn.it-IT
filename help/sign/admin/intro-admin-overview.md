@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e44f36c10c666fc4734df0521dc7c25ae60ce960
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -88,12 +88,12 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere l‚
   </td>
   <td>
     <a href="create-a-report.md">
-      <img alt="Creazione di un report" src="../assets/Report.png" />
+      <img alt="Creazione di un grafico di rapporto" src="../assets/Reportchart.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>Creazione di un report</strong></a>
+    <a href="create-a-report.md"><strong>Creazione di un grafico di rapporto</strong></a>
     </div>
-    <em>Creare e pianificare report per ottenere visibilit√† sull'utilizzo di Acrobat Sign da parte della tua organizzazione</em>
+    <em>Scopri come creare, salvare e gestire report personalizzati ed esportazioni di dati</em>
     <br>
   </td>
   <td>

@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 75a2b43b76f9fe9fc99de2c84e4e0de06b63138a
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '457'
 ht-degree: 8%
 
 ---
@@ -53,6 +53,7 @@ ht-degree: 8%
    + Gestione {#advanced-tasks-managing}
       + [Gestione dei modelli di documento](sign-advanced-users/edit-a-template.md)
       + [Modificare un modulo Web esistente](sign-advanced-users/modify-webform.md)
+      + [Creazione di un report](sign-advanced-users/creating-a-report.md)
 + Amministrare {#admin-set-up}
    + [Panoramica](admin/intro-admin-overview.md)
    + Guida introduttiva {#getting-started-admin}
@@ -62,7 +63,7 @@ ht-degree: 8%
       + [Creazione e gestione di gruppi](admin/create-and-manage-groups.md)
       + [Configurazione di un archivio esterno](admin/set-up-your-external-archive.md)
       + [Creazione di un modello](sign-advanced-users/create-a-template.md)
-      + [Creazione di un report](admin/create-a-report.md)
+      + [Creazione di un grafico di rapporto](admin/create-a-report.md)
       + [Creazione di un modulo Web](sign-advanced-users/webform.md)
       + [Modificare un modulo Web esistente](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [Inviare e raccogliere più firme in blocco](sign-advanced-users/megasign.md)
