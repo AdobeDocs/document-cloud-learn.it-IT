@@ -6,9 +6,9 @@ product: adobe sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3e12b86951b7d5ba5cde467f385de3a7798c8ba5
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,12 @@ Dai un&#39;occhiata a questi esempi di utilizzo aggiuntivi nel mondo reale:
 * [Contratti governativi e Forms delle richieste di acquisto](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) esempio di utilizzo.
 * [Forms di contratti e richieste commerciali](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) esempio di utilizzo.
 
+>[!NOTE]
+>
+>Gli amministratori dei gruppi possono assegnare flussi di lavoro a qualsiasi gruppo amministrato (non solo al gruppo principale). Gli amministratori dei gruppi possono inoltre modificare qualsiasi flusso di lavoro assegnato a qualsiasi gruppo amministrato.
+
 >[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Guida introduttiva ad Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) disponibile gratuitamente ad Experience League!
+>Questo video fa parte del corso [Guida introduttiva ad Acrobat Sign per amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) disponibile gratuitamente ad Experience League!
