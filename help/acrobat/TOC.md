@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
+source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '403'
 ht-degree: 8%
 
 ---
@@ -20,20 +20,21 @@ ht-degree: 8%
    + [Lavora ovunque con Acrobat web](getting-started/acrobatweb.md)
    + [Produttività in mobilità](getting-started/productivity.md)
    + [Utilizzo [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [Collaborare in tempo reale](getting-started/collaborate.md)
-   + [Combine Files su PDF](getting-started/combine-to-pdf.md)
+   + [Da dove vengono i PDF?](getting-started/where-do-pdfs-come-from.md)
    + [Creare un file PDF](getting-started/create-pdf.md)
-   + [Commento su un PDF](getting-started/comment-on-pdf-files.md)
-   + [Modifica un PDF](getting-started/edit-pdf.md)
-   + [Esportare un PDF in formati modificabili](getting-started/export-pdf.md)
-   + [Creare moduli compilabili](getting-started/create-fillable-forms.md)
-   + [Scansione e OCR](getting-started/scan-and-ocr.md)
+   + [Combine Files su PDF](getting-started/combine-to-pdf.md)
    + [Organizza pagine](getting-started/organize.md)
-   + [Protect un file PDF con una password](getting-started/password-protect.md)
+   + [Modifica un PDF](getting-started/edit-pdf.md)
+   + [Regolazione automatica del layout](getting-started/auto-adjust-layout.md)
+   + [Esportare un PDF in formati modificabili](getting-started/export-pdf.md)
+   + [Collaborare in tempo reale](getting-started/collaborate.md)
+   + [Commento su un PDF](getting-started/comment-on-pdf-files.md)
+   + [Creare moduli compilabili](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
+   + [Scansione e OCR](getting-started/scan-and-ocr.md)
+   + [Protect un file PDF con una password](getting-started/password-protect.md)
    + [Raccogli firme](getting-started/signatures.md)
    + [Monitorare i documenti](getting-started/track.md)
-   + [Da dove vengono i PDF?](getting-started/where-do-pdfs-come-from.md)
 + Attività avanzate {#advanced-tasks}
    + [Panoramica](advanced-tasks/advanced-tasks-overview.md)
    + [Aggiunta di segnalibri e collegamenti ipertestuali](advanced-tasks/bookmarks.md)
