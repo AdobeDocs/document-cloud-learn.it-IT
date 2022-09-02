@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '343'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite come creare un’azione per ripetere le attività ordinarie, rimuovere informazioni riservate, ridurre e ottimizzare file di grandi dimensioni, raccogliere rapidamente i dati dei moduli e creare file PDF accessibili a tutti.
 
-## Esercitazioni su Acrobat
+## Esercitazioni sulle attività avanzate
 
 <table style="table-layout:fixed">
 <tr>
@@ -53,9 +53,7 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Migliorare la produttività del flusso di lavoro dei documenti utilizzando comandi e strumenti personalizzati</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="advancedforms.md">
       <img alt="Campi modulo avanzati" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -65,6 +63,8 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Tecniche avanzate per la creazione di PDF forms professionali</em>
     <br>
   </td>
+</tr>
+<tr>
  <td>
     <a href="optimizeseo.md">
       <img alt="Optimize PDF per SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
@@ -85,8 +85,6 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Aggiungere diversi tipi di campi modulo, impostare le proprietà dei campi modulo e aggiungere protezione per creare moduli professionali di alta qualità</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="Migliora il tuo PDF" src="../assets/Enhance_1280.png" />
@@ -107,6 +105,8 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Rilevamento rapido e accurato delle differenze tra due file PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -117,9 +117,7 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <em>Risparmiare tempo e tasti usando un’azione per applicare automaticamente un set di comandi a uno o più file</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="redact.md">
       <img alt="Redazione e rimozione" src="../assets/Redact.jpg" />
     </a>
@@ -172,7 +170,12 @@ Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite 
     <br>
   </td>
   <td>
-   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td> 
+  <td>
+   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>  

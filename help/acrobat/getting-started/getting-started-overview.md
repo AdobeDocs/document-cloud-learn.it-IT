@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: d34cfedb457db845f250b907cfc329174fc7137e
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '464'
 ht-degree: 6%
 
 ---
@@ -83,6 +83,11 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
       <a href="where-do-pdfs-come-from.md"><strong>Da dove vengono i PDF?</strong></a>
       </div>
       <em>Comprendere da dove provengono i PDF e i loro usi</em>
+      <br>
+    </td>
+    <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+      <div>
       <br>
     </td>
     <td>

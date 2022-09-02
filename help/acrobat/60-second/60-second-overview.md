@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -54,8 +54,6 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     <em>Converti file Word e moduli in PDF e crea automaticamente campi modulo</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessible.md">
       <img alt="Consenti ad Acrobat di creare PDF accessibili" src="../assets/60sec_Accessible_1280.jpg" />
@@ -66,6 +64,8 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     <em>Verificare se un PDF è accessibile</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="exportwordphone.md">
       <img alt="Export PDF a Word dal telefono" src="../assets/60sec_Exportphone_1280.jpg" />
@@ -86,8 +86,6 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     <em>Convertire un PDF acquisito mediante scansione per consentire la ricerca di testo nel PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-one-pdf.md">
       <img alt="Combinare più file in un unico PDF" src="../assets/60sec_Combine_1280.jpg" />
@@ -108,6 +106,8 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     <em>Apporta semplici modifiche a testo e immagini senza nemmeno scaricare il PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="search.md">
       <img alt="Ricerca di più file PDF contemporaneamente" src="../assets/60sec_Search_1280.jpg" />
@@ -118,8 +118,6 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     <em>Avviare una ricerca in un file PDF, quindi aprire Ricerca avanzata e cercare un’intera cartella di file PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="photo.md">
       <img alt="Creazione immediata di un PDF di foto" src="../assets/60sec_Photo_1280.jpg" />
@@ -149,7 +147,7 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     </div>
     <em>Scoprite come utilizzare Adobe Scan per firmare un modulo stampato</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -181,9 +179,7 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     </div>
     <em>Scoprite come apportare modifiche avanzate a un elemento grafico del vostro PDF con Illustrator</em>
     <br>
-  </td> 
-</tr>
-<tr>
+  </td>
   <td>
     <a href="organize.md">
       <img alt="Organizzazione rapida delle pagine" src="../assets/60sec_Organize_1280.jpg" />
@@ -194,15 +190,5 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     <em>Scopri come utilizzare lo strumento Organizza pagine per ottenere una visione a volo d’uccello del tuo PDF</em>
     <br>
   </td>
-  <td>
-   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>  
 </tr>
 </table>
