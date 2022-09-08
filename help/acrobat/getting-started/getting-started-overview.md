@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
+source-git-commit: b1bb0e7c027fbd383f8bd0a32ac6d2ffda671941
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 7%
@@ -124,10 +124,10 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     </td>
     <td>
       <a href="organize.md">
-        <img alt="Organizza pagine" src="../assets/Organize.jpg" />
+        <img alt="Organizzare le pagine" src="../assets/Organize.jpg" />
       </a>
       <div>
-      <a href="organize.md"><strong>Organizza pagine</strong></a>
+      <a href="organize.md"><strong>Organizzare le pagine</strong></a>
       </div>
       <em>Aggiungere, sostituire, estrarre, ruotare, eliminare e spostare le pagine nel PDF</em>
       <br>
