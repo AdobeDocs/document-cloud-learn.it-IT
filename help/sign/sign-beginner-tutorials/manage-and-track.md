@@ -7,16 +7,16 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 0c7bec15754d1d09484762d656f1551da839728b
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 # Gestione e monitoraggio degli accordi
 
-Scopri come gestire e monitorare i documenti inviati per la firma in Acrobat Sign. Ricevi aggiornamenti di stato e notifiche in tempo reale su ogni documento con cui lavori.
+Scopri come gestire e monitorare i documenti inviati per la firma in Acrobat Sign. Ottieni aggiornamenti di stato in tempo reale e notifiche per ogni documento firmato o inviato per la firma.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338695?hidetitle=true)
 
