@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
+source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '406'
 ht-degree: 1%
 
 ---
@@ -174,15 +174,10 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
     <em>Utilizzare timbri per contrassegnare un documento approvato o completato</em>
      <br>
   </td> 
-  <td>
-    <a href="sign-with-a-stamp.md">
-      <img alt="Firma mediante un timbro" src="../assets/Stamp.png" />
-    </a>
+ <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
     <div>
-    <a href="sign-with-a-stamp.md"><strong>Firma mediante un timbro</strong></a>
-    </div>
-    <em>Utilizzare timbri per contrassegnare un documento approvato o completato</em>
-     <br>
+    <br>
   </td>
   <td>
     <img alt="Spaziatore" src="../assets/Grayspacer.png" />

@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 0c7bec15754d1d09484762d656f1551da839728b
+source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere lâ
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Configurare le notifiche per eventi e avvisi</strong></a>
     </div>
-    <em>Configurare le notifiche per eventi e avvisi per il nostro account</em>
+    <em>Configurare le notifiche per eventi e avvisi per il tuo account</em>
     <br>
   </td>
   <td>
