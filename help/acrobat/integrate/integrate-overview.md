@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -93,7 +93,7 @@ Scopri come tutti i membri del tuo team possono lavorare senza problemi con i fi
 
 ## Google Drive
 
-Scopri come fare di più in meno tempo con il PDF essenziale e gli strumenti di firma elettronica all’interno [!DNL Google Drive].
+Scopri come fare di più in meno tempo con il PDF essenziale e gli strumenti di firma elettronica all&#39;interno [!DNL Google Drive].
 
 <table style="table-layout:fixed">
 <tr>
@@ -120,10 +120,35 @@ Scopri come fare di più in meno tempo con il PDF essenziale e gli strumenti di 
 </tr>
 </table>
 
+## Dropbox
+
+Scopri com&#39;è facile accedere e lavorare con i file archiviati in [!DNL Dropbox].
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="acrobat-dropbox.md">
+      <img alt="Utilizzo dei file da [!DNL Dropbox]" src="../assets/Dropbox.png" />
+    </a>
+    <div>
+    <a href="acrobat-dropbox.md"><strong>Utilizzo dei file da [!DNL Dropbox]</strong></a>
+    </div>
+    <em>Scopri come aprire, creare, modificare, firmare e salvare le modifiche apportate al tuo [!DNL Dropbox] file da Acrobat</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 ## Box
 
 Scopri come Acrobat e [Confezione](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} semplifica il lavoro per tutti i membri dell&#39;organizzazione.
-
-## Dropbox
-
-Scopri com&#39;è facile accedere e lavorare con i PDF archiviati in [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}.

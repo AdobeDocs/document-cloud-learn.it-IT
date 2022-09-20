@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
+source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 8%
+source-wordcount: '408'
+ht-degree: 9%
 
 ---
 
@@ -85,10 +85,11 @@ ht-degree: 8%
    + [Crea PDF da [!DNL Microsoft Word]](integrate/createfromword.md)
    + [Creare PDF in [!DNL Office] per il web](integrate/createofficeweb.md)
    + [Collaborazione PDF in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [Utilizzare i file SharePoint](integrate/acrobatandsp.md)
-   + [Convertire messaggi e allegati e-mail in PDF in Outlook](integrate/outlook.md)
-   + [Creare contenuti PDF durante la navigazione con Microsoft Edge](integrate/edge.md)
-   + [Adobe Acrobat per Google Drive](integrate/acrobatandgoogle.md)
+   + [Lavora con il tuo [!DNL SharePoint] file](integrate/acrobatandsp.md)
+   + [Convertire messaggi e allegati e-mail in PDF [!DNL Outlook]](integrate/outlook.md)
+   + [Creare contenuti PDF durante la navigazione con [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Adobe Acrobat per [!DNL Google Drive]](integrate/acrobatandgoogle.md)
+   + [Utilizzo dei file da [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Settori e dipartimenti {#by-industry}
    + [Panoramica](industry/industry-overview.md)
    + Pubblica Amministrazione {#gov}
