@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
+source-git-commit: b552039d79b6c7835e8139da891fd5b1397aff84
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '346'
+ht-degree: 3%
 
 ---
 
@@ -125,10 +125,10 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
   </td>
   <td>
     <a href="edit-a-template.md">
-      <img alt="Gestione dei modelli di documento" src="../assets/ManageTemplate.png" />
+      <img alt="Gestire i modelli di documento" src="../assets/ManageTemplate.png" />
     </a>
     <div>
-    <a href="edit-a-template.md"><strong>Gestione dei modelli di documento</strong></a>
+    <a href="edit-a-template.md"><strong>Gestire i modelli di documento</strong></a>
     </div>
     <em>Modificare o eliminare un modello dalla libreria</em>
     <br>
