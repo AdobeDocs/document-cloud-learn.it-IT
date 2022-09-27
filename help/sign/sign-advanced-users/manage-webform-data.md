@@ -6,9 +6,9 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10981.jpg
-source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
+source-git-commit: 23ca497130a78091219ba3a611a37658f10ea629
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ Scopri come monitorare, gestire ed esportare i dati da un [modulo web](webform.m
 
 >[!NOTE]
 >
->L’amministratore Acrobat Sign deve abilitare **Consenti altri partecipanti** nel **Moduli Web** sezione del **Impostazioni globali** per utilizzare il flusso di lavoro partecipante aggiuntivo.
+>Solo i piani a livello aziendale e aziendale possono configurare l’accesso ai moduli Web e le opzioni per i firmatari. L’accesso ai moduli Web e le opzioni per i firmatari sono abilitati o disabilitati a livello di account o di gruppo in Account > Impostazioni account > Impostazioni globali > Moduli Web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409607?hidetitle=true)
