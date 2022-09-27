@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -113,6 +113,16 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
 
 <table style="table-layout:fixed">
 <tr>
+<td>
+    <a href="creating-a-report.md">
+      <img alt="Creazione di un report" src="../assets/Report.png" />
+    </a>
+    <div>
+    <a href="creating-a-report.md"><strong>Creazione di un report</strong></a>
+    </div>
+    <em>Scopri come creare report personalizzati per ottenere visibilità sul processo di firma dei documenti</em>
+    <br>
+  </td>
   <td>
     <a href="edit-a-template.md">
       <img alt="Gestione dei modelli di documento" src="../assets/ManageTemplate.png" />
@@ -134,19 +144,14 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
     <br>
   </td>  
   <td>
-    <a href="creating-a-report.md">
-      <img alt="Creazione di un report" src="../assets/Report.png" />
+    <a href="manage-webform-data.md">
+      <img alt="Gestione dei dati dei moduli web" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>Creazione di un report</strong></a>
+    <a href="manage-webform-data.md"><strong>Gestione dei dati dei moduli web</strong></a>
     </div>
-    <em>Scopri come creare report personalizzati per ottenere visibilità sul processo di firma dei documenti</em>
+    <em>Scopri come monitorare, gestire ed esportare i dati da un modulo Web</em>
     <br>
   </td>  
-  <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>
