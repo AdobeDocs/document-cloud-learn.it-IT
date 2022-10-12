@@ -6,7 +6,7 @@ product: adobe sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: 3e12b86951b7d5ba5cde467f385de3a7798c8ba5
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -30,4 +30,4 @@ Dai un&#39;occhiata a questi esempi di utilizzo aggiuntivi nel mondo reale:
 
 >[!TIP]
 >
->Questo video fa parte del corso [Guida introduttiva ad Acrobat Sign per amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) disponibile gratuitamente ad Experience League!
+>Questo video fa parte del corso [Guida introduttiva ad Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) disponibile gratuitamente ad Experience League!

@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ccca5df76b9cfb5864d850f1e84f2f8a54bcdb3a
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,16 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere l‚
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="get-started-admin.md">
+      <img alt="Guida introduttiva per i nuovi amministratori" src="../assets/Gettingstartedadmin_1280.png" />
+    </a>
+    <div>
+    <a href="get-started-admin.md"><strong>Guida introduttiva per i nuovi amministratori</strong></a>
+    </div>
+    <em>In questa guida video completa, scopri tutti gli strumenti necessari per rendere operativa la tua organizzazione con Acrobat Sign</em>
+    <br>
+  </td>
   <td>
     <a href="up-and-running-admin.md">
       <img alt="Installazione e funzionamento per gli amministratori" src="../assets/Up-Running.png" />
@@ -54,7 +64,9 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere l‚
     <em>Aggiungere utenti singolarmente o in blocco al proprio account Acrobat Sign</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="create-and-manage-groups.md">
       <img alt="Creazione e gestione dei gruppi" src="../assets/Creating-Groups.png" />
     </a>
@@ -64,9 +76,7 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere l‚
     <em>Creare gruppi, aggiungere utenti ai gruppi e modificare le impostazioni dei gruppi</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="set-up-your-external-archive.md">
       <img alt="Configurazione di un archivio esterno" src="../assets/ExternalArchive.png" />
     </a>
@@ -96,6 +106,8 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere l‚
     <em>Scopri come creare, salvare e gestire report personalizzati ed esportazioni di dati</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Creazione di un modulo Web" src="../assets/Webform.png" />
@@ -106,8 +118,6 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere l‚
     <em>Creare un documento che pu√≤ essere firmato elettronicamente direttamente sul sito Web</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Modificare un modulo Web esistente" src="../assets/Modifywebform.png" />
@@ -128,7 +138,7 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere l‚
     <em>Raccogli centinaia di firme alla volta per qualsiasi documento</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Impostazione di un flusso di lavoro" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -136,11 +146,6 @@ Scopri come aggiungere utenti al tuo account, configurare gruppi, condividere l‚
     <a href="building-a-custom-workflow.md"><strong>Impostazione di un flusso di lavoro</strong></a>
     </div>
     <em>Automatizza i flussi di lavoro basati su documenti per ottenere rapidamente firme elettroniche e dati</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
