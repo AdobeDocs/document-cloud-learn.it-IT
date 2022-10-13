@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ![Immagine ID digitale Sign](../assets/Hero-DigitalID.png)
 
-Analogamente a un passaporto in formato elettronico, l&#39;identità digitale (ID digitale) consente di dimostrare in modo sicuro che sei quello che dici di essere. Inoltre, quando firmi elettronicamente in Acrobat Sign, l’utilizzo di un ID digitale garantisce un livello più elevato di autorizzazione della firma elettronica su quel documento specifico. Le seguenti esercitazioni illustrano come utilizzare gli ID digitali di tutto il mondo con Acrobat Sign.
+Analogamente a un passaporto in formato elettronico, l&#39;identità digitale (ID digitale) consente di dimostrare in modo sicuro che sei quello che dici di essere. Inoltre, quando firmi elettronicamente in Acrobat Sign, l’utilizzo di un ID digitale garantisce un livello più elevato di autorizzazione della firma elettronica su quel documento specifico. Le seguenti esercitazioni mostrano come utilizzare gli ID digitali di tutto il mondo con Acrobat Sign.
 
 >[!NOTE]
 >
->Prima di poter utilizzare un ID digitale con una firma cloud, consulta l’amministratore della tua organizzazione per confermare che la soluzione del provider è abilitata in Acrobat Sign.
+>Prima di poter utilizzare un ID digitale con una firma cloud, consulta l’amministratore dell’organizzazione per confermare che la soluzione del provider è abilitata in Acrobat Sign.
 
 ## [!DNL Aadhaar]
 
@@ -82,6 +82,23 @@ Analogamente a un passaporto in formato elettronico, l&#39;identità digitale (I
   </td>
 </tr>
 </table>
+
+## [!DNL D-Trust]
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="d-trust.md">
+      <img alt="Registrazione e firma con D-Trust" src="assets/Dtrust.png" />
+    </a>
+    <div>
+    <a href="d-trust.md"><strong>Registrazione e firma con D-Trust</strong></a>
+    </div>
+    <em>Scopri come registrare la tua identità [!DNL D-Trust], quindi utilizzare il metodo [!DNL D-Trust] firma digitale su un documento in Acrobat Sign</em>
+    <br>
+  </td>
+  </tr>
+  </table>
 
 ## [!DNL Intesi Group]
 
