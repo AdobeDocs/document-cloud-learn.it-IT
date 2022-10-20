@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b552039d79b6c7835e8139da891fd5b1397aff84
+source-git-commit: 854e70d1dd1d6535e1f8a8b53cfc6907862f5569
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '382'
 ht-degree: 3%
 
 ---
@@ -19,6 +19,13 @@ ht-degree: 3%
 ![Sign Advanced Image](../assets/Hero-Advanced.png)
 
 Scopri come inviare un documento per la firma a 100 destinatari contemporaneamente, configurare un documento pronto per la firma per il tuo sito Web, gestire le transazioni di firma e creare e gestire modelli di documento. Queste esercitazioni sono destinate a tutti coloro che hanno già familiarità con le nozioni di base relative all&#39;invio e alla richiesta di firme e desiderano scoprire altri modi in cui Acrobat Sign può lavorare per loro.
+
+## Novità
+
+* [Impostare i pagamenti online](set-up-online-payments.md)
+Scopri come impostare e accettare i pagamenti online nei tuoi documenti
+* [Creazione di un report](creating-a-report.md)
+Scopri come creare report personalizzati per ottenere visibilità sul processo di firma dei documenti
 
 ## Invio in corso
 
