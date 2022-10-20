@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ Adobe Acrobat for Teams consente agli utenti di collaborare e lavorare con i col
 * Mantieni una notifica sull’avanzamento: ricevi una notifica in Teams quando altri intervengono sui tuoi documenti
 * Tieni informati i revisori: i revisori ricevono una notifica quando altri rispondono ai loro commenti
 * Collaborazione sicura: collabora in modo sicuro con membri affidabili e mantieni la possibilità di archiviare versioni dei documenti in [!DNL Microsoft SharePoint] o [!DNL OneDrive]
+
+>[!TIP]
+>
+>Dai un&#39;occhiata a questi altri Microsoft [integrazioni](../integrate/integrate-overview.md#microsoft).
 
 >[!VIDEO](https://video.tv.adobe.com/v/331277?hidetitle=true)
 
