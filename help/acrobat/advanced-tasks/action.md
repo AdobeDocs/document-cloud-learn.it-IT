@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '218'
 ht-degree: 1%
 
 ---
 
 # Action Wizard
 
-Risparmiate tempo e tasti usando un’azione per applicare automaticamente un set di comandi a uno o più file.
+Per distribuire le customer experience migliori è necessario creare i contenuti in tempi rapidissimi. Risparmiate tempo e tasti usando un’azione per applicare automaticamente un set di comandi a uno o più file.
 
 >[!NOTE]
 >

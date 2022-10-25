@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 6%
+source-wordcount: '80'
+ht-degree: 5%
 
 ---
 
 # Organizza pagine
 
-Scopri come ridisporre le pagine come preferisci, tutto in pochi secondi. Inserisci, sostituisci, dividi, riordina, ruota ed estrai persino pagine discontinue per creare un PDF dall&#39;aspetto professionale. Questa esercitazione video utilizza la proprietà [nuova esperienza di lavoro](new-workspace.md).
+Per distribuire le customer experience migliori è necessario creare i contenuti in tempi rapidissimi. Scopri come ridisporre le pagine come preferisci, tutto in pochi secondi. Inserisci, sostituisci, dividi, riordina, ruota ed estrai persino pagine discontinue per creare un PDF dall&#39;aspetto professionale. Questa esercitazione video utilizza la proprietà [nuova esperienza di lavoro](new-workspace.md).
 
 >[!TIP]
 >
