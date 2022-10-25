@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-9910.jpg
 kt: 9910
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ Esplora i nostri tutorial su Acrobat progettati appositamente per gli enti pubbl
     </div>
     <em>Creazione di flussi di lavoro semplici e intuitivi per la collaborazione sui documenti</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="protect-digital-documents.md">
       <img alt="Suggerimento: 3 Protect di documenti digitali" src="../../assets/Tip3.png" />
@@ -64,6 +62,7 @@ Esplora i nostri tutorial su Acrobat progettati appositamente per gli enti pubbl
     <em>Aggiungere una password al PDF per impedirne la copia, la modifica o la stampa</em>
     <br>
   </td>
+</tr>
   <td>
     <a href="work-with-forms-and-signatures.md">
       <img alt="Suggerimento 4: Utilizzo di moduli e firme" src="../../assets/Tip4.png" />
@@ -82,6 +81,16 @@ Esplora i nostri tutorial su Acrobat progettati appositamente per gli enti pubbl
     <a href="scan-and-edit-on-mobile.md"><strong>Suggerimento 5: Scansione ed elaborazione su dispositivi mobili</strong></a>
     </div>
     <em>Scopri come utilizzare le app mobile Adobe Scan e Acrobat Reader per realizzare progetti ovunque ti trovi</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -120,10 +129,8 @@ Esplora i nostri tutorial su Acrobat progettati appositamente per gli enti pubbl
     </div>
     <em>Procedure ottimali per la creazione di file PDF creati in [!DNL Microsoft Word]</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="finishing-in-acrobat.md">
       <img alt="Rendere accessibili i PDF: Finitura in Acrobat" src="../../assets/Accessibilityacrobat.png" />
     </a>
@@ -133,6 +140,8 @@ Esplora i nostri tutorial su Acrobat progettati appositamente per gli enti pubbl
     <em>Scoprite come completare l’accessibilità del file PDF utilizzando gli strumenti di Acrobat Pro</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="making-pdf-ballots-accessible.md">
       <img alt="Rendere più accessibili le schede PDF" src="../../assets/Accessibleballots.png" />
@@ -143,6 +152,16 @@ Esplora i nostri tutorial su Acrobat progettati appositamente per gli enti pubbl
     <em>Questo webinar tratta le principali aree di accessibilità dei PDF necessarie per consentire agli utenti di tecnologie di supporto, come gli screen reader, di leggere e completare il proprio voto</em>
     <br>
   </td>  
+  <td>
+   <img alt="Spaziatore" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
   <td>
    <img alt="Spaziatore" src="../../assets/Grayspacer.png" />
     <div>

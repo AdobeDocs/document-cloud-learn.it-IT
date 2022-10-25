@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '302'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ Scopri come tutti i membri del tuo team possono lavorare senza problemi con i fi
     </div>
     <em>Scopri come creare file PDF senza mai uscire dal tuo [!DNL Microsoft Office] per app web</em>
     <br>
-  </td>  
+  </td> 
   <td>
     <a href="acrobatandsp.md">
       <img alt="Lavora con il tuo [!DNL SharePoint] file" src="../assets/SharePoint.png" />
@@ -55,7 +55,7 @@ Scopri come tutti i membri del tuo team possono lavorare senza problemi con i fi
     </div>
     <em>Ottimizza i flussi di lavoro basati su documenti con [!DNL SharePoint] e Acrobat</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -88,6 +88,11 @@ Scopri come tutti i membri del tuo team possono lavorare senza problemi con i fi
     <em>Scoprite come archiviare al volo le pagine web su PDF con l'estensione Adobe Acrobat per [!DNL Microsoft Edge]</em>
     <br>
   </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -117,6 +122,11 @@ Scopri come fare di più in meno tempo con il PDF essenziale e gli strumenti di 
     <div>
     <br>
   </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -134,6 +144,11 @@ Scopri com&#39;è facile accedere e lavorare con i file archiviati in [!DNL Drop
     <a href="acrobat-dropbox.md"><strong>Utilizzo dei file da [!DNL Dropbox]</strong></a>
     </div>
     <em>Scopri come aprire, creare, modificare, firmare e salvare le modifiche apportate al tuo [!DNL Dropbox] file da Acrobat</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

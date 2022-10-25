@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: dd27b6a410af8397fe0d7315fd284bae8a586ab9
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -56,8 +56,6 @@ Accelera i flussi di lavoro digitali della tua organizzazione con questi esempi 
     <em>Sostituisci rapidamente l'elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovreemployment.md">
       <img alt="Assistenza Alla Rioccupazione" src="../assets/UC_WebformsR.png" />
@@ -68,6 +66,8 @@ Accelera i flussi di lavoro digitali della tua organizzazione con questi esempi 
     <em>Aiuta i cittadini a ricevere l'aiuto di cui hanno bisogno senza essere in linea con i moduli di richiesta interamente digitali che possono essere utilizzati in tempo reale</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="Protezione della busta paga" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,6 +86,16 @@ Accelera i flussi di lavoro digitali della tua organizzazione con questi esempi 
     <a href="usecasegovremote.md"><strong>Richiesta di autorizzazione remota</strong></a>
     </div>
     <em>Usa le firme elettroniche e le conferenze via web insieme per ridurre il tempo necessario per richiedere e garantire i mandati dei giudici</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +133,11 @@ Accelera i flussi di lavoro digitali della tua organizzazione con questi esempi 
     <a href="usecasecomtelework.md"><strong>Accordo sul telelavoro</strong></a>
     </div>
     <em>Raccogli in modo efficiente le firme di tutti i tuoi dipendenti sugli accordi di telelavoro</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

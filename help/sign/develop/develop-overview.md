@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 12%
+source-wordcount: '168'
+ht-degree: 13%
 
 ---
 
@@ -39,7 +39,7 @@ Il 40% degli accordi in Acrobat Sign vengono creati utilizzando le API. Usa le A
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Scopri cosa puoi fare</strong></a>
     </div>
-    <em>Scopri come incorporare le funzionalità di Acrobat Sign in qualsiasi applicazione esterna</em>
+    <em>Scoprite come incorporare le funzionalità di Acrobat Sign in qualsiasi applicazione esterna</em>
     <br>
   </td>  
   <td>
@@ -52,9 +52,7 @@ Il 40% degli accordi in Acrobat Sign vengono creati utilizzando le API. Usa le A
     <em>Invia, raccogli e monitora i documenti da firmare a migliaia di persone contemporaneamente</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="embeddedesignature.md">
       <img alt="Creazione di firme elettroniche e documenti incorporati" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
@@ -62,16 +60,6 @@ Il 40% degli accordi in Acrobat Sign vengono creati utilizzando le API. Usa le A
     <a href="embeddedesignature.md"><strong>Creazione di firme elettroniche e documenti incorporati</strong></a>
     </div>
     <em>Scopri come utilizzare le API di Acrobat Sign per incorporare firme elettroniche ed esperienze documentali nelle piattaforme web e nei sistemi di gestione dei contenuti e dei documenti</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>

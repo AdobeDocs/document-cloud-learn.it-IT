@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ Scopri come registrare la tua identità [!DNL D-Trust], quindi utilizzare il met
     <a href="aadhaar-sign.md"><strong>Firma mediante [!DNL Aadhaar]</strong></a>
     </div>
     <em>Scopri come utilizzare il [!DNL Aadhaar] ID digitale con Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,6 +90,11 @@ Scopri come registrare la tua identità [!DNL D-Trust], quindi utilizzare il met
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -100,6 +110,11 @@ Scopri come registrare la tua identità [!DNL D-Trust], quindi utilizzare il met
     <a href="d-trust.md"><strong>Registrazione e firma con D-Trust</strong></a>
     </div>
     <em>Scopri come registrare la tua identità [!DNL D-Trust], quindi utilizzare il metodo [!DNL D-Trust] firma digitale su un documento in Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -147,6 +162,11 @@ Scopri come registrare la tua identità [!DNL D-Trust], quindi utilizzare il met
     <a href="intesi-sign.md"><strong>Firma mediante [!DNL Intesi Group]</strong></a>
     </div>
     <em>Scopri come utilizzare il [!DNL Intesi Group] ID digitale con Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

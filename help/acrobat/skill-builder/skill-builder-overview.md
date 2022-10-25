@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ Accedi subito ad Acrobat con questi generatori di competenze interattivi. Oppure
     <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank"><strong>Prepara per firma</strong></a>
     </div>
     <em>Creare PDF con campi di firma elettronica</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,8 +90,6 @@ Accedi subito ad Acrobat con questi generatori di competenze interattivi. Oppure
     <em>Aggiungere testo, immagini, collegamenti e filigrane al PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/sign/" target="_blank">
       <img alt="Firma il tuo lavoro" src="../assets/sb_signed.png" />
@@ -97,6 +100,8 @@ Accedi subito ad Acrobat con questi generatori di competenze interattivi. Oppure
     <em>Firmare i documenti direttamente in Microsoft Outlook</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank">
       <img alt="Converti i tuoi PDF" src="../assets/sb_convert.png" />
@@ -117,9 +122,7 @@ Accedi subito ad Acrobat con questi generatori di competenze interattivi. Oppure
     <em>Compila, firma e invia moduli in modo elettronico su qualsiasi dispositivo</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank">
       <img alt="Ottimizza i tuoi PDF" src="../assets/sb_optimize.png" />
     </a>
@@ -127,16 +130,6 @@ Accedi subito ad Acrobat con questi generatori di competenze interattivi. Oppure
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>Ottimizza i tuoi PDF</strong></a>
     </div>
     <em>Preparare PDF per la distribuzione</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -164,6 +157,16 @@ Accedi subito ad Acrobat con questi generatori di competenze interattivi. Oppure
     <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>Proteggi i tuoi PDF</strong></a>
     </div>
     <em>Redigere e proteggere le informazioni riservate nei PDF</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
