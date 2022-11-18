@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 1%
+source-wordcount: '471'
+ht-degree: 5%
 
 ---
 
@@ -21,10 +21,10 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
 
 ## Novità
 
+* [Impostare scadenze e promemoria](set-deadlines-reminders.md)
+Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare rapidamente i documenti
 * [Firmare con un timbro](sign-with-a-stamp.md)
 Scopri come utilizzare i timbri per contrassegnare un documento approvato o completato
-* [Sostituzione di un firmatario](replace-signer.md)
-Scopri come modificare il firmatario di un documento già in corso
 
 ## Invio in corso
 
@@ -112,6 +112,33 @@ Scopri come modificare il firmatario di un documento già in corso
     <em>Scopri come modificare il firmatario di un documento già in corso</em>
      <br>
   </td>
+</tr>
+<tr>
+  <td>
+      <a href="set-deadlines-reminders.md">
+        <img alt="Impostare scadenze e promemoria" src="../assets/Reminders.png" />
+      </a>
+      <div>
+      <a href="set-deadlines-reminders.md"><strong>Impostare scadenze e promemoria</strong></a>
+      </div>
+      <em>Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare rapidamente i documenti</em>
+      <br>
+    </td> 
+  <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
 </tr>
 </table>
 
