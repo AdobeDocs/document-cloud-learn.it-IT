@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8576.jpg
 KT: 8576
 exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 4%
 
 ---
 
 # Convertire un file PPT in PDF sul telefono
 
-In questa esercitazione video di 60 secondi, scopri come convertire un allegato PowerPoint e-mail in PDF sul tuo telefono. Quando il file ritorna, visualizzalo e tocca Condividi per inviarlo al tuo team, tutto senza avere PowerPoint nel telefono.
+In questa esercitazione video di 60 secondi, scopri come convertire un’e-mail [Collegamento PowerPoint alla PDF](https://www.adobe.com/it/acrobat/online/ppt-to-pdf.html){target=&quot;_blank&quot;} sul telefono. Quando il file ritorna, visualizzalo e tocca Condividi per inviarlo al tuo team, tutto senza avere PowerPoint nel telefono.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336366?hidetitle=true)
 

@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 9%
 
 ---
 
 # Protect un file PDF con una password
 
-Scopri come aggiungere una password al tuo PDF per proteggere gli altri dall’apertura o dalla modifica del file.
+Scopri come [aggiungere una password al PDF](https://www.adobe.com/it/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} per proteggere altri dall&#39;apertura o [modifica del file PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}.
 
 >[!TIP]
 >

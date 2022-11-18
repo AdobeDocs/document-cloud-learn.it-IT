@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 7%
+source-wordcount: '493'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 7%
 
 ![Immagine introduttiva di Acrobat](../assets/Hero-GettingStarted.png)
 
-Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutorial passo passo. Dalla creazione di un documento alla protezione dei file di PDF, questo contenuto è progettato per facilitare l’accesso ai flussi di lavoro di PDF.
+Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutorial passo passo. Dalla creazione di un documento alla protezione o [modifica dei file PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}, questo contenuto è stato progettato per facilitare l&#39;accesso ai flussi di lavoro PDF.
 
 ## Esercitazioni introduttive
 
@@ -124,10 +124,10 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     </td>
     <td>
       <a href="organize.md">
-        <img alt="Organizzare le pagine" src="../assets/Organize.png" />
+        <img alt="Organizza pagine" src="../assets/Organize.png" />
       </a>
       <div>
-      <a href="organize.md"><strong>Organizzare le pagine</strong></a>
+      <a href="organize.md"><strong>Organizza pagine</strong></a>
       </div>
       <em>Aggiungere, sostituire, estrarre, ruotare, eliminare e ridisporre le pagine nel PDF</em>
       <br>

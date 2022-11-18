@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '740'
-ht-degree: 4%
+source-wordcount: '747'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 [!DNL Adobe Sign Individual] (noto anche come Adobe Sign Pro) verrà deprestato da tutti i diritti Acrobat DC inclusi in ETLA (Enterprise Term License Agreement) a partire da agosto 2020 e continuerà fino al 20 novembre 2020. [!DNL Adobe Sign Individual] non fornisce funzionalità di livello enterprise e deve essere sostituito con i clienti Adobe Sign Enterprise for enterprise. Ciò include Acrobat DC concesso in licenza come app autonoma e Acrobat DC concesso in licenza come parte di Creative Cloud for enterprise - Tutte le applicazioni.
 
-Accesso a [!DNL Adobe Sign Individual] è disponibile in Acrobat tramite **Adobe Sign** o il metodo **Fill &amp; Sign** strumento (Richiedi firme).
+Accesso a [!DNL Adobe Sign Individual] è disponibile in Acrobat tramite **Adobe Sign** o il metodo **Fill &amp; Sign** strumento ([Richiedi firme](https://www.adobe.com/it/acrobat/online/request-signature.html){target=&quot;_blank&quot;}).
 
 ![[!DNL Adobe Sign Individual] accesso in Acrobat DC](../assets/Deploy_SignEntitle1.png)
 
@@ -63,7 +63,7 @@ Gli utenti che non dispongono delle autorizzazioni Adobe Sign Enterprise non pot
 
 ## Esperienza Web di Adobe Document Cloud senza autorizzazione Firma individuale
 
-Gli utenti potranno accedere a https://documentcloud.adobe.com/ per accedere e scaricare eventuali accordi inviati prima di deprovisioning delle autorizzazioni per Adobe Sign Individual.
+Gli utenti potranno accedere a https://documentcloud.adobe.com/ per accedere e scaricare gli accordi inviati prima di deprovisioning delle autorizzazioni per Adobe Sign Individual.
 
 ![Messaggio di errore per l’esperienza Web di Document Cloud](../assets/Deploy_SignEntitle3.png)
 

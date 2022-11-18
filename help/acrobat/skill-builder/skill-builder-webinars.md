@@ -5,10 +5,10 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 0%
+source-wordcount: '847'
+ht-degree: 2%
 
 ---
 
@@ -27,13 +27,13 @@ Data: 15 dicembre 2022 Acrobat è completamente integrato nelle app Microsoft 36
 Data: 17 novembre 2022 Questo Skill Builder è tutto incentrato sulla collaborazione digitale tra documenti. Impara a rivedere facilmente i documenti con il tuo team e scopri gli strumenti di creazione commenti disponibili. Parleremo anche della revisione di PDF con altri utenti in Microsoft Teams e di come fornire feedback ovunque si trovino utilizzando l&#39;app mobile Acrobat e Acrobat Web.
 
 * **[Riutilizza i contenuti del tuo PDF: Modifica ed esportazione](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a){target=&quot;_blank&quot;}**
-Data: 27 ottobre 2022 Scopri come modificare i PDF esistenti: modifica testo e immagini, aggiungi collegamenti ipertestuali e segnalibri, converti in file Microsoft Word, PowerPoint ed Excel e altro ancora.
+Data: 27 ottobre 2022 Scopri come [modificare i PDF esistenti](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}: modifica testo e immagini, aggiungi collegamenti ipertestuali e segnalibri, converti in file Microsoft Word, PowerPoint ed Excel e altro ancora.
 
 * **[Guida introduttiva ad Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target=&quot;_blank&quot;}**
-Data: 22 settembre 2022 Inizia a usare Adobe Acrobat e PDF. Ti presenteremo l&#39;interfaccia Acrobat e ti mostreremo come: * Crea PDF da file di immagine e documenti, tra cui Word, Excel e PowerPoint. * Combina più file - PDF, Word, immagini e molto altro - in un unico PDF modificabile. * Lavora ovunque in qualsiasi momento con Acrobat Web e Mobile.
+Data: 22 settembre 2022 Inizia a usare Adobe Acrobat e PDF. Ti presenteremo l&#39;interfaccia Acrobat e ti mostreremo come: * [Creare PDF da file di immagine](https://www.adobe.com/it/acrobat/online/convert-pdf.html){target=&quot;_blank&quot;} e documenti, compresi Word, Excel e PowerPoint. * [Combinare più file](https://www.adobe.com/it/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;} - PDF, Word, immagini e molto altro - in un unico PDF modificabile. * Lavora ovunque in qualsiasi momento con Acrobat Web e Mobile.
 
 * **[Sicurezza PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
-Data: 25 agosto 2022 Accedi a tutte le informazioni necessarie per proteggere i tuoi contenuti PDF. Questa sessione condividerà le tecniche per l&#39;aggiunta di password per impedire la visualizzazione, la modifica o la stampa di un PDF e mostrerà come rimuovere in modo permanente le informazioni riservate, anche da metadati non visibili.
+Data: 25 agosto 2022 Accedi a tutte le informazioni di cui hai bisogno [proteggere il PDF](https://www.adobe.com/it/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} contenuto. Questa sessione condividerà le tecniche per l&#39;aggiunta di password per impedire la visualizzazione, la modifica o la stampa di un PDF e mostrerà come rimuovere in modo permanente le informazioni riservate, anche da metadati non visibili.
 
 * **[Automazione semplice con Action Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target=&quot;_blank&quot;}**
 Data: 28 luglio 2022 Smetti di ripetere semplici operazioni manuali! In questa sessione verrà illustrato come utilizzare Action Wizard in Acrobat per elaborare in batch i file PDF ed eseguire automaticamente attività seriali e ripetitive.

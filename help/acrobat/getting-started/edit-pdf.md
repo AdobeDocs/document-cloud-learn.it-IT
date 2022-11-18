@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 6%
+source-wordcount: '93'
+ht-degree: 11%
 
 ---
 
 # Modifica un PDF
 
-Scoprite come modificare testo e immagini nei file PDF. Fate clic o toccate per aggiungere un nuovo paragrafo, correggere un errore ortografico o ridisporre le pagine di PDF. Puoi anche aggiungere immagini o ritagliare una foto.
+Scopri come [modificare testo e immagini nei file PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}. Fate clic o toccate per aggiungere un nuovo paragrafo, correggere un errore ortografico o ridisporre le pagine di PDF. Puoi anche aggiungere immagini o ritagliare una foto.
 
 >[!TIP]
 >
