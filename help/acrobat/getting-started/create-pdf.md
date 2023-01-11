@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 8%
+source-wordcount: '77'
+ht-degree: 14%
 
 ---
 
 # Creare un file PDF
 
-Scopri come creare PDF da tutti i diversi tipi di documenti. Inizia con un file creato in Microsoft Office o in un’app per Creative Cloud oppure usa un’immagine, una scansione o un sito Web.
+Scopri come [creazione di PDF da tutti i tipi di documenti](https://www.adobe.com/it/acrobat/online/convert-pdf.html). Inizia con un file creato in Microsoft Office o in un’app per Creative Cloud oppure usa un’immagine, una scansione o un sito Web.
 
 >[!TIP]
 >

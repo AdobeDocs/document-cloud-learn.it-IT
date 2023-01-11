@@ -7,15 +7,15 @@ level: Beginner
 thumbnail: KT-8575.jpg
 KT: 8575
 exl-id: 598c9008-5c8a-46e5-86af-d814e8060e3a
-source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 6%
 
 ---
 
 # Creazione immediata di un PDF di foto
 
-In questa esercitazione video di 60 secondi, scoprite come trascinare un gruppo di JPG sull’icona Acrobat. Fate clic su Sì per creare un PDF multipagina. Potete quindi trascinare più file JPG nel pannello Pagine per aggiungere altre pagine al PDF.
+In questa esercitazione video di 60 secondi, scoprite come trascinare un gruppo di JPG sull’icona Acrobat. Fate clic su Sì per creare un PDF multipagina. Quindi, è sufficiente trascinare più file JPG nel pannello Pagine per [aggiungere altre pagine al PDF](https://www.adobe.com/it/acrobat/online/add-pages-to-pdf.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/336365?hidetitle=true)

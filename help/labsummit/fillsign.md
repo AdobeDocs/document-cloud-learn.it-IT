@@ -3,10 +3,10 @@ title: Compila e firma qualsiasi modulo su desktop o mobile
 description: Compila, firma e invia rapidamente moduli dal desktop, dal browser o dall'app mobile
 solution: Acrobat Sign
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 0%
+source-wordcount: '397'
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ Ecco il [file demo](assets/03_FillSignScan.zip) per questo esercizio.
 
 **Passaggio 4:** Usa il pulsante bianco per scattare una foto, quindi tocca **[!UICONTROL Usa foto]**. Tocca **[!UICONTROL Fine]** nell&#39;angolo superiore destro.
 
-**Passaggio 5:** Nella parte inferiore dell&#39;app, toccate il **[!UICONTROL Ritaglio]** e utilizzare le guide per ritagliare l’immagine. Tocca **[!UICONTROL Fine]** al termine.
+**Passaggio 5:** Nella parte inferiore dell&#39;app, toccate il **[!UICONTROL Ritaglio]** e utilizzare le guide per [ritagliare l’immagine](https://www.adobe.com/it/acrobat/online/crop-pdf.html). Tocca **[!UICONTROL Fine]** al termine.
 
 ![immagine del documento locale](assets/localdoc.jpg)
 
