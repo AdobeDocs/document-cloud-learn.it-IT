@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: a044ba6053cc1b7966381b051b40641b23931fc0
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '469'
 ht-degree: 5%
 
 ---
@@ -21,10 +21,10 @@ Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial pas
 
 ## Novità
 
+* [Guida introduttiva ad Acrobat Sign](new-sender.md)
+Non conoscete ancora Acrobat Sign? Questo tutorial è un buon punto di partenza.
 * [Impostare scadenze e promemoria](set-deadlines-reminders.md)
 Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare rapidamente i documenti
-* [Firmare con un timbro](sign-with-a-stamp.md)
-Scopri come utilizzare i timbri per contrassegnare un documento approvato o completato
 
 ## Invio in corso
 
