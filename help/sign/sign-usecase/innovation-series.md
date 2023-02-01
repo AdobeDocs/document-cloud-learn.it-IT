@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 0%
@@ -31,9 +31,9 @@ Data: 18 maggio 2023 Unisciti a noi per scoprire le nozioni di base sulle firme 
 **[Formazione avanzata sull&#39;ambiente di creazione](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/30c06b3c-60f7-4293-9cd2-2544104d9140/85ffced9-7613-4382-b3a3-43ba227af5ba){target="_blank"}**
 Data: 20 aprile 2023 Studia più a fondo le opzioni disponibili nell’ambiente di creazione Acrobat Sign. Gli argomenti trattati comprendono:
 
-    * Panoramica sulla preparazione dei modelli di documenti Acrobat Sign tramite Acrobat, l&#39;assegnazione di tag di testo e l&#39;ambiente di creazione Acrobat Sign.
-    * Studia a fondo l&#39;ambiente di creazione, coprendo la clonazione e la copia dei campi, aggiungendo campi speciali, assegnando campi e impostando campi condizionali e di calcolo.
-    * Come inviare i modelli per la firma, confrontando il modello documento con il modello per campi modulo.
+* Panoramica sulla preparazione dei modelli di documenti Acrobat Sign tramite Acrobat, l&#39;assegnazione di tag di testo e l&#39;ambiente di creazione Acrobat Sign.
+* Studia a fondo l&#39;ambiente di creazione, coprendo la clonazione e la copia dei campi, aggiungendo campi speciali, assegnando campi e impostando campi condizionali e di calcolo.
+* Come inviare i modelli per la firma, confrontando il modello documento con il modello per campi modulo.
 
 **[Pubblicare un modulo Web compilabile e firmante](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/265580bf-245a-4751-9b51-c6877192d13a/9ae41cae-a53e-4b71-a748-2df0ee2e14c8){target="_blank"}**
 Data: 16 marzo 2023 Scopri come creare un modulo web che consenta a chiunque di completare e firmare senza dover avviare la transazione o conoscere l’indirizzo e-mail del firmatario. Vedrai anche come preparare un modello di documento che possa essere utilizzato per singole transazioni di firma, nonché per pubblicare su un URL univoco per un&#39;ampia condivisione.
@@ -44,9 +44,9 @@ Data: 16 febbraio 2023 Scopri come la funzione Invia in modalità collettiva in 
 **[Prepara i tuoi accordi per la firma elettronica](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/c08f6e7e-2ced-48b8-8245-548302fe2df3/15f504a9-3420-4372-83c8-168115f15cbb){target="_blank"}**
 Data: 19 gennaio 2023 Scopri tre semplici modi per configurare i tuoi documenti per la firma elettronica. Che siano PDF, file Microsoft 365 o anche semplici file di immagine, questa sessione ti offrirà gli strumenti necessari per far firmare il documento. Verranno utilizzati tre metodi:
 
-    * L&#39;ambiente di authoring drag and drop di Adobe Acrobat Sign
-    * Impostare un modulo di PDF in Adobe Acrobat
-    * Utilizzare i tag di testo per velocizzare la creazione dei documenti
+* Ambiente di authoring semplice tramite drag and drop di Adobe Acrobat Sign
+* Configurare un modulo di PDF in Adobe Acrobat
+* Utilizzare tag di testo per velocizzare la creazione di documenti
 
 **[Utilizzo delle firme elettroniche nelle app Microsoft](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/efedc73e-796d-4caf-a35b-110cb0d2f415/0ede0086-d92f-4163-94a2-125abeae2c9b){target="_blank"}**
 Data: 8 dicembre 2022 Amplia il tuo modo di utilizzare le app Microsoft come Word, Outlook e Sharepoint aggiungendo Adobe Acrobat Sign ai flussi di lavoro esistenti. In questa sessione potrai apprendere come iniziare a semplificare i processi documentali nelle app Microsoft più comuni, così non dovrai cambiare il contesto solo per ottenere una firma o controllare uno stato.
