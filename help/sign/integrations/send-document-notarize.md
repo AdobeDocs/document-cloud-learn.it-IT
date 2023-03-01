@@ -5,7 +5,8 @@ role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
-source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
+exl-id: 5a4c3a69-d126-46c2-984e-623516e0eed3
+source-git-commit: b6108850e14e73eb2ad49cfede4f2f477c87f684
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -25,5 +26,3 @@ Adobe Acrobat Sign ha stretto una partnership con Notarize, Inc. per fornire ser
 >[!TIP]
 >
 >Quando l’autenticazione notarile è abilitata per un account Acrobat Sign, il mittente può selezionare **Richiede la notarizzazione** selezionando i puntini di sospensione sul lato destro del record del destinatario. L’opzione di autenticazione è disponibile solo per i destinatari con un ruolo Firmatario.
-
-
