@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 9%
+source-wordcount: '488'
+ht-degree: 0%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 9%
       + [Modifica di un documento dopo l’invio](sign-beginner-tutorials/modify-in-flight.md)
       + [Sostituzione di un firmatario](sign-beginner-tutorials/replace-signer.md)
       + [Impostare scadenze e promemoria](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + Signing {#getting-started-signing}
+   + Firma {#getting-started-signing}
       + [Firma elettronica di un documento](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Compilazione e firma di un documento](sign-beginner-tutorials/fill-and-sign.md)
       + [Ottenere una firma di persona](sign-beginner-tutorials/sign-in-person.md)
@@ -43,7 +43,7 @@ ht-degree: 9%
       + [Creazione di un modello di documento](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Attività avanzate {#advanced-tasks}
    + [Panoramica](sign-advanced-users/advanced-users-overview.md)
-   + Invio in corso {#advanced-tasks-sending}
+   + Invio {#advanced-tasks-sending}
       + [Impostazione dell’ordine di firma](sign-advanced-users/setting-up-routing.md)
       + [Uso del ruolo di delegante](sign-advanced-users/delegate-signature.md)
       + [Uso del ruolo di approvazione](sign-advanced-users/add-an-approver.md)
@@ -101,6 +101,8 @@ ht-degree: 9%
       + [Invia per firma in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [Archiviazione automatica dei file [!DNL SharePoint] con [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Automazione dei documenti con Acrobat Sign per Microsoft Power Platform](integrations/documentautomation.md)
+   + Notarize {#notarize}
+      + [Inviare documenti per l’autenticazione notarile](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
       + [Document Builder per Salesforce](integrations/create-an-agreement-template.md)
       + [Configurazione della mappatura dati](integrations/set-up-data-mapping.md)
@@ -140,7 +142,7 @@ ht-degree: 9%
       + [Creazione di firme elettroniche e documenti incorporati](develop/embeddedesignature.md)
 + Distribuisci {#deploy}
    + [Panoramica](deploy-overview.md)
-+ Mobile {#mobile}
++ Dispositivi mobili {#mobile}
    + [Panoramica](mobile/mobile-overview.md)
    + Esercitazioni per dispositivi mobili {#mobile-tutorials}
       + [Liquid Mode in Acrobat Sign](mobile/liquidmode.md)
