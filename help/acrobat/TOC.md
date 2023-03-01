@@ -5,7 +5,7 @@ breadcrumb-title: Acrobat Tutorials
 source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 8%
+ht-degree: 0%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 8%
    + [Produttività in mobilità](getting-started/productivity.md)
    + [Utilizzo [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Da dove vengono i PDF?](getting-started/where-do-pdfs-come-from.md)
-   + [Creare un file PDF](getting-started/create-pdf.md)
+   + [Creare un PDF](getting-started/create-pdf.md)
    + [Combine Files su PDF](getting-started/combine-to-pdf.md)
-   + [Organizza pagine](getting-started/organize.md)
+   + [Organizzazione delle pagine](getting-started/organize.md)
    + [Aggiungi pagina personalizzata](getting-started/add-custom-page.md)
-   + [Modifica un PDF](getting-started/edit-pdf.md)
+   + [Modificare un PDF](getting-started/edit-pdf.md)
    + [Regolazione automatica del layout](getting-started/auto-adjust-layout.md)
    + [Esportare un PDF in formati modificabili](getting-started/export-pdf.md)
-   + [Collaborare in tempo reale](getting-started/collaborate.md)
+   + [Collaborazione in tempo reale](getting-started/collaborate.md)
    + [Commento su un PDF](getting-started/comment-on-pdf-files.md)
    + [Creare moduli compilabili](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
@@ -112,7 +112,7 @@ ht-degree: 8%
 + Distribuisci {#deploy}
    + [Panoramica](deploy/deploy-overview.md)
    + [Aggiornamenti importanti dei prodotti Acrobat DC per i clienti ETLA](deploy/signentitlementchanges.md)
-+ Mobile {#mobile}
++ Dispositivi mobili {#mobile}
    + [Panoramica](mobile/mobile-overview.md)
    + [Produttività in mobilità](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Scansione di qualsiasi elemento in PDF](mobile/scan-mobile-app.md)
