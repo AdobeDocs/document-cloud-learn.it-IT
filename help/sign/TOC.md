@@ -11,7 +11,7 @@ breadcrumb-title: Acrobat Sign Tutorials
 source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
 source-wordcount: '488'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 # Acrobat Sign Tutorials {#sign-learning-hub}
 
 + [Panoramica](overview.md)
-+ Guida introduttiva {#getting-started}
++ Introduzione {#getting-started}
    + [Panoramica](sign-beginner-tutorials/beginner-users-overview.md)
-   + Invio in corso {#getting-started-sending}
+   + Invio {#getting-started-sending}
       + [Nozioni di base sull’area di lavoro](sign-beginner-tutorials/quick-tour.md)
       + [Guida introduttiva ad Acrobat Sign](sign-beginner-tutorials/new-sender.md)
       + [Invio a un singolo destinatario](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -59,7 +59,7 @@ ht-degree: 0%
       + [Gestione dei dati dei moduli web](sign-advanced-users/manage-webform-data.md)
 + Amministrare {#admin-set-up}
    + [Panoramica](admin/intro-admin-overview.md)
-   + Guida introduttiva {#getting-started-admin}
+   + Introduzione {#getting-started-admin}
       + [Guida introduttiva per i nuovi amministratori](admin/get-started-admin.md)
       + [Configurabile e in esecuzione per gli amministratori](admin/up-and-running-admin.md)
       + [Configurare le notifiche per eventi e avvisi](admin/set-up-shared-events-and-alert.md)
@@ -142,7 +142,7 @@ ht-degree: 0%
       + [Creazione di firme elettroniche e documenti incorporati](develop/embeddedesignature.md)
 + Distribuisci {#deploy}
    + [Panoramica](deploy-overview.md)
-+ Dispositivi mobili {#mobile}
++ Mobile {#mobile}
    + [Panoramica](mobile/mobile-overview.md)
    + Esercitazioni per dispositivi mobili {#mobile-tutorials}
       + [Liquid Mode in Acrobat Sign](mobile/liquidmode.md)
