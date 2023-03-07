@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
+source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ Scopri come registrare la tua identità [!DNL D-Trust], quindi utilizzare il met
       <img alt="Registrarsi e firmare utilizzando un [!DNL Digidentity] ID digitale" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-sign.md"><strong>Registrarsi e firmare utilizzando un [!DNL Digidentity] ID digitale</strong></a>
+    <a href="digidentity-sign.md"><strong>Registrazione e firma mediante [!DNL Digidentity]</strong></a>
     </div>
     <em>Scopri come registrarti e utilizzare il tuo [!DNL Digidentity] ID digitale con Acrobat Sign</em>
     <br>
