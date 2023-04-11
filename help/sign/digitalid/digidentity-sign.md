@@ -8,9 +8,9 @@ level: Beginner
 thumbnail: KT-8670.jpg
 kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
-source-git-commit: 50527e5500d940494bc0792eac8eba87e1082982
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Digidentity è un fornitore di servizi fiduciari qualificati (QTSP). Il processo
 
 Questa esercitazione video descrive il percorso dell’utente dalla ricezione dell’e-mail di invito alla registrazione all’utilizzo di un ID digitale per autenticarsi e applicare una firma cloud in Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/336991?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)

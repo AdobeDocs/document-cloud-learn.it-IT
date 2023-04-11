@@ -7,7 +7,7 @@ level: Beginner
 thumbnail: KT-9298.jpg
 kt: 9298
 exl-id: f899c636-5041-4037-bc73-5fd272d2c24b
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come utilizzare il [!DNL Aadhaar] ID digitale per autenticare la tua identità e autorizzare una firma digitale remota (firma cloud) su un documento in Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/338362?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)

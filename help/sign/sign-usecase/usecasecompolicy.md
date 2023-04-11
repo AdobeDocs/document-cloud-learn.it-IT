@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 Raccogli in modo efficiente le firme di tutti i tuoi dipendenti su accordi, aggiornamenti dei criteri e altro ancora. Scoprite come creare un modulo web online che può essere completato **e** firmata senza stampare o spedire nulla.
 
->[!VIDEO](https://video.tv.adobe.com/v/33979?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
 
 Fai clic per scaricare la ricetta PDF passo passo per gli accordi sui criteri.
 
-[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)
+[![Scarica la PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)

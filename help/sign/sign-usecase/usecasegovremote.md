@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33813.jpg
 exl-id: d7a8322b-f7fd-454d-a74b-c5ff1c9839a8
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 Usa le firme elettroniche e le conferenze via web insieme per ridurre il tempo necessario per richiedere e garantire i mandati dei giudici.
 
->[!VIDEO](https://video.tv.adobe.com/v/33813?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33813?quality=12&learn=on&hidetitle=true)
 
 Fai clic per scaricare la ricetta del PDF passo passo per richiedere un mandato remoto.
 
-[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)
+[![Scarica la PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)

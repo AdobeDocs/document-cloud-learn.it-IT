@@ -7,16 +7,16 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '126'
 ht-degree: 3%
 
 ---
 
 # Lavora con il tuo [!DNL SharePoint] file
 
-Ottimizza i flussi di lavoro basati su documenti con [!DNL SharePoint] e Acrobat utilizzando [Adobe Acrobat per Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Conversione sicura [!DNL Microsoft 365] file a PDF, [combinare documenti PDF](https://www.adobe.com/it/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;} in un unico file, commenta e ridisponi le pagine, direttamente da [!DNL SharePoint] online.
+Ottimizza i flussi di lavoro basati su documenti con [!DNL SharePoint] e Acrobat utilizzando [Adobe Acrobat per Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Conversione sicura [!DNL Microsoft 365] file a PDF, [combinare documenti PDF](https://www.adobe.com/it/acrobat/online/merge-pdf.html){target="_blank"} in un unico file, aggiungere commenti e ridisporre le pagine, direttamente da [!DNL SharePoint] online.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Ottimizza i flussi di lavoro basati su documenti con [!DNL SharePoint] e Acrobat
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/331855?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

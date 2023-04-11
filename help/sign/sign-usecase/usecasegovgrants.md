@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33810.jpg
 exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 Fornisci assistenza rapida alle aziende fornendo accesso self-service a moduli di richiesta di sovvenzioni, prestiti e differimento fiscale. Scoprite come creare un modulo web online che può essere completato **e** firmata senza stampare o spedire nulla.
 
->[!VIDEO](https://video.tv.adobe.com/v/33810?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33810?quality=12&learn=on&hidetitle=true)
 
 Fai clic per scaricare la ricetta PDF passo-passo per sovvenzioni e prestiti aziendali.
 
-[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)
+[![Scarica la PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)

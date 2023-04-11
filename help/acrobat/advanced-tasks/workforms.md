@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
+exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -36,7 +37,7 @@ Lo strumento Prepare Form consente di aggiungere automaticamente i campi modulo 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -46,7 +47,7 @@ Per aggiungere vari tipi di campi modulo e impostarne le proprietà in un PDF es
 
 1. Download e apertura *Questionnaire.pdf*.
 1. Seleziona **Prepare Form** nel Centro strumenti.
-1. Selezionare **Avvia**.
+1. Seleziona **Inizio**.
 1. Seleziona **Modificare testo e immagini** nella barra degli strumenti per correggere l’errore ortografico.
 1. Scegli **Seleziona** nella barra degli strumenti per uscire dalla modalità Modifica.
 1. Seleziona ed elimina il campo modulo superiore.

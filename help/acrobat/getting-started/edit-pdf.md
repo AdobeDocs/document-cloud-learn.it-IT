@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 16%
+source-wordcount: '93'
+ht-degree: 11%
 
 ---
 
 # Modifica un PDF
 
-Scopri come [modificare testo e immagini nei file PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}. Fai clic o tocca per aggiungere un nuovo paragrafo o correggere un errore di ortografia. Puoi anche aggiungere immagini [o ritagliare una foto](https://www.adobe.com/it/acrobat/online/crop-pdf.html).
+Scopri come [modificare testo e immagini nei file PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"}. Fai clic o tocca per aggiungere un nuovo paragrafo o correggere un errore di ortografia. Puoi anche aggiungere immagini [o ritagliare una foto](https://www.adobe.com/acrobat/online/crop-pdf.html).
 
 >[!TIP]
 >
@@ -23,7 +23,7 @@ Scopri come [modificare testo e immagini nei file PDF](https://www.adobe.com/it/
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35493?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35493?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

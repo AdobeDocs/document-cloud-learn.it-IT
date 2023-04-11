@@ -6,10 +6,10 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 39372.jpg
 exl-id: c94a7756-1fae-4f17-aab4-ea1437b68645
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Ottimizza i flussi di lavoro di firma e rendi il tuo team ancora più produttivo utilizzando Acrobat Sign per Workday. In questa esercitazione video, scopri come configurare Acrobat Sign per lavorare direttamente in Workday per gestire senza problemi tutti i documenti relativi alle risorse umane.
 
->[!VIDEO](https://video.tv.adobe.com/v/39372?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/39372?quality=12&learn=on&hidetitle=true)

@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 1d91abad827e53136ffd6f7bb7df07566d061a19
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 25%
+source-wordcount: '96'
+ht-degree: 30%
 
 ---
 
-# Organizza pagine
+# Organizzare le pagine
 
-Per distribuire le customer experience migliori è necessario creare i contenuti in tempi rapidissimi. Scopri come ridisporre le pagine come preferisci, tutto in pochi secondi. [Inserisci](https://www.adobe.com/it/acrobat/online/add-pages-to-pdf.html){target=&quot;_blank&quot;}, replace, [spaccatura](https://www.adobe.com/it/acrobat/online/split-pdf.html){target=&quot;_blank&quot;}, [riordinare](https://www.adobe.com/it/acrobat/online/rearrange-pdf.html){target=&quot;_blank&quot;}, [ruotare](https://www.adobe.com/it/acrobat/online/rotate-pdf.html){target=&quot;_blank&quot;} e anche [estrarre pagine discontinue](https://www.adobe.com/it/acrobat/online/extract-pdf-pages.html){target=&quot;_blank&quot;} per creare un PDF dall&#39;aspetto professionale. Questa esercitazione video utilizza la proprietà [nuova esperienza di lavoro](new-workspace.md).
+Per distribuire le customer experience migliori è necessario creare i contenuti in tempi rapidissimi. Scopri come ridisporre le pagine come preferisci, tutto in pochi secondi. [Inserisci](https://www.adobe.com/it/acrobat/online/add-pages-to-pdf.html){target="_blank"}, replace, [split](https://www.adobe.com/it/acrobat/online/split-pdf.html){target="_blank"}, [reorder](https://www.adobe.com/it/acrobat/online/rearrange-pdf.html){target="_blank"}, [rotate](https://www.adobe.com/it/acrobat/online/rotate-pdf.html){target="_blank"}, and even [extract discontinuous pages](https://www.adobe.com/it/acrobat/online/extract-pdf-pages.html){target="_blank"} per creare un PDF dall&#39;aspetto professionale. Questa esercitazione video utilizza la proprietà [nuova esperienza di lavoro](new-workspace.md).
 
 >[!TIP]
 >
@@ -23,4 +23,4 @@ Per distribuire le customer experience migliori è necessario creare i contenuti
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409022?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409022?quality=12&learn=on&hidetitle=true)

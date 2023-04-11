@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 Sostituisci rapidamente l&#39;elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit. Scopri lo strumento Acrobat Sign Workflow Designer per semplificare l’intero processo.
 
->[!VIDEO](https://video.tv.adobe.com/v/33980?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 
 Fai clic per scaricare la ricetta passo passo del PDF per contratti e moduli di richiesta.
 
-[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)
+[![Scarica la PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)

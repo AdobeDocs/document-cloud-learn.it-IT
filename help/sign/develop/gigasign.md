@@ -7,26 +7,26 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '264'
 ht-degree: 2%
 
 ---
 
 # Raccolta di documenti ad alto volume con GigaSign
 
-Gigasign consente di inviare, raccogliere e monitorare i documenti da firmare a migliaia di persone contemporaneamente. È progettato per comunicazioni ad elevata capacità con dipendenti e clienti, supportando fino a 2.500 destinatari per ogni invio in blocco. GigaSign utilizza l&#39;API di Acrobat Sign per fornire la stessa funzionalità di MegaSign e include il supporto per più firmatari, gruppi di destinatari, ruoli dei destinatari, nomi degli accordi, copia delle informazioni e altro ancora.
+Gigasign consente di inviare, raccogliere e monitorare i documenti da firmare a migliaia di persone contemporaneamente. È progettato per comunicazioni ad elevata capacità con dipendenti e clienti, supportando fino a 2.500 destinatari per ogni invio in blocco. GigaSign utilizza l&#39;API Acrobat Sign per fornire la stessa funzionalità di MegaSign e include il supporto per più firmatari, gruppi di destinatari, ruoli dei destinatari, nomi degli accordi, copia delle informazioni e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## Scaricare e installare l’app GigaSign
 
 [Scarica il file zip di GigaSign](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
 
-[Collegamento per il download di Java 1.8 (solo se necessario)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target=&quot;_blank&quot;}
+[Collegamento per il download di Java 1.8 (solo se necessario)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
-[Indirizzi IP alla whitelist (solo se necessario)](https://helpx.adobe.com/it/sign/system-requirements.html#IPs){target=&quot;_blank&quot;}
+[Indirizzi IP alla whitelist (solo se necessario)](https://helpx.adobe.com/it/sign/system-requirements.html#IPs){target="_blank"}
 
 ## Istruzioni di configurazione di base
 
