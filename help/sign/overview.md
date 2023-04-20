@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: ae9f644a5437475954c68444bed39c7d4ea21905
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -25,10 +25,10 @@ Acrobat Sign, una soluzione Adobe Document Cloud, si adatta alle esigenze della 
 <tr>
   <td>
     <a href="sign-beginner-tutorials/beginner-users-overview.md">
-      <img alt="Guida introduttiva" src="assets/AS_Title_Getting-Started.png" />
+      <img alt="Introduzione" src="assets/AS_Title_Getting-Started.png" />
     </a>
     <div>
-    <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Guida introduttiva</strong></a>
+    <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Introduzione</strong></a>
     </div>
     <em>Scopri come inviare, firmare e monitorare i documenti</em>
     <br>
@@ -112,7 +112,7 @@ Acrobat Sign, una soluzione Adobe Document Cloud, si adatta alle esigenze della 
       <img alt="Mobile" src="assets/AS_Title_Mobile.png" />
     </a>
     <div>
-    <a href="mobile/mobile-overview.md"><strong>Mobile</strong></a>
+    <a href="mobile/mobile-overview.md"><strong>Dispositivi mobili</strong></a>
     </div>
     <em>Invia, monitora e ottieni aggiornamenti in tempo reale sul tuo dispositivo mobile</em>
     <br>
