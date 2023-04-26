@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
+source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '636'
 ht-degree: 0%
 
 ---
@@ -197,14 +197,19 @@ Scopri come archiviare automaticamente i documenti firmati in una libreria Share
       <img alt="Configurazione di Acrobat Sign con Workday" src="../assets/WD-Configure.png" />
     </a>
     <div>
-    <a href="workday.md"><strong>Configurazione di Acrobat Sign con Workday</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Configurazione di Acrobat Sign con Workday</strong></a>
     </div>
     <em>Scopri come configurare Acrobat Sign per lavorare direttamente in Workday per gestire senza problemi tutti i documenti relativi alle risorse umane</em>
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <a href="acrobat-sign-workday-onboarding.md">
+      <img alt="Iscrizione a nuovi assunti Acrobat Sign + Workday" src="../assets/workday.png" />
+    </a>
     <div>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Iscrizione a nuovi assunti Acrobat Sign + Workday</strong></a>
+    </div>
+    <em>Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday</em>
     <br>
   </td>
   <td>
