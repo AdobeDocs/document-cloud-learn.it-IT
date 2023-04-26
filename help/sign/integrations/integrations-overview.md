@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
+source-git-commit: c3c425ff21cbe50d63521d980b8f37b4c7eadf2e
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Puoi utilizzare Acrobat Sign in altre applicazioni già utilizzate dalla tua org
 
 ## Novità
 
+* [Iscrizione a nuovi assunti Acrobat Sign + Workday](acrobat-sign-workday-onboarding.md)
+Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday
 * [Inviare documenti per l’autenticazione notarile](send-document-notarize.md)
 In questa esercitazione in tre parti, scopri come inviare un documento per l’autenticazione notarile, visualizzare l’esperienza del firmatario e ricevere i risultati
-* [Archiviazione automatica dei file in SharePoint con Power Automate](auto-archive-sharepoint-power-automate.md)
-Scopri come archiviare automaticamente i documenti firmati in una libreria SharePoint utilizzando Power Automate
 
 ## Esercitazioni sulle integrazioni di Microsoft
 
