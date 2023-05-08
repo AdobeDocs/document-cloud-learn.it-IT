@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: da1cbeba135380abf5179734efdb86b294887004
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 8%
+source-wordcount: '491'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 8%
 
 ![Immagine introduttiva di Acrobat](../assets/Hero-GettingStarted.png)
 
-Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutorial passo passo. Dalla creazione di un documento alla protezione o [modifica dei file PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}, questo contenuto è stato progettato per facilitare l&#39;accesso ai flussi di lavoro PDF.
+Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutorial passo passo. Dalla creazione di un documento alla protezione o [modifica dei file PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"}, questo contenuto è progettato per facilitare l&#39;inserimento nei flussi di lavoro PDF.
 
 ## Esercitazioni introduttive
 
@@ -104,10 +104,10 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
   <tr>
     <td>
       <a href="create-pdf.md">
-        <img alt="Creare file PDF" src="../assets/Create.jpg" />
+        <img alt="Creazione di file PDF" src="../assets/Create.jpg" />
       </a>
       <div>
-      <a href="create-pdf.md"><strong>Creare un file PDF</strong></a>
+      <a href="create-pdf.md"><strong>Creare un PDF</strong></a>
       </div>
       <em>Creare PDF da tutti i tipi di documenti</em>
       <br>
@@ -124,10 +124,10 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     </td>
     <td>
       <a href="organize.md">
-        <img alt="Organizza pagine" src="../assets/Organize.png" />
+        <img alt="Organizzare le pagine" src="../assets/Organize.png" />
       </a>
       <div>
-      <a href="organize.md"><strong>Organizza pagine</strong></a>
+      <a href="organize.md"><strong>Organizzare le pagine</strong></a>
       </div>
       <em>Aggiungere, sostituire, estrarre, ruotare, eliminare e ridisporre le pagine nel PDF</em>
       <br>
@@ -193,10 +193,10 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
   <tr>
     <td>
       <a href="collaborate.md">
-        <img alt="Collaborare in tempo reale" src="../assets/Collaborate_1280.png" />
+        <img alt="Collaborazione in tempo reale" src="../assets/Collaborate_1280.png" />
       </a>
       <div>
-      <a href="collaborate.md"><strong>Collaborare in tempo reale</strong></a>
+      <a href="collaborate.md"><strong>Collaborazione in tempo reale</strong></a>
       </div>
       <em>Porta avanti i tuoi progetti raccogliendo commenti, collaborando alle risposte e monitorando lo stato di avanzamento dei tuoi documenti in tempo reale, ovunque ti trovi</em>
       <br>
@@ -291,12 +291,12 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
     <br>
   </td>
   <td>
-   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
