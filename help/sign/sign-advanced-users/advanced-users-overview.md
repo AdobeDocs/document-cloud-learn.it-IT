@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 854e70d1dd1d6535e1f8a8b53cfc6907862f5569
+source-git-commit: b1254c2dbb82932319d62c78e683b8a395e7eece
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '413'
 ht-degree: 3%
 
 ---
@@ -22,12 +22,12 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
 
 ## Novità
 
+* [Metodi di autenticazione in Acrobat Sign](authentication-methods.md)
+Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identità di un utente che firma un documento
 * [Impostare i pagamenti online](set-up-online-payments.md)
 Scopri come impostare e accettare i pagamenti online nei tuoi documenti
-* [Creazione di un report](creating-a-report.md)
-Scopri come creare report personalizzati per ottenere visibilità sul processo di firma dei documenti
 
-## Invio in corso
+## Invio
 
 <table style="table-layout:fixed">
 <tr>
@@ -62,6 +62,18 @@ Scopri come creare report personalizzati per ottenere visibilità sul processo d
     <br>
   </td>
   <td>
+    <a href="authentication-methods.md">
+      <img alt="Metodi di autenticazione in Acrobat Sign" src="../assets/authentication.png" />
+    </a>
+    <div>
+    <a href="authentication-methods.md"><strong>Metodi di autenticazione in Acrobat Sign</strong></a>
+    </div>
+    <em>Scopri la gamma di metodi di autenticazione dell’identità disponibili in Acrobat Sign</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="Impostare i pagamenti online" src="../assets/Payments.png" />
     </a>
@@ -71,38 +83,38 @@ Scopri come creare report personalizzati per ottenere visibilità sul processo d
     <em>Scopri come impostare e accettare i pagamenti online nei tuoi documenti</em>
     <br>
   </td>
+  <td>
+      <a href="megasign.md">
+        <img alt="Inviare e raccogliere più firme in blocco" src="../assets/Megasign.png" />
+      </a>
+      <div>
+      <a href="megasign.md"><strong>Inviare e raccogliere più firme in blocco</strong></a>
+      </div>
+      <em>Raccogli centinaia di firme alla volta per qualsiasi documento in pochi passaggi</em>
+      <br>
+    </td>
+    <td>
+      <a href="webform.md">
+        <img alt="Creazione di un modulo Web" src="../assets/Webform.png" />
+      </a>
+      <div>
+      <a href="webform.md"><strong>Creazione di un modulo Web</strong></a>
+      </div>
+      <em>Creare un documento che può essere firmato elettronicamente direttamente sul sito Web</em>
+      <br>
+    </td>
+    <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Acrobat Sign tag di testo" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign tag di testo</strong></a>
+      </div>
+      <em>Creare campi modulo Acrobat Sign mediante l’assegnazione di tag di testo con Adobe Acrobat</em>
+      <br>
+    </td>
 </tr>
 <tr>
- <td>
-    <a href="megasign.md">
-      <img alt="Inviare e raccogliere più firme in blocco" src="../assets/Megasign.png" />
-    </a>
-    <div>
-    <a href="megasign.md"><strong>Inviare e raccogliere più firme in blocco</strong></a>
-    </div>
-    <em>Raccogli centinaia di firme alla volta per qualsiasi documento in pochi passaggi</em>
-    <br>
-  </td>
-  <td>
-    <a href="webform.md">
-      <img alt="Creazione di un modulo Web" src="../assets/Webform.png" />
-    </a>
-    <div>
-    <a href="webform.md"><strong>Creazione di un modulo Web</strong></a>
-    </div>
-    <em>Creare un documento che può essere firmato elettronicamente direttamente sul sito Web</em>
-    <br>
-  </td>
-  <td>
-    <a href="adobe-sign-text-tagging.md">
-      <img alt="Acrobat Sign tag di testo" src="../assets/Text-Tagging.png" />
-  </a>
-    <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign tag di testo</strong></a>
-    </div>
-    <em>Creare campi modulo Acrobat Sign mediante l’assegnazione di tag di testo con Adobe Acrobat</em>
-    <br>
-  </td>
   <td>
     <a href="text-tagging-word.md">
       <img alt="Uso dei tag di testo [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -111,6 +123,21 @@ Scopri come creare report personalizzati per ottenere visibilità sul processo d
     <a href="text-tagging-word.md"><strong>Uso dei tag di testo [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Scoprite come creare un modello di documento riutilizzabile aggiungendo tag di testo Acrobat Sign in [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

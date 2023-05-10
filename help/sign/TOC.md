@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
+source-git-commit: 0e5c6ead1bcc3697b224937414b7f417ede0b5b3
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '494'
 ht-degree: 10%
 
 ---
@@ -47,9 +47,10 @@ ht-degree: 10%
       + [Impostazione dell’ordine di firma](sign-advanced-users/setting-up-routing.md)
       + [Uso del ruolo di delegante](sign-advanced-users/delegate-signature.md)
       + [Uso del ruolo di approvazione](sign-advanced-users/add-an-approver.md)
+      + [Metodi di autenticazione in Acrobat Sign](sign-advanced-users/authentication-methods.md)
+      + [Impostare i pagamenti online](sign-advanced-users/set-up-online-payments.md)
       + [Inviare e raccogliere più firme in blocco](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Creazione di un modulo Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Impostare i pagamenti online](sign-advanced-users/set-up-online-payments.md)
       + [Acrobat Sign tag di testo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Uso dei tag di testo [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Gestione {#advanced-tasks-managing}
