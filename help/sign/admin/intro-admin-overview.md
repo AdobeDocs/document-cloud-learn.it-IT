@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: e7b475f9d0abce1c88dbb3377f783f53bf794b52
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '510'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ In questa guida video completa, scopri tutti gli strumenti necessari per rendere
 * [Impostazione di un flusso di lavoro](building-a-custom-workflow.md)
 Automatizza i flussi di lavoro basati su documenti per ottenere rapidamente firme elettroniche e dati
 
-## Guida introduttiva
+## Introduzione
 
 <table style="table-layout:fixed">
 <tr>
@@ -63,7 +63,7 @@ Automatizza i flussi di lavoro basati su documenti per ottenere rapidamente firm
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Aggiunta di server" src="../assets/Adding-Users.png" />
+      <img alt="Aggiunta di utenti" src="../assets/Adding-Users.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>Aggiunta di utenti</strong></a>
@@ -116,6 +116,16 @@ Automatizza i flussi di lavoro basati su documenti per ottenere rapidamente firm
 </tr>
 <tr>
   <td>
+    <a href="report-options.md">
+      <img alt="Opzioni report per gli utenti" src="../assets/report-options.png" />
+    </a>
+    <div>
+    <a href="report-options.md"><strong>Opzioni report per gli utenti</strong></a>
+    </div>
+    <em>Scopri come impostare le opzioni del report per gli utenti</em>
+    <br>
+  </td>
+  <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Creazione di un modulo Web" src="../assets/Webform.png" />
     </a>
@@ -145,7 +155,9 @@ Automatizza i flussi di lavoro basati su documenti per ottenere rapidamente firm
     <em>Raccogli centinaia di firme alla volta per qualsiasi documento</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Impostazione di un flusso di lavoro" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -155,7 +167,21 @@ Automatizza i flussi di lavoro basati su documenti per ottenere rapidamente firm
     <em>Automatizza i flussi di lavoro basati su documenti per ottenere rapidamente firme elettroniche e dati</em>
     <br>
   </td>
-</tr>
+  <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </table>
 
 ## Attività avanzate
