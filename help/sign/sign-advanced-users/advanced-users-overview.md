@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b1254c2dbb82932319d62c78e683b8a395e7eece
+source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '423'
 ht-degree: 3%
 
 ---
@@ -24,8 +24,8 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
 
 * [Metodi di autenticazione in Acrobat Sign](authentication-methods.md)
 Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identità di un utente che firma un documento
-* [Impostare i pagamenti online](set-up-online-payments.md)
-Scopri come impostare e accettare i pagamenti online nei tuoi documenti
+* [Gestione dei dati del modulo](manage-form-data.md)
+Scopri come consolidare i dati dei moduli dai tuoi documenti
 
 ## Invio
 
@@ -74,6 +74,16 @@ Scopri come impostare e accettare i pagamenti online nei tuoi documenti
 </tr>
 <tr>
   <td>
+      <a href="manage-form-data.md">
+        <img alt="Gestione dei dati del modulo" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data.md"><strong>Gestione dei dati del modulo</strong></a>
+      </div>
+      <em>Scopri come consolidare i dati dei moduli dai tuoi documenti</em>
+      <br>
+    </td>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="Impostare i pagamenti online" src="../assets/Payments.png" />
     </a>
@@ -92,18 +102,20 @@ Scopri come impostare e accettare i pagamenti online nei tuoi documenti
       </div>
       <em>Raccogli centinaia di firme alla volta per qualsiasi documento in pochi passaggi</em>
       <br>
-    </td>
-    <td>
-      <a href="webform.md">
+  </td>
+  <td>
+    <a href="webform.md">
         <img alt="Creazione di un modulo Web" src="../assets/Webform.png" />
-      </a>
-      <div>
-      <a href="webform.md"><strong>Creazione di un modulo Web</strong></a>
-      </div>
-      <em>Creare un documento che può essere firmato elettronicamente direttamente sul sito Web</em>
-      <br>
-    </td>
-    <td>
+    </a>
+    <div>
+    <a href="webform.md"><strong>Creazione di un modulo Web</strong></a>
+    </div>
+    <em>Creare un documento che può essere firmato elettronicamente direttamente sul sito Web</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign tag di testo" src="../assets/Text-Tagging.png" />
     </a>
@@ -113,8 +125,6 @@ Scopri come impostare e accettare i pagamenti online nei tuoi documenti
       <em>Creare campi modulo Acrobat Sign mediante l’assegnazione di tag di testo con Adobe Acrobat</em>
       <br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="text-tagging-word.md">
       <img alt="Uso dei tag di testo [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -123,11 +133,6 @@ Scopri come impostare e accettare i pagamenti online nei tuoi documenti
     <a href="text-tagging-word.md"><strong>Uso dei tag di testo [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Scoprite come creare un modello di documento riutilizzabile aggiungendo tag di testo Acrobat Sign in [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
