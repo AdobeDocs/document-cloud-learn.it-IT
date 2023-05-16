@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 3%
+source-wordcount: '366'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +18,11 @@ ht-degree: 3%
 ![Immagine introduttiva di Acrobat](../assets/Hero-AdvancedTasks.png)
 
 Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite come creare un’azione per ripetere le attività ordinarie, rimuovere informazioni riservate, ridurre e ottimizzare file di grandi dimensioni, raccogliere rapidamente i dati dei moduli e creare file PDF accessibili a tutti.
+
+## Novità
+
+* [Lavora ovunque con Acrobat web](optimizeseo.md)
+Scoprite come ottimizzare un PDF per migliorare la visibilità e la classificazione dei motori di ricerca sul Web
 
 ## Esercitazioni sulle attività avanzate
 
