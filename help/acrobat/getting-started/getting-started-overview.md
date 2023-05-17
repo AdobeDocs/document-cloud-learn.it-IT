@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
+source-git-commit: 797c9bdce5bae874875b4ff319977c5dc753b7c2
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '540'
 ht-degree: 5%
 
 ---
@@ -23,6 +23,8 @@ Scoprite come iniziare a utilizzare Adobe Acrobat attraverso questi brevi tutori
 
 * [Lavora ovunque con Acrobat web](acrobatweb.md)
 Scopri come gestire le richieste di documenti aziendali ovunque ti trovi utilizzando gli strumenti Web di Acrobat nel tuo browser
+* [Collaborazione in tempo reale](collaborate.md)
+Porta avanti i tuoi progetti raccogliendo commenti, collaborando alle risposte e monitorando lo stato di avanzamento dei tuoi documenti in tempo reale, ovunque ti trovi
 
 ## Esercitazioni introduttive
 
