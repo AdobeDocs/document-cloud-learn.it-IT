@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8255.jpg
 kt: 8255
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: 6b91460e712f3c2cf78e52bf6dda79793fdc30cb
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 # Collaborazione in tempo reale
 
-Grazie al lavoro da remoto ovunque, la collaborazione senza soluzione di continuità è fondamentale per distribuire contenuti in modo rapido e scalabile. Porta avanti i tuoi progetti raccogliendo commenti, collaborando alle risposte e monitorando lo stato di avanzamento dei tuoi documenti in tempo reale, ovunque ti trovi.
+Grazie al lavoro da remoto ovunque, la collaborazione senza soluzione di continuità è fondamentale per distribuire contenuti in modo rapido e scalabile. Porta avanti i tuoi progetti raccogliendo commenti, collaborando alle risposte e monitorando lo stato di avanzamento dei tuoi documenti in tempo reale, ovunque ti trovi. Questa esercitazione video utilizza la proprietà [nuova esperienza di lavoro](new-workspace.md)
 
 >[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
 
