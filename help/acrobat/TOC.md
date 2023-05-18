@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
+source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 0%
 # Esercitazioni su Acrobat {#acrobat-learning}
 
 + [Panoramica](overview.md)
-+ Guida introduttiva {#getting-started}
++ Introduzione {#getting-started}
    + [Panoramica](getting-started/getting-started-overview.md)
    + [Nozioni di base sull’area di lavoro](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Nuova esperienza dell’area di lavoro](getting-started/new-workspace.md)
@@ -23,9 +23,9 @@ ht-degree: 0%
    + [Da dove vengono i PDF?](getting-started/where-do-pdfs-come-from.md)
    + [Creare un PDF](getting-started/create-pdf.md)
    + [Combine Files su PDF](getting-started/combine-to-pdf.md)
-   + [Organizzazione delle pagine](getting-started/organize.md)
+   + [Organizza pagine](getting-started/organize.md)
    + [Aggiungi pagina personalizzata](getting-started/add-custom-page.md)
-   + [Modificare un PDF](getting-started/edit-pdf.md)
+   + [Modifica un PDF](getting-started/edit-pdf.md)
    + [Regolazione automatica del layout](getting-started/auto-adjust-layout.md)
    + [Esportare un PDF in formati modificabili](getting-started/export-pdf.md)
    + [Collaborazione in tempo reale](getting-started/collaborate.md)
@@ -61,22 +61,22 @@ ht-degree: 0%
       + [Aggiunta di campi modulo a un PDF senza tag](advanced-tasks/accessibilitysession6.md)
 + Acrobat di 60 secondi {#60-second}
    + [Panoramica](60-second/60-second-overview.md)
-   + [Creazione immediata di file PDF più efficienti](60-second/optimize.md)
-   + [Protect i file PDF con una password](60-second/protect.md)
-   + [Convertire Word in PDF, inclusi i campi modulo](60-second/wordform.md)
-   + [Consenti ad Acrobat di creare PDF accessibili](60-second/accessible.md)
-   + [Export PDF a Word dal telefono](60-second/exportwordphone.md)
+   + [Modificare il PDF con Acrobat Web](60-second/edit.md)
    + [Riconoscere il testo in un file PDF acquisito da scanner](60-second/textrecognition.md)
    + [Combinare più file in un unico PDF](60-second/combine-to-one-pdf.md)
-   + [Modificare il PDF con Acrobat Web](60-second/edit.md)
-   + [Ricerca di più file PDF contemporaneamente](60-second/search.md)
-   + [Creazione immediata di un PDF di foto](60-second/photo.md)
-   + [Convertire un file PPT in PDF sul telefono](60-second/phone.md)
-   + [Firma elettronica di un documento cartaceo](60-second/sign.md)
-   + [Caricare commenti di PDF in InDesign](60-second/indesign.md)
+   + [Organizzazione rapida delle pagine](60-second/organize.md)
    + [Modificare una foto nel PDF](60-second/editphoto.md)
    + [Modificare un elemento grafico nel PDF](60-second/editgraphic.md)
-   + [Organizzazione rapida delle pagine](60-second/organize.md)
+   + [Export PDF a Word dal telefono](60-second/exportwordphone.md)
+   + [Convertire Word in PDF, inclusi i campi modulo](60-second/wordform.md)
+   + [Creazione immediata di un PDF di foto](60-second/photo.md)
+   + [Convertire un file PPT in PDF sul telefono](60-second/phone.md)
+   + [Creazione immediata di file PDF più efficienti](60-second/optimize.md)
+   + [Firma elettronica di un documento cartaceo](60-second/sign.md)
+   + [Protect i file PDF con una password](60-second/protect.md)
+   + [Consenti ad Acrobat di creare PDF accessibili](60-second/accessible.md)
+   + [Ricerca di più file PDF contemporaneamente](60-second/search.md)
+   + [Caricare commenti di PDF in InDesign](60-second/indesign.md)
 + Skill Builder {#skill-builders}
    + [Webinar](skill-builder/skill-builder-webinars.md)
 + Integrazioni {#integrations}
@@ -112,7 +112,7 @@ ht-degree: 0%
 + Distribuisci {#deploy}
    + [Panoramica](deploy/deploy-overview.md)
    + [Aggiornamenti importanti dei prodotti Acrobat DC per i clienti ETLA](deploy/signentitlementchanges.md)
-+ Dispositivi mobili {#mobile}
++ Mobile {#mobile}
    + [Panoramica](mobile/mobile-overview.md)
    + [Produttività in mobilità](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Scansione di qualsiasi elemento in PDF](mobile/scan-mobile-app.md)

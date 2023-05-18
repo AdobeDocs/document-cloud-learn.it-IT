@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
+source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -22,58 +22,18 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
 
 ## Esercitazioni di Acrobat di 60 secondi
 
+## Modifica
+
 <table style="table-layout:fixed">
 <tr>
-  <td>
-    <a href="optimize.md">
-      <img alt="Creazione immediata di file PDF più efficienti" src="../assets/60sec_Optimize_1280.jpg" />
+   <td>
+    <a href="edit.md">
+      <img alt="Modifica PDF con Acrobat Web" src="../assets/60sec_Edit_1280.jpg" />
     </a>
     <div>
-    <a href="optimize.md"><strong>Creazione immediata di file PDF più efficienti</strong></a>
+    <a href="edit.md"><strong>Modifica PDF con Acrobat Web</strong></a>
     </div>
-    <em>Con lo strumento Optimize PDF puoi ridurre notevolmente le dimensioni dei file PDF</em>
-    <br>
-  </td>
-  <td>
-    <a href="protect.md">
-      <img alt="Protect i file PDF con una password" src="../assets/60sec_Protect_1280.jpg" />
-    </a>
-    <div>
-    <a href="protect.md"><strong>Protect i file PDF con una password</strong></a>
-    </div>
-    <em>Protect un PDF in modo che sia necessaria una password per aprire o modificare il PDF</em>
-    <br>
-  </td>
-  <td>
-    <a href="wordform.md">
-      <img alt="Convertire Word in PDF, inclusi i campi modulo" src="../assets/60sec_Wordform_1280.jpg" />
-    </a>
-    <div>
-     <a href="wordform.md"><strong>Convertire Word in PDF, inclusi i campi modulo</strong></a>
-    </div>
-    <em>Converti file Word e moduli in PDF e crea automaticamente campi modulo</em>
-    <br>
-  </td>
-  <td>
-    <a href="accessible.md">
-      <img alt="Consenti ad Acrobat di creare PDF accessibili" src="../assets/60sec_Accessible_1280.jpg" />
-    </a>
-    <div>
-    <a href="accessible.md"><strong>Consenti ad Acrobat di creare PDF accessibili</strong></a>
-    </div>
-    <em>Verificare se un PDF è accessibile</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="exportwordphone.md">
-      <img alt="Export PDF a Word dal telefono" src="../assets/60sec_Exportphone_1280.jpg" />
-    </a>
-    <div>
-    <a href="exportwordphone.md"><strong>Export PDF a Word dal telefono</strong></a>
-    </div>
-    <em>Convertire un file PDF in un documento Microsoft Word completamente modificabile con l'app mobile Acrobat</em>
+    <em>Apporta semplici modifiche a testo e immagini senza nemmeno scaricare il PDF</em>
     <br>
   </td>
   <td>
@@ -96,71 +56,19 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     <em>Creare rapidamente un nuovo documento combinando diversi tipi di file in un unico PDF</em>
     <br>
   </td>
-  <td>
-    <a href="edit.md">
-      <img alt="Modifica PDF con Acrobat Web" src="../assets/60sec_Edit_1280.jpg" />
-    </a>
-    <div>
-    <a href="edit.md"><strong>Modifica PDF con Acrobat Web</strong></a>
-    </div>
-    <em>Apporta semplici modifiche a testo e immagini senza nemmeno scaricare il PDF</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="search.md">
-      <img alt="Ricerca di più file PDF contemporaneamente" src="../assets/60sec_Search_1280.jpg" />
-    </a>
-    <div>
-     <a href="search.md"><strong>Ricerca di più file PDF contemporaneamente</strong></a>
-    </div>
-    <em>Avviare una ricerca in un file PDF, quindi aprire Ricerca avanzata e cercare un’intera cartella di file PDF</em>
-    <br>
-  </td>
-  <td>
-    <a href="photo.md">
-      <img alt="Creazione immediata di un PDF di foto" src="../assets/60sec_Photo_1280.jpg" />
-    </a>
-    <div>
-    <a href="photo.md"><strong>Creazione immediata di un PDF di foto</strong></a>
-    </div>
-    <em>Scopri come trascinare un gruppo di JPG sull’icona Acrobat per creare un PDF</em>
-    <br>
-  </td>
-  <td>
-    <a href="phone.md">
-      <img alt="Convertire un file PPT in PDF sul telefono" src="../assets/60sec_Phone_1280.jpg" />
-    </a>
-    <div>
-    <a href="phone.md"><strong>Convertire un file PPT in PDF sul telefono</strong></a>
-    </div>
-    <em>Scopri come convertire un allegato PowerPoint e-mail in PDF sul telefono</em>
-    <br>
-  </td>  
-  <td>
-    <a href="sign.md">
-      <img alt="Firma elettronica di un documento cartaceo" src="../assets/60sec_Sign_1280.jpg" />
-    </a>
-    <div>
-    <a href="sign.md"><strong>Firma elettronica di un documento cartaceo</strong></a>
-    </div>
-    <em>Scoprite come utilizzare Adobe Scan per firmare un modulo stampato</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="indesign.md">
-      <img alt="Caricare commenti di PDF in InDesign" src="../assets/60sec_InDesign_1280.jpg" />
-    </a>
-    <div>
-    <a href="indesign.md"><strong>Caricare commenti di PDF in InDesign</strong></a>
-    </div>
-    <em>Scoprite come caricare nuovamente i commenti di PDF in InDesign dopo una revisione condivisa di Acrobat</em>
-    <br>
-  </td>
    <td>
+    <a href="organize.md">
+      <img alt="Organizzazione rapida delle pagine" src="../assets/60sec_Organize_1280.jpg" />
+    </a>
+    <div>
+    <a href="organize.md"><strong>Organizzazione rapida delle pagine</strong></a>
+    </div>
+    <em>Scopri come utilizzare lo strumento Organizza pagine per ottenere una visione a volo d’uccello del tuo PDF</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="editphoto.md">
       <img alt="Modificare una foto nel PDF" src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
@@ -181,14 +89,226 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     <br>
   </td>
   <td>
-    <a href="organize.md">
-      <img alt="Organizzazione rapida delle pagine" src="../assets/60sec_Organize_1280.jpg" />
+      <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## Converti
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="exportwordphone.md">
+      <img alt="Export PDF a Word dal telefono" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
     <div>
-    <a href="organize.md"><strong>Organizzazione rapida delle pagine</strong></a>
+    <a href="exportwordphone.md"><strong>Export PDF a Word dal telefono</strong></a>
     </div>
-    <em>Scopri come utilizzare lo strumento Organizza pagine per ottenere una visione a volo d’uccello del tuo PDF</em>
+    <em>Convertire un file PDF in un documento Microsoft Word completamente modificabile con l'app mobile Acrobat</em>
     <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## Crea
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="wordform.md">
+      <img alt="Convertire Word in PDF, inclusi i campi modulo" src="../assets/60sec_Wordform_1280.jpg" />
+    </a>
+    <div>
+     <a href="wordform.md"><strong>Convertire Word in PDF, inclusi i campi modulo</strong></a>
+    </div>
+    <em>Converti file Word e moduli in PDF e crea automaticamente campi modulo</em>
+    <br>
+  </td>
+  <td>
+      <a href="photo.md">
+        <img alt="Creazione immediata di un PDF di foto" src="../assets/60sec_Photo_1280.jpg" />
+      </a>
+      <div>
+      <a href="photo.md"><strong>Creazione immediata di un PDF di foto</strong></a>
+      </div>
+      <em>Scopri come trascinare un gruppo di JPG sull’icona Acrobat per creare un PDF</em>
+      <br>
+  </td>
+  <td>
+    <a href="phone.md">
+      <img alt="Convertire un file PPT in PDF sul telefono" src="../assets/60sec_Phone_1280.jpg" />
+    </a>
+    <div>
+    <a href="phone.md"><strong>Convertire un file PPT in PDF sul telefono</strong></a>
+    </div>
+    <em>Scopri come convertire un allegato PowerPoint e-mail in PDF sul telefono</em>
+    <br>
+  </td>
+  <td>
+      <a href="optimize.md">
+        <img alt="Creazione immediata di file PDF più efficienti" src="../assets/60sec_Optimize_1280.jpg" />
+      </a>
+      <div>
+      <a href="optimize.md"><strong>Creazione immediata di file PDF più efficienti</strong></a>
+      </div>
+      <em>Con lo strumento Optimize PDF puoi ridurre notevolmente le dimensioni dei file PDF</em>
+      <br>
+  </td>
+</tr>
+</table>
+
+## Firmare
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="sign.md">
+      <img alt="Firma elettronica di un documento cartaceo" src="../assets/60sec_Sign_1280.jpg" />
+    </a>
+    <div>
+    <a href="sign.md"><strong>Firma elettronica di un documento cartaceo</strong></a>
+    </div>
+    <em>Scoprite come utilizzare Adobe Scan per firmare un modulo stampato</em>
+    <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## Proteggi
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="protect.md">
+      <img alt="Protect i file PDF con una password" src="../assets/60sec_Protect_1280.jpg" />
+    </a>
+    <div>
+    <a href="protect.md"><strong>Protect i file PDF con una password</strong></a>
+    </div>
+    <em>Protect un PDF in modo che sia necessaria una password per aprire o modificare il PDF</em>
+    <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## Prepara
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="accessible.md">
+      <img alt="Consenti ad Acrobat di creare PDF accessibili" src="../assets/60sec_Accessible_1280.jpg" />
+    </a>
+    <div>
+    <a href="accessible.md"><strong>Consenti ad Acrobat di creare PDF accessibili</strong></a>
+    </div>
+    <em>Verificare se un PDF è accessibile</em>
+    <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## Altri argomenti
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="search.md">
+      <img alt="Ricerca di più file PDF contemporaneamente" src="../assets/60sec_Search_1280.jpg" />
+    </a>
+    <div>
+     <a href="search.md"><strong>Ricerca di più file PDF contemporaneamente</strong></a>
+    </div>
+    <em>Avviare una ricerca in un file PDF, quindi aprire Ricerca avanzata e cercare un’intera cartella di file PDF</em>
+    <br>
+  </td>
+  <td>
+    <a href="indesign.md">
+      <img alt="Caricare commenti di PDF in InDesign" src="../assets/60sec_InDesign_1280.jpg" />
+    </a>
+    <div>
+    <a href="indesign.md"><strong>Caricare commenti di PDF in InDesign</strong></a>
+    </div>
+    <em>Scoprite come caricare nuovamente i commenti di PDF in InDesign dopo una revisione condivisa di Acrobat</em>
+    <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
