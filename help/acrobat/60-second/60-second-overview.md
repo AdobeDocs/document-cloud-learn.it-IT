@@ -7,7 +7,7 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 8d96841361809a5b4e6fd894a3d9cb3fef27ce2c
+source-git-commit: d1416b3c1137a44897a5a6e4b74ba9b4e6ee63b4
 workflow-type: tm+mt
 source-wordcount: '643'
 ht-degree: 0%
@@ -130,11 +130,12 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
       <img alt="Convertire un PDF in PowerPoint" src="../assets/60sec_convertppt.png" />
     </a>
     <div>
-    <a href="convert-pdf-excel.md"><strong>Convertire un PDF in PowerPoint</strong></a>
+    <a href="convert-pdf-powerpoint.md"><strong>Convertire un PDF in PowerPoint</strong></a>
     </div>
     <em>Convertire un file PDF in un documento Microsoft PowerPoint completamente modificabile</em>
     <br>
   </td>
+  <td>
     <a href="exportwordphone.md">
       <img alt="Export PDF a Word dal telefono" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
