@@ -27,7 +27,7 @@ Articoli di best practice con informazioni preziose sulla distribuzione di Acrob
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Gestione di Acrobat Sign sull’Admin Console</strong></a>
+    <a href="https://helpx.adobe.com/it/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Gestione di Acrobat Sign sull’Admin Console</strong></a>
     </div>
     <em>Scopri come gestire gli utenti e le licenze Acrobat Sign sulla piattaforma aziendale di Adobe Adobe Admin Console</em>
     <br>

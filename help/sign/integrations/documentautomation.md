@@ -10,7 +10,7 @@ exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
 source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '2436'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -266,7 +266,7 @@ Queste cartelle sono ora indicate come parte del flusso di Power Automate.
 
    ![Screenshot del pulsante Introduzione](assets/documentautomation/automation_28.png)
 
-1. Accedi con il tuo Adobe ID.
+1. Accedi con l’Adobe ID.
 
    ![Screenshot della schermata di accesso](assets/documentautomation/automation_29.png)
 
@@ -345,7 +345,7 @@ Nella cartella Templates, è presente una cartella Covers che include i disegni 
 
    ![Screenshot di dove selezionare I miei flussi](assets/documentautomation/automation_39.png)
 
-1. Fai clic su **Importazione**.
+1. Fai clic su **Importa**.
 
    ![Screenshot della schermata di importazione](assets/documentautomation/automation_40.png)
 
@@ -353,7 +353,7 @@ Nella cartella Templates, è presente una cartella Covers che include i disegni 
 
    ![Screenshot della selezione della cartella](assets/documentautomation/automation_41.png)
 
-1. Fai clic su **Importazione**.
+1. Fai clic su **Importa**.
 
 1. Fai clic sull’icona a forma di chiave inglese sotto Azione accanto a **Invia proposta al cliente**.
 
@@ -361,7 +361,7 @@ Nella cartella Templates, è presente una cartella Covers che include i disegni 
 
 1. Seleziona **Crea come nuovo** in Configurazione.
 1. Impostate il nome del flusso in Nome risorsa.
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    Ripeti questa operazione per altre risorse correlate e seleziona la connessione.
 
@@ -373,7 +373,7 @@ Nella cartella Templates, è presente una cartella Covers che include i disegni 
 
 Dopo aver creato il flusso, effettuate le seguenti operazioni:
 
-1. Fai clic su **Modifica**.
+1. Fate clic su **Modifica**.
 
    ![Screenshot del punto in cui selezionare il montaggio](assets/documentautomation/automation_44.png)
 
@@ -427,7 +427,7 @@ Ripeti gli stessi passaggi per **Condizione: Aggiungi Whitepaper 2**.
 
    Modificate l&#39;indirizzo del sito e il percorso della cartella nel sito e nel percorso di SharePoint in cui si trova la cartella Documenti generati.
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
 ### Verifica del flusso
 

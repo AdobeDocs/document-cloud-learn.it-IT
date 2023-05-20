@@ -8,14 +8,14 @@ thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 6%
+source-wordcount: '184'
+ht-degree: 4%
 
 ---
 
 # Scansione e OCR
 
-manda avanti la tua attività trasformando scansioni o immagini di documenti in documenti ricercabili, [file PDF modificabili](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}.
+manda avanti la tua attività trasformando scansioni o immagini di documenti in documenti ricercabili, [file PDF modificabili](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"}.
 
 >[!TIP]
 >

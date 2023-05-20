@@ -26,7 +26,7 @@ Non conoscete ancora Acrobat Sign? Questo tutorial è un buon punto di partenza.
 * [Impostare scadenze e promemoria](set-deadlines-reminders.md)
 Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare rapidamente i documenti
 
-## Invio in corso
+## Invio
 
 <table style="table-layout:fixed">
 <tr>
@@ -142,7 +142,7 @@ Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare ra
 </tr>
 </table>
 
-## Signing
+## Firma
 
 <table style="table-layout:fixed">
 <tr>

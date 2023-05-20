@@ -9,7 +9,7 @@ exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
 source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 7%
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ Riduci i file di grandi dimensioni e ottimizza i tuoi PDF senza compromettere la
 
 1. Seleziona **[!UICONTROL Standard]** dal **[!UICONTROL Impostazioni]** per utilizzare le impostazioni predefinite.
 
-   Se si cambiano le impostazioni nella finestra di dialogo **[!UICONTROL Ottimizzatore PDF]**, il menu **Impostazioni** passa automaticamente a **Personalizzato**.
+   Se si modificano le impostazioni nel **[!UICONTROL Ottimizzatore PDF]** , la proprietà **Impostazioni** menu passa automaticamente a **Personalizzato**.
 
 1. Seleziona **[!UICONTROL Mantieni esistente]** dal **[!UICONTROL Rendi compatibile con]** per mantenere la versione di PDF corrente o scegliere una specifica versione di Acrobat.
 

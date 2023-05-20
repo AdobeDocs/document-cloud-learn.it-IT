@@ -10,7 +10,7 @@ kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
 source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '224'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 ![Acrobat Mobile Image](../assets/Hero-Mobile.png)
 
-Creare, riempire e [PDF di firma](https://www.adobe.com/it/acrobat/online/sign-pdf.html){target=&quot;_blank&quot;} sul dispositivo mobile.
+Creare, riempire e [PDF di firma](https://www.adobe.com/it/acrobat/online/sign-pdf.html){target="_blank"}  sul tuo dispositivo mobile.
 
 ## Esercitazioni per le app mobile Acrobat Reader
 
@@ -85,14 +85,14 @@ Creare, riempire e [PDF di firma](https://www.adobe.com/it/acrobat/online/sign-p
 </tr>
 </table>
 
-Scarica [App mobile Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target=&quot;_blank&quot;} lo standard globale gratuito per visualizzare, annotare e firmare PDF in modo affidabile.
+Scarica [App mobile Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} lo standard globale gratuito per visualizzare, annotare e firmare PDF in modo affidabile.
 
-[Guida di Acrobat Reader per iOS per dispositivi mobili](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target=&quot;_blank&quot;}
-[Guida di Acrobat Reader per dispositivi mobili Android](https://www.adobe.com/devnet-docs/acrobat/android/en/){target=&quot;_blank&quot;}
+[Guida di Acrobat Reader per iOS per dispositivi mobili](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
+[Guida di Acrobat Reader per dispositivi mobili Android](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
 
-Scarica [App mobile Adobe Scan](https://www.adobe.com/acrobat/mobile/scanner-app.html){target=&quot;_blank&quot;} per acquisire qualsiasi documento cartaceo e trasformarlo in un PDF di alta qualità con testo ricercabile.
+Scarica [App mobile Adobe Scan](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} per acquisire qualsiasi documento cartaceo e trasformarlo in un PDF di alta qualità con testo ricercabile.
 
-[Guida di Adobe Scan per iOS per dispositivi mobili](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target=&quot;_blank&quot;}
-[Guida di Adobe Scan per dispositivi mobili Android](https://www.adobe.com/devnet-docs/adobescan/android/en/){target=&quot;_blank&quot;}
+[Guida di Adobe Scan per iOS per dispositivi mobili](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
+[Guida di Adobe Scan per dispositivi mobili Android](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
 
-Scarica [App mobile Adobe Fill &amp; Sign](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target=&quot;_blank&quot;} per compilare, firmare e inviare qualsiasi modulo ovunque ti trovi, su qualsiasi dispositivo, utilizzando semplicemente un dito o uno stilo.
+Scarica [App mobile Adobe Fill &amp; Sign](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} compila, firma e invia qualsiasi modulo ovunque ti trovi, su qualsiasi dispositivo, utilizzando semplicemente un dito o uno stilo.

@@ -1,6 +1,6 @@
 ---
 title: Protezione della busta paga
-description: Scopri come utilizzare Acrobat Sign per convertire il modulo del programma Protezione pagamenti in un modulo interattivo online
+description: Scopri come utilizzare Acrobat Sign per convertire il modulo del programma Protezione pagamenti in un modulo online interattivo
 role: User
 product: adobe sign
 solution: Acrobat Sign

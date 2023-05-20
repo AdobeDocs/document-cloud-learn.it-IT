@@ -25,7 +25,7 @@ Scopri come inviare un messaggio di testo, un’e-mail o una notifica push per c
 
    Sono disponibili informazioni e l’ultimo plug-in per Salesforce Sync [qui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Installa Acrobat Sign per Salesforce.
+1. Installare Acrobat Sign for Salesforce.
 
    Informazioni su questo plug-in sono disponibili [qui.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
@@ -33,7 +33,7 @@ Scopri come inviare un messaggio di testo, un’e-mail o una notifica push per c
 
 Una volta completate le configurazioni Marketo Salesforce Sync e Acrobat Sign per Salesforce, nel Terminale di amministrazione di Marketo vengono visualizzate diverse nuove opzioni.
 
-![Ammin.](assets/adminTab.png)
+![Amministrazione](assets/adminTab.png)
 
 ![Sincronizzazione oggetto](assets/salesforceAdmin.png)
 
@@ -99,7 +99,7 @@ Recuperate questi parametri dal vostro account, ora aprite l&#39;istanza di Mark
 
 1. Fai clic su **Amministratore** in alto a destra.
 
-   ![Ammin.](assets/adminTab.png)
+   ![Amministrazione](assets/adminTab.png)
 
 1. Fai clic su **Webhook**, quindi **Nuovo webhook**.
 

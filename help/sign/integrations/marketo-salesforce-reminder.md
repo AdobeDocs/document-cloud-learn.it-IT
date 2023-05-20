@@ -25,7 +25,7 @@ Scopri come inviare un promemoria e-mail da Marketo quando un accordo rimane non
 
    Sono disponibili informazioni e l’ultimo plug-in per Salesforce Sync [qui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Installa Acrobat Sign per Salesforce.
+1. Installare Acrobat Sign for Salesforce.
 
    Informazioni su questo plug-in sono disponibili [qui.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
@@ -33,7 +33,7 @@ Scopri come inviare un promemoria e-mail da Marketo quando un accordo rimane non
 
 Al termine delle configurazioni Marketo Salesforce Sync e Acrobat Sign per Salesforce, nel Marketo Admin Terminal vengono visualizzate diverse nuove opzioni.
 
-![Ammin.](assets/adminTab.png)
+![Amministrazione](assets/adminTab.png)
 
 ![Sincronizzazione oggetto](assets/salesforceAdmin.png)
 
@@ -131,7 +131,7 @@ Sul lato destro, consultate Oggetti personalizzati Lead, Contact e Account.
    #end
    ```
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
 ## Crea il promemoria e aggiungi la personalizzazione
 
@@ -141,7 +141,7 @@ Esempi di personalizzazione includono: il nome del firmatario, il nome dell’ac
 
    ![Nuova e-mail](assets/createNewEmail.png)
 
-1. Nella nuova scheda, immettere un valore **Nome** e **Descrizione** per il messaggio e-mail e selezionare un modello dal selettore modelli. Fare clic su **Crea**.
+1. Nella nuova scheda, immettere un valore **Nome** e **Descrizione** per il messaggio e-mail e selezionare un modello dal selettore modelli. Fai clic su **Crea**.
 
    ![Selettore modello](assets/templatePicker.png)
 
@@ -155,7 +155,7 @@ Esempi di personalizzazione includono: il nome del firmatario, il nome dell’ac
 
 1. Visualizza l’anteprima utilizzando un profilo a cui è assegnato un accordo. Dovresti visualizzare un collegamento all’URL con il nome dell’accordo come etichetta.
 
-   ![Invia collegamento per e-mail](assets/emailLink.png)
+   ![Collegamento e-mail](assets/emailLink.png)
 
 ## Impostare il filtro Campagna avanzata
 

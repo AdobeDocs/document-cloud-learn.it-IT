@@ -8,7 +8,7 @@ thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '767'
 ht-degree: 1%
 
 ---
@@ -86,7 +86,7 @@ Applicare i tag a un PDF nel modo seguente:
 
 ## 4. Preparazione per il Web
 
-Ottimizza l&#39;esperienza di interazione con il tuo PDF preparandolo per la visualizzazione sul web e [riduzione delle dimensioni del file PDF](https://www.adobe.com/it/acrobat/online/compress-pdf.html){target=&quot;_blank&quot;}.
+Ottimizza l&#39;esperienza di interazione con il tuo PDF preparandolo per la visualizzazione sul web e [riduzione delle dimensioni del file PDF](https://www.adobe.com/it/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Visualizza i dettagli su come preparare il tuo PDF per il Web
 
@@ -122,7 +122,7 @@ Il nome del file diventa parte dell’URL quando un PDF viene pubblicato sul Web
 
 ## 6. Proteggi il tuo PDF
 
-L&#39;ultimo passaggio è [proteggere il PDF](https://www.adobe.com/it/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} per impedire modifiche non autorizzate.
+L&#39;ultimo passaggio è [proteggere il PDF](https://www.adobe.com/it/acrobat/online/password-protect-pdf.html){target="_blank"} per prevenire modifiche non autorizzate.
 
 +++Visualizza i dettagli su come proteggere il tuo PDF
 

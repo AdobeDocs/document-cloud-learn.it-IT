@@ -11,7 +11,7 @@ exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
 source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '911'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ Scopri come inviare un promemoria e-mail quando un accordo rimane non firmato do
 
 Al termine delle configurazioni Marketo Microsoft Dynamics Sync e Acrobat Sign for Dynamics, nel Terminale di amministrazione di Marketo vengono visualizzate due nuove opzioni.
 
-![Ammin.](assets/adminTerminal.png)
+![Amministrazione](assets/adminTerminal.png)
 
 1. Fai clic su **[!UICONTROL Sincronizzazione delle entità Dynamics]**.
 
@@ -123,7 +123,7 @@ Al termine delle configurazioni Marketo Microsoft Dynamics Sync e Acrobat Sign f
    #end
    ```
 
-1. Fare clic su **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Salva]**.
 
 ## Crea il promemoria e aggiungi la personalizzazione
 
@@ -137,7 +137,7 @@ Esempi di personalizzazione includono: il nome del firmatario, il nome dell’ac
 
    ![Selettore modello](assets/templatePicker.png)
 
-1. Fare clic su **[!UICONTROL Crea]**.
+1. Fai clic su **[!UICONTROL Crea]**.
 
 1. Impostare la proprietà **[!UICONTROL Da nome]** e **[!UICONTROL Da indirizzo]**.
 
@@ -153,7 +153,7 @@ Esempi di personalizzazione includono: il nome del firmatario, il nome dell’ac
 
    Dovresti visualizzare un collegamento all’URL con il nome dell’accordo come etichetta.
 
-   ![Invia collegamento per e-mail](assets/emailLink.png)
+   ![Collegamento e-mail](assets/emailLink.png)
 
 ## Impostare il filtro Campagna avanzata
 
