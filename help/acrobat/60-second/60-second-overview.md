@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: aa2bb2bf7a50fd23d1b71194ffb614c8e8d4e271
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -153,6 +153,26 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="word-to-pdf.md">
+      <img alt="Creare un PDF da Microsoft Word" src="../assets/60sec_createfromword.png" />
+    </a>
+    <div>
+     <a href="word-to-pdf.md"><strong>Creare un PDF da Microsoft Word</strong></a>
+    </div>
+    <em>Creare un PDF da Microsoft Word</em>
+    <br>
+  </td>
+  <td>
+    <a href="create-from-acrobat.md">
+      <img alt="Creare PDF da Acrobat" src="../assets/60sec_createfromacrobat.png" />
+    </a>
+    <div>
+     <a href="create-from-acrobat.md"><strong>Creare PDF da Acrobat</strong></a>
+    </div>
+    <em>Creazione di PDF da file Microsoft 365 direttamente nell'app desktop Acrobat</em>
+    <br>
+  </td>
+  <td>
     <a href="wordform.md">
       <img alt="Convertire Word in PDF, inclusi i campi modulo" src="../assets/60sec_Wordform_1280.jpg" />
     </a>
@@ -172,6 +192,8 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
       <em>Scopri come trascinare un gruppo di JPG sull’icona Acrobat per creare un PDF</em>
       <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="phone.md">
       <img alt="Convertire un file PPT in PDF sul telefono" src="../assets/60sec_Phone_1280.jpg" />
@@ -191,6 +213,16 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
       </div>
       <em>Con lo strumento Optimize PDF puoi ridurre notevolmente le dimensioni dei file PDF</em>
       <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
@@ -353,6 +385,16 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="compare.md">
+      <img alt="Individua le differenze con PDF Compare" src="../assets/60sec_compare.png" />
+    </a>
+    <div>
+     <a href="compare.md"><strong>Individua le differenze con PDF Compare</strong></a>
+    </div>
+    <em>Scopri come individuare le differenze tra due file PDF utilizzando lo strumento Confronta file in Acrobat</em>
+    <br>
+  </td>
+ <td>
     <a href="search.md">
       <img alt="Ricerca di più file PDF contemporaneamente" src="../assets/60sec_Search_1280.jpg" />
     </a>
@@ -361,11 +403,6 @@ Acrobat di 60 secondi offre tutorial a grandezza naturale per imparare nuovi tru
     </div>
     <em>Avviare una ricerca in un file PDF, quindi aprire Ricerca avanzata e cercare un’intera cartella di file PDF</em>
     <br>
-  </td>
- <td>
-      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
   <td>
       <img alt="Spaziatore" src="../assets/Whitespacer.png" />

@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '471'
 ht-degree: 6%
 
 ---
@@ -71,6 +71,8 @@ ht-degree: 6%
    + [Convertire un PDF in Excel](60-second/convert-pdf-excel.md)
    + [Convertire un PDF in PowerPoint](60-second/convert-pdf-powerpoint.md)
    + [Export PDF a Word dal telefono](60-second/exportwordphone.md)
+   + [Creare un PDF da Microsoft Word](60-second/word-to-pdf.md)
+   + [Creare file PDF con Acrobat](60-second/create-from-acrobat.md)
    + [Convertire Word in PDF, inclusi i campi modulo](60-second/wordform.md)
    + [Creazione immediata di un PDF di foto](60-second/photo.md)
    + [Convertire un file PPT in PDF sul telefono](60-second/phone.md)
@@ -81,10 +83,11 @@ ht-degree: 6%
    + [Condivisione per commenti](60-second/share-comment.md)
    + [Condividere e commentare i file PDF in Teams](60-second/share-comment-teams.md)
    + [Commenti di Wrangling PDF con Riepiloga](60-second/summarize-comments.md)
+   + [Caricare commenti di PDF in InDesign](60-second/indesign.md)
    + [Consenti ad Acrobat di creare PDF accessibili](60-second/accessible.md)
    + [Conformare un PDF a un formato standard](60-second/conform.md)
+   + [Individua le differenze con PDF Compare](60-second/compare.md)
    + [Ricerca di più file PDF contemporaneamente](60-second/search.md)
-   + [Caricare commenti di PDF in InDesign](60-second/indesign.md)
 + Skill Builder {#skill-builders}
    + [Webinar](skill-builder/skill-builder-webinars.md)
 + Integrazioni {#integrations}
