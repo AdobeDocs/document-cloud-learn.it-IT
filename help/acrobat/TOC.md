@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
+source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '454'
 ht-degree: 6%
 
 ---
@@ -77,6 +77,10 @@ ht-degree: 6%
    + [Creazione immediata di file PDF più efficienti](60-second/optimize.md)
    + [Firma elettronica di un documento cartaceo](60-second/sign.md)
    + [Protect i file PDF con una password](60-second/protect.md)
+   + [Redazione: Il modo giusto](60-second/redaction.md)
+   + [Condivisione per commenti](60-second/share-comment.md)
+   + [Condividere e commentare i file PDF in Teams](60-second/share-comment-teams.md)
+   + [Commenti di Wrangling PDF con Riepiloga](60-second/summarize-comments.md)
    + [Consenti ad Acrobat di creare PDF accessibili](60-second/accessible.md)
    + [Conformare un PDF a un formato standard](60-second/conform.md)
    + [Ricerca di più file PDF contemporaneamente](60-second/search.md)
