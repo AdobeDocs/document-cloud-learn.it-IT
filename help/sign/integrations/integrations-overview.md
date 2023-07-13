@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -77,13 +77,13 @@ In questa esercitazione in tre parti, scopri come inviare un documento per l’a
 </tr>
 <tr>
   <td>
-    <a href="adobe-sign-teams-mortgage.md">
-      <img alt="Invio di documenti per la firma in [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    <a href="integrate-web-form-sharepoint-online.md">
+      <img alt="Integrare un modulo web con [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>Invia per firma in [!DNL Microsoft Teams]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong>Integrare un modulo web con [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>Invia documenti per la firma direttamente all'interno di [!DNL Microsoft Teams]</em>
+    <em>Scoprite come mappare i dati raccolti da un modulo Web in un [!DNL SharePoint] elenco</em>
     <br>
   </td>
   <td>
@@ -106,9 +106,14 @@ In questa esercitazione in tre parti, scopri come inviare un documento per l’a
     <em>Scoprite come attivare e utilizzare il metodo [!DNL Acrobat Sign] e [!DNL Adobe PDF Tools] connettori per [!DNL Microsoft Power] app</em>
     <br>
   </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+   <td>
+    <a href="adobe-sign-teams-mortgage.md">
+      <img alt="Invio di documenti per la firma in [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    </a>
     <div>
+    <a href="adobe-sign-teams-mortgage.md"><strong>Invia per firma in [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>Invia documenti per la firma direttamente all'interno di [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>
