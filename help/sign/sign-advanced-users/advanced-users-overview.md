@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
+source-git-commit: d842a83819a9e8fcec3fd91b7cd6ef4f77dd4774
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '457'
 ht-degree: 3%
 
 ---
@@ -22,10 +22,10 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
 
 ## Novità
 
+* [Creare un modulo Web con più firmatari sconosciuti](webform-multiple-signers.md)
+Scoprite come creare un modulo Web complesso con più partecipanti sconosciuti
 * [Metodi di autenticazione in Acrobat Sign](authentication-methods.md)
 Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identità di un utente che firma un documento
-* [Gestione dei dati del modulo](manage-form-data.md)
-Scopri come consolidare i dati dei moduli dai tuoi documenti
 
 ## Invio
 
