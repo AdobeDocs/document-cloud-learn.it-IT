@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
+source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '449'
 ht-degree: 3%
 
 ---
@@ -104,17 +104,27 @@ Scopri come consolidare i dati dei moduli dai tuoi documenti
       <br>
   </td>
   <td>
-    <a href="webform.md">
-        <img alt="Creazione di un modulo Web" src="../assets/Webform.png" />
+    <a href="webform-multiple-signers.md">
+        <img alt="Creare un modulo Web con più firmatari sconosciuti" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>Creazione di un modulo Web</strong></a>
+    <a href="webform-multiple-signers.md"><strong>Creare un modulo Web con più firmatari sconosciuti</strong></a>
     </div>
-    <em>Creare un documento che può essere firmato elettronicamente direttamente sul sito Web</em>
+    <em>Scoprite come creare un modulo Web complesso con più partecipanti sconosciuti</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Acrobat Sign tag di testo" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign tag di testo</strong></a>
+      </div>
+      <em>Creare campi modulo Acrobat Sign mediante l’assegnazione di tag di testo con Adobe Acrobat</em>
+      <br>
+    </td>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign tag di testo" src="../assets/Text-Tagging.png" />
@@ -133,11 +143,6 @@ Scopri come consolidare i dati dei moduli dai tuoi documenti
     <a href="text-tagging-word.md"><strong>Uso dei tag di testo [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Scoprite come creare un modello di documento riutilizzabile aggiungendo tag di testo Acrobat Sign in [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
