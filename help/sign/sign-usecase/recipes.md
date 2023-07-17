@@ -9,7 +9,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: d52fb4316df05e45f472f43066a84f760cbf7b05
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Scoprite come utilizzare un modulo Web per un complesso flusso di lavoro relativ
 <tr>
   <td>
     <a href="webform-multiple-signers.md">
-      <img alt="Domanda di prestito della Pubblica Amministrazione con più firmatari sconosciuti" src="../assets/UC_Business.png" />
+      <img alt="Domanda di prestito della Pubblica Amministrazione con più firmatari sconosciuti" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
     <a href="webform-multiple-signers.md"><strong>Domanda di prestito della Pubblica Amministrazione con più firmatari sconosciuti</strong></a>
