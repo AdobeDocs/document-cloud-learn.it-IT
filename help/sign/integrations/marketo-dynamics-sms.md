@@ -5,9 +5,10 @@ role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
+jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: a1e0b30321760c5e84fb40ac083183b98170d1e1
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
@@ -36,9 +37,9 @@ Al termine delle configurazioni Marketo Microsoft Dynamics Sync e Acrobat Sign f
 
 * Fai clic su **[!UICONTROL Sincronizzazione delle entità Dynamics]**.
 
-   La sincronizzazione deve essere disattivata prima di sincronizzare le entità personalizzate. Fai clic su **[!UICONTROL Sincronizza schema]** se questa è la tua prima volta. Altrimenti, fai clic su **[!UICONTROL Aggiorna schema]**.
+  La sincronizzazione deve essere disattivata prima di sincronizzare le entità personalizzate. Fai clic su **[!UICONTROL Sincronizza schema]** se questa è la tua prima volta. Altrimenti, fai clic su **[!UICONTROL Aggiorna schema]**.
 
-   ![Aggiorna](assets/refreshSchema.png)
+  ![Aggiorna](assets/refreshSchema.png)
 
 ## Sincronizzare l’oggetto personalizzato
 

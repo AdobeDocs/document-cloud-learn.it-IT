@@ -5,10 +5,11 @@ role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
+jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '744'
 ht-degree: 0%
@@ -26,7 +27,7 @@ Di seguito sono riportati i collegamenti di registrazione per le ultime sessioni
 ## Sessioni 2021
 
 * **[Il percorso di AbbVie verso la trasformazione digitale](https://use-case-showcase-with-abbvie.joinus.adobeevents.com/){target="_blank"}**
-Data: La strategia di AbbVie del 4 agosto 2021 è quella di distribuire medicinali innovativi e di avere un impatto notevole sulla vita delle persone. Per aumentare l&#39;agilità e consentire ai dipendenti di concentrarsi su lavori più complessi, l&#39;azienda sta lavorando per automatizzare alcuni dei loro processi aziendali e la transizione dalla carta e dalla penna rappresenta un primo passo fondamentale. Partecipa a una conversazione con AbbVie per conoscere i loro obiettivi, la strategia e i processi per raggiungere il successo della trasformazione digitale.
+Data: 4 agosto 2021 La strategia di AbbVie è di fornire medicine innovative e di avere un impatto notevole sulla vita delle persone. Per aumentare l&#39;agilità e consentire ai dipendenti di concentrarsi su lavori più complessi, l&#39;azienda sta lavorando per automatizzare alcuni dei loro processi aziendali e la transizione dalla carta e dalla penna rappresenta un primo passo fondamentale. Partecipa a una conversazione con AbbVie per conoscere i loro obiettivi, la strategia e i processi per raggiungere il successo della trasformazione digitale.
 
 * **[Con la registrazione on demand di Volvo Cars](https://gateway.on24.com/wcc/eh/2172296/lp/2963219/adobe-sign-use-case-showcase%3A-featuring-volvo-cars/){target="_blank"}**
 Come sarà il futuro dello shopping automobilistico? Per la casa automobilistica svedese Volvo Cars, stanno apportando modifiche al loro modello di business che influenzeranno le aspettative dei clienti per la prossima generazione di acquirenti di auto. Al centro del loro processo c&#39;è la possibilità di fornire un&#39;esperienza cliente di alta qualità in linea con le loro offerte premium.
@@ -44,7 +45,7 @@ Segui Acrobat Sign Use Case Showcase e scopri come gli esperti governativi hanno
 Focus: I nostri relatori esperti trattano le best practice e una serie di casi d’uso specifici per gli enti pubblici per illustrarti come Acrobat Sign può consentire al tuo team di risparmiare tempo, denaro e risorse, garantendo allo stesso tempo la conformità e la sicurezza.
 
 * **[Note legali](https://event.on24.com/wcc/r/2634329/292CA0B317E56600A114508CC55376BF?partnerref=EXL){target="_blank"}**
-Focus: I nostri relatori discutono su come i reparti legali stanno gestendo il passaggio a processi documentali completamente remoti. Che tu stia appena iniziando o abbia già digitalizzato alcuni flussi di lavoro, Acrobat Sign può amplificare la produttività del tuo team in ogni fase della trasformazione digitale.
+Focus: I nostri relatori discutono su come i reparti legali stanno gestendo il passaggio a processi documentali completamente remoti. Che tu stia appena iniziando o abbia già digitalizzato alcuni flussi di lavoro, Acrobat Sign può amplificare la produttività del tuo team in ogni fase di trasformazione digitale.
 
 * **[Vendite](https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-use-case-showcase-sales.html){target="_blank"}**
 Focus: Gli esperti Adobi mettono in evidenza le best practice per una trasformazione digitale di successo nell&#39;approvvigionamento e la discussione riguarda le tendenze del settore e i requisiti per offrire esperienze utente eccellenti.

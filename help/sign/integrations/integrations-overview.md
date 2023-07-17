@@ -4,12 +4,13 @@ description: Scoprite come aggiungere Acrobat Sign a sistemi, processi e applica
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6850
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: f8d03aaba0d298c972c7f1fd359fba60d692ecca
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '621'
 ht-degree: 0%
 
 ---
@@ -202,17 +203,7 @@ Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
-    <a href="workday.md">
-      <img alt="Configurazione di Acrobat Sign con Workday" src="../assets/WD-Configure.png" />
-    </a>
-    <div>
-    <a href="acrobat-sign-workday-onboarding.md"><strong>Configurazione di Acrobat Sign con Workday</strong></a>
-    </div>
-    <em>Scopri come configurare Acrobat Sign per lavorare direttamente in Workday per gestire senza problemi tutti i documenti relativi alle risorse umane</em>
-    <br>
-  </td>
-  <td>
+ <td>
     <a href="acrobat-sign-workday-onboarding.md">
       <img alt="Iscrizione a nuovi assunti Acrobat Sign + Workday" src="../assets/workday.png" />
     </a>
@@ -220,6 +211,11 @@ Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday
     <a href="acrobat-sign-workday-onboarding.md"><strong>Iscrizione a nuovi assunti Acrobat Sign + Workday</strong></a>
     </div>
     <em>Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday</em>
+    <br>
+  </td>
+ <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

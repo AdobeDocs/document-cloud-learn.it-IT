@@ -4,9 +4,10 @@ description: Scopri come inviare, firmare e monitorare i documenti con questi br
 role: User
 product: adobe sign
 level: Beginner
+jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: a044ba6053cc1b7966381b051b40641b23931fc0
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 5%
@@ -190,7 +191,7 @@ Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare ra
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="Cos'è una firma digitale" src="../assets/Whatisdigsig_1280.jpg" />
+      <img alt="Cos&apos;è una firma digitale" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>Cos'è una firma digitale</strong></a>

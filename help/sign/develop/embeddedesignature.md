@@ -4,10 +4,11 @@ description: Scopri come utilizzare le API di Acrobat Sign per incorporare firme
 role: User, Developer
 level: Intermediate
 topic: Integrations
+jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 7a27c3ebe52bdb13f99a38abdd6a4881f7fb09c1
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 2%
@@ -91,7 +92,7 @@ Per inviare il primo accordo, è meglio comprendere come utilizzare l’API.
 
 ![Screenshot della creazione di un documento transitorio](assets/embeddedesignature/embed_7.png)
 
-Dopo aver inviato un accordo per la prima volta, puoi aggiungere la logica. È sempre consigliabile stabilire degli aiutanti per ridurre al minimo le ripetizioni. Ecco alcuni esempi:
+Dopo aver inviato un accordo per la prima volta, puoi aggiungere la logica. È sempre una buona idea stabilire degli aiutanti per ridurre al minimo le ripetizioni. Ecco alcuni esempi:
 
 **Convalida**
 
@@ -155,6 +156,6 @@ Quando tutto è messo insieme, la soluzione è abbastanza semplice. Stai creando
 * Promemoria personalizzati
    * Con la creazione iniziale
 
-      ![Screenshot della navigazione in Power Automate](assets/embeddedesignature/embed_16.png)
+     ![Screenshot della navigazione in Power Automate](assets/embeddedesignature/embed_16.png)
 
    * Oppure aggiungetene uno [in volo](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
