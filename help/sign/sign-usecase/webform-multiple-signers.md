@@ -5,14 +5,14 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 jira: KT-13596
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: 428983c7cc727096261d3c92897c25c255078261
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# Creare un modulo Web con più firmatari sconosciuti
+# Domanda di prestito della Pubblica Amministrazione con più firmatari sconosciuti
 
 Scopri come [modulo web](../sign-advanced-users/webform.md) viene utilizzato per un complesso flusso di lavoro dell&#39;applicazione di prestito statale che coinvolge più partecipanti sconosciuti. Questi moduli possono essere incorporati in un sito Web o inviati come collegamento tramite e-mail. Possono anche essere compilati su qualsiasi dispositivo, in qualsiasi luogo, accelerando i processi e la distribuzione dei servizi.
 

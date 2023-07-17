@@ -8,9 +8,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: 428983c7cc727096261d3c92897c25c255078261
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '430'
 ht-degree: 3%
 
 ---
@@ -105,13 +105,13 @@ Scopri come impostare e accettare i pagamenti online nei tuoi documenti
       <br>
   </td>
  <td>
-      <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat Sign tag di testo" src="../assets/Text-Tagging.png" />
+      <a href="webform.md">
+        <img alt="Creazione di un modulo Web" src="../assets/Webform.png" />
     </a>
       <div>
-      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign tag di testo</strong></a>
+      <a href="webform.md"><strong>Creazione di un modulo Web</strong></a>
       </div>
-      <em>Creare campi modulo Acrobat Sign mediante l’assegnazione di tag di testo con Adobe Acrobat</em>
+      <em>Scopri come creare un documento che può essere firmato elettronicamente direttamente sul tuo sito Web</em>
       <br>
   </td>
 </tr>
