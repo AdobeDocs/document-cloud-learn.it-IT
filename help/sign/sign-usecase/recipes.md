@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: d52fb4316df05e45f472f43066a84f760cbf7b05
+source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,8 @@ ht-degree: 0%
 ![Banner caso di utilizzo](../assets/Hero-Recipe.png)
 
 Accelera i flussi di lavoro digitali della tua organizzazione con questi esempi di firma elettronica per enti pubblici e aziende. Fai clic per visualizzare un PDF con le risorse e i dettagli su come configurare questi casi d’uso specifici della firma elettronica.
+
+## Novità
 
 * [Domanda di prestito della Pubblica Amministrazione con più firmatari sconosciuti](webform-multiple-signers.md)
 Scoprite come utilizzare un modulo Web per un complesso flusso di lavoro relativo a un’applicazione di prestito statale che coinvolge più partecipanti sconosciuti
