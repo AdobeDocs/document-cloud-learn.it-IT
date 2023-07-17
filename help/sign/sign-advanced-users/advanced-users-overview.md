@@ -8,9 +8,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '426'
 ht-degree: 3%
 
 ---
@@ -23,10 +23,10 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
 
 ## Novità
 
-* [Creare un modulo Web con più firmatari sconosciuti](webform-multiple-signers.md)
-Scoprite come creare un modulo Web complesso con più partecipanti sconosciuti
 * [Metodi di autenticazione in Acrobat Sign](authentication-methods.md)
 Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identità di un utente che firma un documento
+* [Impostare i pagamenti online](set-up-online-payments.md)
+Scopri come impostare e accettare i pagamenti online nei tuoi documenti
 
 ## Invio
 
@@ -104,19 +104,7 @@ Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identi
       <em>Raccogli centinaia di firme alla volta per qualsiasi documento in pochi passaggi</em>
       <br>
   </td>
-  <td>
-    <a href="webform-multiple-signers.md">
-        <img alt="Creare un modulo Web con più firmatari sconosciuti" src="../assets/Web-form-unknown.png" />
-    </a>
-    <div>
-    <a href="webform-multiple-signers.md"><strong>Creare un modulo Web con più firmatari sconosciuti</strong></a>
-    </div>
-    <em>Scoprite come creare un modulo Web complesso con più partecipanti sconosciuti</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
+ <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign tag di testo" src="../assets/Text-Tagging.png" />
     </a>
@@ -125,7 +113,9 @@ Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identi
       </div>
       <em>Creare campi modulo Acrobat Sign mediante l’assegnazione di tag di testo con Adobe Acrobat</em>
       <br>
-    </td>
+  </td>
+</tr>
+<tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign tag di testo" src="../assets/Text-Tagging.png" />
@@ -144,6 +134,11 @@ Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identi
     <a href="text-tagging-word.md"><strong>Uso dei tag di testo [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Scoprite come creare un modello di documento riutilizzabile aggiungendo tag di testo Acrobat Sign in [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
