@@ -5,8 +5,9 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
+jira: KT-9347
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%
@@ -33,7 +34,7 @@ Il contenuto PDF deve essere univoco e strutturato nel modo seguente:
 * Esegui [riconoscimento del testo](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) su tutti i documenti scansionati
 * Sviluppa PDF compatibili con i dispositivi mobili Per verificare l&#39;esperienza di visualizzazione del tuo PDF, apri il file nel [App mobile Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) e attivare Liquid Mode. Se necessario, aggiungete ulteriori sottotitoli per migliorare la navigazione.
 
-   ![Screenshot di Liquid Mode nell’app mobile Acrobat Reader](../assets/optimizeseo1.png)
+  ![Screenshot di Liquid Mode nell’app mobile Acrobat Reader](../assets/optimizeseo1.png)
 
 +++
 
