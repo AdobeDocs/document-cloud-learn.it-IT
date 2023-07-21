@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
+source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ Accelera i flussi di lavoro digitali della tua organizzazione con questi esempi 
 
 * [Applicazione per stage di moduli web Education](usecase-edu-intern.md)
 Scopri come utilizzare i moduli web per migliorare l’accesso degli studenti ai moduli richiesti
+* [Creazione di un&#39;applicazione di tirocinio per moduli web Education](usecase-edu-intern-create.md)
+Scoprite come creare un modulo Web per stage
 * [Domanda di prestito della Pubblica Amministrazione con più firmatari sconosciuti](webform-multiple-signers.md)
 Scoprite come utilizzare un modulo Web per un complesso flusso di lavoro relativo a un’applicazione di prestito statale che coinvolge più partecipanti sconosciuti
 
@@ -170,10 +172,15 @@ Scoprite come utilizzare un modulo Web per un complesso flusso di lavoro relativ
     <br>
   </td> 
   <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-intern-create.md">
+      <img alt="Creazione di un&apos;applicazione di tirocinio per moduli web Education" src="../assets/Webform-internship-create.png" />
+    </a>
     <div>
+    <a href="usecase-edu-intern-create.md"><strong>Creazione di un'applicazione di tirocinio per moduli web Education</strong></a>
+    </div>
+    <em>Scoprite come creare un modulo Web per stage</em>
     <br>
-  </td>
+  </td> 
   <td>
     <img alt="Spaziatore" src="../assets/Whitespacer.png" />
     <div>
