@@ -2,8 +2,10 @@
 title: Condivisione di file PDF e revisione online
 description: Scopri alcuni trucchi e suggerimenti per utilizzare Adobe Document Cloud
 solution: Acrobat
+role: User
+level: Beginner
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 10%
@@ -93,4 +95,4 @@ Rivedi e condividi le versioni di progettazione con Acrobat. Acrobat consente di
 * Gestisci il feedback in un&#39;unica posizione organizzata.
 * Tutto quello che ti serve è un browser.
 
-È facile inviare e monitorare i commenti, tutto in un&#39;unica posizione. I destinatari possono visualizzare anche se non dispongono di Acrobat. Puoi invitare qualcuno a commentare tramite un browser. Risparmia tempo e fatica.
+È facile inviare e tenere traccia dei commenti, tutto in un&#39;unica posizione. I destinatari possono visualizzare anche se non dispongono di Acrobat. Puoi invitare qualcuno a commentare tramite un browser. Risparmia tempo e fatica.

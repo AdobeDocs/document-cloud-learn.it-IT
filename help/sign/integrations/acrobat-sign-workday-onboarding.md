@@ -1,11 +1,11 @@
 ---
 title: Iscrizione a nuovi assunti Acrobat Sign + Workday
 description: Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday
-product: adobe sign
 level: Intermediate
+topic: Integrations
 topic-revisit: Integrations
 exl-id: e8a1b95e-d2ee-4d84-a5d2-79678ffa17e2
-source-git-commit: 0e5c6ead1bcc3697b224937414b7f417ede0b5b3
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%

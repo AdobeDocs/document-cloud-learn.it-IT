@@ -2,12 +2,11 @@
 title: Modificare una foto nel PDF
 description: Scoprite come apportare modifiche avanzate a una foto nel PDF con Photoshop
 role: User
-product: adobe acrobat
-level: Beginner
+level: Intermediate
 thumbnail: KT-9276.jpg
 jira: KT-9276
 exl-id: 05b2b256-2a1f-464e-8409-6d74e423cb65
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

@@ -2,13 +2,12 @@
 title: Rendere Più Accessibili Le Schede PDF
 description: Informazioni sulle principali aree di accessibilità PDF necessarie per consentire agli utenti di tecnologie di supporto, quali gli screen reader, di leggere e completare il proprio voto
 role: User
-product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: KT-6817.jpg
 jira: KT-6817
 exl-id: 3a8eff2f-1b39-4073-828e-18bfc5d89dd3
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%

@@ -2,12 +2,11 @@
 title: 5 consigli per lavorare ovunque con Acrobat - Acquisisci e modifica su dispositivi mobili
 description: Scopri come utilizzare le app mobile Adobe Scan e Acrobat Reader per realizzare progetti ovunque ti trovi
 role: User
-product: adobe acrobat
 level: Beginner
 topic-revisit: mobile
 thumbnail: 34511.jpg
 exl-id: 6da76aff-a72f-4524-aec6-49f343f834a1
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

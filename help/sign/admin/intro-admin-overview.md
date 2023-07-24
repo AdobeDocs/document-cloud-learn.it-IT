@@ -2,13 +2,12 @@
 title: Panoramica degli amministratori
 description: Scopri le nozioni di base sull’aggiunta di utenti al tuo account, la configurazione di gruppi, la condivisione dell’accesso e l’impostazione di un flusso di lavoro, un archivio esterno, eventi e avvisi condivisi
 role: Admin
-product: adobe sign
 level: Intermediate
 jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 1%

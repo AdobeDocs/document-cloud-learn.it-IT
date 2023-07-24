@@ -3,9 +3,10 @@ title: Integrare un modulo web con [!DNL SharePoint Online]
 description: Scoprite come mappare i dati raccolti da un modulo Web in un [!DNL SharePoint] elenco
 role: User
 product: adobe sign
+topic: Integrations
 level: Intermediate
 jira: KT-13597
-source-git-commit: d60b665c16133e8fba47848ab9c9e55f448df9cc
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

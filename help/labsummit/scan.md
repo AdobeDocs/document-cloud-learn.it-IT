@@ -1,9 +1,11 @@
 ---
 title: Passa al digitale con Adobe Scan
 description: Scopri alcuni trucchi e suggerimenti per utilizzare Adobe Document Cloud
-solution: Acrobat Sign
+solution: Acrobat
+role: User
+level: Beginner
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
@@ -12,7 +14,7 @@ ht-degree: 0%
 
 # Passa al digitale con Adobe Scan
 
-Riorganizzate, condividete o disordinate! Non c&#39;è bisogno di tenere pile di carta sulla scrivania o di mettere le ricevute nel portafoglio. L’app mobile Adobe Scan esegue la scansione dei documenti cartacei direttamente in PDF e riconosce automaticamente il testo.
+Riorganizzate, condividete o disordinate! Non c&#39;è bisogno di tenere pile di carta sulla tua scrivania o di mettere le ricevute nel portafoglio. L’app mobile Adobe Scan esegue la scansione dei documenti cartacei direttamente in PDF e riconosce automaticamente il testo.
 
 In questo esercizio, carichi i contenuti di un biglietto da visita direttamente nei tuoi contatti. Acquisisci e archivia una ricevuta.
 

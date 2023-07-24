@@ -2,12 +2,11 @@
 title: Modifica di un PDF non accessibile
 description: In questa sessione on demand, scopri il flusso di lavoro per convertire un documento Word e risolvere alcuni problemi di base relativi ai tag utilizzando gli strumenti di Acrobat Pro mostrati nel webinar di introduzione
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8609.jpg
 jira: KT-8609
 exl-id: 546c1bc7-28bb-447d-8b3f-66cc29498057
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

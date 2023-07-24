@@ -2,13 +2,12 @@
 title: Panoramica sullo sviluppo
 description: Scopri come utilizzare le API di Acrobat Sign per creare applicazioni personalizzate per team, partner e clienti
 role: Developer
-product: adobe sign
 level: Intermediate
 jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 13%

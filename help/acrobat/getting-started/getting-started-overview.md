@@ -2,12 +2,11 @@
 title: Panoramica della Guida introduttiva di Acrobat
 description: Scopri come iniziare a usare Adobe Acrobat attraverso questi brevi tutorial passo passo (1-2 min)
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 jira: KT-6856
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 5%

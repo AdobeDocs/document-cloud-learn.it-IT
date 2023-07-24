@@ -2,12 +2,11 @@
 title: Modifica PDF con Acrobat Web
 description: Apporta semplici modifiche a testo e immagini senza nemmeno scaricare il PDF
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8573.jpg
 jira: KT-8573
 exl-id: 4d87faf3-758e-49d5-a1d4-7418ace14709
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 6%

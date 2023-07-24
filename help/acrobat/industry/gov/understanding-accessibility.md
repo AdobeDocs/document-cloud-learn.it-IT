@@ -2,12 +2,11 @@
 title: Accessibilità dei PDF - Nozioni fondamentali sull'accessibilità
 description: Scopri cosa significa rendere accessibile un PDF per le persone con disabilità
 role: User
-product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34540.jpg
 exl-id: 97661a3a-4d9b-4d2c-886f-0b96934a8c5a
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
