@@ -1,6 +1,6 @@
 ---
 title: Panoramica sulle integrazioni
-description: Scoprite come aggiungere Acrobat Sign a sistemi, processi e applicazioni esistenti
+description: Scopri come aggiungere Acrobat Sign a sistemi, processi e applicazioni esistenti
 role: User
 product: adobe sign
 level: Intermediate
@@ -9,30 +9,30 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
 
 # Panoramica sulle integrazioni
 
-![Integrare l’immagine in Sign](../assets/Hero-Integrate.png)
+![Immagine di integrazione Sign](../assets/Hero-Integrate.png)
 
-Puoi utilizzare Acrobat Sign in altre applicazioni già utilizzate dalla tua organizzazione, ad esempio Microsoft, Salesforce, Workday e Marketo per nominarne alcune. Scopri come semplificare i flussi di lavoro di firma elettronica in queste guide ed esercitazioni di integrazione.
+Puoi utilizzare Acrobat Sign in altre applicazioni già utilizzate dalla tua organizzazione, ad esempio Microsoft, Salesforce, Workday e Marketo per citarne alcune. Scopri come semplificare i flussi di lavoro per firma elettronica in queste guide ed esercitazioni di integrazione.
 
 >[!NOTE]
-> In caso di problemi di accesso a una di queste funzioni, rivolgiti all’amministratore dell’organizzazione per assicurarti che l’integrazione sia abilitata.
+> Se hai problemi ad accedere a una di queste funzioni, verifica con l&#39;amministratore della tua organizzazione che l&#39;integrazione sia abilitata.
 
 ## Novità
 
-* [Integrare un modulo web con [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
-Scoprite come mappare i dati raccolti da un modulo Web in un [!DNL SharePoint] elenco
-* [Iscrizione a nuovi assunti Acrobat Sign + Workday](acrobat-sign-workday-onboarding.md)
-Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday
+* [Microsoft Dynamics 365 per il servizio clienti](dynamics-customer-service.md)
+Scopri come Acrobat Sign e [!DNL Microsoft Dynamics 365] per il servizio clienti vengono utilizzati per migliorare la soddisfazione dei clienti su un portale Web self-service per i clienti
+* [Integrare un modulo Web con [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
+Scopri come mappare i dati raccolti da un modulo Web in un [!DNL SharePoint] elenco
 
-## Esercitazioni sulle integrazioni di Microsoft
+## Esercitazioni sulle integrazioni Microsoft
 
 <table style="table-layout:fixed">
 <tr>
@@ -48,54 +48,54 @@ Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday
   </td>
   <td>
     <a href="send-for-signature-with-outlook.md">
-      <img alt="Invia per la firma in Outlook" src="../assets/MS-SendOutlook.png" />
+      <img alt="Inviare per la firma in Outlook" src="../assets/MS-SendOutlook.png" />
     </a>
     <div>
-    <a href="send-for-signature-with-outlook.md"><strong>Invia per la firma in Outlook</strong></a>
+    <a href="send-for-signature-with-outlook.md"><strong>Inviare per la firma in Outlook</strong></a>
     </div>
     <em>Inviare un documento per la firma direttamente in Microsoft Outlook</em>
     <br>
   </td>
   <td>
     <a href="send-for-signature-with-sharepoint-online.md">
-      <img alt="Invia per la firma in SharePoint Online" src="../assets/Sending-in-SP.png" />
+      <img alt="Inviare per la firma in SharePoint Online" src="../assets/Sending-in-SP.png" />
     </a>
     <div>
-    <a href="send-for-signature-with-sharepoint-online.md"><strong>Invia per la firma in SharePoint Online</strong></a>
+    <a href="send-for-signature-with-sharepoint-online.md"><strong>Inviare per la firma in SharePoint Online</strong></a>
     </div>
     <em>Inviare un documento per la firma direttamente in SharePoint Online</em>
     <br>
   </td>
    <td>
     <a href="track-an-agreement-with-sharepoint-online.md">
-      <img alt="Monitoraggio in SharePoint Online" src="../assets/MS-TrackSP.png" />
+      <img alt="Tracciamento in SharePoint Online" src="../assets/MS-TrackSP.png" />
     </a>
     <div>
-    <a href="track-an-agreement-with-sharepoint-online.md"><strong>Monitoraggio in SharePoint Online</strong></a>
+    <a href="track-an-agreement-with-sharepoint-online.md"><strong>Tracciamento in SharePoint Online</strong></a>
     </div>
-    <em>Monitorare l’avanzamento di un accordo direttamente in Microsoft SharePoint</em>
+    <em>Tenere traccia dell’avanzamento di un accordo direttamente in Microsoft Sharepoint</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="integrate-web-form-sharepoint-online.md">
-      <img alt="Integrare un modulo web con [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
+      <img alt="Integrare un modulo Web con [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="integrate-web-form-sharepoint-online.md"><strong>Integrare un modulo web con [!DNL SharePoint Online]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong>Integrare un modulo Web con [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>Scoprite come mappare i dati raccolti da un modulo Web in un [!DNL SharePoint] elenco</em>
+    <em>Scopri come mappare i dati raccolti da un modulo Web in un [!DNL SharePoint] elenco</em>
     <br>
   </td>
   <td>
     <a href="auto-archive-sharepoint-power-automate.md">
-      <img alt="Archiviazione automatica dei file [!DNL SharePoint] con [!DNL Power Automate]" src="../assets/Autoarchive.png" />
+      <img alt="Archiviazione automatica dei file in [!DNL SharePoint] con [!DNL Power Automate]" src="../assets/Autoarchive.png" />
     </a>
     <div>
-    <a href="auto-archive-sharepoint-power-automate.md"><strong>Archiviazione automatica dei file [!DNL SharePoint] con [!DNL Power Automate]</strong></a>
+    <a href="auto-archive-sharepoint-power-automate.md"><strong>Archiviazione automatica dei file in [!DNL SharePoint] con [!DNL Power Automate]</strong></a>
     </div>
-    <em>Scopri come archiviare automaticamente i documenti firmati in un [!DNL SharePoint] libreria mediante [!DNL Power Automate]</em>
+    <em>Scopri come archiviare automaticamente i documenti firmati in un [!DNL SharePoint] libreria che utilizza [!DNL Power Automate]</em>
     <br>
   </td>
   <td>
@@ -105,7 +105,7 @@ Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday
     <div>
     <a href="documentautomation.md"><strong>Automazione dei documenti con [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
-    <em>Scoprite come attivare e utilizzare il metodo [!DNL Acrobat Sign] e [!DNL Adobe PDF Tools] connettori per [!DNL Microsoft Power] app</em>
+    <em>Scopri come attivare e utilizzare il [!DNL Acrobat Sign] e [!DNL Adobe PDF Tools] connettori [!DNL Microsoft Power] app</em>
     <br>
   </td>
    <td>
@@ -115,22 +115,49 @@ Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday
     <div>
     <a href="adobe-sign-teams-mortgage.md"><strong>Invia per firma in [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Invia documenti per la firma direttamente all'interno di [!DNL Microsoft Teams]</em>
+    <em>Inviare documenti per la firma direttamente all’interno [!DNL Microsoft Teams]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="dynamics-customer-service.md">
+      <img alt="Microsoft Dynamics 365 per il servizio clienti" src="../assets/Dynamics-customer-service.png" />
+    </a>
+    <div>
+    <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 per il servizio clienti</strong></a>
+    </div>
+    <em>Scopri come Acrobat Sign e [!DNL Microsoft Dynamics 365] per il servizio clienti vengono utilizzati per migliorare la soddisfazione dei clienti su un portale Web self-service per i clienti</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
 </table>
 
-## [!DNL Notarize] tutorial sull&#39;integrazione
+## [!DNL Notarize] esercitazioni di integrazione
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="send-document-notarize.md">
-      <img alt="Inviare documenti per l’autenticazione notarile" src="../assets/Notarize.png" />
+      <img alt="Inviare documenti per l’autenticazione" src="../assets/Notarize.png" />
     </a>
     <div>
-    <a href="send-document-notarize.md"><strong>Inviare documenti per l’autenticazione notarile</strong></a>
+    <a href="send-document-notarize.md"><strong>Inviare documenti per l’autenticazione</strong></a>
     </div>
     <em>Scopri come inviare un documento per l’autenticazione</em>
     <br>
@@ -169,12 +196,12 @@ Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday
   </td>
   <td>
     <a href="set-up-data-mapping.md">
-      <img alt="Configurazione della mappatura dati" src="../assets/SF-DataMapping.png" />
+      <img alt="Impostazione della mappatura dati" src="../assets/SF-DataMapping.png" />
     </a>
     <div>
-    <a href="set-up-data-mapping.md"><strong>Configurazione della mappatura dati</strong></a>
+    <a href="set-up-data-mapping.md"><strong>Impostazione della mappatura dati</strong></a>
     </div>
-    <em>Riportare i dati in Salesforce dopo la firma di un accordo</em>
+    <em>Recupero dei dati in Salesforce dopo la firma di un accordo</em>
     <br>
   </td>
   <td>
@@ -194,24 +221,24 @@ Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday
     <div>
     <a href="create-a-custom-button.md"><strong>Creazione di un pulsante personalizzato</strong></a>
     </div>
-    <em>Crea un pulsante personalizzato che avvia il processo di invio e compila automaticamente un accordo in Salesforce.</em>
+    <em>Crea un pulsante personalizzato che avvia il processo di invio e inserisce automaticamente i dati in un accordo in Salesforce</em>
     <br>
   </td>
 </tr>
 </table>
 
-## Esercitazioni sull&#39;integrazione con Workday
+## Esercitazioni per l’integrazione di Workday
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="acrobat-sign-workday-onboarding.md">
-      <img alt="Iscrizione a nuovi assunti Acrobat Sign + Workday" src="../assets/workday.png" />
+      <img alt="Onboarding di Acrobat Sign + Workday per nuove assunzioni" src="../assets/workday.png" />
     </a>
     <div>
-    <a href="acrobat-sign-workday-onboarding.md"><strong>Iscrizione a nuovi assunti Acrobat Sign + Workday</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Onboarding di Acrobat Sign + Workday per nuove assunzioni</strong></a>
     </div>
-    <em>Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday</em>
+    <em>Scopri come semplificare i flussi di lavoro di onboarding con Acrobat Sign + Workday</em>
     <br>
   </td>
  <td>
@@ -232,7 +259,7 @@ Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday
 </tr>
 </table>
 
-## Esercitazioni e guide di configurazione per l&#39;integrazione con Marketo
+## Esercitazioni di integrazione e guide alla configurazione di Marketo
 
 <table style="table-layout:fixed">
 <tr>
@@ -243,17 +270,17 @@ Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday
     <div>
     <a href="marketo-salesforce-sms.md"><strong>Inviare notifiche utilizzando Acrobat Sign per Salesforce e Marketo</strong></a>
     </div>
-    <em>Scopri come inviare un messaggio di testo, un’e-mail o una notifica push per informare il firmatario che un accordo è in arrivo</em>
+    <em>Scopri come inviare un messaggio di testo, un’e-mail o una notifica push per informare il firmatario che è in arrivo un accordo</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="Inviare promemoria con l’esercitazione video Acrobat Sign per Salesforce e Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+      <img alt="Inviare promemoria utilizzando l’esercitazione video Acrobat Sign for Salesforce e Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Inviare promemoria con l’esercitazione video Adobe Sign per Salesforce e Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Inviare promemoria utilizzando l’esercitazione video Adobe Sign for Salesforce e Marketo</strong></a>
     </div>
-    <em>Scopri come inviare un promemoria e-mail da Marketo quando un accordo rimane non firmato dopo un periodo di tempo</em>
+    <em>Scopri come inviare un promemoria via e-mail da Marketo quando un accordo non viene firmato dopo un certo periodo di tempo</em>
     <br>
   </td>
   <td>
@@ -263,17 +290,17 @@ Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday
     <div>
     <a href="marketo-salesforce-reminder.md"><strong>Inviare promemoria utilizzando la guida alla configurazione di Acrobat Sign per Salesforce e Marketo</strong></a>
     </div>
-    <em>Leggi come inviare un promemoria e-mail da Marketo quando un accordo rimane non firmato dopo un periodo di tempo</em>
+    <em>Leggi come inviare un promemoria via e-mail da Marketo quando un accordo non viene firmato dopo un certo periodo di tempo</em>
     <br>
   </td>
    <td>
     <a href="marketo-dynamics-reminder.md">
-      <img alt="Inviare promemoria con Acrobat Sign per Microsoft Dynamics e Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
+      <img alt="Inviare promemoria utilizzando Acrobat Sign per Microsoft Dynamics e Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Inviare promemoria con Acrobat Sign per Microsoft Dynamics e Marketo</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>Inviare promemoria utilizzando Acrobat Sign per Microsoft Dynamics e Marketo</strong></a>
     </div>
-    <em>Scopri come inviare un promemoria e-mail quando un accordo rimane non firmato dopo un periodo di tempo</em>
+    <em>Scopri come inviare un promemoria e-mail quando un accordo non viene firmato dopo un certo periodo di tempo</em>
     <br>
   </td>
 </tr>
@@ -285,7 +312,7 @@ Scoprite come semplificare i flussi di registrazione con Acrobat Sign + Workday
     <div>
     <a href="marketo-dynamics-sms.md"><strong>Inviare notifiche utilizzando Acrobat Sign per Microsoft Dynamics e Marketo</strong></a>
     </div>
-    <em>Scopri come inviare un messaggio di testo, un’e-mail o una notifica push per informare il firmatario che un accordo è in arrivo</em>
+    <em>Scopri come inviare un messaggio di testo, un’e-mail o una notifica push per informare il firmatario che è in arrivo un accordo</em>
     <br>
   </td>
   <td>
