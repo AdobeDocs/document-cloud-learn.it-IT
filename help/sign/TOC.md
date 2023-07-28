@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
+source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '519'
 ht-degree: 10%
 
 ---
@@ -142,6 +142,7 @@ ht-degree: 10%
       + Education {#edu}
          + [Applicazione di stage per moduli web per l’istruzione](sign-usecase/usecase-edu-intern.md)
          + [Creare un’applicazione di stage per moduli web didattici](sign-usecase/usecase-edu-intern-create.md)
+         + [Flusso di lavoro personalizzato per il processo IEP dell’istruzione](sign-usecase/usecase-edu-iep.md)
    + Presentazione caso d&#39;uso {#use-case}
       + [Showcase](sign-usecase/use-case-showcase.md)
 + Sviluppo {#develop}
