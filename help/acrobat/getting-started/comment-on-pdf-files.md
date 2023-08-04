@@ -1,20 +1,21 @@
 ---
-title: Commento su un PDF
-description: Scopri come aggiungere commenti e condividere un PDF per la revisione con altri
+title: Commentare un PDF
+description: Scopri come aggiungere commenti e quindi condividere un PDF per la revisione con altri utenti
+feature: Collaboration
 role: User
 level: Beginner
-thumbnail: 35492.jpg
 jira: KT-5527
+thumbnail: 35492.jpg
 exl-id: 75c51400-9ff9-46cf-a3a3-9d521c3eb35c
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# Commento su un PDF
+# Commentare un PDF
 
-La collaborazione senza problemi è fondamentale per distribuire i contenuti in modo rapido e scalabile. Scoprite come aggiungere commenti a un file PDF e quindi condividere il file con altri utenti per raccogliere commenti aggiuntivi in tempo reale.
+La collaborazione diretta è fondamentale per la distribuzione dei contenuti in modo rapido e scalabile. Scopri come aggiungere commenti a un file PDF e quindi condividerlo con altri utenti per raccogliere altri commenti in tempo reale.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35492?quality=12&learn=on&hidetitle=true)

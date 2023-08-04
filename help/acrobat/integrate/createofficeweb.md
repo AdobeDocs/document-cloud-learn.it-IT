@@ -1,27 +1,28 @@
 ---
-title: Creare PDF in [!DNL Office] per il Web
-description: Scopri come creare file PDF senza mai uscire dal tuo [!DNL Microsoft Office] per app web
+title: Crea PDF in [!DNL Office] per il Web
+description: Scopri come creare file PDF senza mai uscire dal tuo [!DNL Microsoft Office] per le web app
+feature: Integrations, Create PDF
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-8497.jpg
 jira: KT-8497
+thumbnail: KT-8497.jpg
 exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-# Creare PDF in [!DNL Office] per il web
+# Crea PDF in [!DNL Office] per il Web
 
-Scopri come creare file PDF senza mai uscire dal tuo [!DNL Microsoft Office] per le app web. Questo componente aggiuntivo richiede un abbonamento ad Acrobat for teams o Acrobat for enterprise.
+Scopri come creare file PDF senza mai uscire dal tuo [!DNL Microsoft Office] per le web app. Questo componente aggiuntivo richiede un abbonamento ad Acrobat for teams o Acrobat for enterprise.
 
 >[!NOTE]
 >
->Adobe Acrobat per [!DNL Microsoft 365] include funzioni gratuite (ad esempio la visualizzazione e la ricerca nei PDF) disponibili per tutti gli utenti. Altre funzionalità (come la creazione e la combinazione di PDF) richiedono un abbonamento a pagamento ad Acrobat for teams o Acrobat for enterprise.
+>Adobe Acrobat per [!DNL Microsoft 365] include funzionalità gratuite (come la visualizzazione e la ricerca all’interno di PDF) disponibili per tutti gli utenti. Altre funzioni (come la creazione e la combinazione di PDF) richiedono un abbonamento a pagamento ad Acrobat for teams o Acrobat for enterprise.
 
 <br> 
 
@@ -29,4 +30,4 @@ Scopri come creare file PDF senza mai uscire dal tuo [!DNL Microsoft Office] per
 
 >[!TIP]
 >
->Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponibile gratuitamente ad Experience League!
+>Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) questo è disponibile gratuitamente su Experience League!

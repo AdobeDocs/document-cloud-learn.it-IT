@@ -1,5 +1,5 @@
 ---
-user-guide-title: Esperienze digitali con Adobe Document Cloud
+user-guide-title: Scatena esperienze digitali con Adobe Document Cloud
 solution: Acrobat
 solution-title: Adobe Document Cloud Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/acrobat.html
@@ -7,7 +7,8 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+feature-set: Document Cloud
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -15,11 +16,11 @@ ht-degree: 0%
 ---
 
 
-# Esperienze digitali con Adobe Document Cloud {#lab719}
+# Scatena esperienze digitali con Adobe Document Cloud {#lab719}
 
-+ [Introduzione e panoramica del laboratorio](overview.md)
-+ Esperienze digitali con Adobe Document Cloud {#gsd}
-   + [Esperienze digitali con Adobe Document Cloud](gsd.md)
-   + [Ex 1: Acquisisci qualsiasi modulo](scan.md)
-   + [Ex 2 Compila e firma qualsiasi modulo](fillsign.md)
-   + [Ex 3: Condivisione di file PDF e revisione online](review.md)
++ [Panoramica e introduzione del laboratorio](overview.md)
++ Scatena esperienze digitali con Adobe Document Cloud {#gsd}
+   + [Scatena esperienze digitali con Adobe Document Cloud](gsd.md)
+   + [Esempio 1: scansionare un modulo qualsiasi](scan.md)
+   + [Esempio 2: compilare e firmare i moduli](fillsign.md)
+   + [Ex.3: condivisione dei file PDF e revisione online](review.md)

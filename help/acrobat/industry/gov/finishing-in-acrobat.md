@@ -1,21 +1,22 @@
 ---
-title: Rendere accessibili i PDF - Completamento in Acrobat
+title: 'Accessibilità dei PDF: rifinitura in Acrobat'
 description: Completare la creazione di documenti accessibili in Acrobat
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34514.jpg
 exl-id: 422ba8be-b24a-422b-b2d6-6070c2f06a7d
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Rendere accessibili i PDF: Finitura in Acrobat
+# Accessibilità dei PDF: rifinitura in Acrobat
 
-Nella terza esercitazione video della serie Making PDF Accessible, scoprite come completare l’accessibilità del file PDF utilizzando gli strumenti di Acrobat Pro.
+Nel terzo tutorial video della serie Come rendere i PDF accessibili, scoprite come completare l’accesso al file PDF utilizzando gli strumenti di Acrobat Pro.
 
 >[!NOTE]
 >

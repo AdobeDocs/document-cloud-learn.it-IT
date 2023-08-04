@@ -1,23 +1,24 @@
 ---
 title: Acrobat Tutorials
-description: Una raccolta di esercitazioni, webinar e esempi di utilizzo per Adobe Acrobat
+description: Raccolta di esercitazioni, webinar e casi d’uso per Adobe Acrobat
+feature: Accessibility, Action, Collaboration, Create PDF, Edit PDF, Convert PDF, Deploy, Mobile, Optimize PDF, Security, Workflow, Workspace, Skill Builder, Sign, Form
 role: User
 level: Beginner, Intermediate, Experienced
-thumbnail: KT-6864.jpg
 jira: KT-6864
+thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 6%
 
 ---
 
-# Esercitazioni su Acrobat
+# Esercitazioni per Acrobat
 
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
-Adobe Acrobat, una soluzione di Adobe Document Cloud, consente di mandare avanti la tua attività convertendo, modificando, condividendo e firmando PDF. Qui troverai un&#39;ampia gamma di esperienze di apprendimento progettate per consentire a principianti e utenti avanzati di familiarizzare rapidamente con Adobe Acrobat.
+Adobe Acrobat, una soluzione Adobe Document Cloud, aiuta le aziende a muoversi convertendo, modificando, condividendo e firmando i PDF. Qui troverai un&#39;ampia gamma di esperienze di apprendimento progettate per portare rapidamente all&#39;avanguardia sia i principianti che gli utenti avanzati su Adobe Acrobat.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -59,7 +60,7 @@ Adobe Acrobat, una soluzione di Adobe Document Cloud, consente di mandare avanti
   </td>  
   <td>
     <a href="develop/develop-overview.md">
-      <img alt="Sviluppare" src="assets/acrobat_title_develop.png" />
+      <img alt="Sviluppo" src="assets/acrobat_title_develop.png" />
     </a>
   </td>
   <td>

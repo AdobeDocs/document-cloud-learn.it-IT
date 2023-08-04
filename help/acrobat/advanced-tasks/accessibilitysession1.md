@@ -1,24 +1,25 @@
 ---
-title: Introduzione all'accessibilità per PDF
-description: In questa sessione, scopri cosa significa rendere accessibile un PDF, come configurare Acrobat Pro per lavorare sui PDF per l’accessibilità e il processo di conversione da un documento di origine a un PDF
+title: Introduzione all’accessibilità PDF
+description: Scopri in questa sessione cosa significa rendere accessibile un PDF, come impostare Acrobat Pro in modo che funzioni sui PDF per l’accessibilità e il processo di conversione da un documento di origine a un PDF
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8606.jpg
 jira: KT-8606
+thumbnail: KT-8606.jpg
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-# Introduzione all&#39;accessibilità per PDF
+# Introduzione all’accessibilità PDF
 
-In questa sessione, scopri cosa significa rendere accessibile un PDF, come configurare Acrobat Pro per lavorare sui PDF per l’accessibilità e il processo di conversione da un documento di origine a un PDF.
+Scopri in questa sessione cosa significa rendere accessibile un PDF, come impostare Acrobat Pro in modo che funzioni sui PDF per l’accessibilità e il processo di conversione da un documento di origine a un PDF.
 
-Fai clic su [qui](../assets/accessibilitysession1.zip) per scaricare una cartella zip dei file di sessione pratica.
+Fai clic [qui](../assets/accessibilitysession1.zip) per scaricare una cartella zip dei file della sessione pratica.
 
-Selezionate l’immagine per visualizzare il video in una scheda browser separata.
+Selezionate l&#39;immagine per visualizzare il video in una scheda separata del browser.
 
-[![Video della prima sessione](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target="_blank"}
+[![Video della sessione 1](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target="_blank"}

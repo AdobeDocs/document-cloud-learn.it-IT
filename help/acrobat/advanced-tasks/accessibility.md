@@ -1,55 +1,56 @@
 ---
 title: Verifica accessibilità PDF
-description: Scopri come verificare se il tuo PDF è universalmente accessibile alle persone diversamente abili
+description: Scopri come verificare se il tuo PDF è universalmente accessibile alle persone con disabilità
+feature: Accessibility
 role: User
 level: Intermediate
 topics: Accessibility
-thumbnail: KT-6829.jpg
 jira: KT-6829
+thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-# Verifica accessibilità PDF
+# Verificare l’accessibilità di PDF
 
-Scopri come verificare se il tuo PDF è universalmente accessibile alle persone con disabilità, comprese le persone con disabilità motorie, non vedenti, ipovedenti, sordi, con problemi di udito o che hanno problemi cognitivi.
+Scoprite come verificare se il vostro PDF è universalmente accessibile alle persone con disabilità, incluse le persone con disabilità motorie, cieche, ipovedenti, sorde, ipoudenti o con disabilità cognitive.
 
 >[!NOTE]
 >
 >Disponibile solo in Acrobat Pro.
 
-## Controllo accessibilità
+## Verifica accessibilità
 
-1. Seleziona **[!UICONTROL Accessibilità]** dal centro strumenti o dal riquadro a destra.
+1. Seleziona **[!UICONTROL Accessibilità]** dal centro Strumenti o dal riquadro di destra.
 
-   ![Accessibilità - Fase 1](../assets/Accessibility_1.png)
+   ![Accesso facilitato - Passaggio 1](../assets/Accessibility_1.png)
 
-1. Seleziona **[!UICONTROL Controllo accessibilità]** nel riquadro a destra.
+1. Seleziona **[!UICONTROL Verifica accessibilità]** nel riquadro a destra.
 
-   ![Accessibilità - Fase 2](../assets/Accessibility_2.png)
+   ![Accesso facilitato - Passaggio 2](../assets/Accessibility_2.png)
 
-1. Seleziona una categoria dal menu a discesa e le voci dall’elenco di controllo.
+1. Seleziona una categoria dal menu a discesa e gli elementi dall’elenco di controllo.
 
-   Lascia selezionata ogni casella per un rapporto completo.
+   Lascia tutte le caselle selezionate per un report completo.
 
 1. Seleziona **[!UICONTROL Avvia controllo]** per iniziare il rapporto.
 
-   ![Accessibilità - Fase 3](../assets/Accessibility_3.png)
+   ![Accesso facilitato - Passaggio 3](../assets/Accessibility_3.png)
 
-   Si apre il riquadro di navigazione a sinistra per visualizzare i risultati del rapporto. Espandete una sezione per visualizzarne i dettagli.
+   Viene aperto il riquadro di navigazione sinistro per visualizzare i risultati del report. Espandete una sezione per visualizzare i dettagli.
 
-   ![Accessibilità - Fase 4](../assets/Accessibility_4.png)
+   ![Accesso facilitato - Passaggio 4](../assets/Accessibility_4.png)
 
-È anche possibile utilizzare il metodo [!UICONTROL Rendi accessibile] nel [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) , che illustra una serie di passaggi di base per creare un PDF accessibile.
+È inoltre possibile utilizzare [!UICONTROL Rendi accessibile] azione nella [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) che consente di eseguire una serie di passaggi di base per creare un PDF accessibile.
 
-## Correzione dei problemi di accessibilità
+## Risolvere i problemi di accessibilità
 
-Nella finestra del rapporto sull&#39;accessibilità, fate clic con il pulsante destro del mouse su una voce per visualizzare il menu di scelta rapida. Il menu di scelta rapida per qualsiasi voce che non ha superato il controllo di accessibilità offre l&#39;opzione per risolvere il problema.
+Nella finestra del report di accessibilità, fate clic con il pulsante destro del mouse su un elemento per visualizzare il menu di scelta rapida. Il menu di scelta rapida per qualsiasi elemento che non ha superato il controllo di accessibilità consente di risolvere il problema.
 
 >[!NOTE]
 >
->Alcuni problemi non possono essere risolti automaticamente e richiedono l’intervento manuale per risolvere il problema. In questi casi, >Acrobat presenta una finestra di dialogo che indica cosa correggere.
+>Alcuni problemi non possono essere risolti automaticamente e richiedono l&#39;intervento manuale per risolvere il problema. In questi casi, >Acrobat presenta una finestra di dialogo che indica cosa correggere.

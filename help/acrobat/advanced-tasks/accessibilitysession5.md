@@ -1,12 +1,13 @@
 ---
 title: Aggiunta di campi modulo a un PDF con tag
-description: Questa sessione on demand si concentra sull’aggiunta di campi modulo a un PDF con tag in precedenza
+description: Questa sessione su richiesta è incentrata sull’aggiunta di campi modulo a un PDF con tag precedente
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8612.jpg
 jira: KT-8612
+thumbnail: KT-8612.jpg
 exl-id: 71bf49f5-3de1-4cc6-9ada-61147d4d1ee3
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 6%
@@ -15,10 +16,10 @@ ht-degree: 6%
 
 # Aggiunta di campi modulo a un PDF con tag
 
-Questa sessione on demand si concentra sull’aggiunta di campi modulo a un PDF con tag in precedenza.
+Questa sessione su richiesta è incentrata sull’aggiunta di campi modulo a un PDF con tag precedente.
 
-Fai clic su [qui](../assets/accessibilitysession5.zip) per scaricare un file zip dei file pratici per questa sessione.
+Fai clic [qui](../assets/accessibilitysession5.zip) per scaricare un file zip dei file pratici per questa sessione.
 
-Selezionate l’immagine per visualizzare il video in una scheda browser separata.
+Selezionate l&#39;immagine per visualizzare il video in una scheda separata del browser.
 
 [![Video della sessione 5](../assets/Accessibilitysession5_YT.png)](https://youtu.be/vaM9R-mt5Jo){target="_blank"}

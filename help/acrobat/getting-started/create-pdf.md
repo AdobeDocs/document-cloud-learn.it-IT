@@ -1,25 +1,26 @@
 ---
-title: Creare un PDF
-description: Creare PDF da tutti i tipi di documenti
+title: Creazione di un PDF
+description: Creare PDF da tutti i diversi tipi di documenti
+feature: Create PDF
 role: User
 level: Beginner
-thumbnail: 35491.jpg
 jira: KT-5526
+thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 6%
 
 ---
 
-# Creare un PDF
+# Creazione di un PDF
 
-Scopri come [creazione di PDF da tutti i tipi di documenti](https://www.adobe.com/it/acrobat/online/convert-pdf.html). Inizia con un file creato in Microsoft Office o in un’app per Creative Cloud oppure usa un’immagine, una scansione o un sito Web.
+Scopri come [creazione di PDF da tutti i diversi tipi di documenti](https://www.adobe.com/it/acrobat/online/convert-pdf.html). Inizia con un file creato in Microsoft Office o in un&#39;app Creative Cloud, oppure utilizza un&#39;immagine, una scansione o anche un sito Web.
 
 >[!TIP]
 >
->Utilizzate sempre Microsoft Office? Dai un&#39;occhiata a questi [integrazioni](../integrate/integrate-overview.md#microsoft) che consentono di creare PDF direttamente nelle applicazioni Office preferite.
+>Utilizzi sempre Microsoft Office? Consulta questi [integrazioni](../integrate/integrate-overview.md#microsoft) che consentono di creare PDF direttamente nelle applicazioni di Office preferite.
 
 <br> 
 

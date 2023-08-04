@@ -1,24 +1,25 @@
 ---
 title: Convertire un file PPT in PDF sul telefono
-description: Scopri come convertire un allegato PowerPoint e-mail in PDF sul telefono
+description: Scopri come convertire un allegato e-mail di PowerPoint in PDF sul tuo telefono
+feature: Convert PDF, Mobile
 role: User
 level: Beginner
-thumbnail: KT-8576.jpg
 jira: KT-8576
+thumbnail: KT-8576.jpg
 exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 4%
 
 ---
 
-# Convertire un file PPT in PDF sul telefono
+# Converti un file PPT in PDF sul tuo telefono
 
-In questa esercitazione video di 60 secondi, scopri come convertire un’e-mail [Collegamento PowerPoint alla PDF](https://www.adobe.com/it/acrobat/online/ppt-to-pdf.html){target="_blank"} sul tuo telefono. Quando il file ritorna, visualizzalo e tocca Condividi per inviarlo al tuo team, tutto senza avere PowerPoint nel telefono.
+In questo tutorial video di 60 secondi, scopri come convertire un’e-mail [Allegato di PowerPoint a PDF](https://www.adobe.com/it/acrobat/online/ppt-to-pdf.html){target="_blank"} sul tuo telefono. Quando il file viene restituito, visualizzalo e tocca Condividi per inviarlo al tuo team, il tutto senza PowerPoint nel telefono.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponibile gratuitamente ad Experience League!
+>Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) questo è disponibile gratuitamente su Experience League!

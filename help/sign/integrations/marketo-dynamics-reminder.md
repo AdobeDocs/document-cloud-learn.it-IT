@@ -1,6 +1,7 @@
 ---
-title: Inviare promemoria con Acrobat Sign per Microsoft Dynamics 365 e Marketo
-description: Scopri come inviare un promemoria e-mail quando un accordo rimane non firmato dopo un periodo di tempo
+title: Inviare promemoria utilizzando Acrobat Sign per Microsoft Dynamics 365 e Marketo
+description: Scopri come inviare un promemoria e-mail quando un accordo non viene firmato dopo un certo periodo di tempo
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,54 +10,54 @@ topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 2%
 
 ---
 
-# Inviare promemoria con Acrobat Sign per Microsoft Dynamics 365 e Marketo
+# Inviare promemoria utilizzando Acrobat Sign per Microsoft Dynamics 365 e Marketo
 
-Scopri come inviare un promemoria e-mail quando un accordo rimane non firmato dopo un periodo di tempo. Questa integrazione utilizza Acrobat Sign, Acrobat Sign per Microsoft Dynamics, Marketo e Marketo Microsoft Dynamics Sync.
+Scopri come inviare un promemoria e-mail quando un accordo non viene firmato dopo un determinato periodo di tempo. Questa integrazione utilizza Acrobat Sign, Acrobat Sign per Microsoft Dynamics, Marketo e Marketo Microsoft Dynamics Sync.
 
 ## Prerequisiti
 
 1. Installa Marketo Microsoft Dynamics Sync.
 
-   Sono disponibili informazioni e il plug-in più recente per Microsoft Dynamics Sync [qui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   Sono disponibili le informazioni e il plug-in più recente per Microsoft Dynamics Sync [qui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
 1. Installa [Acrobat Sign per Microsoft Dynamics](https://appsource.microsoft.com/it-it/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
 
-   Informazioni su questo plug-in sono disponibili [qui.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
+   Sono disponibili informazioni su questo plug-in [qui.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Trovare l’oggetto personalizzato
 
-Al termine delle configurazioni Marketo Microsoft Dynamics Sync e Acrobat Sign for Dynamics, nel Terminale di amministrazione di Marketo vengono visualizzate due nuove opzioni.
+Una volta completate le configurazioni di Marketo Microsoft Dynamics Sync e Acrobat Sign per Dynamics, nel Terminale di amministrazione Marketo vengono visualizzate due nuove opzioni.
 
 ![Amministrazione](assets/adminTerminal.png)
 
-1. Fai clic su **[!UICONTROL Sincronizzazione delle entità Dynamics]**.
+1. Fai clic **[!UICONTROL Sincronizzazione delle entità Dynamics]**.
 
-   La sincronizzazione deve essere disattivata prima di sincronizzare le entità personalizzate. Fai clic su **Sincronizza schema** se questa è la tua prima volta. Altrimenti, fai clic su **Aggiorna schema**.
+   La sincronizzazione deve essere disattivata prima di sincronizzare le entità personalizzate. Fai clic **Sincronizza schema** se è la prima volta. In caso contrario, fare clic su **Aggiorna schema**.
 
    ![Aggiorna](assets/refreshSchema.png)
 
-## Sincronizzare l’oggetto personalizzato
+## Sincronizzare l&#39;oggetto personalizzato
 
-1. A destra, individua [!UICONTROL Piombo], [!UICONTROL Contatti]e [!UICONTROL Account]oggetti personalizzati basati su -.
+1. Sul lato destro, individua [!UICONTROL Lead], [!UICONTROL Contatto]e [!UICONTROL Account]oggetti personalizzati basati su.
 
-   * **Attiva sincronizzazione** per gli oggetti sotto **[!UICONTROL Piombo]** se si desidera inviare un promemoria quando un evento [!UICONTROL Piombo] non ha firmato un accordo in Dynamics.
+   * **Attiva sincronizzazione** per gli oggetti sotto **[!UICONTROL Lead]** se desideri inviare un promemoria quando un [!UICONTROL Lead] non ha firmato un accordo in Dynamics.
 
-   * **Attiva sincronizzazione** per gli oggetti sotto **[!UICONTROL Contatti]** se si desidera inviare un promemoria quando un evento [!UICONTROL Contatti] non ha firmato un accordo in Dynamics.
+   * **Attiva sincronizzazione** per gli oggetti sotto **[!UICONTROL Contatto]** se desideri inviare un promemoria quando un [!UICONTROL Contatto] non ha firmato un accordo in Dynamics.
 
-   * **Attiva sincronizzazione** per gli oggetti sotto **[!UICONTROL Account]** se si desidera inviare un promemoria quando un evento [!UICONTROL Account] non ha firmato un accordo in Dynamics.
+   * **Attiva sincronizzazione** per gli oggetti sotto **[!UICONTROL Account]** se desideri inviare un promemoria quando un [!UICONTROL Account] non ha firmato un accordo in Dynamics.
 
-   * **Attiva sincronizzazione** per l&#39;oggetto accordo sotto il **[!UICONTROL Genitore]** ([!UICONTROL Piombo], [!UICONTROL Contatti]o [!UICONTROL Account]).
+   * **Attiva sincronizzazione** per l’oggetto accordo nel campo desiderato **[!UICONTROL Elemento padre]** ([!UICONTROL Lead], [!UICONTROL Contatto]o [!UICONTROL Account]).
 
    ![Oggetti personalizzati](assets/enableSyncDynamics.png)
 
-1. Nella nuova finestra, seleziona le proprietà desiderate in Accordo, quindi abilita le caselle in **Vincolo** e **Trigger** per esporli alle tue attività di marketing.
+1. Nella nuova finestra seleziona le proprietà desiderate in Accordo, quindi abilita le caselle sotto **Vincolo** e **Attivazione** per esporli alle tue attività di marketing.
 
    ![Sincronizzazione personalizzata 1](assets/entitySync1.png)
 
@@ -64,41 +65,41 @@ Al termine delle configurazioni Marketo Microsoft Dynamics Sync e Acrobat Sign f
 
 1. Riattiva la sincronizzazione dopo aver attivato la sincronizzazione sugli oggetti personalizzati.
 
-   Torna al Terminale di amministrazione, fai clic su **Microsoft Dynamics**, quindi fai clic su **Attiva sincronizzazione**.
+   Torna al Terminale di amministrazione, fai clic su **Microsoft Dynamics**, quindi fare clic su **Attiva sincronizzazione**.
 
    ![Microsoft Dynamics](assets/microsoftDynamics.png)
 
    ![Abilita globale](assets/enableGlobalDynamics.png)
 
-## Creare il programma e il token
+## Crea il programma e il token
 
-1. Nella sezione Attività di marketing di Marketo, fai clic con il pulsante destro del mouse su **Attività di marketing** sulla barra a sinistra.
+1. Nella sezione Attività di marketing di Marketo, fare clic con il pulsante destro del mouse su **Attività di marketing** sulla barra sinistra.
 
-   Seleziona **Nuova cartella delle campagne** e assegnargli un nome.
+   Seleziona **Nuova cartella campagna** e assegnagli un nome.
 
    ![Nuova cartella](assets/newFolder.png)
 
-1. Fai clic con il pulsante destro del mouse sulla cartella creata, seleziona **Nuovo programma** e assegnargli un nome.
+1. Fare clic con il pulsante destro del mouse sulla cartella creata e selezionare **Nuovo programma** e assegnagli un nome.
 
-   Lascia tutto il resto come predefinito, quindi fai clic su **Crea**.
+   Lascia tutti gli altri come predefiniti, quindi fai clic su **Crea**.
 
    ![Nuovo programma 1](assets/newProgram1.png)
 
    ![Nuovo programma 2](assets/newProgram2.png)
 
-1. Fai clic su **I miei token**, quindi trascinate **Script e-mail** sull&#39;area di lavoro.
+1. Fai clic su **I miei token**, quindi trascina **Script e-mail** nell&#39;area di lavoro.
 
    ![Script e-mail](assets/emailScript.png)
 
-1. Assegna un nome, quindi fai clic su **Fai clic per modificare**.
+1. Assegnare un nome, quindi fare clic su **Fai clic per modificare**.
 
    ![Nome e modifica](assets/nameAndSave.png)
 
-1. Espandi **[!UICONTROL Oggetti personalizzati]** sul lato destro, quindi espandere la proprietà **[!UICONTROL Accordo]** oggetto.
+1. Espandi **[!UICONTROL Oggetti personalizzati]** sul lato destro, quindi espandere **[!UICONTROL Accordo]** oggetto.
 
-   Ricerca e trascinamento [!UICONTROL Nome], Stato accordo, Inviato e Url firmatario corrente nell’area di lavoro.
+   Trova e trascina [!UICONTROL Nome], Stato accordo, Inviato il e URL firmatario corrente nell’area di lavoro.
 
-1. Scrivete uno script Velocity utilizzando questi token per visualizzare l’URL dell’accordo di un accordo che non viene firmato per una settimana. Di seguito è riportato un esempio che confronta la data corrente con Inviato attivo:
+1. Scrivi uno script Velocity utilizzando questi token per visualizzare l’URL dell’accordo di un accordo che non viene firmato per una settimana. Di seguito è riportato un esempio che confronta la data corrente con quella di Inviato il:
 
    ```
    #foreach($agreement in $adobe_agreementList)
@@ -126,84 +127,84 @@ Al termine delle configurazioni Marketo Microsoft Dynamics Sync e Acrobat Sign f
 
 1. Fai clic su **[!UICONTROL Salva]**.
 
-## Crea il promemoria e aggiungi la personalizzazione
+## Crea il promemoria e aggiungi personalizzazione
 
 Esempi di personalizzazione includono: il nome del firmatario, il nome dell’accordo, un collegamento all’accordo e così via.
 
-1. Fai clic con il pulsante destro del mouse sul programma creato e fai clic **[!UICONTROL Nuova risorsa locale]**, quindi seleziona **[!UICONTROL E-mail]**.
+1. Fare clic con il pulsante destro del mouse sul programma creato e scegliere **[!UICONTROL Nuova risorsa locale]**, quindi seleziona **[!UICONTROL E-mail]**.
 
-   ![Nuova e-mail](assets/createNewEmail.png)
+   ![Nuovo indirizzo e-mail](assets/createNewEmail.png)
 
-1. Nella nuova scheda, immettere un valore **[!UICONTROL Nome]** e **[!UICONTROL Descrizione]** per il messaggio e-mail e selezionare un modello dal selettore modelli.
+1. Nella nuova scheda, immettete un **[!UICONTROL Nome]** e **[!UICONTROL Descrizione]** per l’e-mail e seleziona un modello dal selettore modelli.
 
    ![Selettore modello](assets/templatePicker.png)
 
 1. Fai clic su **[!UICONTROL Crea]**.
 
-1. Impostare la proprietà **[!UICONTROL Da nome]** e **[!UICONTROL Da indirizzo]**.
+1. Impostare la **[!UICONTROL Nome mittente]** e **[!UICONTROL Indirizzo mittente]**.
 
    ![E-mail promemoria](assets/reminderEmail.png)
 
-1. Fai clic sul corpo del messaggio per attivare l’Editor.
+1. Fare clic sul corpo del messaggio per attivare l&#39;editor.
 
-   Fai clic sul **[!UICONTROL Inserisci token]** trova il token URL accordo personalizzato creato, quindi fai clic su **[!UICONTROL Inserisci]**. Termina la personalizzazione dell’e-mail e fai clic su **[!UICONTROL Salva]**.
+   Fare clic sul pulsante **[!UICONTROL Inserisci token]** trova il token URL dell’accordo personalizzato che hai creato, quindi fai clic su **[!UICONTROL Inserisci]**. Completa la personalizzazione dell’e-mail e fai clic su **[!UICONTROL Salva]**.
 
    ![Inserisci token](assets/insertToken.png)
 
 1. Visualizza l’anteprima utilizzando un profilo a cui è assegnato un accordo.
 
-   Dovresti visualizzare un collegamento all’URL con il nome dell’accordo come etichetta.
+   Dovresti visualizzare un collegamento all’URL con il Nome accordo come etichetta.
 
    ![Collegamento e-mail](assets/emailLink.png)
 
-## Impostare il filtro Campagna avanzata
+## Impostare il filtro Smart Campaign
 
-1. Fai clic con il pulsante destro del mouse sul programma creato, quindi fai clic **[!UICONTROL Nuova campagna intelligente]**.
+1. Fare clic con il pulsante destro del mouse sul programma creato, quindi scegliere **[!UICONTROL Nuova campagna intelligente]**.
 
    ![Smart Campaign 1](assets/smartCampaign1.png)
 
-1. Assegna un nome a scelta, quindi fai clic su **[!UICONTROL Crea]**.
+1. Assegna un nome a tua scelta, quindi fai clic su **[!UICONTROL Crea]**.
 
    ![Smart Campaign 2](assets/smartCampaign2.png)
 
-1. Cerca, quindi fai clic e trascina **[!UICONTROL Ha accordo]** all&#39;elenco avanzato.
+1. Cerca, quindi fai clic e trascina **[!UICONTROL Con accordo]** all&#39;elenco smart.
 
-   ![Ha accordo](assets/hasAgreementDynamics1.png)
+   ![Con accordo](assets/hasAgreementDynamics1.png)
 
-   I campi esposti al trigger devono essere disponibili in **[!UICONTROL Aggiungi vincolo]**.
+   I campi esposti al trigger dovrebbero essere disponibili in **[!UICONTROL Aggiungi vincolo]**.
 
-1. Seleziona **[!UICONTROL Stato accordo]** e tutti gli altri campi che desideri filtrare.
+1. Seleziona **[!UICONTROL Stato accordo]** e qualsiasi altro campo in base al quale si desidera filtrare i dati.
 
-   Per ogni campo aggiunto, definire i valori da filtrare. In questo caso, viene attivato solo quando la proprietà **[!UICONTROL Stato accordo]** è *Inviato per firma* e **[!UICONTROL Inviato]** è *in passato prima di 1 settimana*.
+   Per ogni campo aggiunto, definisci i valori in base ai quali filtrare. In questo caso, viene attivato solo quando **[!UICONTROL Stato accordo]** è *Inviato per firma* e **[!UICONTROL Data invio]** è *in passato prima di 1 settimana*.
 
    ![Stato dell’accordo](assets/hasAgreementDynaSentOn.png)
 
    >[!NOTE]
    >
-   > Aggiungete un identificatore univoco ai vincoli, come **Nome**, se desideri che questa campagna venga eseguita solo per determinati accordi.
+   > Aggiungi un identificatore univoco ai vincoli, ad esempio **Nome**, se desideri che questa campagna venga eseguita solo per determinati accordi.
 
-1. Confermate il pubblico della campagna e verificate chi si qualificherà nella scheda Pianificazione.
+1. Confermare il pubblico della campagna e vedere chi sarà idoneo nella scheda Pianificazione.
 
    ![Qualificatori](assets/qualifiers.png)
 
-## Impostare il flusso delle campagne avanzate
+## Impostare il flusso della campagna intelligente
 
-Perché il filtro Campagna **Giorni alla scadenza** utilizzata, è possibile utilizzare una ricorrenza pianificata per la campagna.
+Perché il filtro della campagna **Giorni alla scadenza** è stata utilizzata, è possibile utilizzare una ricorrenza pianificata per la campagna.
 
-1. Fate clic sul **[!UICONTROL Flusso]** nella [!UICONTROL Campagna intelligente].
+1. Fare clic sul pulsante **[!UICONTROL Flusso]** nella scheda [!UICONTROL Smart Campaign].
 
-   Cercare e trascinare il **Invia e-mail** passa all’area di lavoro e seleziona l’e-mail di promemoria creata nella sezione precedente.
+   Cercare e trascinare **Invia e-mail** passa all’area di lavoro e seleziona l’e-mail di promemoria creata nella sezione precedente.
 
    ![Invia e-mail](assets/sendEmail.png)
 
-1. Fate clic sul **[!UICONTROL Pianificazione]** nella Campagna avanzata. Assicurati che il flusso delle campagne sia limitato a una sola volta per persona nel **Impostazioni Campagne Avanzate**. Quindi, fai clic sul **Pianifica ricorrenza** tab.
+1. Fare clic sul pulsante **[!UICONTROL Pianificazione]** nella scheda Smart Campaign. Assicurati che il flusso della campagna sia limitato all&#39;esecuzione una sola volta a persona nel **Impostazioni Smart Campaign**. Fai quindi clic sul pulsante **Pianifica ricorrenza** scheda.
 
    ![Scheda Pianificazione](assets/scheduleTab.png)
 
-1. Impostare la proprietà **Pianificazione** a _Quotidiano_. Se necessario, scegli un giorno di inizio e una data di fine per la campagna.
+1. Impostare la **Pianificazione** a _Giornaliera_. Scegliere un giorno di inizio, un&#39;ora e una data di fine per la campagna, se necessario.
 
    ![Impostazioni pianificazione](assets/scheduleSettings.png)
 
 >[!TIP]
 >
->Questo tutorial fa parte del corso [Accelera i cicli di vendita con Acrobat Sign per Microsoft Dynamics e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) disponibile gratuitamente ad Experience League!
+>Questo tutorial fa parte del corso [Accelera i cicli di vendita con Acrobat Sign per Microsoft Dynamics e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) questo è disponibile gratuitamente su Experience League!

@@ -1,57 +1,58 @@
 ---
-title: Guida introduttiva per i nuovi amministratori
-description: In questa guida video completa, scopri tutti gli strumenti necessari per rendere operativa la tua organizzazione con Acrobat Sign
+title: Guida introduttiva per nuovi amministratori
+description: In questa guida video completa, scopri tutti gli strumenti necessari per rendere la tua organizzazione operativa con Acrobat Sign
+feature: Administration, Deploy
 role: Admin
 level: Beginner
 jira: KT-11289
 thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
-# Guida introduttiva per i nuovi amministratori
+# Guida introduttiva per nuovi amministratori
 
-Questa guida video completa è stata progettata appositamente per i nuovi amministratori di Acrobat Sign. Scopri tutti gli strumenti necessari per rendere operativa la tua organizzazione con Acrobat Sign. Questa guida dettagliata affronta i seguenti argomenti:
+Questa guida video completa è stata progettata appositamente per i nuovi amministratori di Acrobat Sign. Scopri tutti gli strumenti necessari per rendere operativa la tua organizzazione con Acrobat Sign. Questa guida dettagliata tratta i seguenti argomenti:
 
 <table style="table-layout:auto">
 <tr>
   <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60">
-      <img alt="Avanzamento rapido dell’immagine" src="../assets/Stepforward_18.png" />
+      <img alt="Immagine di avanzamento rapido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>Accesso all'Admin Console</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>Accesso all’Admin Console</strong></a>
          <br>
-        <em>Inizia da 1:00</em>
+        <em>Inizia alle 13:00</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105">
-      <img alt="Avanzamento rapido dell’immagine" src="../assets/Stepforward_18.png" />
+      <img alt="Immagine di avanzamento rapido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>Autorizzazione dell’Acrobat Sign a un utente</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>Autorizzazione di Acrobat Sign a un utente</strong></a>
         <br>
-        <em>Inizia da 1:45</em>
+        <em>Inizia alle 13:45</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191">
-      <img alt="Avanzamento rapido dell’immagine" src="../assets/Stepforward_18.png" />
+      <img alt="Immagine di avanzamento rapido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Panoramica del portale Web Acrobat Sign</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Panoramica del portale Web di Acrobat Sign</strong></a>
         <br>
         <em>Inizia alle 3:11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">
-      <img alt="Avanzamento rapido dell’immagine" src="../assets/Stepforward_18.png" />
+      <img alt="Immagine di avanzamento rapido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -63,17 +64,17 @@ Questa guida video completa è stata progettata appositamente per i nuovi ammini
   <tr>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460">
-      <img alt="Avanzamento rapido dell’immagine" src="../assets/Stepforward_18.png" />
+      <img alt="Immagine di avanzamento rapido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460"><strong>Branding e impostazione dell’account</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460"><strong>Branding e configurazione dell’account</strong></a>
          <br>
         <em>Inizia alle 7:40</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502">
-      <img alt="Avanzamento rapido dell’immagine" src="../assets/Stepforward_18.png" />
+      <img alt="Immagine di avanzamento rapido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -83,7 +84,7 @@ Questa guida video completa è stata progettata appositamente per i nuovi ammini
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543">
-      <img alt="Avanzamento rapido dell’immagine" src="../assets/Stepforward_18.png" />
+      <img alt="Immagine di avanzamento rapido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -93,7 +94,7 @@ Questa guida video completa è stata progettata appositamente per i nuovi ammini
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=595">
-      <img alt="Avanzamento rapido dell’immagine" src="../assets/Stepforward_18.png" />
+      <img alt="Immagine di avanzamento rapido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -105,17 +106,17 @@ Questa guida video completa è stata progettata appositamente per i nuovi ammini
   <tr>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=720">
-      <img alt="Avanzamento rapido dell’immagine" src="../assets/Stepforward_18.png" />
+      <img alt="Immagine di avanzamento rapido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=720"><strong>Modelli di messaggi</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=720"><strong>Modelli messaggio</strong></a>
          <br>
         <em>Inizia alle 12:00</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=755">
-      <img alt="Avanzamento rapido dell’immagine" src="../assets/Stepforward_18.png" />
+      <img alt="Immagine di avanzamento rapido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -125,21 +126,21 @@ Questa guida video completa è stata progettata appositamente per i nuovi ammini
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=783">
-      <img alt="Avanzamento rapido dell’immagine" src="../assets/Stepforward_18.png" />
+      <img alt="Immagine di avanzamento rapido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=783"><strong>Gestione degli utenti e dei gruppi</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=783"><strong>Gestione di utenti e gruppi</strong></a>
         <br>
         <em>Inizia alle 13:03</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917">
-      <img alt="Avanzamento rapido dell’immagine" src="../assets/Stepforward_18.png" />
+      <img alt="Immagine di avanzamento rapido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917"><strong>Creazione e attivazione di flussi di lavoro</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917"><strong>Creazione e attivazione dei flussi di lavoro</strong></a>
         <br>
         <em>Inizia alle 15:17</em>
   </td>
@@ -147,7 +148,7 @@ Questa guida video completa è stata progettata appositamente per i nuovi ammini
 <tr>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145">
-      <img alt="Avanzamento rapido dell’immagine" src="../assets/Stepforward_18.png" />
+      <img alt="Immagine di avanzamento rapido" src="../assets/Stepforward_18.png" />
     </a>
     </td>
     <td>

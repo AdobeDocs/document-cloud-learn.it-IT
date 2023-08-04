@@ -1,12 +1,13 @@
 ---
 title: Sostituzione di un firmatario
-description: Scopri come sostituire un firmatario, ad esempio quando è stata utilizzata l’e-mail errata quando si invia un documento per la firma
+description: Scopri come sostituire un firmatario, ad esempio quando veniva inviato un documento per la firma con un messaggio e-mail errato
+feature: Sign, Workflow
 role: User
 level: Beginner
 jira: KT-10264
 thumbnail: KT-10264.jpg
 exl-id: bc9d645b-b99a-4928-b539-3d28b83fc56d
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -15,10 +16,10 @@ ht-degree: 0%
 
 # Sostituzione di un firmatario
 
-Scopri come sostituire un firmatario, ad esempio quando è stata utilizzata l’e-mail errata quando si invia un documento per la firma.
+Scopri come sostituire un firmatario, ad esempio quando veniva inviato un documento per la firma con un indirizzo e-mail errato.
 
 >[!NOTE]
 >
->L’impostazione predefinita per Sostituisci destinatario è sostituire completamente il destinatario corrente con un nuovo destinatario. I piani a livello aziendale e aziendale dispongono di opzioni aggiuntive.
+>Per impostazione predefinita, Sostituisci destinatario sostituisce completamente il destinatario corrente con un nuovo destinatario. I piani a livello aziendale ed Enterprise dispongono di opzioni aggiuntive.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)

@@ -1,24 +1,25 @@
 ---
 title: Tenere traccia dei documenti
 description: Scopri sempre quali file sono in attesa di firma e quali sono stati firmati
+feature: Sign
 role: User
 level: Beginner
-thumbnail: KT-8256.jpg
 jira: KT-8256
+thumbnail: KT-8256.jpg
 exl-id: 2a86c55a-cb15-4ccb-9a8d-54df1164310f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
-# Monitorare i documenti
+# Tenere traccia dei documenti
 
 Scopri sempre quali file sono in attesa di firma e quali sono stati firmati.
 
 >[!IMPORTANT]
 >
->Oltre all&#39;abbonamento ad Acrobat Enterprise, è necessario disporre di un&#39;autorizzazione Acrobat Sign Enterprise.
+>Oltre all’abbonamento ad Acrobat Sign Enterprise, è necessario disporre di un’autorizzazione ad Acrobat Enterprise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338492?quality=12&learn=on&hidetitle=true)

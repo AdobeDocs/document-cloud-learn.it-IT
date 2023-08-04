@@ -1,12 +1,13 @@
 ---
 title: Campi modulo avanzati
-description: Scopri come impostare i calcoli, creare un pulsante di invio e-mail e aggiornare rapidamente le pagine del modulo senza ricostruire tutti i campi modulo esistenti
+description: Scopri come impostare i calcoli, creare un pulsante di invio e-mail e aggiornare rapidamente le pagine del modulo senza ricompilare tutti i campi modulo esistenti.
+feature: Edit PDF, Form
 role: User
 level: Experienced
-thumbnail: KT-9346.jpg
 jira: KT-9346
+thumbnail: KT-9346.jpg
 exl-id: 24cc04f6-1cc1-4186-b22f-f96db3d982f1
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 7%
@@ -15,20 +16,20 @@ ht-degree: 7%
 
 # Campi modulo avanzati
 
-In questa esercitazione pratica, scopri come impostare i calcoli, creare un pulsante di invio e-mail e aggiornare rapidamente le pagine del modulo senza ricostruire tutti i campi modulo esistenti.
+In questo tutorial pratico scopri come impostare i calcoli, creare un pulsante di invio e-mail e aggiornare rapidamente le pagine del modulo senza ricreare tutti i campi modulo esistenti.
 
 <br> 
 
-## Cosa ti serve
+## Cosa serve
 
-[![Scarica file](../assets/Getfiles.svg)](../assets/ProjectEstimate.zip)
-File di esempio per le esercitazioni (ZIP, 1,7 MB)
+[![Ottieni file](../assets/Getfiles.svg)](../assets/ProjectEstimate.zip)
+File di esempio con cui esercitarsi (ZIP, 1,7 MB)
 
 <br> 
 
 >[!TIP]
 >
->Attiva gli acceleratori a tasto singolo nelle Preferenze nella categoria Generali.
+>Attiva singoli tasti di scelta rapida nelle Preferenze della categoria Generali.
 
 <br> 
 

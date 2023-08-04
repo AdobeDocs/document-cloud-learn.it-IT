@@ -1,21 +1,22 @@
 ---
-title: Rendere accessibili i PDF
-description: Informazioni sul flusso di lavoro ottimale per la creazione di file PDF accessibili
+title: Accessibilità dei PDF
+description: Scoprite il flusso di lavoro ottimale per la creazione di file PDF accessibili
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34291.jpg
 exl-id: 5b205e7c-d41f-452d-9a54-208a25d3fa5e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# Rendere accessibili i PDF (versione 14:11 completa)
+# Accessibilità dei PDF (14:11)
 
-Scoprite il flusso di lavoro ottimale per la creazione di file PDF accessibili. Innanzitutto, scopri perché l&#39;accessibilità è così importante, quindi impara a utilizzare i PDF creati da [!DNL Microsoft Word], quindi termina con gli strumenti di accessibilità di Acrobat Pro.
+Scoprite il flusso di lavoro ottimale per la creazione di file PDF accessibili. In primo luogo, scoprite perché l&#39;accessibilità è così importante, seguito da come lavorare con i PDF creati da [!DNL Microsoft Word], quindi utilizzare gli strumenti di accessibilità di Acrobat Pro.
 
 >[!NOTE]
 >

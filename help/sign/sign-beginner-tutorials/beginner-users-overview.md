@@ -1,30 +1,31 @@
 ---
 title: Panoramica introduttiva
-description: Scopri come inviare, firmare e monitorare i documenti con questi brevi tutorial passo passo
+description: Scopri come inviare, firmare e monitorare i documenti con queste brevi esercitazioni guidate
+feature: Workspace, Sign, Workflow, Form, Digital ID
 role: User
 level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 5%
 
 ---
 
-# Panoramica introduttiva
+# Panoramica della Guida introduttiva
 
 ![Immagine introduttiva di Sign](../assets/Hero-GettingStarted.png)
 
-Impara a inviare, firmare e monitorare i documenti con questi brevi tutorial passo passo. Accedi a una breve panoramica di Acrobat Sign e poi inizia a inviare un documento a una o più persone. Questo contenuto è progettato per facilitare l’accesso ai flussi di lavoro di firma elettronica.
+Scopri come inviare, firmare e monitorare i documenti con queste brevi esercitazioni guidate. Avvia un rapido tour di Acrobat Sign e invia un documento a una o più persone. Questo contenuto è progettato per semplificare i flussi di lavoro di firma elettronica.
 
 ## Novità
 
 * [Guida introduttiva ad Acrobat Sign](new-sender.md)
-Non conoscete ancora Acrobat Sign? Questo tutorial è un buon punto di partenza.
+È la prima volta che usi Acrobat Sign? Questo tutorial è un ottimo punto di partenza.
 * [Impostare scadenze e promemoria](set-deadlines-reminders.md)
-Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare rapidamente i documenti
+Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmare i tuoi documenti rapidamente
 
 ## Invio
 
@@ -37,7 +38,7 @@ Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare ra
     <div>
     <a href="quick-tour.md"><strong>Nozioni di base sull’area di lavoro</strong></a>
     </div>
-    <em>Panoramica rapida dell'area di lavoro di Acrobat Sign per iniziare a utilizzarla</em>
+    <em>Fai un rapido tour dell’area di lavoro di Acrobat Sign per iniziare a utilizzarla</em>
     <br>
   </td>
   <td>
@@ -47,7 +48,7 @@ Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare ra
     <div>
     <a href="new-sender.md"><strong>Guida introduttiva ad Acrobat Sign</strong></a>
     </div>
-    <em>Questa esercitazione completa è il punto di partenza ideale per i nuovi mittenti in Acrobat Sign</em>
+    <em>Questo tutorial completo rappresenta un ottimo punto di partenza per i nuovi mittenti in Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -57,7 +58,7 @@ Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare ra
     <div>
     <a href="send-to-single-recipient.md"><strong>Invio a un singolo destinatario</strong></a>
     </div>
-    <em>Scopri come inviare un documento per la firma in tutta semplicità</em>
+    <em>Accedi e scopri quanto è facile inviare un documento per la firma</em>
     <br>
   </td>
   <td>
@@ -67,7 +68,7 @@ Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare ra
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Invio a più destinatari</strong></a>
     </div>
-    <em>Inviare un documento per la firma elettronica a più persone nell’ordine desiderato</em>
+    <em>Invia un documento da firmare a più persone esattamente nell’ordine desiderato</em>
     <br>
   </td>
 </tr>
@@ -109,7 +110,7 @@ Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare ra
     <div>
     <a href="replace-signer.md"><strong>Sostituzione di un firmatario</strong></a>
     </div>
-    <em>Scopri come modificare il firmatario di un documento già in corso</em>
+    <em>Scopri come cambiare il firmatario di un documento già in corso</em>
      <br>
   </td>
 </tr>
@@ -121,7 +122,7 @@ Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare ra
       <div>
       <a href="set-deadlines-reminders.md"><strong>Impostare scadenze e promemoria</strong></a>
       </div>
-      <em>Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare rapidamente i documenti</em>
+      <em>Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmare i tuoi documenti rapidamente</em>
       <br>
     </td> 
   <td>
@@ -153,7 +154,7 @@ Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare ra
     <div>
     <a href="electronically-sign-a-document.md"><strong>Firma elettronica di un documento</strong></a>
     </div>
-    <em>Scopri com’è facile firmare un documento che ti viene inviato con Acrobat Sign</em>
+    <em>Scopri quanto è facile firmare un documento che ti viene inviato con Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -163,7 +164,7 @@ Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare ra
     <div>
     <a href="fill-and-sign.md"><strong>Compilazione e firma di un documento</strong></a>
     </div>
-    <em>Compilare moduli e aggiungere la firma elettronica ai documenti</em>
+    <em>Compila i moduli e aggiungi la tua firma elettronica ai documenti</em>
     <br>
   </td>
   <td>
@@ -173,15 +174,15 @@ Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare ra
     <div>
     <a href="sign-in-person.md"><strong>Ottenere una firma di persona</strong></a>
     </div>
-    <em>Ottieni la firma di persona di un altro utente utilizzando l'app mobile Acrobat Sign</em>
+    <em>Ottenere la firma di qualcun altro di persona utilizzando l’app Acrobat Sign per dispositivi mobili</em>
     <br>
   </td>
   <td>
     <a href="delegate-signing.md">
-      <img alt="Delegare la firma a un altro utente" src="../assets/Delegatesigning.png" />
+      <img alt="Delega la firma a un altro utente" src="../assets/Delegatesigning.png" />
     </a>
     <div>
-    <a href="delegate-signing.md"><strong>Delegare la firma a un altro utente</strong></a>
+    <a href="delegate-signing.md"><strong>Delega la firma a un altro utente</strong></a>
     </div>
     <em>Scopri come delegare la firma di un documento a un altro utente</em>
     <br>
@@ -190,22 +191,22 @@ Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare ra
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="Cos&apos;è una firma digitale" src="../assets/Whatisdigsig_1280.jpg" />
+      <img alt="Che cos’è una firma digitale" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
     <div>
-    <a href="sign-with-a-digital-signature.md"><strong>Cos'è una firma digitale</strong></a>
+    <a href="sign-with-a-digital-signature.md"><strong>Che cos’è una firma digitale</strong></a>
     </div>
-    <em>Scopri di più sulle firme digitali basate su certificati</em>
+    <em>Informazioni sulle firme digitali basate su certificati</em>
     <br>
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="Firma mediante un timbro" src="../assets/Stamp.png" />
+      <img alt="Firma con timbro" src="../assets/Stamp.png" />
     </a>
     <div>
-    <a href="sign-with-a-stamp.md"><strong>Firma mediante un timbro</strong></a>
+    <a href="sign-with-a-stamp.md"><strong>Firma con timbro</strong></a>
     </div>
-    <em>Utilizzare timbri per contrassegnare un documento approvato o completato</em>
+    <em>Usa i timbri per contrassegnare un documento approvato o completato</em>
      <br>
   </td> 
  <td>
@@ -227,12 +228,12 @@ Scopri come inviare regolarmente promemoria e scadenze e-mail per far firmare ra
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Gestione e monitoraggio degli accordi" src="../assets/Manage_1280.png" />
+      <img alt="Gestisci e tieni traccia degli accordi" src="../assets/Manage_1280.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>Gestione e monitoraggio degli accordi</strong></a>
+    <a href="manage-and-track.md"><strong>Gestisci e tieni traccia degli accordi</strong></a>
     </div>
-    <em>Scopri come gestire e monitorare gli accordi inviati per la firma</em>
+    <em>Scopri come gestire e tenere traccia degli accordi inviati per la firma</em>
     <br>
   </td>
   <td>

@@ -1,23 +1,23 @@
 ---
-title: Registrazione e firma mediante [!DNL Digidentity]
-description: Scopri come registrarti e utilizzare il tuo [!DNL Digidentity] ID digitale con Acrobat Sign
+title: Registrati e firma utilizzando [!DNL Digidentity]
+description: Scopri come registrarti e utilizzare [!DNL Digidentity] ID digitale con Acrobat Sign
+feature: Digital ID
 role: User
 level: Beginner
 jira: KT-8670
 thumbnail: KT-8670.jpg
-kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# Registrazione e firma mediante [!DNL Digidentity]
+# Registrati e firma utilizzando [!DNL Digidentity]
 
-Digidentity è un fornitore di servizi fiduciari qualificati (QTSP). Il processo di identificazione e onboarding del Digidentity si basa sull&#39;app mobile Digidentity e richiede l&#39;uso di un documento di identità con un chip NFC incorporato e un dispositivo mobile compatibile con NFC. Il processo di Digidentity è completamente self-service ed è disponibile 24/7/365, senza &quot;human in the loop&quot;. Nella maggior parte dei casi, ci vogliono solo 5-10 minuti per completare la registrazione.
+Digidentity è un fornitore di servizi fiduciari qualificato (QTSP) dell’UE. Il processo di identificazione e onboarding di Digidentity si basa sull’app mobile Digidentity e richiede l’uso di un documento di identità con un chip NFC incorporato e un dispositivo mobile compatibile con NFC. Il processo Digidentity è completamente self-service ed è disponibile 24 ore su 24, 7 giorni su 7, 365 giorni all&#39;anno, senza &quot;human in the loop&quot;. Nella maggior parte dei casi, il completamento della registrazione richiede solo 5-10 minuti.
 
-Questa esercitazione video descrive il percorso dell’utente dalla ricezione dell’e-mail di invito alla registrazione all’utilizzo di un ID digitale per autenticarsi e applicare una firma cloud in Acrobat Sign.
+Questa esercitazione video descrive in dettaglio il percorso dell’utente dalla ricezione dell’e-mail di invito alla registrazione all’utilizzo di un ID digitale per autenticare e applicare una firma cloud in Acrobat Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)

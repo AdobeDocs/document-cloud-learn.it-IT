@@ -1,30 +1,31 @@
 ---
-title: Panoramica delle attività avanzate di Acrobat
-description: Vai oltre le nozioni di base utilizzando questi strumenti avanzati in Acrobat
+title: Panoramica sulle attività avanzate di Acrobat
+description: Andate oltre le nozioni di base utilizzando questi strumenti avanzati in Acrobat
+feature: Accessibility, Action, Edit PDF, Optimize PDF, Sign, Security
 role: User
 level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 2%
 
 ---
 
-# Panoramica sulle attività avanzate
+# Panoramica delle attività avanzate
 
 ![Immagine introduttiva di Acrobat](../assets/Hero-AdvancedTasks.png)
 
-Vai oltre le nozioni di base con questi strumenti avanzati di Acrobat. Scoprite come creare un’azione per ripetere le attività ordinarie, rimuovere informazioni riservate, ridurre e ottimizzare file di grandi dimensioni, raccogliere rapidamente i dati dei moduli e creare file PDF accessibili a tutti.
+Scopri le nozioni di base di questi strumenti avanzati di Acrobat. Scopri come creare un&#39;azione per ripetere attività ordinarie, rimuovere informazioni riservate, ridurre e ottimizzare i file di grandi dimensioni, raccogliere rapidamente i dati dei moduli e creare file PDF universalmente accessibili.
 
 ## Novità
 
 * [Optimize PDF per SEO (Search Engine Optimization)](optimizeseo.md)
-Scoprite come ottimizzare un PDF per migliorare la visibilità e la classificazione dei motori di ricerca sul Web
+Scopri come ottimizzare un PDF per una migliore individuabilità e classificazione dei motori di ricerca sul Web
 
-## Esercitazioni sulle attività avanzate
+## Esercitazioni attività avanzate
 
 <table style="table-layout:fixed">
 <tr>
@@ -45,7 +46,7 @@ Scoprite come ottimizzare un PDF per migliorare la visibilità e la classificazi
     <div>
     <a href="optimizescan.md"><strong>Ottimizzare i documenti scansionati</strong></a>
     </div>
-    <em>Scopri come ottimizzare i documenti scansionati per un’esperienza di visualizzazione e ricerca più coinvolgente per il PDF</em>
+    <em>Scopri come migliorare i documenti scansionati per una migliore esperienza di visualizzazione e ricerca dei PDF</em>
     <br>
   </td>
   <td>
@@ -65,7 +66,7 @@ Scoprite come ottimizzare un PDF per migliorare la visibilità e la classificazi
     <div>
     <a href="advancedforms.md"><strong>Campi modulo avanzati</strong></a>
     </div>
-    <em>Tecniche avanzate per la creazione di PDF forms professionali</em>
+    <em>Scopri tecniche avanzate per la creazione di PDF forms professionisti</em>
     <br>
   </td>
 </tr>
@@ -77,17 +78,17 @@ Scoprite come ottimizzare un PDF per migliorare la visibilità e la classificazi
     <div>
     <a href="optimizeseo.md"><strong>Optimize PDF per SEO (Search Engine Optimization)</strong></a>
     </div>
-    <em>Ottimizza le PDF per una migliore visibilità e la classificazione dei motori di ricerca sul web</em>
+    <em>Ottimizzare le PDF per migliorare la reperibilità e la classificazione dei motori di ricerca sul Web</em>
     <br>
   </td>
   <td>
     <a href="workforms.md">
-      <img alt="Utilizzo dei campi modulo" src="../assets/Workform_1280.png" />
+      <img alt="Utilizzare i campi modulo" src="../assets/Workform_1280.png" />
     </a>
     <div>
-    <a href="workforms.md"><strong>Utilizzo dei campi modulo</strong></a>
+    <a href="workforms.md"><strong>Utilizzare i campi modulo</strong></a>
     </div>
-    <em>Aggiungere diversi tipi di campi modulo, impostare le proprietà dei campi modulo e aggiungere protezione per creare moduli professionali di alta qualità</em>
+    <em>Aggiungi vari tipi di campi modulo, imposta le proprietà dei campi modulo e aggiungi sicurezza per creare moduli professionali di alta qualità</em>
     <br>
   </td>
   <td>
@@ -102,12 +103,12 @@ Scoprite come ottimizzare un PDF per migliorare la visibilità e la classificazi
   </td>
  <td>
     <a href="compare.md">
-      <img alt="Rileva le differenze tra due PDF" src="../assets/Compare_1280.png" />
+      <img alt="Rileva differenze tra due PDF" src="../assets/Compare_1280.png" />
     </a>
     <div>
     <a href="compare.md"><strong>Rilevare le differenze tra due PDF</strong></a>
     </div>
-    <em>Rilevamento rapido e accurato delle differenze tra due file PDF</em>
+    <em>Rileva in modo rapido e preciso le differenze tra due file PDF</em>
     <br>
   </td>
 </tr>
@@ -119,27 +120,27 @@ Scoprite come ottimizzare un PDF per migliorare la visibilità e la classificazi
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Risparmiare tempo e tasti usando un’azione per applicare automaticamente un set di comandi a uno o più file</em>
+    <em>Risparmiare tempo e sequenze di tasti utilizzando un’azione per applicare automaticamente un set di comandi a uno o più file</em>
     <br>
   </td>
   <td>
     <a href="redact.md">
-      <img alt="Redazione e rimozione" src="../assets/Redact.jpg" />
+      <img alt="Redigi e Rimuovi informazioni riservate" src="../assets/Redact.jpg" />
     </a>
     <div>
-    <a href="redact.md"><strong>Redazione e rimozione</strong></a>
+    <a href="redact.md"><strong>Redigi e Rimuovi informazioni riservate</strong></a>
     </div>
-    <em>Rimuovi in modo permanente informazioni private o riservate dal tuo PDF</em>
+    <em>Rimuovere definitivamente informazioni private o riservate dal PDF</em>
     <br>
   </td>
  <td>
     <a href="reduce.md">
-      <img alt="Ridurre le dimensioni dei file e ottimizzare" src="../assets/Reduce.jpg" />
+      <img alt="Ridurre le dimensioni del file e ottimizzarlo" src="../assets/Reduce.jpg" />
     </a>
     <div>
-    <a href="reduce.md"><strong>Ridurre le dimensioni dei file e ottimizzare</strong></a>
+    <a href="reduce.md"><strong>Ridurre le dimensioni del file e ottimizzarlo</strong></a>
     </div>
-    <em>Riduci i file di grandi dimensioni e ottimizza i tuoi PDF senza compromettere la qualità per la condivisione, la pubblicazione o l'archiviazione</em>
+    <em>Riduzione dei file di grandi dimensioni e ottimizzazione dei PDF senza compromettere la qualità della condivisione, della pubblicazione o dell'archiviazione</em>
     <br>
   </td>
   <td>
@@ -147,9 +148,9 @@ Scoprite come ottimizzare un PDF per migliorare la visibilità e la classificazi
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
     </a>
     <div>
-    <a href="formdata.md"><strong>Operazioni con i dati del modulo</strong></a>
+    <a href="formdata.md"><strong>Utilizzo dei dati dei moduli</strong></a>
     </div>
-    <em>Compilare i dati del modulo in un singolo foglio di calcolo</em>
+    <em>Compilare i dati del modulo in un unico foglio di calcolo</em>
     <br>
   </td>
 </tr>
@@ -161,7 +162,7 @@ Scoprite come ottimizzare un PDF per migliorare la visibilità e la classificazi
     <div>
     <a href="accessibility.md"><strong>Verifica accessibilità PDF</strong></a>
     </div>
-    <em>Verifica che il tuo PDF sia universalmente accessibile alle persone diversamente abili</em>
+    <em>Verifica se il tuo PDF è universalmente accessibile agli utenti con disabilità</em>
     <br>
   </td>
  <td>
@@ -169,9 +170,9 @@ Scoprite come ottimizzare un PDF per migliorare la visibilità e la classificazi
       <img alt="Preparazione dei file PDF accessibili" src="../assets/Accessibilityseries_1280.png" />
     </a>
     <div>
-    <a href="accessibility-series.md"><strong>Serie Accessibilità di Acrobat</strong></a>
+    <a href="accessibility-series.md"><strong>Serie sull'accessibilità di Acrobat</strong></a>
     </div>
-    <em>In questa serie di webinar on demand in sei parti, passa dalle nozioni di base sull’accessibilità a un’analisi approfondita dell’assegnazione dei tag ai file PDF</em>
+    <em>In questa serie di webinar in sei parti on-demand, passate dalle nozioni di base sull’accessibilità a un’immersione profonda nell’assegnazione di tag ai file PDF</em>
     <br>
   </td>
   <td>

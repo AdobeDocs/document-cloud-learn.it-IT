@@ -1,30 +1,31 @@
 ---
-title: Panoramica delle attività avanzate
-description: Scopri come inviare un documento per la firma a 100 destinatari contemporaneamente, configurare un documento pronto per la firma per il tuo sito Web, gestire le transazioni di firma e creare e gestire modelli di documento
+title: Panoramica sulle attività avanzate
+description: Scopri come inviare un documento per la firma a 100 destinatari contemporaneamente, impostare un documento pronto per la firma per il tuo sito Web, gestire le transazioni di firma e creare e gestire modelli di documento
+feature: Web Forms, Workflow, Sign, Payments, Form, Report
 role: User
 level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 3%
 
 ---
 
-# Panoramica sulle attività avanzate
+# Panoramica delle attività avanzate
 
-![Sign Advanced Image](../assets/Hero-Advanced.png)
+![Immagine avanzata di Sign](../assets/Hero-Advanced.png)
 
-Scopri come inviare un documento per la firma a 100 destinatari contemporaneamente, configurare un documento pronto per la firma per il tuo sito Web, gestire le transazioni di firma e creare e gestire modelli di documento. Queste esercitazioni sono destinate a tutti coloro che hanno già familiarità con le nozioni di base relative all&#39;invio e alla richiesta di firme e desiderano scoprire altri modi in cui Acrobat Sign può lavorare per loro.
+Scopri come inviare un documento per la firma a 100 destinatari contemporaneamente, impostare un documento pronto per la firma per il tuo sito Web, gestire le transazioni di firma e creare e gestire i modelli di documento. Questi tutorial sono rivolti a chiunque abbia già familiarità con le nozioni di base sull’invio e la richiesta di firme e desideri scoprire altri modi in cui Acrobat Sign può funzionare per loro.
 
 ## Novità
 
 * [Metodi di autenticazione in Acrobat Sign](authentication-methods.md)
-Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identità di un utente che firma un documento
+Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identità di chi firma un documento
 * [Impostare i pagamenti online](set-up-online-payments.md)
-Scopri come impostare e accettare i pagamenti online nei tuoi documenti
+Scopri come impostare e accettare pagamenti online nei tuoi documenti
 
 ## Invio
 
@@ -47,17 +48,17 @@ Scopri come impostare e accettare i pagamenti online nei tuoi documenti
     <div>
     <a href="delegate-signature.md"><strong>Uso del ruolo di delegante</strong></a>
     </div>
-    <em>Utilizzare il ruolo di delegante per inviare un documento a un intermediario che può quindi indirizzare il documento per la firma</em>
+    <em>Utilizzare il ruolo di delegante per inviare un documento a un intermediario che potrà quindi inoltrarlo per la firma</em>
     <br>
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="Uso del ruolo di approvazione" src="../assets/Approver.png" />
+      <img alt="Utilizzo del ruolo di approvatore" src="../assets/Approver.png" />
     </a>
     <div>
-    <a href="add-an-approver.md"><strong>Uso del ruolo di approvazione</strong></a>
+    <a href="add-an-approver.md"><strong>Utilizzo del ruolo di approvatore</strong></a>
     </div>
-    <em>Aggiungere un ruolo di approvatore al processo di approvazione del contratto</em>
+    <em>Aggiungere un ruolo approvatore al processo di approvazione del contratto</em>
     <br>
   </td>
   <td>
@@ -74,10 +75,10 @@ Scopri come impostare e accettare i pagamenti online nei tuoi documenti
 <tr>
   <td>
       <a href="manage-form-data.md">
-        <img alt="Gestione dei dati del modulo" src="../assets/manage-form-data.png" />
+        <img alt="Gestire i dati del modulo" src="../assets/manage-form-data.png" />
       </a>
       <div>
-      <a href="manage-form-data.md"><strong>Gestione dei dati del modulo</strong></a>
+      <a href="manage-form-data.md"><strong>Gestire i dati del modulo</strong></a>
       </div>
       <em>Scopri come consolidare i dati dei moduli dai tuoi documenti</em>
       <br>
@@ -89,17 +90,17 @@ Scopri come impostare e accettare i pagamenti online nei tuoi documenti
     <div>
     <a href="set-up-online-payments.md"><strong>Impostare i pagamenti online</strong></a>
     </div>
-    <em>Scopri come impostare e accettare i pagamenti online nei tuoi documenti</em>
+    <em>Scopri come impostare e accettare pagamenti online nei tuoi documenti</em>
     <br>
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="Inviare e raccogliere più firme in blocco" src="../assets/Megasign.png" />
+        <img alt="Inviare e raccogliere le firme in modalità collettiva" src="../assets/Megasign.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>Inviare e raccogliere più firme in blocco</strong></a>
+      <a href="megasign.md"><strong>Inviare e raccogliere le firme in modalità collettiva</strong></a>
       </div>
-      <em>Raccogli centinaia di firme alla volta per qualsiasi documento in pochi passaggi</em>
+      <em>Raccogli centinaia di firme contemporaneamente per qualsiasi documento in pochi passaggi</em>
       <br>
   </td>
  <td>
@@ -109,29 +110,29 @@ Scopri come impostare e accettare i pagamenti online nei tuoi documenti
       <div>
       <a href="webform.md"><strong>Creazione di un modulo Web</strong></a>
       </div>
-      <em>Scopri come creare un documento che può essere firmato elettronicamente direttamente sul tuo sito Web</em>
+      <em>Scopri come creare un documento che possa essere firmato elettronicamente direttamente sul tuo sito web</em>
       <br>
   </td>
 </tr>
 <tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat Sign tag di testo" src="../assets/Text-Tagging.png" />
+        <img alt="Applicazione di tag al testo in Acrobat Sign" src="../assets/Text-Tagging.png" />
     </a>
       <div>
-      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign tag di testo</strong></a>
+      <a href="adobe-sign-text-tagging.md"><strong>Applicazione di tag al testo in Acrobat Sign</strong></a>
       </div>
-      <em>Creare campi modulo Acrobat Sign mediante l’assegnazione di tag di testo con Adobe Acrobat</em>
+      <em>Generare campi modulo Acrobat Sign tramite tag di testo con Adobe Acrobat</em>
       <br>
     </td>
   <td>
     <a href="text-tagging-word.md">
-      <img alt="Uso dei tag di testo [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
+      <img alt="Utilizzo dei tag di testo in [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
   </a>
     <div>
-    <a href="text-tagging-word.md"><strong>Uso dei tag di testo [!DNL Microsoft Word]</strong></a>
+    <a href="text-tagging-word.md"><strong>Utilizzo dei tag di testo in [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>Scoprite come creare un modello di documento riutilizzabile aggiungendo tag di testo Acrobat Sign in [!DNL Microsoft Word]</em>
+    <em>Scopri come creare un modello di documento riutilizzabile aggiungendo tag di testo Acrobat Sign in [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
@@ -183,10 +184,10 @@ Scopri come impostare e accettare i pagamenti online nei tuoi documenti
   </td>  
   <td>
     <a href="manage-webform-data.md">
-      <img alt="Gestione dei dati dei moduli web" src="../assets/Managewebform.png" />
+      <img alt="Gestione dei dati dei moduli Web" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="manage-webform-data.md"><strong>Gestione dei dati dei moduli web</strong></a>
+    <a href="manage-webform-data.md"><strong>Gestione dei dati dei moduli Web</strong></a>
     </div>
     <em>Scopri come monitorare, gestire ed esportare i dati da un modulo Web</em>
     <br>

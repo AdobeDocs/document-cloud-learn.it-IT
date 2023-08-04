@@ -1,13 +1,14 @@
 ---
 title: Automazione dei documenti con Acrobat Sign per Microsoft Power Platform
-description: Scopri come attivare e utilizzare i connettori Acrobat Sign e Adobe PDF Tools per Microsoft Power Apps. Crea flussi di lavoro che automatizzano i processi di approvazione e firma delle aziende in modo rapido e sicuro, senza bisogno di codice
+description: Scopri come attivare e utilizzare i connettori Acrobat Sign e Adobe PDF Tools per Microsoft Power Apps. Creazione di flussi di lavoro che automatizzano i processi di approvazione e firma aziendali in modo rapido e sicuro, senza dover ricorrere a codice
+feature: Integrations, Workflow
 role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg
 jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '2436'
 ht-degree: 1%
@@ -16,7 +17,7 @@ ht-degree: 1%
 
 # Automazione dei documenti con Acrobat Sign per Microsoft Power Platform
 
-Scopri come attivare e utilizzare i connettori Acrobat Sign e Adobe PDF Tools per Microsoft Power Apps. Crea flussi di lavoro che automatizzano i processi di approvazione e firma aziendali in modo rapido e sicuro, senza bisogno di codice. Questa esercitazione pratica è suddivisa in quattro parti, descritte nei collegamenti seguenti:
+Scopri come attivare e utilizzare i connettori Acrobat Sign e Adobe PDF Tools per Microsoft Power Apps. Creazione di flussi di lavoro che automatizzano i processi di approvazione e firma aziendali in modo rapido e sicuro, senza dover ricorrere a codice. Questo tutorial pratico è suddiviso in quattro parti, descritte nei collegamenti seguenti:
 
 <table style="table-layout:fixed">
 <tr>
@@ -30,26 +31,26 @@ Scopri come attivare e utilizzare i connettori Acrobat Sign e Adobe PDF Tools pe
   </td>
   <td>
     <a href="documentautomation.md#part2">
-        <img alt="Parte 2: Processo di approvazione automatizzato per ottenere la firma elettronica con Acrobat Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
+        <img alt="Parte 2: Procedura di approvazione automatizzata per ottenere la firma elettronica con Acrobat Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part2"><strong>Parte 2: Processo di approvazione automatizzato per ottenere la firma elettronica con Acrobat Sign</strong></a>
+    <a href="documentautomation.md#part2"><strong>Parte 2: Procedura di approvazione automatizzata per ottenere la firma elettronica con Acrobat Sign</strong></a>
     </div>
   </td>
   <td>
    <a href="documentautomation.md#part3">
-      <img alt="Parte 3: OCR automatico dei documenti con Adobe PDF Tools" src="assets/documentautomation/AutomationPart3_thumb.jpg" />
+      <img alt="Parte 3: OCR automatizzato dei documenti con Adobe PDF Tools" src="assets/documentautomation/AutomationPart3_thumb.jpg" />
    </a>
     <div>
-    <a href="documentautomation.md#part3"><strong>Parte 3: OCR automatico dei documenti con Adobe PDF Tools</strong></a>
+    <a href="documentautomation.md#part3"><strong>Parte 3: OCR automatizzato dei documenti con Adobe PDF Tools</strong></a>
     </div>
   </td>
   <td>
    <a href="documentautomation.md#part4">
-      <img alt="Parte 4: Assemblaggio automatico dei documenti con Adobe PDF Tools" src="assets/documentautomation/AutomationPart4_thumb.jpg" />
+      <img alt="Parte 4: Assemblaggio automatico di documenti con Adobe PDF Tools" src="assets/documentautomation/AutomationPart4_thumb.jpg" />
    </a>
     <div>
-    <a href="documentautomation.md#part4"><strong>Parte 4: Assemblaggio automatico dei documenti con Adobe PDF Tools</strong></a>
+    <a href="documentautomation.md#part4"><strong>Parte 4: Assemblaggio automatico di documenti con Adobe PDF Tools</strong></a>
     </div>
   </td>
 </tr>
@@ -57,455 +58,455 @@ Scopri come attivare e utilizzare i connettori Acrobat Sign e Adobe PDF Tools pe
 
 ## Prerequisiti
 
-* Microsoft 365 e familiarità con Power Automate
-* conoscenza di Acrobat Sign
+* Familiarità con Microsoft 365 e Power Automate
+* Conoscenza di Acrobat Sign
 * Account Microsoft 365 con accesso a SharePoint e Power Automate (Basic per Acrobat Sign, Premium per Adobe PDF Tools)
 * Account per sviluppatori Acrobat Sign for enterprise o Acrobat Sign
 
 **Esercizi 1 e 2**
 
 * Account Acrobat Sign con accesso all’API. Un account sviluppatore o un account Enterprise.
-* SharePoint sito accessibile da Power Automate per il quale disponi delle autorizzazioni di modifica. Si consiglia l’accesso amministratore completo.
-* Documento di esempio per la richiesta e la firma di approvazione della firma.
+* Sito SharePoint accessibile da Power Automate per il quale disponi delle autorizzazioni di modifica. È consigliato l&#39;accesso completo da parte dell&#39;amministratore.
+* Esempio di documento per la richiesta di approvazione e firma della firma.
 
 **Esercizi 3 e 4**
 
-Download dei materiali [qui](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)
+Scarica materiali [qui](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)
 
 ## Parte 1: Archiviare gli accordi firmati in SharePoint con Acrobat Sign {#part1}
 
-Nella prima parte, userai un modello Power Automate Flow per configurare un flusso di lavoro automatizzato che salverà tutti gli accordi firmati nel tuo sito SharePoint.
+Nella prima parte, utilizzerai un modello di flusso di lavoro Power Automate per impostare un flusso di lavoro automatizzato in cui verranno salvati tutti gli accordi firmati nel tuo sito SharePoint.
 
-1. Passa a Power Automate.
+1. Seleziona Power Automate.
 1. Cerca Acrobat Sign.
 
-   ![Screenshot della navigazione in Power Automate](assets/documentautomation/automation_1.png)
+   ![Schermata di navigazione a Power Automate](assets/documentautomation/automation_1.png)
 
 1. Scegli **Salvare un accordo Acrobat Sign completato nella libreria SharePoint**.
 
-   ![Screenshot dell’azione Salva un accordo Acrobat Sign completato in SharePoint libreria](assets/documentautomation/automation_2.png)
+   ![Schermata dell’azione Salva un accordo Acrobat Sign completato nella libreria SharePoint](assets/documentautomation/automation_2.png)
 
-1. Rivedi la schermata e configura tutte le connessioni necessarie. Abilita la connessione Acrobat Sign.
-1. Fate clic sul blu `+` simbolo.
+1. Esaminare la schermata e configurare eventuali connessioni necessarie. Abilita la connessione Acrobat Sign.
+1. Fai clic sul pulsante blu `+` simbolo.
 
-   ![Screenshot della connessione di flusso di Acrobat Sign e SharePoint](assets/documentautomation/automation_3.png)
+   ![Schermata della connessione di flusso Acrobat Sign e SharePoint](assets/documentautomation/automation_3.png)
 
-1. Immetti il tuo indirizzo e-mail dell’account Acrobat Sign e fai clic sul campo password nella nuova finestra.
+1. Immetti l’indirizzo e-mail del tuo account Acrobat Sign e fai clic sul campo Password nella nuova finestra.
 
-   ![Screenshot della schermata di accesso di Acrobat Sign](assets/documentautomation/automation_4.png)
+   ![Schermata della schermata di accesso di Acrobat Sign](assets/documentautomation/automation_4.png)
 
-   Attendi un momento per un Adobe per controllare il tuo account.
+   Attendi un momento per Adobe per controllare il tuo account.
 
    >[!NOTE]
    >
-   >Questo controllo ti indirizzerà all&#39;accesso appropriato se utilizzi un Adobe ID o un SSO aziendale.
+   >Questo controllo ti indirizzerà all&#39;accesso appropriato se stai utilizzando un Adobe ID o il nostro SSO aziendale.
 
-1. Accesso completo.
-1. Fai clic su **Continua** per passare alla schermata di modifica del flusso.
+1. Completa l&#39;accesso.
+1. Fai clic **Continua** per passare alla schermata Modifica flusso.
 1. Assegna un nome al trigger.
 
-   ![Screenshot del nome del trigger](assets/documentautomation/automation_5.png)
+   ![Schermata per l&#39;assegnazione del nome al trigger](assets/documentautomation/automation_5.png)
 
 1. Configura le impostazioni di SharePoint.
 
-   ![Screenshot della configurazione delle impostazioni di SharePoint](assets/documentautomation/automation_6.png)
+   ![Schermata per la configurazione delle impostazioni di SharePoint](assets/documentautomation/automation_6.png)
 
-   **Indirizzo del sito:** Sito SharePoint
-   **Percorso cartella:** Percorso dei documenti condivisi da utilizzare
-   **Nome file:** Accetta il valore predefinito
-   **Contenuto file:** Accetta il valore predefinito
+   **Indirizzo sito:** Sito SharePoint
+   **Percorso cartella:** Percorso dei documenti condivisi che si desidera utilizzare
+   **Nome file:** Accettate le impostazioni predefinite
+   **Contenuto file:** Accettate le impostazioni predefinite
 
 1. Salvare il flusso.
 
-   ![Screenshot dell&#39;icona Salva](assets/documentautomation/automation_7.png)
+   ![Schermata dell’icona Salva](assets/documentautomation/automation_7.png)
 
-1. Passa alla schermata della panoramica del flusso con la freccia indietro blu. Questo flusso verrà provato nella parte 2.
+1. Passare alla schermata di panoramica del flusso con la freccia posteriore blu. Verificherete questo flusso nella parte 2.
 
-   ![Screenshot della schermata Panoramica del flusso](assets/documentautomation/automation_8.png)
+   ![Schermata della schermata di panoramica del flusso](assets/documentautomation/automation_8.png)
 
-Questo flusso verrà provato nella parte successiva.
+Questo flusso verrà testato nella parte successiva.
 
-## Parte 2: Processo di approvazione automatizzato per ottenere la firma elettronica con Acrobat Sign {#part2}
+## Parte 2: Procedura di approvazione automatizzata per ottenere la firma elettronica con Acrobat Sign {#part2}
 
-Nella seconda parte, si sviluppa la prima parte con un flusso più robusto e si provano entrambi i flussi per vederli in azione.
+Nella seconda parte, costruiamo la prima parte con un Flusso più robusto e testiamo entrambi i Flussi per vederli in azione.
 
 1. Seleziona **Modelli** sul lato sinistro dall’interfaccia di Power Automate.
 
-   ![Screenshot della selezione dei modelli](assets/documentautomation/automation_9.png)
+   ![Schermata di selezione dei modelli](assets/documentautomation/automation_9.png)
 
-1. Cerca &quot;approvazione manager&quot;.
-1. Seleziona **Richiedi l’approvazione del Manager per un file selezionato**.
+1. Cerca &quot;approvazione del manager&quot;.
+1. Seleziona **Richiesta di approvazione del manager per un file selezionato**.
 
-   ![Screenshot della selezione di Request Manager approval per un file selezionato](assets/documentautomation/automation_10.png)
+   ![Schermata di selezione dell&#39;approvazione di Request Manager per un file selezionato](assets/documentautomation/automation_10.png)
 
    Verifica le connessioni e aggiungi quelle mancanti.
 
    >[!NOTE]
    >
-   >Se si tratta del primo flusso che si sta eseguendo con le approvazioni, queste verranno configurate completamente quando il flusso viene eseguito.
+   >Se si tratta del primo flusso eseguito con le approvazioni, queste verranno configurate completamente durante l&#39;esecuzione del flusso.
 
-1. Fai clic su **Continua** per passare alla schermata di modifica del flusso.
+1. Fai clic **Continua** per passare alla schermata flow editing.
 
-   Questo flusso contiene molti passaggi preconfigurati, tra cui la verifica degli errori e passaggi condizionali nidificati.
+   Questo flusso include molti passaggi preconfigurati, tra cui il controllo degli errori e i passaggi condizionali nidificati.
 
 1. Configura **Per un file selezionato** come segue:
-   **Indirizzo del sito:** Il tuo sito SharePoint
-   **Nome libreria:** Il repository dei documenti
-1. Aggiungere un input nel modo seguente:
+   **Indirizzo sito:** Il tuo sito SharePoint
+   **Nome libreria:** Archivio Documenti
+1. Aggiungi un input nel modo seguente:
    **Tipo**: E-mail
    **Nome**: E-mail firmatario
 
-   ![Screenshot della configurazione del flusso](assets/documentautomation/automation_11.png)
+   ![Schermata di configurazione del flusso](assets/documentautomation/automation_11.png)
 
 1. Configura **Ottieni proprietà file:** come segue:
-   **Indirizzo del sito:** Il tuo sito SharePoint
-   **Nome libreria:** Il repository dei documenti
+   **Indirizzo sito:** Il tuo sito SharePoint
+   **Nome libreria:** Archivio Documenti
 
-1. Scorri verso il basso e cerca **Se sì**.
+1. Scorri verso il basso e cerca **In caso affermativo**.
 
-   ![Screenshot della configurazione If yes](assets/documentautomation/automation_12.png)
+   ![Schermata della configurazione If yes](assets/documentautomation/automation_12.png)
 
-1. Fai clic su **Aggiungere un’azione** nel **Se sì** per aggiungere i passaggi da inviare per la firma.
+1. Fai clic **Aggiungere un’azione** nella **In caso affermativo** (non nella parte inferiore) per aggiungere i passaggi da inviare per la firma.
 
-   ![Screenshot dell’aggiunta di un’azione nella casella Se sì](assets/documentautomation/automation_13.png)
+   ![Schermata per l’aggiunta di un’azione nella casella Se sì](assets/documentautomation/automation_13.png)
 
-1. Cerca **SharePoint ottieni i contenuti dei file** e scegliere **Ottenere il contenuto del file**.
+1. Cerca **Ottieni contenuto file di SharePoint** e scegli **Ottieni contenuto file**.
 
-   ![Screenshot della casella di ricerca](assets/documentautomation/automation_14.png)
+   ![Schermata della casella di ricerca](assets/documentautomation/automation_14.png)
 
-1. Configura il **Ottenere il contenuto del file** come segue:
+1. Configurare **Ottieni contenuto file** come segue:
 
-   ![Screenshot della configurazione del contenuto del file Get](assets/documentautomation/automation_15.png)
+   ![Schermata della configurazione Ottieni contenuto file](assets/documentautomation/automation_15.png)
 
-   **Indirizzo del sito:** Il tuo sito SharePoint.
-   **Identificatore file:** Cerca &quot;identifier&quot; e scegli Identifier dal menu **Ottieni proprietà file** passo.
+   **Indirizzo sito:** Sito SharePoint.
+   **Identificatore file:** Cercare &quot;identifier&quot; e scegliere Identifier dal menu **Ottieni proprietà file** passaggio.
 1. Cerca &quot;Adobe&quot; e scegli **Acrobat Sign** per aggiungere un’altra azione.
 
-   ![Screenshot del menu di ricerca](assets/documentautomation/automation_16.png)
+   ![Schermata del menu di ricerca](assets/documentautomation/automation_16.png)
 
-1. Immetti &quot;upload&quot; nella casella di ricerca di Acrobat Sign e seleziona **Caricare un documento e ottenere un ID documento**.
-1. Ricerca della variabile dinamica **Nome** per ottenere il nome dell’elemento/documento selezionato nel trigger in **Nome file**.
-1. Fai clic su **Espressione** nell&#39;assistente variabile sotto **Contenuto file**.
+1. Immetti &quot;upload&quot; nella casella di ricerca di Acrobat Sign e seleziona **Carica un documento e ottieni l’ID del documento**.
+1. Cercare la variabile dinamica **Nome** per ottenere il nome dell&#39;elemento o del documento selezionato nel trigger in **Nome file**.
+1. Fai clic **Espressione** nell&#39;assistente variabili sotto **Contenuto del file**.
 
-   ![Screenshot di Caricare un documento e ottenere una schermata ID documento](assets/documentautomation/automation_17.png)
+   ![Schermata di Caricamento di un documento e recupero della schermata ID documento](assets/documentautomation/automation_17.png)
 
-1. Aggiungere un solo apostrofo, quindi fare clic di nuovo su **Contenuto dinamico**, eliminare l&#39;apostrofo, selezionare **Contenuto file** quindi fai clic su **OK**.
+1. Aggiungi un singolo apostrofo, quindi fai di nuovo clic per **Contenuto dinamico**, elimina l’apostrofo, seleziona **Contenuto del file** e quindi fare clic su **OK**.
 
-   Accertati che non siano presenti apostrofi aggiuntivi e che l’aspetto sia quello del campione sottostante.
+   Assicurati che non siano presenti apostrofi aggiuntivi e che il risultato sia simile a quello illustrato nell’esempio seguente.
 
-   ![Screenshot dell&#39;aspetto che dovrebbe avere la schermata Dynamic Content](assets/documentautomation/automation_18.png)
+   ![Schermata dell&#39;aspetto della schermata Dynamic Content](assets/documentautomation/automation_18.png)
 
-1. Cerca &quot;create&quot; nell’area di ricerca di Acrobat Sign per aggiungere un’altra azione Acrobat Sign.
-1. Seleziona **Creare e firmare un accordo da un documento caricato e inviarlo per la firma**.
+1. Nell’area di ricerca di Acrobat Sign, cerca &quot;crea&quot; per aggiungere un’altra azione Acrobat Sign.
+1. Seleziona **Crea e accetta da un documento caricato e invialo per la firma**.
 
-   ![Screenshot della ricerca di create](assets/documentautomation/automation_19.png)
+   ![Schermata della ricerca di Crea](assets/documentautomation/automation_19.png)
 
-1. Configura le informazioni richieste: Scegli **Nome** dall&#39;assistente variabile dinamica **Nome accordo**.
-Scegli **ID documento** dall&#39;assistente variabile dinamica **ID documento**.
-Scegli **E-mail firmatario** dall&#39;assistente variabile dinamica **E-mail partecipante**.
-Immettere &quot;1&quot; in **Ordine partecipante**.
+1. Configura le informazioni richieste: scegli **Nome** dall&#39;assistente variabile dinamico in **Nome accordo**.
+Scegli **ID documento** dall&#39;assistente variabile dinamico in **ID documento**.
+Scegli **E-mail firmatario** dall&#39;assistente variabile dinamico in **E-mail partecipante**.
+Immettere &quot;1&quot; in **Ordine partecipanti**.
 Scegli **Firmatario** dal menu a discesa **Ruolo partecipante**.
 
-   ![Screenshot delle informazioni richieste](assets/documentautomation/automation_20.png)
+   ![Schermata delle informazioni richieste](assets/documentautomation/automation_20.png)
 
 1. **Salva** il flusso.
 
 ### Prova del flusso
 
-Accedi al repository di documenti del tuo sito SharePoint per testarlo.
+Accedere al repository dei documenti del sito SharePoint per verificarne il funzionamento.
 
-1. Seleziona il documento e scegli **Automatizza** e la proprietà **Flusso** hai appena creato.
+1. Seleziona il documento e scegli **Automatizza** e **Flusso** hai appena creato.
 
-   ![Screenshot della selezione del menu e del flusso di Automatizza](assets/documentautomation/automation_21.png)
+   ![Schermata per la selezione del menu e del flusso Automatizza](assets/documentautomation/automation_21.png)
 
-1. Avviate il flusso per convalidare le connessioni (solo la prima esecuzione del flusso).
-1. Immetti un messaggio simpatico all’approvatore in **Messaggio**.
-1. Immetti l’e-mail per il firmatario del documento **E-mail firmatario**.
-1. Fai clic su **Flusso di esecuzione**.
+1. Avviare il flusso per convalidare le connessioni (solo prima esecuzione del flusso).
+1. Immettere un messaggio valido per l&#39;approvatore in **Messaggio**.
+1. Immetti l’indirizzo e-mail del firmatario del documento **E-mail firmatario**.
+1. Fai clic **Esegui flusso**.
 
-L’approvatore configurato per l’utente che avvia il flusso riceve una richiesta di approvazione. Puoi approvare tramite e-mail o tramite il menu Power Automate Action Items.
-Una volta approvato, firma il documento. A seconda dell’utente e se ha effettuato l’accesso a Sign, potrebbe essere necessario aprire le finestre di firma in una finestra del browser privata.
+L’approvatore configurato per l’utente che avvia il flusso riceverà una richiesta di approvazione. Puoi approvare tramite e-mail o tramite il menu delle azioni di Power Automate.
+Una volta approvato, firma il documento. A seconda dell’utente e del fatto che abbia effettuato l’accesso a Sign, potrebbe essere necessario aprire le finestre di firma in un browser privato.
 
-![Screenshot dell’apertura nella finestra del browser privato](assets/documentautomation/automation_22.png)
+![Schermata di apertura della finestra del browser privato](assets/documentautomation/automation_22.png)
 
-Completa la firma e riprova nella cartella SharePoint.
+Completa la procedura di firma, quindi riprova nella cartella SharePoint.
 
-![Screenshot della cartella SharePoint](assets/documentautomation/automation_23.png)
+![Schermata della cartella SharePoint](assets/documentautomation/automation_23.png)
 
-## Parte 3: OCR automatico dei documenti con Adobe PDF Tools {#part3}
+## Parte 3: OCR automatizzato dei documenti con Adobe PDF Tools {#part3}
 
-Nella terza parte, imparerai come automatizzare l’OCR nei PDF quando vengono importati in Microsoft SharePoint. Ciò risolve un problema che si verifica con i documenti PDF acquisiti da scanner che non sono ricercabili in SharePoint.
+Nella terza parte imparerai come automatizzare l’OCR nei PDF quando vengono importati in Microsoft SharePoint. Questo risolve un problema che si verifica con i documenti PDF scansionati che non sono ricercabili in SharePoint.
 
 ![Schermata del documento PDF nel browser](assets/documentautomation/automation_24.png)
 
 ### Impostare una cartella in SharePoint
 
-Accedi a Microsoft SharePoint, dove desideri archiviare i documenti.
+Accedete a Microsoft SharePoint in cui desiderate archiviare i documenti.
 
-1. Fai clic su **+ Nuovo** per creare una nuova cartella denominata &quot;Contratti elaborati&quot;.
-1. Fai clic su **+ Nuovo** per creare una nuova cartella denominata &quot;Contratti precedenti&quot;.
+1. Fai clic **+ Nuovo** per creare una nuova cartella denominata &quot;Contratti elaborati&quot;.
+1. Fai clic **+ Nuovo** per creare una nuova cartella denominata &quot;Vecchi contratti&quot;.
 
    ![Schermata delle nuove cartelle](assets/documentautomation/automation_25.png)
 
-Queste cartelle sono ora indicate come parte del flusso di Power Automate.
+A queste cartelle viene ora fatto riferimento come parte del flusso di Power Automate.
 
 ### Creare un flusso da un modello
 
-1. Accedete a https://flow.microsoft.com.
-1. Fai clic su **Modelli** nella barra laterale.
+1. Accedi a https://flow.microsoft.com.
+1. Fai clic **Modelli** nella barra laterale.
 
-   ![Screenshot della selezione dei modelli](assets/documentautomation/automation_26.png)
+   ![Schermata di selezione dei modelli](assets/documentautomation/automation_26.png)
 
-1. Seleziona **Convertire i file appena aggiunti in PDF con testo ricercabile in SharePoint**.
-1. Fate clic sul **+** accanto a Adobe PDF Tools.
+1. Seleziona **Convertire i file aggiunti di recente in PDF per la ricerca di testo in SharePoint**.
+1. Fare clic sul pulsante **+** accanto a Strumenti di Adobe PDF.
 
-   ![Screenshot della selezione del simbolo +](assets/documentautomation/automation_27.png)
+   ![Schermata per la selezione del simbolo +](assets/documentautomation/automation_27.png)
 
-1. Passate a https://www.adobe.com/go/powerautomate_getstarted in una nuova scheda.
+1. Passa a https://www.adobe.com/go/powerautomate_getstarted in una nuova scheda.
 1. Fai clic su **Guida introduttiva**.
 
-   ![Screenshot del pulsante Introduzione](assets/documentautomation/automation_28.png)
+   ![Schermata del pulsante Inizia](assets/documentautomation/automation_28.png)
 
 1. Accedi con l’Adobe ID.
 
-   ![Screenshot della schermata di accesso](assets/documentautomation/automation_29.png)
+   ![Schermata della schermata di accesso](assets/documentautomation/automation_29.png)
 
 1. Immetti il nome e la descrizione delle credenziali e fai clic su **Crea credenziali**.
 
-   ![Screenshot della schermata Crea credenziali](assets/documentautomation/automation_30.png)
+   ![Schermata della schermata Crea credenziali](assets/documentautomation/automation_30.png)
 
-   Tenete aperta la finestra con le credenziali. Dovrai inserirli in Microsoft Power Automate.
+   Mantenere aperta la finestra con le credenziali. Sarà necessario inserirli in Microsoft Power Automate.
 
-   ![Screenshot della scheda del browser per rimanere aperto](assets/documentautomation/automation_31.png)
+   ![Schermata della scheda del browser da mantenere aperta](assets/documentautomation/automation_31.png)
 
-1. Immetti le credenziali e fai clic su **Creare in Microsoft Power Automate**.
+1. Immetti le credenziali e fai clic su **Crea in Microsoft Power Automate**.
 
    ![Schermata di immissione delle credenziali di PDF Tools](assets/documentautomation/automation_32.png)
 
 1. Fai clic su **Continua**.
 
-   ![Screenshot di dove fare clic su Continua](assets/documentautomation/automation_33.png)
+   ![Schermata da dove fare clic su Continua](assets/documentautomation/automation_33.png)
 
-   Ora puoi visualizzare il flusso di lavoro e dovrai configurarlo per il tuo ambiente.
+   Ora puoi vedere una vista del flusso di lavoro e dovrai configurarlo per il tuo ambiente.
 
-1. Seleziona il campo Indirizzo sito e scegli il sito SharePoint che stai utilizzando sotto il trigger chiamato **Quando un file viene creato in una cartella**.
+1. Seleziona il campo Indirizzo sito e scegli il sito SharePoint che stai utilizzando sotto il trigger chiamato **Quando si crea un file in una cartella**.
 
-   ![Screenshot della selezione Quando un file viene creato in un trigger di cartella](assets/documentautomation/automation_34.png)
+   ![Schermata di selezione Quando viene creato un file in un trigger di cartella](assets/documentautomation/automation_34.png)
 
-1. Fai clic sull’icona della cartella per accedere alla cartella Contratti precedenti, sotto l’ID cartella.
+1. Fare clic sull&#39;icona della cartella per passare alla cartella Contratti precedenti che si trova in ID cartella.
 
-   ![Screenshot della cartella Old Contracts](assets/documentautomation/automation_35.png)
+   ![Schermata di selezione della cartella Contratti precedenti](assets/documentautomation/automation_35.png)
 
-1. Modificare la proprietà **Crea file** azione in fondo al flusso:
+1. Modifica **Crea file** azione nella parte inferiore del flusso:
 
-   Cambiare **Indirizzo del sito** all&#39;indirizzo del sito.
-Specificate la posizione della cartella Contratti elaborati nel percorso della cartella.
+   Modifica **Indirizzo sito** all&#39;indirizzo del sito.
+Specificare il percorso della cartella Contratti elaborati nel percorso della cartella.
 
-1. Fai clic su **Salva** in alto a destra.
-1. Fai clic su **Test**.
+1. Fai clic **Salva** nell&#39;angolo in alto a destra.
+1. Fai clic **Test**.
 1. Seleziona **Manualmente**.
-1. Fai clic su **Test**.
+1. Fai clic **Test**.
 
-   ![Screenshot del flusso di prova](assets/documentautomation/automation_36.png)
+   ![Schermata del flusso di prova](assets/documentautomation/automation_36.png)
 
 ### Prova il nuovo flusso
 
-1. Accedi alla cartella Contratti precedenti in SharePoint.
-1. Accedi a E03/Old Contracts nei file di esercizi scaricati.
-1. Copia i file ReleaseFormXX.pdf nella cartella Old Contracts in SharePoint.
+1. Passa alla cartella Contratti precedenti in SharePoint.
+1. Accedere a E03/Old Contracts nei file di esercizi scaricati.
+1. Copiare i file ReleaseFormXX.pdf nella cartella Vecchi contratti in SharePoint.
 
-   ![Screenshot della copia dei file](assets/documentautomation/automation_37.png)
+   ![Schermata di copia dei file](assets/documentautomation/automation_37.png)
 
-Ora, se passi alla cartella Contratti elaborati, puoi vedere i tuoi PDF disponibili dopo che il flusso ha avuto alcuni momenti di esecuzione. Se aprite i PDF, il testo è selezionabile.
-Inoltre, SharePoint indicizza il documento, consentendo di cercare il contenuto dei documenti dalla barra di ricerca in SharePoint.
+Ora, se si passa alla cartella Contratti elaborati, è possibile visualizzare i PDF disponibili dopo che il flusso è stato eseguito. Se apri i PDF, puoi vedere che il testo è selezionabile.
+Inoltre, SharePoint indicizza il documento, consentendovi di effettuare una ricerca nel contenuto dei documenti dalla barra di ricerca in SharePoint.
 
-## Parte 4: Assemblaggio automatico dei documenti con Adobe PDF Tools {#part4}
+## Parte 4: Assemblaggio automatico di documenti con Adobe PDF Tools {#part4}
 
-Nella quarta parte, verrà illustrato come unire più documenti in base alle informazioni fornite durante la selezione e l&#39;avvio di un flusso da Microsoft SharePoint. In questo scenario, il flusso:
+Nella quarta parte imparerai come unire più documenti in base alle informazioni fornite durante la selezione e l’avvio di un flusso da Microsoft SharePoint. In questo scenario, il flusso:
 
 * Chiedi informazioni per scegliere cosa includere in un pacchetto per un cliente.
 * In base alle informazioni fornite, unisce molti documenti. Questi documenti includono una copertina e white paper opzionali.
-* Il documento unito viene salvato in SharePoint.
+* Il documento di unione viene salvato in SharePoint.
 
 ### Importare file di esercizi in SharePoint
 
-1. Aprite la cartella E04 nei file Exercise.
-1. Importa le cartelle Proposta, Modelli e Documenti generati in SharePoint.
+1. Aprire la cartella E04 nei file dell&#39;esercizio.
+1. Importa in SharePoint le cartelle Proposta, Modelli e Documenti generati.
 
-   ![Screenshot dell’importazione delle cartelle](assets/documentautomation/automation_38.png)
+   ![Schermata di importazione delle cartelle](assets/documentautomation/automation_38.png)
 
-Queste cartelle verranno utilizzate come riferimento. In particolare, utilizzerai il file Proposal.docx per la tua proposta.
+Queste cartelle verranno utilizzate come riferimento. In particolare, per la proposta verrà utilizzato il file Proposal.docx.
 
-Nella cartella Templates, è presente una cartella Covers che include i disegni delle copertine per diverse città. È inoltre presente una cartella Whitepapers che contiene altri white paper opzionali che, se selezionati, verranno allegati alla fine.
+Nella cartella Modelli è presente una cartella Copertine che include progettazioni di frontespizi per diverse città. È inoltre disponibile una cartella Whitepapers che contiene white paper aggiuntivi opzionali che, se selezionati, verranno allegati alla fine.
 
 ### Importare il flusso in Microsoft Power Automate
 
 1. Accedi a Microsoft Power Automate (https://flow.microsoft.com).
-1. Fai clic su **I miei flussi**.
+1. Fai clic **I miei flussi**.
 
-   ![Screenshot di dove selezionare I miei flussi](assets/documentautomation/automation_39.png)
+   ![Schermata da dove selezionare I miei flussi](assets/documentautomation/automation_39.png)
 
 1. Fai clic su **Importa**.
 
-   ![Screenshot della schermata di importazione](assets/documentautomation/automation_40.png)
+   ![Schermata di importazione](assets/documentautomation/automation_40.png)
 
-1. Fai clic su **Carica** e scegli la cartella GenerateProposal_2021031231623.zip in E04/Flows/.
+1. Fai clic **Carica** e scegli la cartella GenerateProposal_20210311231623.zip in E04/Flows/.
 
-   ![Screenshot della selezione della cartella](assets/documentautomation/automation_41.png)
+   ![Schermata di selezione della cartella](assets/documentautomation/automation_41.png)
 
 1. Fai clic su **Importa**.
 
 1. Fai clic sull’icona a forma di chiave inglese sotto Azione accanto a **Invia proposta al cliente**.
 
-   ![Screenshot dell&#39;icona della chiave inglese](assets/documentautomation/automation_42.png)
+   ![Schermata dell’icona della chiave inglese](assets/documentautomation/automation_42.png)
 
 1. Seleziona **Crea come nuovo** in Configurazione.
-1. Impostate il nome del flusso in Nome risorsa.
+1. Impostare il nome del flusso in Nome risorsa.
 1. Fai clic su **Salva**.
 
-   Ripeti questa operazione per altre risorse correlate e seleziona la connessione.
+   Ripeti questa operazione per le altre risorse correlate e seleziona la connessione.
 
-   ![Screenshot del salvataggio del file](assets/documentautomation/automation_43.png)
+   ![Schermata di salvataggio del file](assets/documentautomation/automation_43.png)
 
-1. Fai clic su **Importazione** dopo aver stabilito tutte le connessioni.
+1. Fai clic **Importa** dopo aver effettuato tutti i collegamenti.
 
 ### Imposta per un file selezionato
 
-Dopo aver creato il flusso, effettuate le seguenti operazioni:
+Dopo aver creato il flusso, effettua le operazioni riportate di seguito:
 
 1. Fate clic su **Modifica**.
 
-   ![Screenshot del punto in cui selezionare il montaggio](assets/documentautomation/automation_44.png)
+   ![Schermata da cui selezionare la modifica](assets/documentautomation/automation_44.png)
 
 1. Seleziona il trigger **Per un file selezionato**.
 
-   Aggiungete il sito SharePoint all&#39;indirizzo del sito.
-Aggiungi la libreria nella libreria.
+   Aggiungi il tuo sito SharePoint all&#39;indirizzo del sito.
+Aggiungi la tua libreria nella libreria.
 
-   ![Screenshot del trigger completato](assets/documentautomation/automation_45.png)
+   ![Schermata del trigger completato](assets/documentautomation/automation_45.png)
 
 ### Imposta templateFolderPath
 
 1. Fare clic sulla variabile templateFolderPath.
-1. Impostate il percorso in cui si trova la cartella Templates all&#39;interno del sito SharePoint importato.
+1. Impostate il percorso della cartella Modelli all&#39;interno del sito di SharePoint importato.
 
-### Imposta copertina Ottieni contenuto file
+### Imposta Copertina Ottieni Contenuto File
 
-1. Fai clic su **Copertina** , che espande l&#39;area di validità.
+1. Fai clic **Copertina** che espande l&#39;ambito.
 1. Espandi **Copertina: Ottieni contenuto file**.
 
-   Imposta l&#39;indirizzo del sito SharePoint.
+   Imposta l&#39;indirizzo del sito sul sito SharePoint.
 
-   ![Screenshot della copertina espansa](assets/documentautomation/automation_46.png)
+   ![Schermata della copertina espansa](assets/documentautomation/automation_46.png)
 
 
 
 ### Imposta file selezionato
 
-1. Espandere la proprietà **File selezionato** area di validità.
+1. Espandere **File selezionato** azione ambito.
 
-   Cambia l&#39;indirizzo del sito e il nome della libreria rispettivamente in SharePoint e Libreria in **Ottieni proprietà file**.
-Cambiare l&#39;indirizzo del sito nel sito SharePoint in **Ottenere il contenuto del file**.
+   Modificare l&#39;indirizzo del sito e il nome della libreria rispettivamente in Sito e Libreria di SharePoint in **Ottieni proprietà file**.
+Cambia l&#39;indirizzo del sito nel sito SharePoint in **Ottieni contenuto file**.
 
-   ![Screenshot dell’azione File selezionato espanso](assets/documentautomation/automation_47.png)
+   ![Schermata dell’azione espansa File selezionato](assets/documentautomation/automation_47.png)
 
-### Impostare I Documenti
+### Imposta white paper
 
-1. Fai clic su **Documenti informativi** azione.
-1. Espandi **Condizione: Aggiungi Whitepaper**.
+1. Fai clic **White paper** azione.
+1. Espandi **Condizione: Aggiungi white paper**.
 
-   ![Screenshot della condizione Add Whitepaper espansa](assets/documentautomation/automation_48.png)
+   ![Schermata della condizione espansa Aggiungi white paper](assets/documentautomation/automation_48.png)
 
-1. Espandi **Whitepaper 1: Ottenere il contenuto del file utilizzando il percorso**.
-Modificate l&#39;indirizzo del sito nel sito SharePoint specificato.
+1. Espandi **White paper 1: Ottenere il contenuto del file utilizzando il percorso**.
+Modifica l&#39;indirizzo del sito nel sito SharePoint specificato.
 
-Ripeti gli stessi passaggi per **Condizione: Aggiungi Whitepaper 2**.
+Ripeti gli stessi passaggi per **Condizione: aggiungere white paper 2**.
 
 ### Imposta Crea file
 
 1. Espandi **Crea file**.
 
-   Modificate l&#39;indirizzo del sito e il percorso della cartella nel sito e nel percorso di SharePoint in cui si trova la cartella Documenti generati.
+   Modificare l&#39;indirizzo del sito e il percorso della cartella nel sito SharePoint e nel percorso in cui si trova la cartella Documenti generati.
 
 1. Fai clic su **Salva**.
 
 ### Verifica del flusso
 
-1. Accedi alla cartella Proposta in SharePoint.
-1. Selezionate la cartella Proposal.docx.
+1. Passare alla cartella Proposta in SharePoint.
+1. Selezionare la cartella Proposta.docx.
 
-   ![Screenshot della cartella di selezione della proposta](assets/documentautomation/automation_49.png)
+   ![Schermata di selezione della cartella della proposta](assets/documentautomation/automation_49.png)
 
-1. Seleziona il flusso sotto il **Automatizza** menu.
+1. Seleziona il flusso sotto **Automatizza** menu.
 
-   ![Screenshot della selezione del menu Automatizza](assets/documentautomation/automation_50.png)
+   ![Schermata di selezione del menu Automatizza](assets/documentautomation/automation_50.png)
 
-1. Fai clic su **Continua** per iniziare il flusso.
+1. Fai clic **Continua** per iniziare il flusso.
 
-   ![Screenshot della selezione del pulsante Continua](assets/documentautomation/automation_51.png)
+   ![Schermata di selezione del pulsante Continua](assets/documentautomation/automation_51.png)
 
-1. Scegli la copertina e i white paper da aggiungere.
-1. Fai clic su **Flusso di esecuzione**.
+1. Scegli Copertina e i white paper che desideri allegare.
+1. Fai clic **Esegui flusso**.
 
-   ![Screenshot del pulsante Esegui flusso](assets/documentautomation/automation_52.png)
+   ![Schermata del pulsante Esegui flusso](assets/documentautomation/automation_52.png)
 
-Accedi alla cartella Genera documento . A questo punto è necessario visualizzare il file PDF generato.
+Passa alla cartella Genera documenti. Ora dovresti visualizzare il file PDF generato.
 
-![Screenshot della directory SharePoint con il nuovo file PDF](assets/documentautomation/automation_53.png)
+![Schermata della directory di SharePoint con il nuovo file PDF](assets/documentautomation/automation_53.png)
 
 ### Aggiunta di Protect e altre azioni al flusso
 
-Ora che hai creato correttamente un flusso, modificherai il flusso per cifrare il documento PDF con una password. Questa procedura illustra anche come utilizzare altre azioni.
+Dopo aver creato correttamente un flusso, si modificherà il flusso per crittografare il documento PDF con una password. Viene inoltre descritto come utilizzare altre azioni.
 
 1. Torna alla fine del flusso.
-1. Fate clic sul **+** simbolo tra **Unisci PDF** e **Crea file**.
+1. Fare clic sul pulsante **+** simbolo tra **Unisci PDF** e **Crea file**.
 
-   ![Screenshot del punto in cui selezionare il simbolo +](assets/documentautomation/automation_54.png)
+   ![Schermata in cui selezionare il simbolo +](assets/documentautomation/automation_54.png)
 
 1. Seleziona **Aggiungere un’azione**.
-1. Cerca &quot;Adobe PDF Tools&quot;.
+1. Cercate &quot;Adobe PDF Tools&quot;.
 
-   ![Screenshot della ricerca di Adobe PDF](assets/documentautomation/automation_55.png)
+   ![Schermata di ricerca di Adobe PDF](assets/documentautomation/automation_55.png)
 
-1. Seleziona **Protect PDF da visualizzazione**.
-1. Usa contenuto dinamico per impostare il campo Nome file su **Nome file PDF da Merge PDF**.
+1. Seleziona **Protect PDF dalla visualizzazione**.
+1. Utilizzare Contenuto dinamico per impostare il campo Nome file su **Nome file PDF da Merge PDF**.
 
-   ![Screenshot del contenuto dinamico](assets/documentautomation/automation_56.png)
+   ![Schermata del contenuto dinamico](assets/documentautomation/automation_56.png)
 
-   Nel trigger è presente un campo Password che fa parte del modulo di iniziazione. Possiamo usarlo qui.
+   Nel trigger è presente un campo Password che fa parte del modulo di avvio. Possiamo usarlo qui.
 
 1. Cerca **Campo Password** utilizzando il contenuto dinamico e inserirlo nel campo Password.
 
-   ![Screenshot della ricerca della password](assets/documentautomation/automation_57.png)
+   ![Schermata di ricerca della password](assets/documentautomation/automation_57.png)
 
 1. Usa contenuto dinamico per impostarlo su **Contenuto file PDF da PDF di unione** nel campo Contenuto file.
-1. Cambiare la proprietà **Crea file** per ottenere il contenuto del file da Protect PDF anziché da Unisci PDF.
+1. Modificare il **Crea file** per ottenere il contenuto del file da Protect PDF anziché da Merge PDF.
 1. Espandi **Crea file**.
 1. Cancella il campo Contenuto file.
-1. Usa contenuto dinamico per inserire **Contenuto file PDF** da **Protect PDF da visualizzazione**.
+1. Usa contenuto dinamico per inserire **Contenuto file PDF** da **Protect PDF dalla visualizzazione**.
 
 ### Verifica del flusso
 
-1. Accedi alla cartella Proposta in SharePoint.
-1. Selezionate Proposal.docx.
+1. Passare alla cartella Proposta in SharePoint.
+1. Selezionare Proposta.docx.
 
    ![Schermata di selezione della cartella Proposta](assets/documentautomation/automation_58.png)
 
 1. Seleziona **Automatizza** per scegliere il flusso.
 
-   ![Screenshot della selezione di Automatizza dal menu](assets/documentautomation/automation_59.png)
+   ![Schermata di selezione dell’opzione Automatizza dal menu](assets/documentautomation/automation_59.png)
 
-1. Fai clic su **Continua** per iniziare il flusso.
+1. Fai clic **Continua** per iniziare il flusso.
 
-   ![Screenshot della selezione di Continua](assets/documentautomation/automation_60.png)
+   ![Schermata della selezione di Continua](assets/documentautomation/automation_60.png)
 
-1. Scegliete la copertina e i white paper da aggiungere.
-1. Impostare il campo Password sulla password da impostare.
-1. Fai clic su **Flusso di esecuzione**.
+1. Scegliere la copertina e i white paper da allegare.
+1. Impostare il campo Password sulla Password che si desidera impostare.
+1. Fai clic **Esegui flusso**.
 
-   ![Screenshot dei file selezionati e pulsante Esegui flusso](assets/documentautomation/automation_61.png)
+   ![Schermata dei file selezionati e pulsante Esegui flusso](assets/documentautomation/automation_61.png)
 
-1. Accedi alla cartella Genera documento .
-Il file PDF generato deve essere visualizzato. Aprite il file PDF e viene richiesto di immettere la password del PDF.
+1. Passa alla cartella Genera documenti.
+Dovresti visualizzare il file PDF generato. Apri il file PDF e viene richiesto di immettere la password PDF.
 
-   ![Screenshot del PDF generato nella directory SharePoint](assets/documentautomation/automation_62.png)
+   ![Schermata di PDF generato nella directory di SharePoint](assets/documentautomation/automation_62.png)

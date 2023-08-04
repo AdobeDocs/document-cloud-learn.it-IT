@@ -1,13 +1,14 @@
 ---
-title: Panoramica di settori e reparti
-description: Scopri come trasformare le esperienze di firma elettronica di clienti e dipendenti attraverso questi esempi di utilizzo, ricette e webinar reali per il settore e i reparti
+title: Panoramica su settori e reparti
+description: Scopri come trasformare le esperienze di firma elettronica di clienti e dipendenti attraverso questi casi d'uso, ricette e webinar reali del settore e dei dipartimenti
+feature: Use Cases, Skill Builder
 role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -18,7 +19,7 @@ ht-degree: 0%
 
 ![Immagine del settore Acrobat Sign](../assets/Hero-Industry.png)
 
-Scopri come trasformare le esperienze di firma elettronica della tua organizzazione esplorando questi esempi di utilizzo, le ricette e i webinar di settore e reparto reali.
+Scopri come trasformare le esperienze di firma elettronica della tua organizzazione esplorando questi casi d&#39;uso, ricette e webinar reali del settore e dei dipartimenti.
 
 <table style="table-layout:fixed">
 <tr>
@@ -29,27 +30,27 @@ Scopri come trasformare le esperienze di firma elettronica della tua organizzazi
     <div>
     <a href="innovation-series.md"><strong>Skill Builder</strong></a>
     </div>
-    <em>Unisciti a noi per un Skill Builder di 30 minuti e scopri come mettere a frutto le tue firme elettroniche, senza aggiungere altro lavoro alla tua giornata.</em>
+    <em>Partecipa con noi per un corso di formazione di 30 minuti su come ottimizzare il lavoro svolto con le tue firme elettroniche, senza aggiungere altro lavoro.</em>
     <br>
   </td>
   <td>
     <a href="recipes.md">
-      <img alt="Esempi di utilizzo" src="../assets/Expand_RecipeR.png" />
+      <img alt="Ricette Use Case" src="../assets/Expand_RecipeR.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>Esempi di utilizzo</strong></a>
+    <a href="recipes.md"><strong>Ricette Use Case</strong></a>
     </div>
-    <em>Scarica le risorse necessarie per distribuire rapidamente i vari flussi di lavoro dei reparti di firma elettronica in modo autonomo</em>
+    <em>Scarica le risorse necessarie per distribuire rapidamente vari flussi di lavoro del reparto firma elettronica</em>
     <br>
   </td>
   <td>
     <a href="use-case-showcase.md">
-      <img alt="Esempi di utilizzo" src="../assets/UseCaseShowcaseR.png" />
+      <img alt="Presentazione di casi d&apos;uso" src="../assets/UseCaseShowcaseR.png" />
     </a>
     <div>
-    <a href="use-case-showcase.md"><strong>Esempi di utilizzo</strong></a>
+    <a href="use-case-showcase.md"><strong>Presentazione di casi d'uso</strong></a>
     </div>
-    <em>Guarda le sessioni dal vivo o registrate che ti presentano nuovi esempi di utilizzo e tendenze di Acrobat Sign</em>
+    <em>Guarda le sessioni dal vivo o registrate che ti presentano i nuovi casi d'uso e le tendenze di Acrobat Sign</em>
     <br>
   </td>
   <td>

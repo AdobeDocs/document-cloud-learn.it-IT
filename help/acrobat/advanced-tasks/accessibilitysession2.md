@@ -1,24 +1,25 @@
 ---
-title: Modifica di un PDF non accessibile
-description: In questa sessione on demand, scopri il flusso di lavoro per convertire un documento Word e risolvere alcuni problemi di base relativi ai tag utilizzando gli strumenti di Acrobat Pro mostrati nel webinar di introduzione
+title: Correzione di un PDF inaccessibile
+description: In questa sessione on-demand, scopri il flusso di lavoro per convertire un documento Word e risolvere alcuni problemi di base relativi ai tag utilizzando gli strumenti Acrobat Pro mostrati nel webinar di introduzione
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8609.jpg
 jira: KT-8609
+thumbnail: KT-8609.jpg
 exl-id: 546c1bc7-28bb-447d-8b3f-66cc29498057
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-# Correggere un PDF inaccessibile
+# Correzione di un PDF inaccessibile
 
-In questa sessione on demand, scopri il flusso di lavoro per convertire un documento Word e risolvere alcuni problemi di base relativi ai tag utilizzando gli strumenti di Acrobat Pro mostrati nel webinar di introduzione.
+In questa sessione su richiesta, scopri il flusso di lavoro per convertire un documento Word e risolvere alcuni problemi di base relativi ai tag utilizzando gli strumenti Acrobat Pro mostrati nel webinar di introduzione.
 
-Fai clic su [qui](../assets/accessibilitysession2.zip) per scaricare una cartella zip dei file di sessione pratica.
+Fai clic [qui](../assets/accessibilitysession2.zip) per scaricare una cartella zip dei file della sessione pratica.
 
-Selezionate l’immagine per visualizzare il video in una scheda browser separata.
+Selezionate l&#39;immagine per visualizzare il video in una scheda separata del browser.
 
-[![Video della seconda sessione](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target="_blank"}
+[![Video della sessione 2](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target="_blank"}

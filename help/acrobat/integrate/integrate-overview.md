@@ -1,14 +1,15 @@
 ---
-title: Panoramica delle integrazioni Acrobat
+title: Panoramica sulle integrazioni Acrobat
 description: Integrazione di Acrobat con le app Box, Dropbox, Google Drive, OneDrive e Microsoft
+feature: Integrations, Create PDF, Collaboration, Security
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-6859.jpg
 jira: KT-6859
+thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 1%
@@ -17,13 +18,13 @@ ht-degree: 1%
 
 # Panoramica sulle integrazioni
 
-![Acrobat integra immagine](../assets/Hero-Integrate.png)
+![Immagine di integrazione Acrobat](../assets/Hero-Integrate.png)
 
 Integrazione di Acrobat con [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]e [!DNL Microsoft] app.
 
 ## Microsoft
 
-Scopri come tutti i membri del tuo team possono lavorare senza problemi con i file PDF, direttamente all’interno [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
+Scopri come tutti i membri del tuo team possono lavorare senza interruzioni con i file PDF, direttamente dall’interno [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
 
 <table style="table-layout:fixed">
 <tr>
@@ -32,19 +33,19 @@ Scopri come tutti i membri del tuo team possono lavorare senza problemi con i fi
       <img alt="Creare file PDF da Microsoft Word" src="../assets/CreateWord.png" />
     </a>
     <div>
-    <a href="createfromword.md"><strong>Creare file PDF da [!DNL Microsoft Word]</strong></a>
+    <a href="createfromword.md"><strong>Crea file PDF da [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>Create file PDF avanzati e affidabili con sommari e rimandi collegati tramite collegamenti ipertestuali, segnalibri e persino allegati direttamente da [!DNL Microsoft Word]</em>
+    <em>Creazione di file PDF avanzati con sommari e rimandi, segnalibri e anche allegati con collegamento ipertestuale direttamente da [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
     <a href="createofficeweb.md">
-      <img alt="Creare PDF in [!DNL Office] per il web" src="../assets/Officeweb_1280.png" />
+      <img alt="Crea PDF in [!DNL Office] per il Web" src="../assets/Officeweb_1280.png" />
     </a>
     <div>
-    <a href="createofficeweb.md"><strong>Creare PDF in [!DNL Office] per il web</strong></a>
+    <a href="createofficeweb.md"><strong>Crea PDF in [!DNL Office] per il Web</strong></a>
     </div>
-    <em>Scopri come creare file PDF senza mai uscire dal tuo [!DNL Microsoft Office] per app web</em>
+    <em>Scopri come creare file PDF senza mai uscire dal tuo [!DNL Microsoft Office] per le web app</em>
     <br>
   </td> 
   <td>
@@ -54,7 +55,7 @@ Scopri come tutti i membri del tuo team possono lavorare senza problemi con i fi
     <div>
     <a href="acrobatandsp.md"><strong>Lavora con il tuo [!DNL SharePoint] file</strong></a>
     </div>
-    <em>Ottimizza i flussi di lavoro basati su documenti con [!DNL SharePoint] e Acrobat</em>
+    <em>Semplifica i flussi di lavoro dei documenti con [!DNL SharePoint] e ACROBAT</em>
     <br>
   </td>
   <td>
@@ -64,39 +65,39 @@ Scopri come tutti i membri del tuo team possono lavorare senza problemi con i fi
     <div>
     <a href="acrobatandteams.md"><strong>Collaborazione PDF in [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Collabora con i colleghi visualizzando, annotando e revisionando PDF senza mai uscire [!DNL Microsoft Teams]</em>
+    <em>Collabora e collabora con i colleghi visualizzando, annotando e rivedendo i PDF senza mai uscire [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="outlook.md">
-      <img alt="Convertire messaggi e allegati e-mail in PDF in Outlook" src="../assets/Outlook.jpg" />
+      <img alt="Convertire messaggi e allegati di posta elettronica in PDF in Outlook" src="../assets/Outlook.jpg" />
     </a>
     <div>
-    <a href="outlook.md"><strong>Convertire messaggi e allegati e-mail in PDF [!DNL Outlook]</strong></a>
+    <a href="outlook.md"><strong>Convertire messaggi e allegati di posta elettronica in PDF in [!DNL Outlook]</strong></a>
     </div>
-    <em>Scopri come distribuire le informazioni in modo più professionale e sicuro all'interno di [!DNL Outlook]</em>
+    <em>Scoprite come fornire informazioni in modo più professionale e sicuro all'interno di [!DNL Outlook]</em>
     <br>
   </td>
   <td>
     <a href="edge.md">
-      <img alt="Creare contenuti PDF durante la navigazione con [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
+      <img alt="Creazione di contenuti PDF durante la navigazione con [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
     </a>
     <div>
-    <a href="edge.md"><strong>Creare contenuti PDF durante la navigazione con [!DNL Microsoft Edge]</strong></a>
+    <a href="edge.md"><strong>Creazione di contenuti PDF durante la navigazione con [!DNL Microsoft Edge]</strong></a>
     </div>
-    <em>Scoprite come archiviare al volo le pagine web su PDF con l'estensione Adobe Acrobat per [!DNL Microsoft Edge]</em>
+    <em>Scopri come archiviare rapidamente le pagine Web in PDF con l’estensione Adobe Acrobat per [!DNL Microsoft Edge]</em>
     <br>
   </td>
   <td>
     <a href="microsoftsensitivitylabels.md">
-      <img alt="Creare contenuti PDF durante la navigazione con [!DNL Microsoft Edge]" src="../assets/Purview_1280.png" />
+      <img alt="Creazione di contenuti PDF durante la navigazione con [!DNL Microsoft Edge]" src="../assets/Purview_1280.png" />
     </a>
     <div>
-    <a href="microsoftsensitivitylabels.md"><strong>Protect PDF con [!DNL Microsoft Purview Information] etichette di sensibilità</strong></a>
+    <a href="microsoftsensitivitylabels.md"><strong>Protect PDF con [!DNL Microsoft Purview Information] etichette di riservatezza</strong></a>
     </div>
-    <em>Scopri come proteggere i PDF aggiungendo, modificando, personalizzando ed eliminando [!DNL Microsoft Purview] etichette di sensibilità direttamente in Acrobat</em>
+    <em>Scopri come proteggere i PDF aggiungendo, modificando, personalizzando ed eliminando [!DNL Microsoft Purview] etichette di riservatezza direttamente in Acrobat</em>
     <br>
   </td>
   <td>
@@ -109,7 +110,7 @@ Scopri come tutti i membri del tuo team possono lavorare senza problemi con i fi
 
 ## Google Drive
 
-Scopri come fare di più in meno tempo con il PDF essenziale e gli strumenti di firma elettronica all&#39;interno [!DNL Google Drive].
+Scopri come ottenere di più in meno tempo con gli strumenti essenziali per PDF e firma elettronica all’interno [!DNL Google Drive].
 
 <table style="table-layout:fixed">
 <tr>
@@ -120,7 +121,7 @@ Scopri come fare di più in meno tempo con il PDF essenziale e gli strumenti di 
     <div>
     <a href="acrobatandgoogle.md"><strong>Adobe Acrobat per [!DNL Google Drive]</strong></a>
     </div>
-    <em>Accedi a strumenti di PDF e flussi di lavoro per la firma elettronica che ti permettono di risparmiare tempo direttamente all'interno del [!DNL Google Drive] app</em>
+    <em>Accedi a strumenti PDF e flussi di lavoro per firma elettronica che consentono di risparmiare tempo direttamente all’interno del [!DNL Google Drive] app</em>
     <br>
   </td>
   <td>
@@ -143,18 +144,18 @@ Scopri come fare di più in meno tempo con il PDF essenziale e gli strumenti di 
 
 ## Dropbox
 
-Scopri com&#39;è facile accedere e lavorare con i file archiviati in [!DNL Dropbox].
+Scoprite quanto è facile accedere e lavorare con i file archiviati in [!DNL Dropbox].
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="acrobat-dropbox.md">
-      <img alt="Utilizzo dei file da [!DNL Dropbox]" src="../assets/Dropbox.png" />
+      <img alt="Operazioni con i file da [!DNL Dropbox]" src="../assets/Dropbox.png" />
     </a>
     <div>
-    <a href="acrobat-dropbox.md"><strong>Utilizzo dei file da [!DNL Dropbox]</strong></a>
+    <a href="acrobat-dropbox.md"><strong>Operazioni con i file da [!DNL Dropbox]</strong></a>
     </div>
-    <em>Scopri come aprire, creare, modificare, firmare e salvare le modifiche apportate al tuo [!DNL Dropbox] file da Acrobat</em>
+    <em>Scopri come aprire, creare, modificare, firmare e salvare le modifiche alle [!DNL Dropbox] file da Acrobat</em>
     <br>
   </td>
   <td>
@@ -177,4 +178,4 @@ Scopri com&#39;è facile accedere e lavorare con i file archiviati in [!DNL Drop
 
 ## Box
 
-Scopri come Acrobat e [Confezione](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} semplifica l&#39;attività aziendale per tutti i membri della tua organizzazione.
+Scopri come Acrobat e [Riquadro](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} per consentire a tutti gli utenti dell&#39;organizzazione di continuare a lavorare in modo più semplice.

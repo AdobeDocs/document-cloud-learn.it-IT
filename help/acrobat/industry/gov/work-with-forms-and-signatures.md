@@ -1,23 +1,24 @@
 ---
-title: 5 consigli per lavorare ovunque con Acrobat - Utilizzo di Forms e firme
-description: Scopri come rimanere digitale durante la compilazione dei moduli
+title: '5 suggerimenti per lavorare ovunque con Acrobat: utilizzare Forms e le firme'
+description: Scopri come rimanere digitali durante la compilazione dei moduli
+feature: Sign, Form
 role: User
 level: Beginner
 thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 6%
 
 ---
 
-# 5 consigli per lavorare ovunque con Acrobat - Utilizzo di moduli e firme
+# 5 suggerimenti per lavorare ovunque con Acrobat: utilizzo di moduli e firme
 
-Prima o poi tutti devono [compilare moduli](https://www.adobe.com/it/acrobat/online/sign-pdf.html). Poiché non sempre è possibile accedere a una stampante, è possibile apprendere come mantenere il formato digitale durante la compilazione dei moduli.
+Tutti prima o poi dovranno [compilare moduli](https://www.adobe.com/it/acrobat/online/sign-pdf.html). Poiché non sempre è possibile accedere a una stampante, è importante imparare a utilizzare la tecnologia digitale durante la compilazione dei moduli.
 
-## Suggerimento 4 - Utilizzare moduli e firme (7:03)
+## Suggerimento #4 - Utilizzare moduli e firme (7:03)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34512?quality=12&learn=on&hidetitle=true)
 
-[Vai alla Suggerimento 5 - Acquisisci e modifica da dispositivo mobile](scan-and-edit-on-mobile.md)
+[Vai a Suggerimento #5 - Scansiona e modifica su dispositivo mobile](scan-and-edit-on-mobile.md)

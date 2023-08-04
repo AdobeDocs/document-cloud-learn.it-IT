@@ -1,73 +1,74 @@
 ---
-title: Esempi di utilizzo
-description: Esempi di utilizzo è una sessione in livestream che ti introduce ai nuovi casi di utilizzo, tendenze e modalità di implementazione e utilizzo di Acrobat Sign da parte della tua organizzazione
+title: Esempio di utilizzo
+description: La presentazione dei casi d'uso è una sessione in streaming in diretta che introduce nuovi casi d'uso e tendenze di Acrobat Sign e mostra come la tua organizzazione può implementarli e trarne vantaggio
+feature: Use Cases
 role: User
 level: Intermediate
 jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '744'
 ht-degree: 0%
 
 ---
 
-# Esempi di utilizzo
+# Presentazione di casi d&#39;uso
 
 ![banner use case](../assets/UCSC_Rebrand.png)
 
-La vetrina dei casi d&#39;uso è una sessione in livestream che ti introduce ai nuovi casi d&#39;uso, tendenze e tendenze di Acrobat Sign e mostra come la tua organizzazione può implementarli e trarne vantaggio. Ogni mese viene evidenziato un nuovo argomento.
+La presentazione dei casi d&#39;uso è una sessione in streaming in diretta che introduce nuovi casi d&#39;uso e tendenze di Acrobat Sign e mostra come la tua organizzazione può implementarli e trarne vantaggio. Ogni mese viene evidenziato un nuovo argomento.
 
-Di seguito sono riportati i collegamenti di registrazione per le ultime sessioni:
+Di seguito sono riportate le registrazioni o i collegamenti per la registrazione delle sessioni più recenti:
 
 ## Sessioni 2021
 
 * **[Il percorso di AbbVie verso la trasformazione digitale](https://use-case-showcase-with-abbvie.joinus.adobeevents.com/){target="_blank"}**
-Data: 4 agosto 2021 La strategia di AbbVie è di fornire medicine innovative e di avere un impatto notevole sulla vita delle persone. Per aumentare l&#39;agilità e consentire ai dipendenti di concentrarsi su lavori più complessi, l&#39;azienda sta lavorando per automatizzare alcuni dei loro processi aziendali e la transizione dalla carta e dalla penna rappresenta un primo passo fondamentale. Partecipa a una conversazione con AbbVie per conoscere i loro obiettivi, la strategia e i processi per raggiungere il successo della trasformazione digitale.
+Data: 4 agosto 2021 La strategia di AbbVie è quella di fornire medicinali innovativi e di avere un notevole impatto sulla vita delle persone. Per aumentare l&#39;agilità e consentire ai dipendenti di concentrarsi su lavori più complessi, l&#39;azienda sta lavorando per automatizzare alcuni dei propri processi aziendali e la transizione da carta e penna è un primo passo fondamentale. Unisciti a noi per una conversazione con AbbVie per conoscere i loro obiettivi, le strategie e i processi per raggiungere il successo nella trasformazione digitale.
 
-* **[Con la registrazione on demand di Volvo Cars](https://gateway.on24.com/wcc/eh/2172296/lp/2963219/adobe-sign-use-case-showcase%3A-featuring-volvo-cars/){target="_blank"}**
-Come sarà il futuro dello shopping automobilistico? Per la casa automobilistica svedese Volvo Cars, stanno apportando modifiche al loro modello di business che influenzeranno le aspettative dei clienti per la prossima generazione di acquirenti di auto. Al centro del loro processo c&#39;è la possibilità di fornire un&#39;esperienza cliente di alta qualità in linea con le loro offerte premium.
+* **[Con registrazione on-demand di Volvo Cars](https://gateway.on24.com/wcc/eh/2172296/lp/2963219/adobe-sign-use-case-showcase%3A-featuring-volvo-cars/){target="_blank"}**
+Che aspetto ha il futuro dello shopping d&#39;auto? Per la casa automobilistica svedese Volvo Cars, stanno apportando modifiche al loro modello di business che influenzeranno le aspettative dei clienti per la prossima generazione di acquirenti di auto. Il loro processo è incentrato sulla capacità di offrire ai clienti un&#39;esperienza di alta qualità che corrisponda alle loro offerte premium.
 
-Unisciti a noi per una conversazione dietro le quinte con Volvo Cars, in cui discutono di come hanno preso grandi idee e le hanno trasformate in realtà - e di come altre aziende possono imparare dalle loro esperienze di trasformazione.
+Unisciti a noi per una conversazione dietro le quinte con Volvo Cars, per discutere di come hanno preso grandi idee e le hanno trasformate in realtà - e di come altre aziende possono imparare dalle loro esperienze di trasformazione.
 
-* **[5 modi in cui le agenzie governative si trasformeranno nella registrazione on demand per il 2021](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/){target="_blank"}**
-In che modo Acrobat Sign può aiutare le agenzie governative a servire meglio i propri cittadini? Sia i cittadini che i dipendenti ora si aspettano esperienze online più coinvolgenti. E per passare al digitale, i processi pubblici devono soddisfare rigorosi requisiti di sicurezza, privacy e conformità. Quando la pandemia ha colpito, gli enti pubblici hanno dovuto intensificare gli sforzi di trasformazione digitale per continuare a soddisfare le esigenze dei loro cittadini e mantenere la continuità operativa.
+* **[5 modi in cui le agenzie governative trasformeranno nel 2021 la registrazione su richiesta](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/){target="_blank"}**
+Come può Acrobat Sign aiutare le agenzie governative a servire meglio i propri elettori? Sia i cittadini che i dipendenti si aspettano ora esperienze online più coinvolgenti. E per diventare digitale, i processi governativi devono soddisfare rigorosi requisiti di sicurezza, privacy e conformità. Quando la pandemia ha colpito, le agenzie governative hanno dovuto intensificare i loro sforzi di trasformazione digitale per continuare a soddisfare le esigenze dei loro cittadini e mantenere la continuità operativa.
 
-Segui Acrobat Sign Use Case Showcase e scopri come gli esperti governativi hanno affrontato le sfide che gli enti federali, statali e locali hanno dovuto affrontare e come continuano a innovare per garantire il funzionamento della pubblica amministrazione.
+Unisciti a noi per la presentazione dei casi d&#39;uso di Acrobat Sign per conoscere le sfide che gli esperti governativi hanno affrontato e le agenzie federali, statali e locali e come continuano a innovare per mantenere il governo in funzione.
 
 ## Sessioni 2020 per settore
 
-* **[Pubblica Amministrazione](https://event.on24.com/wcc/r/2790280/7FFF27458A6834FDF8C73C5149637590?partnerref=EXL){target="_blank"}**
-Focus: I nostri relatori esperti trattano le best practice e una serie di casi d’uso specifici per gli enti pubblici per illustrarti come Acrobat Sign può consentire al tuo team di risparmiare tempo, denaro e risorse, garantendo allo stesso tempo la conformità e la sicurezza.
+* **[Enti pubblici](https://event.on24.com/wcc/r/2790280/7FFF27458A6834FDF8C73C5149637590?partnerref=EXL){target="_blank"}**
+Concentrazione: i nostri esperti illustrano le procedure consigliate e una serie di casi d&#39;uso specifici per il governo, per mostrarti in che modo Acrobat Sign può aiutare il tuo team a risparmiare tempo, denaro e risorse, mantenendo la conformità e la sicurezza.
 
-* **[Note legali](https://event.on24.com/wcc/r/2634329/292CA0B317E56600A114508CC55376BF?partnerref=EXL){target="_blank"}**
-Focus: I nostri relatori discutono su come i reparti legali stanno gestendo il passaggio a processi documentali completamente remoti. Che tu stia appena iniziando o abbia già digitalizzato alcuni flussi di lavoro, Acrobat Sign può amplificare la produttività del tuo team in ogni fase di trasformazione digitale.
+* **[Legale](https://event.on24.com/wcc/r/2634329/292CA0B317E56600A114508CC55376BF?partnerref=EXL){target="_blank"}**
+Focus: I nostri membri del gruppo di esperti discutono su come i reparti legali stanno gestendo il passaggio a processi di documenti completamente remoti. Che si tratti solo di un’esperienza iniziale o di alcuni flussi di lavoro già digitalizzati, Acrobat Sign può aumentare la produttività del team in ogni fase della trasformazione digitale.
 
 * **[Vendite](https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-use-case-showcase-sales.html){target="_blank"}**
-Focus: Gli esperti Adobi mettono in evidenza le best practice per una trasformazione digitale di successo nell&#39;approvvigionamento e la discussione riguarda le tendenze del settore e i requisiti per offrire esperienze utente eccellenti.
+Focus: gli Adobi evidenziano le best practice per una trasformazione digitale degli acquisti di successo e la discussione riguarda le tendenze del settore e i requisiti per offrire esperienze utente eccellenti.
 
 * **[Acquisti e logistica](https://event.on24.com/wcc/r/2514418/278FB6F16C198E2B866CF487AF9514F6){target="_blank"}**
-Focus: Come funziona Acrobat Sign nell&#39;approvvigionamento e nella logistica.
+Obiettivo: Come funziona Acrobat Sign nell&#39;approvvigionamento e nella logistica.
 
-* **[HR Applications](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target="_blank"}**
-Focus: Come funziona Acrobat Sign in varie applicazioni HR.
+* **[Applicazioni HR](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target="_blank"}**
+Focus: Come funziona Acrobat Sign nelle varie applicazioni HR.
 
-* **[Pubblica Amministrazione](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target="_blank"}**
-Focus: Come funziona Acrobat Sign negli enti pubblici locali e statali.
+* **[Amministrazioni di Stati federati e locali](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target="_blank"}**
+Focus: Funzionamento di Acrobat Sign negli enti pubblici statali e locali.
 
 * **[Istruzione](https://event.on24.com/wcc/r/2241711/762243D5EE65DAC44D3AE7BCCD3388A7){target="_blank"}**
 Focus: Come funziona Acrobat Sign per il settore dell&#39;Istruzione.
 
-* **[Scienza della vita](https://event.on24.com/wcc/r/2204781/2C266134D08DDE48E17C77746F192AA6){target="_blank"}**
-Focus: Come funziona Acrobat Sign per le scienze della vita.
+* **[Scienze biologiche](https://event.on24.com/wcc/r/2204781/2C266134D08DDE48E17C77746F192AA6){target="_blank"}**
+Obiettivo: Come funziona Acrobat Sign per le scienze biologiche.
 
-* **[Assistenza Sanitaria](https://event.on24.com/wcc/r/2202626/1D60C42BD396AE273CB09CF53F1051BE){target="_blank"}**
-Focus: Come funziona Acrobat Sign per il settore sanitario. Tra gli argomenti trattati: crescente utilizzo della telesalute e della trasformazione digitale - infrastruttura e scalabilità.
+* **[Assistenza sanitaria](https://event.on24.com/wcc/r/2202626/1D60C42BD396AE273CB09CF53F1051BE){target="_blank"}**
+Obiettivo: Come funziona Acrobat Sign per il settore sanitario. Gli argomenti trattati includono: crescente utilizzo della telesanità e della trasformazione digitale, infrastrutture e scalabilità.
 
 * **[Servizi finanziari](https://event.on24.com/wcc/r/2177152/40A4315A5D32F21AFB5EB03E25C15992){target="_blank"}**
-Focus: Come funziona Acrobat Sign per il settore bancario. Tra gli argomenti trattati: le tendenze del settore per il 2020 e oltre, i documenti e i processi digitali come parte di una più ampia trasformazione digitale, le best practice, i casi d’uso e i vantaggi offerti da Acrobat Sign.
+Obiettivo: Come funziona Acrobat Sign per il settore bancario. Gli argomenti trattati includono: tendenze del settore a partire dal 2020, documenti e processi digitali come parte di una più ampia trasformazione digitale, best practice, casi d&#39;uso e i vantaggi di Acrobat Sign.
 
 * **[Assicurazione](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6){target="_blank"}**
-Focus: Come funziona Acrobat Sign per i servizi finanziari e le assicurazioni. Tra gli argomenti trattati: le tendenze del settore, la conformità e i requisiti normativi nel settore finanziario e la fornitura di un&#39;esperienza utente eccellente.
+Focus: Funzionamento di Acrobat Sign per i servizi finanziari e le assicurazioni. Gli argomenti trattati includono: tendenze del settore, requisiti di conformità e normativi nel settore finanziario e un&#39;esperienza utente eccellente.

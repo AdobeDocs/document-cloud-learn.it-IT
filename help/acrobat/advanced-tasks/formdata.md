@@ -1,36 +1,37 @@
 ---
-title: Operazioni Con I Dati Del Modulo
+title: Utilizzo Dei Dati Dei Moduli
 description: Unire i dati dei campi modulo in un unico foglio di calcolo in Acrobat
+feature: Form, Workflow
 role: User
 level: Experienced
-thumbnail: KT-6828.jpg
 jira: KT-6828
+thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
-# Operazioni con i dati del modulo
+# Utilizzo dei dati dei moduli
 
-Se si dispone di un set di moduli compilati e si devono compilare i dati, è possibile utilizzare Acrobat per unire le risposte in un singolo foglio di calcolo.
+Se disponi di un set di moduli completati e devi compilare i dati, puoi utilizzare Acrobat per unire le risposte in un unico foglio di calcolo.
 
-1. Inizia inserendo tutti i PDF forms completati in una cartella sul computer.
+1. Per iniziare, inserisci tutti i PDF forms completati in una cartella sul computer.
 
-   ![Dati modulo Fase 1](../assets/FormData_1.png)
+   ![Passaggio 1 dati modulo](../assets/FormData_1.png)
 
-1. Aprire uno dei file modulo completati, quindi selezionare **[!UICONTROL Prepare Form]** dal centro strumenti o dal riquadro a destra.
+1. Apri uno dei file del modulo compilato, quindi seleziona **[!UICONTROL Prepare Form]** dal centro Strumenti o dal riquadro di destra.
 
-   ![Dati modulo Fase 2](../assets/FormData_2.png)
+   ![Passaggio 2 dati modulo](../assets/FormData_2.png)
 
-1. Seleziona **[!UICONTROL Altro]** **>** **[!UICONTROL Unire file di dati in un foglio di calcolo]** nel riquadro a destra.
+1. Seleziona **[!UICONTROL Altro]** **>** **[!UICONTROL Unisci file di dati in foglio di calcolo]** nel riquadro a destra.
 
-   ![Dati modulo Fase 3](../assets/FormData_3.png)
+   ![Passaggio 3 dati modulo](../assets/FormData_3.png)
 
-1. Selezionare la cartella creata con i moduli compilati.
+1. Selezionare la cartella creata con i moduli completati.
 
-   Acrobat estrae i dati da ciascun modulo e crea un foglio di calcolo di tutti i dati.
+   Acrobat estrae i dati da ogni modulo e crea un foglio elettronico di tutti i dati.
 
-   ![Modulo Data Fase 4](../assets/FormData_4.png)
+   ![Dati modulo Passaggio 4](../assets/FormData_4.png)

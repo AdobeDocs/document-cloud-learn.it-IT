@@ -1,20 +1,21 @@
 ---
-title: Organizzazione delle pagine in un’istantanea
-description: Scopri come utilizzare lo strumento Organizza pagine per ottenere una visione a volo d’uccello del tuo PDF
+title: Organizzare le pagine in un allineamento
+description: Scopri come usare lo strumento Organizza pagine per ottenere una vista aerea del tuo PDF
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-9278.jpg
 jira: KT-9278
+thumbnail: KT-9278.jpg
 exl-id: b7f08003-1bbd-4d90-9ff7-6033da20a705
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 13%
 
 ---
 
-# Organizzazione rapida delle pagine
+# Organizzare le pagine in un attimo
 
-In questa esercitazione video di 60 secondi, impara a utilizzare il metodo [Organizza pagine](https://www.adobe.com/it/acrobat/online/rearrange-pdf.html) per avere una visione a volo d&#39;uccello della tua PDF. Apporta modifiche all&#39;ordine e al layout delle pagine e persino [scindere il PDF](https://www.adobe.com/it/acrobat/online/split-pdf.html){target="_blank"} in file più piccoli.
+In questo tutorial video di 60 secondi, scoprite come utilizzare [Organizza pagine](https://www.adobe.com/it/acrobat/online/rearrange-pdf.html) strumento per ottenere una vista a volo d&#39;uccello del vostro PDF. Apportare modifiche all&#39;ordine e al layout delle pagine e [dividere il PDF](https://www.adobe.com/it/acrobat/online/split-pdf.html){target="_blank"} in file più piccoli.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338278?quality=12&learn=on&hidetitle=true)

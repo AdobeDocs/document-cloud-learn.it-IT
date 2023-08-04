@@ -1,23 +1,24 @@
 ---
 title: Acrobat Sign Tutorials
-description: Una raccolta di esercitazioni, webinar e esempi di utilizzo progettati per mettere rapidamente in sintonia principianti e amministratori su Acrobat Sign
+description: Una raccolta di esercitazioni, webinar e casi d'uso progettati per mettere rapidamente al corrente sia i principianti che gli amministratori su Acrobat Sign
+feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 role: User, Admin
 level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 5%
 
 ---
 
-# Esercitazioni su Acrobat Sign
+# Esercitazioni per Acrobat Sign
 
 ![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
-Acrobat Sign, una soluzione Adobe Document Cloud, si adatta alle esigenze della tua organizzazione con integrazioni, API, autenticazione avanzata, funzionalità di amministrazione aggiuntive e altro ancora. Qui puoi trovare un’ampia gamma di esperienze di apprendimento progettate per portare rapidamente a portata di mano sia principianti che amministratori su Acrobat Sign.
+Acrobat Sign, una soluzione Adobe Document Cloud, è scalabile per soddisfare le esigenze della tua organizzazione con integrazioni, API, autenticazione avanzata, funzionalità di amministrazione aggiuntive e altro ancora. Qui puoi trovare un&#39;ampia gamma di esperienze di apprendimento progettate per portare rapidamente sia i principianti che gli amministratori alla velocità su Acrobat Sign.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -42,7 +43,7 @@ Acrobat Sign, una soluzione Adobe Document Cloud, si adatta alle esigenze della 
   </td>  
   <td>
     <a href="admin/intro-admin-overview.md">
-      <img alt="Amministrare" src="assets/AS_Title_Administer.png" />
+      <img alt="Amministrazione" src="assets/AS_Title_Administer.png" />
     </a>
   </td>
   <td>
@@ -64,7 +65,7 @@ Acrobat Sign, una soluzione Adobe Document Cloud, si adatta alle esigenze della 
   </td>
   <td>
     <a href="develop/develop-overview.md">
-      <img alt="Sviluppare" src="assets/AS_Title_Develop.png" />
+      <img alt="Sviluppo" src="assets/AS_Title_Develop.png" />
     </a>
   </td>
    <td>

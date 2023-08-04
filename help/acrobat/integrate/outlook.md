@@ -1,27 +1,28 @@
 ---
-title: Converti messaggi e-mail e allegati in PDF [!DNL Outlook]
-description: Scopri come distribuire le informazioni in modo più professionale e sicuro all'interno di [!DNL Outlook]
+title: Converti messaggi e allegati di posta elettronica in PDF in [!DNL Outlook]
+description: Scoprite come fornire informazioni in modo più professionale e sicuro all'interno di [!DNL Outlook]
+feature: Integrations
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-8494.jpg
 jira: KT-8494
+thumbnail: KT-8494.jpg
 exl-id: 8876c886-fe3a-4a51-91c7-0aac0ee4ada7
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-# Convertire messaggi e allegati e-mail in PDF [!DNL Outlook]
+# Convertire messaggi e allegati di posta elettronica in PDF in [!DNL Outlook]
 
-Scoprite come archiviare i messaggi e-mail e gli allegati in PDF [!DNL Outlook] per i tuoi progetti. Scopri come distribuire le informazioni in modo più professionale e sicuro convertendo automaticamente gli allegati in PDF. Questo strumento è disponibile solo per Windows.
+Scopri come archiviare i messaggi e-mail e gli allegati in PDF in [!DNL Outlook] per i tuoi progetti. Impara a fornire informazioni in modo più professionale e sicuro convertendo automaticamente gli allegati in PDF. Questo strumento è disponibile solo per Windows.
 
 >[!TIP]
 >
->Dai un&#39;occhiata a questi altri Microsoft [integrazioni](../integrate/integrate-overview.md#microsoft).
+>Scopri questi altri Microsoft [integrazioni](../integrate/integrate-overview.md#microsoft).
 
 <br> 
 
@@ -29,4 +30,4 @@ Scoprite come archiviare i messaggi e-mail e gli allegati in PDF [!DNL Outlook] 
 
 >[!TIP]
 >
->Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponibile gratuitamente ad Experience League!
+>Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) questo è disponibile gratuitamente su Experience League!
