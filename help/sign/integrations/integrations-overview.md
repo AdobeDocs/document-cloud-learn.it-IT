@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 09999a6a30fd97b796f97a4ed8860162d5e93579
+source-git-commit: 1da6eaba52a01164c487f93a0b729cb2f8fc56bf
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Puoi utilizzare Acrobat Sign in altre applicazioni già utilizzate dalla tua org
 ## Novità
 
 * [Microsoft Dynamics 365 per Field Service](dynamics-field-service.md)
-Scopri come utilizzare Acrobat Sign, [!DNL Power Automate]e [!DNL Microsoft Dynamics 365] per l&#39;assistenza sul campo vengono utilizzati per semplificare gli interventi in loco dei clienti.
+Scopri come utilizzare Acrobat Sign, [!DNL Power Automate]e [!DNL Microsoft Dynamics 365] per l&#39;assistenza sul campo vengono utilizzati per semplificare gli interventi in loco dei clienti
 * [Microsoft Dynamics 365 per il servizio clienti](dynamics-customer-service.md)
 Scopri come Acrobat Sign e [!DNL Microsoft Dynamics 365] per il servizio clienti vengono utilizzati per migliorare la soddisfazione dei clienti su un portale Web self-service per i clienti
 * [Integrare un modulo Web con [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
