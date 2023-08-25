@@ -1,14 +1,14 @@
 ---
 title: Microsoft Dynamics 365 per Field Service
-description: Scopri come utilizzare Acrobat Sign, [!DNL Power Automate], and [!DNL Microsoft Dynamics 365] per l'assistenza sul campo vengono utilizzati per semplificare gli interventi in loco dei clienti.
+description: Scopri come utilizzare Acrobat Sign, [!DNL Power Automate], and [!DNL Microsoft Dynamics 365] per l'assistenza sul campo vengono utilizzati per semplificare gli interventi in loco dei clienti
 feature: Integrations
-role: Admin, User
+role: User
 level: Intermediate
 topic: Integrations
 jira: KT-13723
-source-git-commit: 09999a6a30fd97b796f97a4ed8860162d5e93579
+source-git-commit: 0838027300c9d15a20af03b7d49f190acb6256ec
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '39'
 ht-degree: 0%
 
 ---
