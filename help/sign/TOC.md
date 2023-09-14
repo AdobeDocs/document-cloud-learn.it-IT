@@ -11,9 +11,9 @@ breadcrumb-title: Acrobat Sign Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
-source-git-commit: 4b689ca7c360fefff845be799e548b69748304c0
+source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '532'
 ht-degree: 10%
 
 ---
@@ -107,6 +107,7 @@ ht-degree: 10%
       + [Archiviazione automatica dei file in [!DNL SharePoint] con [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Automazione dei documenti con Acrobat Sign per [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [Invia per firma in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [Crea un flusso di lavoro semplice in [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
       + [[!DNL Microsoft Dynamics 365] per il servizio clienti](integrations/dynamics-customer-service.md)
       + [[!DNL Microsoft Dynamics 365] per Assistenza sul campo](integrations/dynamics-field-service.md)
       + [[!DNL Microsoft Dynamics 365] per le vendite](integrations/dynamics-sales.md)

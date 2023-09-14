@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
+source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -28,14 +28,13 @@ Puoi utilizzare Acrobat Sign in altre applicazioni già utilizzate dalla tua org
 
 ## Novità
 
+* [Crea un flusso di lavoro semplice con [!DNL Power Automate]](simple-workflow-power-automate.md)
+Scopri come creare un flusso di lavoro semplice utilizzando [!DNL Power Automate] connettori
 * [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
 Scopri come Acrobat Sign e [!DNL Microsoft Dynamics 365] for Sales vengono utilizzati per automatizzare il processo di firma delle offerte di vendita
 * [Microsoft Dynamics 365 per Field Service](dynamics-field-service.md)
 Scopri come utilizzare Acrobat Sign, [!DNL Power Automate]e [!DNL Microsoft Dynamics 365] per l&#39;assistenza sul campo vengono utilizzati per semplificare gli interventi in loco dei clienti
-* [Microsoft Dynamics 365 per il servizio clienti](dynamics-customer-service.md)
-Scopri come Acrobat Sign e [!DNL Microsoft Dynamics 365] per il servizio clienti vengono utilizzati per migliorare la soddisfazione dei clienti su un portale Web self-service per i clienti
-* [Integrare un modulo Web con [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
-Scopri come mappare i dati raccolti da un modulo Web in un [!DNL SharePoint] elenco
+
 
 ## Esercitazioni sulle integrazioni Microsoft
 
@@ -126,6 +125,16 @@ Scopri come mappare i dati raccolti da un modulo Web in un [!DNL SharePoint] ele
 </tr>
 <tr>
   <td>
+    <a href="simple-workflow-power-automate.md">
+      <img alt="Crea un flusso di lavoro semplice con Power Automate" src="../assets/simple-workflow.png" />
+    </a>
+    <div>
+    <a href="simple-workflow-power-automate.md"><strong>Crea un flusso di lavoro semplice con Power Automate</strong></a>
+    </div>
+    <em>Scopri come creare un flusso di lavoro semplice utilizzando [!DNL Power Automate] connettori</em>
+    <br>
+  </td>
+  <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 per il servizio clienti" src="../assets/Dynamics-customer-service.png" />
     </a>
@@ -153,11 +162,6 @@ Scopri come mappare i dati raccolti da un modulo Web in un [!DNL SharePoint] ele
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>Scopri come Acrobat Sign e [!DNL Microsoft Dynamics 365] for Sales vengono utilizzati per automatizzare il processo di firma delle offerte di vendita</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
