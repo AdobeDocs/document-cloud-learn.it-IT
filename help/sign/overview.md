@@ -7,16 +7,14 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '87'
 ht-degree: 5%
 
 ---
 
 # Esercitazioni per Acrobat Sign
-
-![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
 Acrobat Sign, una soluzione Adobe Document Cloud, è scalabile per soddisfare le esigenze della tua organizzazione con integrazioni, API, autenticazione avanzata, funzionalità di amministrazione aggiuntive e altro ancora. Qui puoi trovare un&#39;ampia gamma di esperienze di apprendimento progettate per portare rapidamente sia i principianti che gli amministratori alla velocità su Acrobat Sign.
 

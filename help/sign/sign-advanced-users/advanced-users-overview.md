@@ -7,16 +7,14 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '427'
 ht-degree: 3%
 
 ---
 
 # Panoramica delle attività avanzate
-
-![Immagine avanzata di Sign](../assets/Hero-Advanced.png)
 
 Scopri come inviare un documento per la firma a 100 destinatari contemporaneamente, impostare un documento pronto per la firma per il tuo sito Web, gestire le transazioni di firma e creare e gestire i modelli di documento. Questi tutorial sono rivolti a chiunque abbia già familiarità con le nozioni di base sull’invio e la richiesta di firme e desideri scoprire altri modi in cui Acrobat Sign può funzionare per loro.
 

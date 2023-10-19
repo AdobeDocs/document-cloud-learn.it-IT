@@ -7,16 +7,14 @@ level: Beginner, Intermediate
 jira: KT-8493
 thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
 
 # Panoramica di Acrobat per 60 secondi
-
-![Immagine Acrobat di 60 secondi](../assets/Hero-60sec.png)
 
 Acrobat di 60 secondi offre esercitazioni della dimensione di un morso per aiutarti a imparare un nuovo trucco in Acrobat in un minuto o meno. Questi suggerimenti basati sulle attività consentono di acquisire nuove competenze per lavorare con i file PDF sbloccando alcune delle perle nascoste di Acrobat. Potete guardarne uno per ottenere una risposta rapida, oppure guardarne cinque per aumentare la produttività del documento, pur avendo il tempo di assaporare la pausa caffè.
 

@@ -7,16 +7,14 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '465'
 ht-degree: 5%
 
 ---
 
 # Panoramica della Guida introduttiva
-
-![Immagine introduttiva di Sign](../assets/Hero-GettingStarted.png)
 
 Scopri come inviare, firmare e monitorare i documenti con queste brevi esercitazioni guidate. Avvia un rapido tour di Acrobat Sign e invia un documento a una o più persone. Questo contenuto è progettato per semplificare i flussi di lavoro di firma elettronica.
 
@@ -25,7 +23,7 @@ Scopri come inviare, firmare e monitorare i documenti con queste brevi esercitaz
 * [Guida introduttiva ad Acrobat Sign](new-sender.md)
 È la prima volta che usi Acrobat Sign? Questo tutorial è un ottimo punto di partenza.
 * [Impostare scadenze e promemoria](set-deadlines-reminders.md)
-Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmare i tuoi documenti rapidamente
+Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmare rapidamente i tuoi documenti
 
 ## Invio
 
@@ -122,7 +120,7 @@ Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmar
       <div>
       <a href="set-deadlines-reminders.md"><strong>Impostare scadenze e promemoria</strong></a>
       </div>
-      <em>Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmare i tuoi documenti rapidamente</em>
+      <em>Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmare rapidamente i tuoi documenti</em>
       <br>
     </td> 
   <td>

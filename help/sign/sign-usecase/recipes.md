@@ -8,16 +8,14 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
 
 # Ricette Use Case
-
-![Banner Use Case](../assets/Hero-Recipe.png)
 
 Velocizza i flussi di lavoro digitali della tua organizzazione con questi esempi di firma elettronica per enti pubblici e commerciali. Fai clic per visualizzare un PDF con risorse e dettagli su come impostare questi casi d&#39;uso specifici per la firma elettronica.
 
@@ -28,7 +26,7 @@ Scopri come utilizzare Progettazione flussi di lavoro personalizzati per digital
 * [Applicazione di stage per moduli web per l’istruzione](usecase-edu-intern.md)
 Scopri come utilizzare i moduli Web per migliorare l’accesso degli studenti ai moduli richiesti
 * [Creare un’applicazione di stage per moduli web didattici](usecase-edu-intern-create.md)
-Scopri come creare un modulo Web per stage
+Scopri come creare un modulo web per stage
 * [Richiesta di prestito governativo con più firmatari sconosciuti](webform-multiple-signers.md)
 Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’applicazione di un prestito pubblico che coinvolge più partecipanti sconosciuti
 
@@ -179,7 +177,7 @@ Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’a
     <div>
     <a href="usecase-edu-intern-create.md"><strong>Creare un’applicazione di stage per moduli web didattici</strong></a>
     </div>
-    <em>Scopri come creare un modulo Web per stage</em>
+    <em>Scopri come creare un modulo web per stage</em>
     <br>
   </td> 
   <td>

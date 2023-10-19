@@ -8,16 +8,14 @@ jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '741'
 ht-degree: 0%
 
 ---
 
 # Presentazione di casi d&#39;uso
-
-![banner use case](../assets/UCSC_Rebrand.png)
 
 La presentazione dei casi d&#39;uso è una sessione in streaming in diretta che introduce nuovi casi d&#39;uso e tendenze di Acrobat Sign e mostra come la tua organizzazione può implementarli e trarne vantaggio. Ogni mese viene evidenziato un nuovo argomento.
 

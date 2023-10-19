@@ -7,16 +7,14 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '364'
 ht-degree: 2%
 
 ---
 
 # Panoramica delle attività avanzate
-
-![Immagine introduttiva di Acrobat](../assets/Hero-AdvancedTasks.png)
 
 Scopri le nozioni di base di questi strumenti avanzati di Acrobat. Scopri come creare un&#39;azione per ripetere attività ordinarie, rimuovere informazioni riservate, ridurre e ottimizzare i file di grandi dimensioni, raccogliere rapidamente i dati dei moduli e creare file PDF universalmente accessibili.
 

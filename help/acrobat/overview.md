@@ -7,16 +7,14 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6864
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 6%
+source-wordcount: '70'
+ht-degree: 7%
 
 ---
 
 # Esercitazioni per Acrobat
-
-![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
 Adobe Acrobat, una soluzione Adobe Document Cloud, aiuta le aziende a muoversi convertendo, modificando, condividendo e firmando i PDF. Qui troverai un&#39;ampia gamma di esperienze di apprendimento progettate per portare rapidamente all&#39;avanguardia sia i principianti che gli utenti avanzati su Adobe Acrobat.
 

@@ -8,16 +8,14 @@ topic-revisit: mobile
 jira: KT-6863
 thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '221'
 ht-degree: 2%
 
 ---
 
 # Cenni preliminari sui dispositivi mobili
-
-![Immagine Acrobat per dispositivi mobili](../assets/Hero-Mobile.png)
 
 Creare, riempire e [PDF di firma](https://www.adobe.com/it/acrobat/online/sign-pdf.html){target="_blank"}  sul tuo dispositivo mobile.
 

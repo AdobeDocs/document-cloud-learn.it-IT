@@ -8,16 +8,14 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 1%
+source-wordcount: '486'
+ht-degree: 2%
 
 ---
 
 # Panoramica sugli amministratori
-
-![Immagine Amministratori Sign](../assets/Hero-Admin.png)
 
 Scopri come aggiungere utenti all’account, configurare gruppi, condividere l’accesso e configurare un flusso di lavoro, un archivio esterno ed eventi e avvisi condivisi. Queste esercitazioni sono progettate per gli amministratori che hanno superato la fase di installazione e sono pronti per iniziare ad amministrare Acrobat Sign. Le attività avanzate includono argomenti che si estendono oltre la configurazione dell&#39;amministratore e passano alla definizione delle impostazioni globali, all&#39;accesso e alla condivisione dell&#39;account e all&#39;assegnazione di tag di testo.
 
