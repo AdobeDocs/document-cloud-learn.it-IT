@@ -5,9 +5,9 @@ breadcrumb-title: Acrobat Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 6%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 6%
    + [Organizza pagine](getting-started/organize.md)
    + [Aggiungi pagina personalizzata](getting-started/add-custom-page.md)
    + [Modifica un PDF](getting-started/edit-pdf.md)
+   + [Stilizza questo PDF](getting-started/stylize-this-PDF.md)
    + [Adatta layout](getting-started/auto-adjust-layout.md)
    + [Esportare un PDF in formati modificabili](getting-started/export-pdf.md)
    + [Collabora in tempo reale](getting-started/collaborate.md)

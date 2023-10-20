@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '543'
 ht-degree: 5%
 
 ---
@@ -20,10 +20,10 @@ Scopri come iniziare a utilizzare Adobe Acrobat tramite queste brevi esercitazio
 
 ## Novità
 
+* [Stilizza questo PDF](stylize-this-PDF.md)
+Scoprite come creare PDF dall&#39;aspetto professionale con gli strumenti di progettazione integrati facili da usare in Adobi Express
 * [Lavora ovunque ti trovi con Acrobat Web](acrobatweb.md)
 Scopri come gestire le richieste di documenti aziendali ovunque ti trovi utilizzando gli strumenti Web di Acrobat nel tuo browser
-* [Collabora in tempo reale](collaborate.md)
-Porta avanti i tuoi progetti raccogliendo commenti, collaborando sulle risposte e monitorando l&#39;avanzamento dei tuoi documenti, tutto in tempo reale, da qualsiasi luogo
 
 ## Esercitazioni introduttive
 
@@ -166,6 +166,16 @@ Porta avanti i tuoi progetti raccogliendo commenti, collaborando sulle risposte 
       <br>
     </td>
     <td>
+      <a href="stylize-this-PDF.md">
+        <img alt="Stilizza questo PDF" src="../assets/Stylize.png" />
+      </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>Stilizza questo PDF</strong></a>
+      </div>
+      <em>Scopri la nuova modalità di modifica per la regolazione automatica dei contenuti</em>
+      <br>
+    </td>
+   <td>
       <a href="auto-adjust-layout.md">
         <img alt="Adatta layout" src="../assets/Autoadjust.png" />
       </a>
@@ -183,11 +193,6 @@ Porta avanti i tuoi progetti raccogliendo commenti, collaborando sulle risposte 
       <a href="export-pdf.md"><strong>Esportare un PDF in formati modificabili</strong></a>
       </div>
       <em>Scopri come esportare i file PDF in formati modificabili</em>
-      <br>
-    </td>
-    <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-      <div>
       <br>
     </td>
   </tr>
