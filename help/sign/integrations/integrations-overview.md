@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 6d7d37621489f4799b619034b76c4751293ee654
 workflow-type: tm+mt
-source-wordcount: '739'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Puoi utilizzare Acrobat Sign in altre applicazioni già utilizzate dalla tua org
 
 ## Novità
 
+* [Crea un flusso di lavoro avanzato con [!DNL Power Automate]](advanced-workflow-power-automate.md)
+Scopri come creare un flusso di lavoro avanzato utilizzando [!DNL Power Automate] connettori
 * [Crea un flusso di lavoro semplice con [!DNL Power Automate]](simple-workflow-power-automate.md)
 Scopri come creare un flusso di lavoro semplice utilizzando [!DNL Power Automate] connettori
 * [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
 Scopri come Acrobat Sign e [!DNL Microsoft Dynamics 365] for Sales vengono utilizzati per automatizzare il processo di firma delle offerte di vendita
-* [Microsoft Dynamics 365 per Field Service](dynamics-field-service.md)
-Scopri come utilizzare Acrobat Sign, [!DNL Power Automate]e [!DNL Microsoft Dynamics 365] per l&#39;assistenza sul campo vengono utilizzati per semplificare gli interventi in loco dei clienti
 
 
 ## Esercitazioni sulle integrazioni Microsoft
@@ -133,6 +133,16 @@ Scopri come utilizzare Acrobat Sign, [!DNL Power Automate]e [!DNL Microsoft Dyna
     <br>
   </td>
   <td>
+    <a href="advanced-workflow-power-automate.md">
+      <img alt="Crea un flusso di lavoro avanzato con Power Automate" src="../assets/advanced-workflow.png" />
+    </a>
+    <div>
+    <a href="advanced-workflow-power-automate.md"><strong>Crea un flusso di lavoro avanzato con Power Automate</strong></a>
+    </div>
+    <em>Scopri come creare un flusso di lavoro avanzato utilizzando [!DNL Power Automate] connettori</em>
+    <br>
+  </td>
+  <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 per il servizio clienti" src="../assets/Dynamics-customer-service.png" />
     </a>
@@ -152,6 +162,7 @@ Scopri come utilizzare Acrobat Sign, [!DNL Power Automate]e [!DNL Microsoft Dyna
     <em>Scopri come utilizzare Acrobat Sign, [!DNL Power Automate]e [!DNL Microsoft Dynamics 365] per l'assistenza sul campo vengono utilizzati per semplificare gli interventi in loco dei clienti</em>
     <br>
   </td>
+<tr>  
   <td>
     <a href="dynamics-sales.md">
       <img alt="Microsoft Dynamics 365 for Sales" src="../assets/Dynamics-sales.png" />
@@ -160,6 +171,21 @@ Scopri come utilizzare Acrobat Sign, [!DNL Power Automate]e [!DNL Microsoft Dyna
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>Scopri come Acrobat Sign e [!DNL Microsoft Dynamics 365] for Sales vengono utilizzati per automatizzare il processo di firma delle offerte di vendita</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
