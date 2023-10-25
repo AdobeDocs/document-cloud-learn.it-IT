@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-5299
 thumbnail: 33810.jpg
 exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ Fornisci assistenza rapida alle aziende fornendo accesso self-service ai moduli 
 
 >[!VIDEO](https://video.tv.adobe.com/v/33810?quality=12&learn=on&hidetitle=true)
 
-Fai clic per scaricare la ricetta PDF dettagliata per sovvenzioni e prestiti aziendali.
+Seleziona per scaricare o aprire una ricetta PDF dettagliata per sovvenzioni e prestiti aziendali.
 
 [![Scarica ricetta PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)

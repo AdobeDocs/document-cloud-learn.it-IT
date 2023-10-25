@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-5296
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ Raccogli in modo efficiente le firme di tutti i tuoi dipendenti in merito agli a
 
 >[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
 
-Fai clic per scaricare la ricetta PDF dettagliata per gli accordi sui criteri.
+Seleziona questa opzione per scaricare o aprire una ricetta PDF dettagliata per gli accordi sui criteri.
 
 [![Scarica ricetta PDF](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)

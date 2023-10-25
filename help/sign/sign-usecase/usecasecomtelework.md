@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-5295
 thumbnail: 33978.jpg
 exl-id: 502f65db-8dd4-4f21-a7da-8aaf237ac224
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ Scopri come raccogliere in modo efficiente le firme di tutti i tuoi dipendenti s
 
 >[!VIDEO](https://video.tv.adobe.com/v/33978?quality=12&learn=on&hidetitle=true)
 
-Fai clic per scaricare la ricetta PDF dettagliata per gli accordi in telelavoro.
+Seleziona questa opzione per scaricare o aprire una ricetta PDF dettagliata per gli accordi in telelavoro.
 
 [![Scarica ricetta PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)
