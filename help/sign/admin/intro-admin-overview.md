@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '486'
-ht-degree: 2%
+source-wordcount: '503'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,8 @@ Scopri come aggiungere utenti all’account, configurare gruppi, condividere l�
 
 ## Novità
 
+* [Invia in modalità collettiva](../sign-advanced-users/megasign.md)
+Scopri come raccogliere migliaia di firme contemporaneamente per qualsiasi documento in pochi passaggi
 * [Opzioni report](report-options.md)
 Scopri come impostare le opzioni di report per gli utenti
 * [Aggiunta di utenti](add-users-to-your-account.md)
@@ -146,12 +148,12 @@ Scopri come aggiungere e gestire gli utenti per Acrobat Sign
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="Inviare e raccogliere le firme in modalità collettiva" src="../assets/Megasign.png" />
+      <img alt="Inviare in modalità collettiva" src="../assets/send-in-bulk.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Inviare e raccogliere le firme in modalità collettiva</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Inviare in modalità collettiva</strong></a>
     </div>
-    <em>Raccogli centinaia di firme contemporaneamente per qualsiasi documento</em>
+    <em>Raccogli migliaia di firme contemporaneamente per qualsiasi documento</em>
     <br>
   </td>
 </tr>

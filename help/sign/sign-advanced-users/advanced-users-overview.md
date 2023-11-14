@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 3%
+source-wordcount: '428'
+ht-degree: 5%
 
 ---
 
@@ -20,12 +20,12 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
 
 ## Novità
 
+* [Invia in modalità collettiva](megasign.md)
+Scopri come raccogliere migliaia di firme contemporaneamente per qualsiasi documento in pochi passaggi
 * [Metodi di autenticazione in Acrobat Sign](authentication-methods.md)
 Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identità di chi firma un documento
-* [Impostare i pagamenti online](set-up-online-payments.md)
-Scopri come impostare e accettare pagamenti online nei tuoi documenti
 
-## Invio
+## Invia
 
 <table style="table-layout:fixed">
 <tr>
@@ -93,12 +93,12 @@ Scopri come impostare e accettare pagamenti online nei tuoi documenti
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="Inviare e raccogliere le firme in modalità collettiva" src="../assets/Megasign.png" />
+        <img alt="Inviare in modalità collettiva" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>Inviare e raccogliere le firme in modalità collettiva</strong></a>
+      <a href="megasign.md"><strong>Inviare in modalità collettiva</strong></a>
       </div>
-      <em>Raccogli centinaia di firme contemporaneamente per qualsiasi documento in pochi passaggi</em>
+      <em>Raccogli migliaia di firme contemporaneamente per qualsiasi documento in pochi passaggi</em>
       <br>
   </td>
  <td>
@@ -146,7 +146,7 @@ Scopri come impostare e accettare pagamenti online nei tuoi documenti
 </tr>
 </table>
 
-## Gestione
+## Gestisci
 
 <table style="table-layout:fixed">
 <tr>
