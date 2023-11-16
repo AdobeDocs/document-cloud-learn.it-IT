@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
+source-git-commit: 580ab332226b408d735639342bd3f6b96323a9b3
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '182'
 ht-degree: 3%
 
 ---
 
 # Inviare in modalità collettiva
 
-Scopri come inviare e raccogliere centinaia di firme in pochi semplici passaggi, risparmiando ore di tempo all’organizzazione. Ogni persona deve firmare un proprio documento ed è possibile tenere traccia dell&#39;avanzamento di ogni singolo documento inviato, in modo da sapere esattamente a chi o a chi non ha firmato. Ogni firma online acquisita è sicura, protetta e legalmente valida.
+Scopri come inviare e raccogliere centinaia di firme (fino a 1.000 destinatari per ogni invio in modalità collettiva) in pochi semplici passaggi, risparmiando tempo all’organizzazione. Ogni persona deve firmare un proprio documento ed è possibile tenere traccia dell&#39;avanzamento di ogni singolo documento inviato, in modo da sapere esattamente a chi o a chi non ha firmato. Ogni firma online acquisita è sicura, protetta e legalmente valida.
 
 [!BADGE Casi di utilizzo]
 
