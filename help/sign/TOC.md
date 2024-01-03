@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: cee496745a920f2ce06e02829aa9ecfec72f32c1
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 11%
+source-wordcount: '508'
+ht-degree: 7%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 11%
 # Acrobat Sign Tutorials {#sign-learning-hub}
 
 + [Panoramica](overview.md)
-+ Introduzione {#getting-started}
++ Guida introduttiva {#getting-started}
    + [Panoramica](sign-beginner-tutorials/beginner-users-overview.md)
    + Invia {#getting-started-sending}
       + [Nozioni di base sull’area di lavoro](sign-beginner-tutorials/quick-tour.md)
@@ -35,7 +35,7 @@ ht-degree: 11%
       + [Modifica di un documento dopo l’invio](sign-beginner-tutorials/modify-in-flight.md)
       + [Sostituzione di un firmatario](sign-beginner-tutorials/replace-signer.md)
       + [Impostare scadenze e promemoria](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + Sign {#getting-started-signing}
+   + Firma {#getting-started-signing}
       + [Firma elettronica di un documento](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Compilazione e firma di un documento](sign-beginner-tutorials/fill-and-sign.md)
       + [Ottenere una firma di persona](sign-beginner-tutorials/sign-in-person.md)
@@ -54,7 +54,7 @@ ht-degree: 11%
       + [Metodi di autenticazione in Acrobat Sign](sign-advanced-users/authentication-methods.md)
       + [Gestire i dati del modulo](sign-advanced-users/manage-form-data.md)
       + [Impostare i pagamenti online](sign-advanced-users/set-up-online-payments.md)
-      + [Inviare in modalità collettiva](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Invia in modalità collettiva](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Creazione di un modulo Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Applicazione di tag al testo in Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Utilizzo dei tag di testo in [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
@@ -65,7 +65,7 @@ ht-degree: 11%
       + [Gestione dei dati dei moduli Web](sign-advanced-users/manage-webform-data.md)
 + Amministrazione {#admin-set-up}
    + [Panoramica](admin/intro-admin-overview.md)
-   + Introduzione {#getting-started-admin}
+   + Guida introduttiva {#getting-started-admin}
       + [Guida introduttiva per nuovi amministratori](admin/get-started-admin.md)
       + [Disponibile e funzionante per gli amministratori](admin/up-and-running-admin.md)
       + [Configurare le notifiche per eventi e avvisi](admin/set-up-shared-events-and-alert.md)
@@ -77,7 +77,7 @@ ht-degree: 11%
       + [Opzioni report per gli utenti](admin/report-options.md)
       + [Creazione di un modulo Web](sign-advanced-users/webform.md)
       + [Modificare un modulo Web esistente](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
-      + [Inviare in modalità collettiva](sign-advanced-users/megasign.md)
+      + [Invia in modalità collettiva](sign-advanced-users/megasign.md)
       + [Creazione di un flusso di lavoro personalizzato](admin/building-a-custom-workflow.md)
    + Attività avanzate {#advanced-tasks-admins}
       + [Impostazioni globali](admin/learn-about-global-settings.md)
@@ -135,9 +135,9 @@ ht-degree: 11%
    + [Panoramica](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
       + [Webinar](sign-usecase/innovation-series.md)
-   + Ricette Use Case {#recipes}
+   + Casi di utilizzo {#recipes}
       + [Panoramica](sign-usecase/recipes.md)
-      + Pubblica Amministrazione {#gov}
+      + Enti pubblici {#gov}
          + [Richiesta di prestito governativo con più firmatari sconosciuti](sign-usecase/webform-multiple-signers.md)
          + [Sovvenzioni e prestiti alle imprese](sign-usecase/usecasegovgrants.md)
          + [Accordo sul telelavoro](sign-usecase/usecasegovtelework.md)
@@ -149,7 +149,7 @@ ht-degree: 11%
          + [Contratti e moduli di richiesta](sign-usecase/usecasecomcontracts.md)
          + [Accordi sulle policy](sign-usecase/usecasecompolicy.md)
          + [Accordo sul telelavoro](sign-usecase/usecasecomtelework.md)
-      + Education {#edu}
+      + Istruzione {#edu}
          + [Applicazione di stage per moduli web per l’istruzione](sign-usecase/usecase-edu-intern.md)
          + [Creare un’applicazione di stage per moduli web didattici](sign-usecase/usecase-edu-intern-create.md)
          + [Flusso di lavoro personalizzato per il processo IEP dell’istruzione](sign-usecase/usecase-edu-iep.md)
@@ -162,7 +162,7 @@ ht-degree: 11%
       + [Creare esperienze incorporate di firma elettronica e di creazione di documenti](develop/embeddedesignature.md)
 + Distribuisci {#deploy}
    + [Panoramica](deploy-overview.md)
-+ Mobile {#mobile}
++ Dispositivi mobili {#mobile}
    + [Panoramica](mobile/mobile-overview.md)
    + Esercitazioni per dispositivi mobili {#mobile-tutorials}
       + [Firma i documenti ovunque ti trovi](mobile/sign-mobile.md)
