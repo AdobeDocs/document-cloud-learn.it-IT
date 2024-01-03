@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-8496
 thumbnail: KT-8496.jpg
 exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -18,12 +18,18 @@ ht-degree: 0%
 
 Non commettere mai l&#39;errore di utilizzare la versione sbagliata di un file. Rileva in modo rapido e preciso le differenze tra due file PDF per migliorare i flussi di lavoro di revisione dei documenti.
 
->[!NOTE]
->
->Disponibile solo in Acrobat Pro.
+[!BADGE Casi di utilizzo]
+Applicazioni, Materiale collaterale, Schede tecniche, Manuali, Politiche, Rapporti, Richiesta di acquisto (RFP)
+
+[!BADGE Impatto sull&#39;organizzazione]
+Risparmio sui costi, efficienza dell&#39;organizzazione, risparmio di tempo, garanzia della qualità
 
 >[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) questo è disponibile gratuitamente su Experience League!
+Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) questo è disponibile gratuitamente su Experience League!
+
+>[!NOTE]
+>
+Disponibile solo in Acrobat Pro.

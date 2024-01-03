@@ -1,5 +1,5 @@
 ---
-title: Ricette Use Case
+title: Casi di utilizzo
 description: Velocizza i flussi di lavoro digitali della tua organizzazione con questi esempi di firma elettronica per enti pubblici e commerciali
 feature: Use Cases
 role: User
@@ -8,16 +8,16 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
 
-# Ricette Use Case
+# Casi di utilizzo
 
-Velocizza i flussi di lavoro digitali della tua organizzazione con questi esempi di firma elettronica per enti pubblici e commerciali. Fai clic per visualizzare un PDF con risorse e dettagli su come impostare questi casi d&#39;uso specifici per la firma elettronica.
+Scopri come le varie organizzazioni utilizzano Acrobat Sign per trasformare i flussi di lavoro digitali della propria organizzazione con questi casi d&#39;uso reali.
 
 ## Novità
 
