@@ -7,9 +7,9 @@ role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: ae50de493d898a6997df19b8069efb036c0cd0a4
+source-git-commit: ec5e2b5a185108c242b6a26d585a92624c380c78
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '1015'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,17 @@ Le sessioni di Adobe Acrobat Skill Builder della durata di 30 minuti sono proget
 
 **[Scopri 6 strumenti essenziali di Adobe Acrobat](https://www.adobe.com/documentcloud/webinars/discover-6-essential-adobe-acrobat-tools.html){target="_blank"}**
 Data: 24 gennaio 2024 Scopri cosa dicono i report del settore sulle principali tendenze nel mondo del lavoro digitale e come Acrobat consolida facilmente i flussi di lavoro basati su documenti per risparmiare tempo prezioso a ogni team.
-Verrà illustrato come:
+Scopri come:
 
 * Navigazione fluida di Acrobat su più superfici
 * Combina e modifica facilmente i documenti
 * Collabora senza problemi, anche in Microsoft Teams
 * Documenti Protect con protezione di livello superiore
-* CQualifica i documenti da inviare e firmare elettronicamente
+* Invia e firma rapidamente i documenti
 
 **[Guida Introduttiva Ad Adobe Acrobat](https://www.adobe.com/documentcloud/webinars/get-started-with-adobe-acrobat.html){target="_blank"}**
 Data: 18 gennaio 2024 Scopri come Adobe Acrobat esegue il pesante sollevamento delle attività quotidiane sui documenti per supportare le attività aziendali veloci e sicure.
-Imparerai come:
+Scopri come:
 
 * Navigazione fluida di Acrobat su più superfici
 * Combina e modifica rapidamente i documenti
@@ -41,7 +41,7 @@ Imparerai come:
 * Creare flussi di lavoro per firma elettronica facili da gestire con Adobe Acrobat Sign
 
 **[Automazione semplice con Action Wizard](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}**
-Data: 16 novembre 2023 Interrompi la ripetizione di semplici attività manuali. Questa sessione vi insegnerà come utilizzare l&#39;Action Wizard in Acrobat Pro per elaborare in batch i file PDF ed eseguire automaticamente attività seriali e ripetitive, come rendere i documenti accessibili, proteggere i documenti, ottimizzare i file, archiviare e altro ancora. Imparerai:
+Data: 16 novembre 2023 Interrompi la ripetizione di semplici attività manuali. Questa sessione vi insegnerà come utilizzare l&#39;Action Wizard in Acrobat Pro per elaborare in batch i file PDF ed eseguire automaticamente attività seriali e ripetitive, come rendere i documenti accessibili, proteggere i documenti, ottimizzare i file, archiviare e altro ancora. Scopri come:
 
 * Quali sono le azioni
 * Come utilizzare le azioni predefinite
