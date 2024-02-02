@@ -5,10 +5,11 @@ breadcrumb-title: Acrobat Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+auto-video-transcripts: true
+source-git-commit: 2cf300b9b6b73dcf76be74279cdee05afb4d52e3
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 6%
+source-wordcount: '471'
+ht-degree: 4%
 
 ---
 
@@ -16,7 +17,7 @@ ht-degree: 6%
 # Acrobat Tutorials {#acrobat-learning}
 
 + [Panoramica](overview.md)
-+ Introduzione {#getting-started}
++ Guida introduttiva {#getting-started}
    + [Panoramica](getting-started/getting-started-overview.md)
    + [Nozioni di base sull’area di lavoro](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Nuova esperienza area di lavoro](getting-started/new-workspace.md)
@@ -107,7 +108,7 @@ ht-degree: 6%
    + [Operazioni con i file da [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Settori e dipartimenti {#by-industry}
    + [Panoramica](industry/industry-overview.md)
-   + Pubblica Amministrazione {#gov}
+   + Enti pubblici {#gov}
       + [Panoramica](industry/gov/gov-overview.md)
       + 5 suggerimenti per lavorare ovunque con Acrobat {#tips}
          + [5 suggerimenti per lavorare ovunque con Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
@@ -127,7 +128,7 @@ ht-degree: 6%
 + Distribuisci {#deploy}
    + [Panoramica](deploy/deploy-overview.md)
    + [Aggiornamenti di prodotto Acrobat DC importanti per i clienti ETLA](deploy/signentitlementchanges.md)
-+ Mobile {#mobile}
++ Dispositivi mobili {#mobile}
    + [Panoramica](mobile/mobile-overview.md)
    + [Produttività ovunque ti trovi](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Acquisisci in PDF qualsiasi documento](mobile/scan-mobile-app.md)
