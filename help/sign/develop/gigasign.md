@@ -8,7 +8,7 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: bde9c284fcec330c0ebee29c6146c97cf66f96aa
+source-git-commit: ba9931920ab3bfb6ea38a92cac4a35da1d0295cd
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Gigasign consente di inviare, raccogliere e tenere traccia dei documenti da firm
 
 >[!IMPORTANT]
 >
->GigaSign non è più aggiornato alla versione più recente di Java o Acrobat Sign e avrà solo un supporto limitato. Le funzioni di GigaSign sono state aggiunte al prodotto nel [Invia in modalità collettiva](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?) funzionalità. Utilizza Invia in modalità collettiva per tutti i casi d&#39;uso che non richiedono esplicitamente l&#39;uso di GigaSign.
+>GigaSign non è più aggiornato alla versione più recente di Java o Acrobat Sign e avrà solo un supporto limitato. Le funzioni di GigaSign sono state aggiunte al prodotto nel [Invia in modalità collettiva](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?) funzionalità. Utilizza Invia in modalità collettiva per tutti i casi d&#39;uso che non richiedono esplicitamente l&#39;uso di GigaSign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
