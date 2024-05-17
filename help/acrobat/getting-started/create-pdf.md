@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-5526
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: e17e2c1550578dac2b477943e31b46d603d62e44
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 6%
+source-wordcount: '102'
+ht-degree: 0%
 
 ---
 
 # Creazione di un PDF
 
-Scopri come [creazione di PDF da tutti i diversi tipi di documenti](https://www.adobe.com/it/acrobat/online/convert-pdf.html). Inizia con un file creato in Microsoft Office o in un&#39;app Creative Cloud, oppure utilizza un&#39;immagine, una scansione o anche un sito Web.
+Scopri come [creazione di PDF da tutti i diversi tipi di documenti](https://www.adobe.com/it/acrobat/online/convert-pdf.html). Inizia con un file creato in Microsoft Office o in un&#39;app Creative Cloud, oppure utilizza un&#39;immagine, una scansione o anche un sito Web. La conversione dei contenuti in PDF rappresenta un metodo pratico e affidabile per condividere, conservare e proteggere i documenti mantenendo la formattazione originale. Questa esercitazione video utilizza [nuova esperienza area di lavoro](new-workspace.md).
 
 >[!TIP]
 >

@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 5%
+source-wordcount: '542'
+ht-degree: 2%
 
 ---
 
@@ -34,7 +34,7 @@ Scopri come gestire le richieste di documenti aziendali ovunque ti trovi utilizz
       <img alt="Nozioni di base sull’area di lavoro" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Nozioni di base sull’area di lavoro</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Nozioni di base sull'area di lavoro</strong></a>
     </div>
     <em>Scopri come l’area di lavoro di Acrobat semplifica l’accesso a file e strumenti da desktop, Web e dispositivi mobili</em>
     <br>
@@ -110,7 +110,7 @@ Scopri come gestire le richieste di documenti aziendali ovunque ti trovi utilizz
   <tr>
     <td>
       <a href="create-pdf.md">
-        <img alt="Creazione di file PDF" src="../assets/Create.jpg" />
+        <img alt="Creare file PDF" src="../assets/create.png" />
       </a>
       <div>
       <a href="create-pdf.md"><strong>Creazione di un PDF</strong></a>
@@ -133,7 +133,7 @@ Scopri come gestire le richieste di documenti aziendali ovunque ti trovi utilizz
         <img alt="Organizzare le pagine" src="../assets/Organize.png" />
       </a>
       <div>
-      <a href="organize.md"><strong>Organizzare le pagine</strong></a>
+      <a href="organize.md"><strong>Organizza pagine</strong></a>
       </div>
       <em>Aggiungi, sostituisci, estrai, ruota, elimina e ridisponi le pagine nel tuo PDF</em>
       <br>
@@ -160,7 +160,7 @@ Scopri come gestire le richieste di documenti aziendali ovunque ti trovi utilizz
         <img alt="Modifica un PDF" src="../assets/Edit.jpg" />
       </a>
       <div>
-      <a href="edit-pdf.md"><strong>Modifica un PDF</strong></a>
+      <a href="edit-pdf.md"><strong>Modificare un PDF</strong></a>
       </div>
       <em>Modificare testo e immagini nei file PDF</em>
       <br>
