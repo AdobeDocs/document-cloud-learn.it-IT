@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
+source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '534'
 ht-degree: 2%
 
 ---
@@ -20,10 +20,11 @@ Scopri come iniziare a utilizzare Adobe Acrobat tramite queste brevi esercitazio
 
 ## Novità
 
+* [Creazione di un PDF](create-pdf.md)
+Scopri come creare PDF da tutti i diversi tipi di documenti
+
 * [Stilizza questo PDF](stylize-this-PDF.md)
 Scoprite come creare PDF dall&#39;aspetto professionale con gli strumenti di progettazione integrati facili da usare in Adobi Express
-* [Lavora ovunque ti trovi con Acrobat Web](acrobatweb.md)
-Scopri come gestire le richieste di documenti aziendali ovunque ti trovi utilizzando gli strumenti Web di Acrobat nel tuo browser
 
 ## Esercitazioni introduttive
 
