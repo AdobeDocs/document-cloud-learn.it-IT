@@ -1,22 +1,22 @@
 ---
-title: Modifica un PDF
-description: Scopri come modificare testo e immagini nei file PDF
+title: Modificare il testo in un PDF
+description: Scopri come modificare parole, frasi o anche intere pagine nel tuo PDF
 feature: Edit PDF
 role: User
 level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 11%
+source-wordcount: '97'
+ht-degree: 0%
 
 ---
 
-# Modifica un PDF
+# Modificare il testo in un PDF
 
-Scopri come [modificare testo e immagini nei file PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"}. Fai clic o tocca per aggiungere un nuovo paragrafo o correggere un refuso. Puoi anche aggiungere immagini [o ritaglia una foto](https://www.adobe.com/acrobat/online/crop-pdf.html).
+Scopri come modificare parole, frasi o anche intere pagine nel tuo PDF. La modifica del testo direttamente in Acrobat consente di aggiornare i contenuti in modo accurato e professionale senza passare da un’app all’altra. Questa esercitazione video utilizza [nuova esperienza area di lavoro](new-workspace.md).
 
 >[!TIP]
 >

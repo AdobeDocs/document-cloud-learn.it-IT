@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
+source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 2%
+source-wordcount: '536'
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ Scopri come iniziare a utilizzare Adobe Acrobat tramite queste brevi esercitazio
 
 ## Novità
 
+* [Modificare il testo in un PDF](edit-pdf.md)
+Scopri come modificare parole, frasi o anche intere pagine nel tuo PDF
+
 * [Creazione di un PDF](create-pdf.md)
 Scopri come creare PDF da tutti i diversi tipi di documenti
-
-* [Stilizza questo PDF](stylize-this-PDF.md)
-Scoprite come creare PDF dall&#39;aspetto professionale con gli strumenti di progettazione integrati facili da usare in Adobi Express
 
 ## Esercitazioni introduttive
 
@@ -158,7 +158,7 @@ Scoprite come creare PDF dall&#39;aspetto professionale con gli strumenti di pro
   <tr>
     <td>
       <a href="edit-pdf.md">
-        <img alt="Modifica un PDF" src="../assets/Edit.jpg" />
+        <img alt="Modificare il testo in un PDF" src="../assets/edit-text.png" />
       </a>
       <div>
       <a href="edit-pdf.md"><strong>Modificare un PDF</strong></a>
