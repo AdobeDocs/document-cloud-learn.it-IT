@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 4%
@@ -32,7 +32,7 @@ ht-degree: 4%
    + [Modificare il testo in un PDF](getting-started/edit-pdf.md)
    + [Stilizza questo PDF](getting-started/stylize-this-PDF.md)
    + [Adatta layout](getting-started/auto-adjust-layout.md)
-   + [Esportare un PDF in formati modificabili](getting-started/export-pdf.md)
+   + [Convertire PDF in diversi formati di file](getting-started/export-pdf.md)
    + [Collabora in tempo reale](getting-started/collaborate.md)
    + [Commentare un PDF](getting-started/comment-on-pdf-files.md)
    + [Creare moduli compilabili](getting-started/create-fillable-forms.md)

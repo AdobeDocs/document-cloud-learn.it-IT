@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: e84363fee3a210b055396e9c524ee7080e1ef30f
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '567'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Scopri come iniziare a utilizzare Adobe Acrobat tramite queste brevi esercitazioni dettagliate. Dalla creazione di un documento alla protezione o [modifica dei file PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"}, questo contenuto è progettato per semplificare i flussi di lavoro PDF.
 
 ## Novità
+
+* [Convertire PDF in diversi formati di file](export-pdf.md)
+Scopri come convertire i file PDF in diversi formati di file, ad esempio Microsoft Word, Excel o PowerPoint
 
 * [Modificare il testo in un PDF](edit-pdf.md)
 Scopri come modificare parole, frasi o anche intere pagine nel tuo PDF
@@ -188,12 +191,12 @@ Scopri come creare PDF da tutti i diversi tipi di documenti
     </td>
     <td>
       <a href="export-pdf.md">
-        <img alt="Esportare un PDF in formati modificabili" src="../assets/Export.jpg" />
+        <img alt="Convertire PDF in diversi formati di file" src="../assets/convert.png" />
       </a>
       <div>
-      <a href="export-pdf.md"><strong>Esportare un PDF in formati modificabili</strong></a>
+      <a href="export-pdf.md"><strong>Convertire PDF in diversi formati di file</strong></a>
       </div>
-      <em>Scopri come esportare i file PDF in formati modificabili</em>
+      <em>Scopri come convertire i file PDF in diversi formati di file, ad esempio Microsoft Word, Excel o PowerPoint</em>
       <br>
     </td>
   </tr>

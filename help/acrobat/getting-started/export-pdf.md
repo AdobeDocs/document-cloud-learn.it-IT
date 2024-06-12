@@ -1,22 +1,22 @@
 ---
-title: Esportare un PDF nei formati di Microsoft Office
-description: Scopri come esportare i file PDF in formati modificabili come Microsoft Word, Excel o PowerPoint
+title: Converti PDF in diversi formati di file
+description: Scopri come convertire i file PDF in diversi formati di file, ad esempio Microsoft Word, Excel o PowerPoint
 feature: Convert PDF
 role: User
 level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 11%
+source-wordcount: '139'
+ht-degree: 2%
 
 ---
 
-# Esportare un PDF nei formati di Microsoft Office
+# Convertire PDF in diversi formati di file
 
-Scopri come esportare i file PDF in formati modificabili, come [Microsoft Word](https://www.adobe.com/it/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/it/acrobat/online/pdf-to-ppt.html)e [Excel](https://www.adobe.com/it/acrobat/online/pdf-to-excel.html). L’esportazione in un altro formato di file consente di apportare revisioni e aggiornamenti di rilievo ai documenti.
+Scopri come convertire i file PDF in diversi formati di file, ad esempio [Microsoft Word](https://www.adobe.com/it/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/it/acrobat/online/pdf-to-ppt.html)e [Excel](https://www.adobe.com/it/acrobat/online/pdf-to-excel.html). Conversione del PDF in [Adobe Express](https://express.adobe.com) sono inclusi anche gli elementi di design con marchio. Quando si converte il PDF in un altro formato di file come Microsoft Word, si migliora l’efficienza del flusso di lavoro dei documenti e si risparmia tempo significativo quando si apportano modifiche estese ai documenti lunghi.
 
 >[!TIP]
 >
