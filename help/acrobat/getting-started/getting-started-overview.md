@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '613'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Scopri come iniziare a utilizzare Adobe Acrobat tramite queste brevi esercitazioni dettagliate. Dalla creazione di un documento alla protezione o [modifica dei file PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"}, questo contenuto è progettato per semplificare i flussi di lavoro PDF.
 
 ## Novità
+
+* [Scopri gli insight di PDF con l&#39;Assistente all&#39;intelligenza artificiale](ai-assistant.md)
+Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;Assistente AI
 
 * [Convertire PDF in diversi formati di file](export-pdf.md)
 Scopri come convertire i file PDF in diversi formati di file, ad esempio Microsoft Word, Excel o PowerPoint
@@ -54,6 +57,16 @@ Scopri come creare PDF da tutti i diversi tipi di documenti
     <br>
   </td>
   <td>
+    <a href="ai-assistant.md">
+      <img alt="Scopri gli insight di PDF con l&apos;Assistente all&apos;intelligenza artificiale" src="../assets/ai-assistant.png" />
+    </a>
+    <div>
+    <a href="ai-assistant.md"><strong>Scopri gli insight di PDF con l'Assistente all'intelligenza artificiale</strong></a>
+    </div>
+    <em>Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l'Assistente AI</em>
+    <br>
+  </td>
+  <td>
     <a href="acrobatweb.md">
       <img alt="Lavora ovunque ti trovi con Acrobat Web" src="../assets/Acrobatweb_1280.png" />
     </a>
@@ -63,6 +76,8 @@ Scopri come creare PDF da tutti i diversi tipi di documenti
     <em>Scopri come gestire le richieste di documenti aziendali ovunque ti trovi utilizzando gli strumenti Web di Acrobat nel tuo browser</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="productivity.md">
       <img alt="Produttività ovunque ti trovi" src="../assets/Productivity_1280.png" />
@@ -73,8 +88,6 @@ Scopri come creare PDF da tutti i diversi tipi di documenti
     <em>Fai di più direttamente dal tuo tablet o cellulare con l'app mobile Acrobat Reader</em>
     <br>
   </td>
-</tr>
-<tr>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="Utilizzo di Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
@@ -93,11 +106,6 @@ Scopri come creare PDF da tutti i diversi tipi di documenti
       <a href="where-do-pdfs-come-from.md"><strong>Da dove vengono i PDF?</strong></a>
       </div>
       <em>Comprendere da dove provengono i PDF e i loro usi</em>
-      <br>
-    </td>
-    <td>
-    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-      <div>
       <br>
     </td>
     <td>
