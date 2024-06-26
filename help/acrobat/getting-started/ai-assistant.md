@@ -1,11 +1,11 @@
 ---
 title: Scopri le informazioni di PDF con l'Assistente AI
 description: Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l'Assistente AI
-feature: Workspace
+feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-15743
-source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
+source-git-commit: f96a3ef8c480e307885eef5dc72f6cbe8f2ee1cc
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
