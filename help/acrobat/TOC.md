@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
+source-git-commit: 1a1e0e01f7722d3cb685af25ab796fff97a49cdb
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '483'
 ht-degree: 3%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 3%
 # Acrobat Tutorials {#acrobat-learning}
 
 + [Panoramica](overview.md)
-+ Guida introduttiva {#getting-started}
++ Guida introduttiva di {#getting-started}
    + [Panoramica](getting-started/getting-started-overview.md)
-   + [Nozioni di base sull’area di lavoro](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Nuova esperienza area di lavoro](getting-started/new-workspace.md)
+   + [Nozioni di base sull’area di lavoro](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Scopri gli insight di PDF con l&#39;Assistente all&#39;intelligenza artificiale](getting-started/ai-assistant.md)
    + [Lavora ovunque ti trovi con Acrobat Web](getting-started/acrobatweb.md)
    + [Produttività ovunque ti trovi](getting-started/productivity.md)
-   + [Utilizzo [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [Collabora con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Da dove vengono i PDF?](getting-started/where-do-pdfs-come-from.md)
    + [Creazione di un PDF](getting-started/create-pdf.md)
-   + [Da Combine Files a PDF](getting-started/combine-to-pdf.md)
+   + [Combina più file in un singolo PDF](getting-started/combine-to-pdf.md)
    + [Organizza pagine](getting-started/organize.md)
    + [Aggiungi pagina personalizzata](getting-started/add-custom-page.md)
    + [Modificare il testo in un PDF](getting-started/edit-pdf.md)
@@ -57,7 +57,7 @@ ht-degree: 3%
    + [Ridurre le dimensioni del file e ottimizzarlo](advanced-tasks/reduce.md)
    + [Utilizzo dei dati dei moduli](advanced-tasks/formdata.md)
    + [Verifica accessibilità PDF](advanced-tasks/accessibility.md)
-   + Serie sull&#39;accessibilità di Acrobat {#accessibility-series}
+   + Serie di accessibilità Acrobat {#accessibility-series}
       + [Panoramica](advanced-tasks/accessibility-series.md)
       + [Introduzione all’accessibilità PDF](advanced-tasks/accessibilitysession1.md)
       + [Correzione di un PDF inaccessibile](advanced-tasks/accessibilitysession2.md)
@@ -65,7 +65,7 @@ ht-degree: 3%
       + [Documenti scansionati ed elenchi complessi](advanced-tasks/accessibilitysession4.md)
       + [Aggiunta di campi modulo a un PDF con tag](advanced-tasks/accessibilitysession5.md)
       + [Aggiunta di campi modulo a un PDF senza tag](advanced-tasks/accessibilitysession6.md)
-+ Acrobat da 60 secondi {#60-second}
++ Acrobat {#60-second} di 60 secondi
    + [Panoramica](60-second/60-second-overview.md)
    + [Modifica PDF con Acrobat Web](60-second/edit.md)
    + [Riconoscere il testo in un file PDF scansionato](60-second/textrecognition.md)
@@ -98,18 +98,18 @@ ht-degree: 3%
    + [Webinar](skill-builder/skill-builder-webinars.md)
 + Integrazioni {#integrations}
    + [Panoramica](integrate/integrate-overview.md)
-   + [Crea PDF da [!DNL Microsoft Word]](integrate/createfromword.md)
-   + [Crea PDF in [!DNL Office] per il Web](integrate/createofficeweb.md)
+   + [Crea PDF da  [!DNL Microsoft Word]](integrate/createfromword.md)
+   + [Creazione di PDF in [!DNL Office] per il Web](integrate/createofficeweb.md)
    + [Collaborazione PDF in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [Lavora con il tuo [!DNL SharePoint] file](integrate/acrobatandsp.md)
-   + [Convertire messaggi e allegati di posta elettronica in PDF in [!DNL Outlook]](integrate/outlook.md)
-   + [Creazione di contenuti PDF durante la navigazione con [!DNL Microsoft Edge]](integrate/edge.md)
-   + [Protect PDF con [!DNL Microsoft Purview Information] etichette di riservatezza](integrate/microsoftsensitivitylabels.md)
-   + [Adobe Acrobat per [!DNL Google Drive]](integrate/acrobatandgoogle.md)
-   + [Operazioni con i file da [!DNL Dropbox]](integrate/acrobat-dropbox.md)
-+ Settori e dipartimenti {#by-industry}
+   + [Lavora con i tuoi  [!DNL SharePoint]  file](integrate/acrobatandsp.md)
+   + [Converti messaggi e allegati di posta elettronica in PDF in [!DNL Outlook]](integrate/outlook.md)
+   + [Crea contenuto PDF durante l&#39;esplorazione con  [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Protect PDF che utilizza  [!DNL Microsoft Purview Information] etichette di riservatezza](integrate/microsoftsensitivitylabels.md)
+   + [Adobe Acrobat per  [!DNL Google Drive]](integrate/acrobatandgoogle.md)
+   + [Lavora con i file di  [!DNL Dropbox]](integrate/acrobat-dropbox.md)
++ Settori e reparti {#by-industry}
    + [Panoramica](industry/industry-overview.md)
-   + Enti pubblici {#gov}
+   + Pubblica amministrazione {#gov}
       + [Panoramica](industry/gov/gov-overview.md)
       + 5 suggerimenti per lavorare ovunque con Acrobat {#tips}
          + [5 suggerimenti per lavorare ovunque con Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
@@ -124,12 +124,12 @@ ht-degree: 3%
          + [#2 - Creazione in Word](industry/gov/authoring-in-word.md)
          + [#3 - Rifinitura in Acrobat](industry/gov/finishing-in-acrobat.md)
          + [Rendere più accessibili le schede elettorali dei PDF](industry/gov/making-pdf-ballots-accessible.md)
-+ Sviluppo {#develop}
++ Sviluppo di {#develop}
    + [Panoramica](develop/develop-overview.md)
 + Distribuisci {#deploy}
    + [Panoramica](deploy/deploy-overview.md)
    + [Aggiornamenti di prodotto Acrobat DC importanti per i clienti ETLA](deploy/signentitlementchanges.md)
-+ Dispositivi mobili {#mobile}
++ Cellulare {#mobile}
    + [Panoramica](mobile/mobile-overview.md)
-   + [Produttività ovunque ti trovi](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [Produttività in movimento](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Acquisisci in PDF qualsiasi documento](mobile/scan-mobile-app.md)
