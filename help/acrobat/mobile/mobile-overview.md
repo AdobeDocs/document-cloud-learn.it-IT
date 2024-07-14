@@ -8,16 +8,16 @@ topic-revisit: mobile
 jira: KT-6863
 thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 9e9ca31d5cbf12057da850ae223742c4c9b431bd
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 2%
+source-wordcount: '166'
+ht-degree: 0%
 
 ---
 
 # Cenni preliminari sui dispositivi mobili
 
-Creare, riempire e [PDF di firma](https://www.adobe.com/it/acrobat/online/sign-pdf.html){target="_blank"}  sul tuo dispositivo mobile.
+Crea, compila e [firma PDF](https://www.adobe.com/it/acrobat/online/sign-pdf.html){target="_blank"} sul tuo dispositivo mobile.
 
 ## Esercitazioni per l’app mobile Acrobat Reader
 
@@ -25,13 +25,8 @@ Creare, riempire e [PDF di firma](https://www.adobe.com/it/acrobat/online/sign-p
 <tr>
   <td>
     <a href="../getting-started/productivity.md">
-      <img alt="Produttività ovunque ti trovi" src="../assets/Productivity_1280.png" />
+      <img alt="Produttività ovunque ti trovi" src="../assets/productivity.png" />
     </a>
-    <div>
-     <a href="../getting-started/productivity.md"><strong>Produttività ovunque ti trovi</strong></a>
-    </div>
-    <em>Fai di più direttamente dal tuo tablet o cellulare con l'app mobile Acrobat Reader</em>
-    <br>
   </td>
   <td>
    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
@@ -60,9 +55,9 @@ Creare, riempire e [PDF di firma](https://www.adobe.com/it/acrobat/online/sign-p
       <img alt="Acquisisci in PDF qualsiasi documento" src="../assets/Scanmobile.png" />
     </a>
     <div>
-     <a href="scan-mobile-app.md"><strong>Acquisisci in PDF qualsiasi documento</strong></a>
+     <a href="scan-mobile-app.md"><strong>Acquisisci in PDF</strong></a> qualsiasi elemento
     </div>
-    <em>Scopri come convertire qualsiasi documento cartaceo in PDF utilizzando l’app gratuita Adobe Scan per dispositivi mobili</em>
+    <em>Scopri come convertire qualsiasi documento cartaceo in PDF utilizzando l'app gratuita Adobe Scan per dispositivi mobili</em>
     <br>
   </td>
   <td>
@@ -83,14 +78,14 @@ Creare, riempire e [PDF di firma](https://www.adobe.com/it/acrobat/online/sign-p
 </tr>
 </table>
 
-Scarica [App Adobe Acrobat Reader per dispositivi mobili](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} lo standard globale gratuito per la visualizzazione, l’annotazione e la firma affidabili dei PDF.
+Scarica [l&#39;app per dispositivi mobili Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} lo standard globale gratuito per visualizzare, annotare e firmare in modo affidabile i PDF.
 
 [Guida mobile di Acrobat Reader per iOS](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
 [Guida mobile di Acrobat Reader per Android](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
 
-Scarica [App Adobe Scan per dispositivi mobili](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} per acquisire un documento cartaceo e trasformarlo in un PDF di alta qualità con testo ricercabile.
+Scarica l&#39;[app Adobe Scan per dispositivi mobili](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} per acquisire qualsiasi documento cartaceo e trasformarlo in un PDF di alta qualità con testo che puoi cercare.
 
 [Guida mobile di Adobe Scan per iOS](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
 [Guida mobile di Adobe Scan per Android](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
 
-Scarica [App Adobe Fill &amp; Sign per dispositivi mobili](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} compilare, firmare e inviare moduli ovunque, su qualsiasi dispositivo, con un semplice dito o uno stilo.
+Scarica l&#39;[app Adobe Fill &amp; Sign per dispositivi mobili](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} per compilare, firmare e inviare moduli ovunque ti trovi e da qualsiasi dispositivo, con un semplice dito o uno stilo.
