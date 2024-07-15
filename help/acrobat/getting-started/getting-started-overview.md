@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 9db61d9c32ab7ac66f11835132e065bcafdf7964
+source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 2%
+source-wordcount: '248'
+ht-degree: 4%
 
 ---
 
@@ -135,23 +135,13 @@ Scopri come modificare parole, frasi o anche intere pagine nel tuo PDF
   <tr>
     <td>
       <a href="collaborate.md">
-        <img alt="Collabora in tempo reale" src="../assets/Collaborate_1280.png" />
+        <img alt="Collabora in tempo reale" src="../assets/collaborate.png" />
       </a>
-      <div>
-      <a href="collaborate.md"><strong>Collabora in tempo reale</strong></a>
-      </div>
-      <em>Sposta i tuoi progetti in avanti raccogliendo commenti, collaborando sulle risposte e monitorando l'avanzamento dei tuoi documenti, tutto in tempo reale, da qualsiasi luogo</em>
-      <br>
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
-        <img alt="Commentare un PDF" src="../assets/Comment.jpg" />
+        <img alt="Commentare un PDF" src="../assets/comment.png" />
       </a>
-      <div>
-      <a href="comment-on-pdf-files.md"><strong>Commento su un PDF</strong></a>
-      </div>
-      <em>Aggiungere commenti a un file PDF e condividerlo con altri utenti</em>
-      <br>
     </td>
     <td>
     <img alt="Spaziatore" src="../assets/Whitespacer.png" />
@@ -172,65 +162,35 @@ Scopri come modificare parole, frasi o anche intere pagine nel tuo PDF
 <tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="Creare moduli compilabili" src="../assets/Form_1280.png" />
+      <img alt="Creare moduli compilabili" src="../assets/fillable-forms.png" />
     </a>
-    <div>
-    <a href="create-fillable-forms.md"><strong>Creare moduli compilabili</strong></a>
-    </div>
-    <em>Trasformare un documento creato in un'altra applicazione in un modulo compilabile di PDF</em>
-    <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Compila e firma un modulo PDF" src="../assets/FillSign_1280.png" />
+      <img alt="Compila e firma un modulo PDF" src="../assets/fill-sign.png" />
     </a>
-    <div>
-    <a href="fill-and-sign.md"><strong>Fill &amp; Sign PDF forms</strong></a>
-    </div>
-    <em>Compilare e firmare rapidamente un modulo PDF</em>
-    <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Scansione e OCR" src="../assets/Scan.jpg" />
+      <img alt="Scansione e OCR" src="../assets/scan.png" />
     </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>Scansione e OCR</strong></a>
-    </div>
-    <em>Ridurre i file di grandi dimensioni e ottimizzare i PDF senza compromettere la qualità della condivisione, della pubblicazione o dell'archiviazione</em>
-    <br>
   </td>
   <td>
     <a href="password-protect.md">
-      <img alt="Protect un file PDF con una password" src="../assets/Protect.jpg" />
+      <img alt="Protect un file PDF con una password" src="../assets/protect.png" />
     </a>
-    <div>
-    <a href="password-protect.md"><strong>Protect un file PDF con una password</strong></a>
-    </div>
-    <em>Aggiungi una password al tuo PDF per evitare che altri aprano o modifichino il file</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="signatures.md">
-      <img alt="Ottieni firme" src="../assets/Signatures_1280.png" />
+      <img alt="Ottieni firme" src="../assets/signnatures.png" />
     </a>
-    <div>
-    <a href="signatures.md"><strong>Ottieni firme</strong></a>
-    </div>
-    <em>Per continuare a lavorare, raccogli firme elettroniche legalmente vincolanti da altri utenti, ovunque si trovino</em>
-    <br>
   </td>
   <td>
     <a href="track.md">
-      <img alt="Tenere traccia dei documenti" src="../assets/Track_1280.png" />
+      <img alt="Tenere traccia dei documenti" src="../assets/track.png" />
     </a>
-    <div>
-    <a href="track.md"><strong>Tenere traccia dei documenti</strong></a>
-    </div>
-    <em>Identificare sempre i file in attesa di firma e che sono stati firmati</em>
-    <br>
   </td>
   <td>
    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
