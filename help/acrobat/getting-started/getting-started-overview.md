@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
+source-git-commit: 23ccd52c03d641ee945b7ba9a9356f5d4894a50b
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---
@@ -20,14 +20,12 @@ Scopri come iniziare a utilizzare Adobe Acrobat tramite queste brevi esercitazio
 
 ## Novità
 
+* [Modificare gli elementi grafici in un PDF](edit-graphics.md)
+Scoprite come creare, modificare e migliorare la grafica nel vostro PDF
 * [Nuova esperienza area di lavoro](new-workspace.md)
 Scopri la nuova area di lavoro in Acrobat che ti aiuta a scoprire rapidamente gli strumenti e a completare le tue attività di PDF in modo efficiente
 * [Scopri gli insight di PDF con l&#39;Assistente all&#39;intelligenza artificiale](ai-assistant.md)
 Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;Assistente AI
-* [Convertire PDF in diversi formati di file](export-pdf.md)
-Scopri come convertire i file PDF in diversi formati di file, ad esempio Microsoft Word, Excel o PowerPoint
-* [Modificare il testo in un PDF](edit-pdf.md)
-Scopri come modificare parole, frasi o anche intere pagine nel tuo PDF
 
 ## Esercitazioni introduttive
 
@@ -112,6 +110,11 @@ Scopri come modificare parole, frasi o anche intere pagine nel tuo PDF
       </a>
     </td>
     <td>
+      <a href="edit-graphics.md">
+        <img alt="Modificare gli elementi grafici in un PDF" src="../assets/edit-graphics.png" />
+      </a>
+    </td>
+    <td>
       <a href="stylize-this-PDF.md">
         <img alt="Stilizza questo PDF" src="../assets/stylize-pdf.png" />
       </a>
@@ -121,13 +124,29 @@ Scopri come modificare parole, frasi o anche intere pagine nel tuo PDF
         <img alt="Adatta layout" src="../assets/auto-adjust.png" />
       </a>
     </td>
+  </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="Convertire PDF in diversi formati di file" src="../assets/convert.png" />
       </a>
     </td>
-  </tr>
-  </table>
+    <td>
+   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ## Esercitazioni per la collaborazione
 
