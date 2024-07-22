@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Gestione dei dati dei moduli Web
 
-Scopri come monitorare, gestire ed esportare i dati da un [modulo web](webform.md). Questa esercitazione mostra un ulteriore flusso di lavoro per moduli web dei partecipanti e come consolidare più voci di dati in un unico file .csv per la visualizzazione e l’analisi.
+Scopri come monitorare, gestire ed esportare i dati da un [modulo Web](webform.md). Questa esercitazione mostra un ulteriore flusso di lavoro per moduli web dei partecipanti e come consolidare più voci di dati in un unico file .csv per la visualizzazione e l’analisi.
 
 >[!NOTE]
 >

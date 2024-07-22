@@ -9,7 +9,7 @@ thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '727'
 ht-degree: 0%
 
 ---
@@ -47,48 +47,48 @@ Per aggiungere vari tipi di campi modulo e impostarne le proprietà in un PDF es
 
 1. Scarica e apri *Questionnaire.pdf*.
 1. Seleziona **Prepare Form** nel centro Strumenti.
-1. Seleziona **Inizia**.
+1. Seleziona **Inizio**.
 1. Seleziona **Modifica testo e immagini** nella barra degli strumenti per correggere il refuso.
 1. Scegli **Seleziona** nella barra degli strumenti per uscire dalla modalità Modifica.
 1. Seleziona ed elimina il campo modulo superiore.
-1. Seleziona **Anteprima** per visualizzare il modulo.
+1. Selezionare **Anteprima** per visualizzare il modulo.
 1. Seleziona **Modifica** per uscire dalla modalità Anteprima.
 
 L’aggiunta di un campo elenco riduce la possibilità di errori nei dati del modulo.
 
-1. Selezionare ed eliminare il *Posizione sede centrale* campo di testo.
-1. Seleziona **Casella di riepilogo** nella barra degli strumenti e inserire un nuovo campo nella posizione del campo di testo eliminato.
-1. Tipo *Posizione sede centrale* nella **Nome campo:**.
-1. Seleziona **Tutte le proprietà** e scegli il **Opzioni** scheda.
-1. Aggiungere tre posizioni diverse nella **Elemento:** campo.
-1. Selezionare la posizione predefinita nella **Elenco articoli:** campo.
-1. Seleziona **Chiudi**.
+1. Selezionare ed eliminare il campo di testo *Posizione sede centrale*.
+1. Selezionare **Casella di riepilogo** nella barra degli strumenti e inserire un nuovo campo nel percorso del campo di testo eliminato.
+1. Digita *Posizione sede centrale* in **Nome campo:**.
+1. Seleziona **Tutte le proprietà** e scegli la scheda **Opzioni**.
+1. Aggiungi tre posizioni diverse nel campo **Elemento:**.
+1. Selezionare il percorso predefinito nel campo **Elenco elementi:**.
+1. Selezionare **Chiudi**.
 1. Tieni premuto il tasto Maiusc e seleziona il campo sottostante.
-1. Seleziona **Corrispondenza tra larghezza e altezza** e **Allinea a sinistra** nel riquadro a destra.
+1. Seleziona **Larghezza e altezza corrispondenti** e **Allinea a sinistra** nel riquadro a destra.
 
 I campi Selezione data aggiungono interattività ed eliminano gli errori in un modulo.
 
-1. Selezionare ed eliminare il *Sequenza temporale progetto* e *DATA DI FINE* campi.
-1. Seleziona **Campo data** nella barra degli strumenti e posizionare il nuovo campo nella casella eliminato *Sequenza temporale progetto* posizione dei campi.
-1. Tipo *Inizio progetto* nella **Nome campo:**.
-1. Seleziona **Tutte le proprietà** e scegli il **Formato** scheda.
-1. Scegli un’opzione di formato data e seleziona **Chiudi**.
+1. Selezionare ed eliminare i campi *Sequenza temporale progetto* e *DATA FINE*.
+1. Seleziona il **campo data** nella barra degli strumenti e inserisci il nuovo campo nella posizione del campo *Sequenza temporale progetto* eliminato.
+1. Digita *Inizio progetto* in **Nome campo:**.
+1. Selezionare **Tutte le proprietà** e scegliere la scheda **Formato**.
+1. Scegli un&#39;opzione di formato data e seleziona **Chiudi**.
 1. Mac Per duplicare il campo, tieni premuti i tasti Ctrl + Maiusc (Windows) o Comando + Maiusc (Mac OS).
-1. Fare doppio clic sul nuovo campo e selezionare **Generale** e rinominare il campo *Fine progetto*.
-1. Seleziona **Chiudi**.
+1. Fai doppio clic sul nuovo campo, seleziona la scheda **Generali** e rinomina il campo *Fine progetto*.
+1. Selezionare **Chiudi**.
 1. Tieni premuto il tasto Maiusc e seleziona tutti e tre i campi.
-1. Seleziona **Corrispondenza tra larghezza e altezza** nel riquadro a destra.
+1. Seleziona **Larghezza e altezza corrispondenti** nel riquadro a destra.
 1. Se necessario, utilizzare i tasti di direzione per allineare ogni campo.
 
 Le proprietà del testo vengono utilizzate per distribuire uniformemente il testo lungo la larghezza di un campo di testo.
 
-1. Fare doppio clic sul pulsante *Codice di riferimento* e selezionare il **Opzioni** scheda.
+1. Fare doppio clic sul campo *Codice riferimento* e selezionare la scheda **Opzioni**.
 1. Deseleziona tutte le caselle tranne **Pettine di**.
-1. Tipo *5* nella casella dei caratteri.
-1. Selezionare il **Aspetto** e scegli un colore nella scheda **Colore bordo** box.
-1. Seleziona **Chiudi**.
-1. Seleziona **Anteprima** e inserisci alcuni numeri per testare il campo pettine.
-1. Seleziona **Altro** > **Cancella modulo** per eliminare i dati nel riquadro di destra.
+1. Digitare *5* nella casella dei caratteri.
+1. Seleziona la scheda **Aspetto** e scegli un colore nella casella **Colore bordo**.
+1. Selezionare **Chiudi**.
+1. Selezionare **Anteprima** e immettere alcuni numeri per verificare il campo del pettine.
+1. Selezionare **Altro** > **Cancella modulo** per eliminare i dati nel riquadro a destra.
 
 ## Scopri come impostare le proprietà di più campi contemporaneamente, l’ordine di tabulazione e proteggere un modulo
 
@@ -103,24 +103,24 @@ Le proprietà del testo vengono utilizzate per distribuire uniformemente il test
 Per impostare contemporaneamente le proprietà di più campi, impostare l’ordine di tabulazione e proteggere un modulo. L&#39;impostazione delle proprietà dei campi di testo consente di risparmiare tempo e di conferire coerenza visiva a un modulo.
 
 1. Tieni premuto il tasto Maiusc e seleziona tutti i campi di testo e di elenco nel riquadro a destra.
-1. Fai clic con il pulsante destro del mouse e seleziona **Proprietà...**.
-1. Seleziona *12* dal menu **Dimensione font:** a discesa.
-1. Seleziona **Chiudi**.
+1. Fare clic con il pulsante destro del mouse e selezionare **Proprietà...**.
+1. Seleziona *12* dal menu a discesa **Dimensione font:**.
+1. Selezionare **Chiudi**.
 
 L’impostazione dell’ordine di tabulazione consente al compilatore del modulo di spostarsi facilmente da un campo all’altro durante la compilazione del modulo.
 
-1. Tipo *Maiusc + N* per visualizzare l’ordine di tabulazione.
-1. Sposta il *Posizione sede centrale* campo sotto *Numero di dipendenti* nel riquadro a destra.
-1. Sposta il *Inizio progetto* e *Fine progetto* campi sotto *INDIRIZZO E-MAIL* nel riquadro a destra.
+1. Digita *Maiusc + N* per visualizzare l&#39;ordine di tabulazione.
+1. Sposta il campo *Posizione sede centrale* sotto il campo *Numero di dipendenti* nel riquadro a destra.
+1. Sposta i campi *Inizio progetto* e *Fine progetto* sotto il campo *INDIRIZZO E-MAIL* nel riquadro a destra.
 
 La protezione di un modulo impedisce la modifica dei campi o del contenuto del documento.
 
-1. Tipo *Ctrl + D (Comando + D su Mac)* per visualizzare **Proprietà documento** dialogo.
-1. Selezionare il **Sicurezza** scheda.
-1. Seleziona **Protezione con password** sotto il **Metodo di protezione:** a discesa.
-1. Spunta **Limitare la modifica e la stampa del documento. Per modificare queste impostazioni di autorizzazione sarà necessaria una password.**
-1. Seleziona **Alta risoluzione** dal menu **Stampa consentita:** a discesa.
-1. Seleziona **Compilazione dei campi modulo e firma dei campi firma esistenti** dal menu **Modifiche consentite:** a discesa.
-1. Digitare una password complessa nel **Modifica password autorizzazioni:** campo.
+1. Digita *Ctrl + D (Comando + D in Mac)* per visualizzare la finestra di dialogo **Proprietà documento**.
+1. Selezionare la scheda **Protezione**.
+1. Selezionare **Protezione con password** nel menu a discesa **Metodo di protezione:**.
+1. Selezionare **Limita modifica e stampa del documento. Per modificare queste impostazioni di autorizzazione sarà necessaria una password.**
+1. Selezionare **Alta risoluzione** dal menu a discesa **Stampa consentita:**.
+1. Seleziona **Compilazione dei campi modulo e firma dei campi firma esistenti** dal menu a discesa **Modifiche consentite:**.
+1. Digitare una password complessa nel campo **Modifica password autorizzazioni:**.
 1. Conferma la password e seleziona **OK**.
 1. Seleziona **OK** per uscire dalla finestra di dialogo.

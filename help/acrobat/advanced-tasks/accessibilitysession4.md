@@ -9,7 +9,7 @@ thumbnail: KT-8611.jpg
 exl-id: c5935e90-3167-4de2-a1d9-5a80ceb5e5f1
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---

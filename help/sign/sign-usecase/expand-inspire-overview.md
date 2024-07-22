@@ -26,9 +26,9 @@ Scopri come trasformare le esperienze di firma elettronica della tua organizzazi
       <img alt="Skill Builder" src="../assets/SB_1280.jpg" />
     </a>
     <div>
-    <a href="innovation-series.md"><strong>Skill Builder</strong></a>
+    <a href="innovation-series.md"><strong>Generatore di abilità</strong></a>
     </div>
-    <em>Partecipa con noi per un corso di formazione di 30 minuti su come ottimizzare il lavoro svolto con le tue firme elettroniche, senza aggiungere altro lavoro.</em>
+    <em>Partecipate con noi per un corso di formazione di 30 minuti su come utilizzare le vostre firme elettroniche, senza aggiungere altro lavoro</em>
     <br>
   </td>
   <td>
@@ -38,7 +38,7 @@ Scopri come trasformare le esperienze di firma elettronica della tua organizzazi
     <div>
     <a href="recipes.md"><strong>Casi di utilizzo</strong></a>
     </div>
-    <em>Scopri come le varie organizzazioni utilizzano Acrobat Sign con questi casi d'uso reali</em>
+    <em>Esplora il modo in cui le varie organizzazioni utilizzano Acrobat Sign con questi casi d'uso reali</em>
     <br>
   </td>
   <td>
@@ -46,7 +46,7 @@ Scopri come trasformare le esperienze di firma elettronica della tua organizzazi
       <img alt="Presentazione di casi d&apos;uso" src="../assets/UseCaseShowcaseR.png" />
     </a>
     <div>
-    <a href="use-case-showcase.md"><strong>Presentazione di casi d'uso</strong></a>
+    <a href="use-case-showcase.md"><strong>Vetrina d'uso</strong></a>
     </div>
     <em>Guarda le sessioni dal vivo o registrate che ti presentano i nuovi casi d'uso e le tendenze di Acrobat Sign</em>
     <br>

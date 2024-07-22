@@ -8,14 +8,14 @@ thumbnail: 34510.jpg
 exl-id: 3115d182-671a-4d8b-8753-f8aba3c4807e
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 8%
+source-wordcount: '61'
+ht-degree: 1%
 
 ---
 
 # 5 suggerimenti per lavorare ovunque con Acrobat - Documenti digitali Protect
 
-[Aggiungi una password al tuo PDF](https://www.adobe.com/it/acrobat/online/password-protect-pdf.html){target="_blank"}  per impedire copia, modifica o stampa.
+[Aggiungi una password al PDF](https://www.adobe.com/it/acrobat/online/password-protect-pdf.html){target="_blank"} per impedire la copia, la modifica o la stampa.
 
 ## Suggerimento #3 - Documenti digitali Protect (1:23)
 

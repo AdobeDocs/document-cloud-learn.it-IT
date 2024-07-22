@@ -20,7 +20,7 @@ Scopri come l’interfaccia di Acrobat semplifica l’accesso a file e strumenti
 
 >[!TIP]
 >
->Sei interessato a conoscere la nuova esperienza di area di lavoro che puoi attivare in Acrobat? Check-out [Nuova esperienza area di lavoro](new-workspace.md).
+>Sei interessato a conoscere la nuova esperienza di area di lavoro che puoi attivare in Acrobat? Scopri [Nuova esperienza area di lavoro](new-workspace.md).
 
 <br> 
 

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Scopri gli insight di PDF con l&#39;Assistente all&#39;intelligenza artificiale
 
-Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;Assistente all&#39;intelligenza artificiale per creare rapidamente contenuti di grande impatto. L&#39;Assistente AI è un motore di conversazione sicuro che migliora i flussi di lavoro dei documenti e analizza i dati complessi dei documenti. Questa esercitazione video utilizza [nuova esperienza area di lavoro](new-workspace.md).
+Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;Assistente all&#39;intelligenza artificiale per creare rapidamente contenuti di grande impatto. L&#39;Assistente AI è un motore di conversazione sicuro che migliora i flussi di lavoro dei documenti e analizza i dati complessi dei documenti. Questa esercitazione video utilizza la [nuova esperienza dell&#39;area di lavoro](new-workspace.md).
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430512?quality=12&learn=on&hidetitle=true)

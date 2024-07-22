@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Liquid Mode in Acrobat Sign
 
-Scopri come Liquid Mode migliora l’esperienza di firma da dispositivo mobile. Non dovrai più pizzicare e ingrandire mentre provi a leggere e firmare i documenti. Questo tutorial spiega come inviare un _Modulo HTML_ inviato per la firma e crea automaticamente un’esperienza di firma ottimizzata per gli utenti di dispositivi mobili.
+Scopri come Liquid Mode migliora l’esperienza di firma da dispositivo mobile. Non dovrai più pizzicare e ingrandire mentre provi a leggere e firmare i documenti. Questo tutorial spiega come inviare un _modulo HTML_ per la firma e creare automaticamente un&#39;esperienza di firma ottimizzata per gli utenti di dispositivi mobili.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333803?quality=12&learn=on&hidetitle=true)

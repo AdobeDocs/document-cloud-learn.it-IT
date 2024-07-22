@@ -1,6 +1,6 @@
 ---
 title: Archivia automaticamente i file in [!DNL SharePoint] con [!DNL Power Automate]
-description: Scopri come archiviare automaticamente i documenti firmati in un [!DNL SharePoint] libreria che utilizza [!DNL Power Automate]
+description: Scopri come archiviare automaticamente i documenti firmati in una  [!DNL SharePoint] libreria utilizzando [!DNL Power Automate]
 feature: Integrations
 role: Admin, User
 level: Intermediate
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Archiviazione automatica dei file in [!DNL SharePoint] con [!DNL Power Automate]
+# Archivia automaticamente i file in [!DNL SharePoint] con [!DNL Power Automate]
 
-Scopri come archiviare automaticamente i documenti firmati in un [!DNL SharePoint] libreria che utilizza [!DNL Power Automate].
+Scopri come archiviare automaticamente i documenti firmati in una libreria [!DNL SharePoint] utilizzando [!DNL Power Automate].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409121?quality=12&learn=on&hidetitle=true)

@@ -10,8 +10,8 @@ thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 28%
+source-wordcount: '100'
+ht-degree: 10%
 
 ---
 
@@ -26,7 +26,7 @@ Invia documenti da firmare, tieni traccia dell’avanzamento della firma elettro
       <img alt="Firma i documenti ovunque ti trovi" src="assets/signmobile.png" />
     </a>
     <div>
-    <a href="sign-mobile.md"><strong>Firma i documenti ovunque ti trovi</strong></a>
+    <a href="sign-mobile.md"><strong>Firmare documenti ovunque ci si trovi</strong></a>
     </div>
     <em>Scopri come firmare i documenti con l’app Acrobat Sign per dispositivi mobili</em>
     <br>
@@ -38,7 +38,7 @@ Invia documenti da firmare, tieni traccia dell’avanzamento della firma elettro
     <div>
     <a href="liquidmode.md"><strong>Liquid Mode in Acrobat Sign</strong></a>
     </div>
-    <em>Scopri come Liquid Mode migliora l’esperienza di firma da dispositivo mobile</em>
+    <em>Scopri come la modalità Liquid Mode migliora l’esperienza di firma da dispositivo mobile</em>
     <br>
   </td>
   <td>

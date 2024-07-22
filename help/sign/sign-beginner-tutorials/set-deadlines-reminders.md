@@ -1,6 +1,6 @@
 ---
 title: Impostare scadenze e promemoria
-description: Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmare i tuoi documenti rapidamente
+description: Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmare rapidamente i tuoi documenti
 feature: Deadline, Sign
 role: User
 level: Beginner

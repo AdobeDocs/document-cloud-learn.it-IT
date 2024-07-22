@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Assistenza alla rioccupazione
 
-Aiuta i cittadini a ottenere l&#39;aiuto di cui hanno bisogno senza essere in linea con tutti i moduli di applicazioni digitali che possono essere pubblicati in pochi giorni. Scopri come creare un modulo Web online che possa essere completato. **e** ha firmato senza stampare né inviare nulla.
+Aiuta i cittadini a ottenere l&#39;aiuto di cui hanno bisogno senza essere in linea con tutti i moduli di applicazioni digitali che possono essere pubblicati in pochi giorni. Scopri come creare un modulo Web online che possa essere compilato con **e** firmato senza stampare né inviare nulla.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33809?quality=12&learn=on&hidetitle=true)
 

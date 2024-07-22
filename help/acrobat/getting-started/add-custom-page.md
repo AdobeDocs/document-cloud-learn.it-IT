@@ -16,6 +16,6 @@ ht-degree: 5%
 
 # Aggiungi pagina personalizzata
 
-Scopri come aggiungere pagine personalizzate a PDF utilizzando l’app di Adobe Express integrata, che offre migliaia di modelli a scelta. Questa esercitazione video utilizza [nuova esperienza area di lavoro](new-workspace.md).
+Scopri come aggiungere pagine personalizzate a PDF utilizzando l’app di Adobe Express integrata, che offre migliaia di modelli a scelta. Questa esercitazione video utilizza la [nuova esperienza dell&#39;area di lavoro](new-workspace.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/347331?quality=12&learn=on&hidetitle=true)

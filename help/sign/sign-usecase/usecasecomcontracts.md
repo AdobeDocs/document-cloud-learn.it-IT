@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Contratti commerciali e moduli di richiesta
 
-Sostituisci rapidamente l’elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit. Informazioni su [Progettazione flussi di lavoro Acrobat Sign](../admin/building-a-custom-workflow.md) per semplificare l&#39;intero processo.
+Sostituisci rapidamente l’elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit. Informazioni sullo strumento [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) per semplificare l&#39;intero processo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 

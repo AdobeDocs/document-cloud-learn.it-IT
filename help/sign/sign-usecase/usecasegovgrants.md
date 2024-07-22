@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Sovvenzioni e prestiti alle imprese statali
 
-Fornisci assistenza rapida alle aziende fornendo accesso self-service ai moduli di richiesta di concessione, prestito e differimento delle imposte. Scopri come creare un modulo Web online che possa essere completato. **e** ha firmato senza stampare né inviare nulla.
+Fornisci assistenza rapida alle aziende fornendo accesso self-service ai moduli di richiesta di concessione, prestito e differimento delle imposte. Scopri come creare un modulo Web online che possa essere compilato con **e** firmato senza stampare né inviare nulla.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33810?quality=12&learn=on&hidetitle=true)
 

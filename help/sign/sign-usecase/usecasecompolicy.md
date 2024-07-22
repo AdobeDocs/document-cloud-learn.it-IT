@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Accordi di politica commerciale
 
-Raccogli in modo efficiente le firme di tutti i tuoi dipendenti in merito agli accordi sulle politiche, agli aggiornamenti delle politiche e altro ancora. Scopri come creare un modulo Web online che possa essere completato. **e** ha firmato senza stampare né inviare nulla.
+Raccogli in modo efficiente le firme di tutti i tuoi dipendenti in merito agli accordi sulle politiche, agli aggiornamenti delle politiche e altro ancora. Scopri come creare un modulo Web online che possa essere compilato con **e** firmato senza stampare né inviare nulla.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
 

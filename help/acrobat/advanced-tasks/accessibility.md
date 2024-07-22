@@ -10,7 +10,7 @@ thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -25,27 +25,27 @@ Scoprite come verificare se il vostro PDF è universalmente accessibile alle per
 
 ## Verifica accessibilità
 
-1. Seleziona **[!UICONTROL Accessibilità]** dal centro Strumenti o dal riquadro di destra.
+1. Seleziona **[!UICONTROL Accessibilità]** dal centro Strumenti o dal riquadro a destra.
 
-   ![Accesso facilitato - Passaggio 1](../assets/Accessibility_1.png)
+   ![Passaggio di accessibilità 1](../assets/Accessibility_1.png)
 
-1. Seleziona **[!UICONTROL Verifica accessibilità]** nel riquadro a destra.
+1. Selezionare **[!UICONTROL Verifica accessibilità]** nel riquadro a destra.
 
-   ![Accesso facilitato - Passaggio 2](../assets/Accessibility_2.png)
+   ![Passaggio di accessibilità 2](../assets/Accessibility_2.png)
 
 1. Seleziona una categoria dal menu a discesa e gli elementi dall’elenco di controllo.
 
    Lascia tutte le caselle selezionate per un report completo.
 
-1. Seleziona **[!UICONTROL Avvia controllo]** per iniziare il rapporto.
+1. Selezionare **[!UICONTROL Avvia controllo]** per iniziare il report.
 
-   ![Accesso facilitato - Passaggio 3](../assets/Accessibility_3.png)
+   ![Passaggio di accessibilità 3](../assets/Accessibility_3.png)
 
    Viene aperto il riquadro di navigazione sinistro per visualizzare i risultati del report. Espandete una sezione per visualizzare i dettagli.
 
-   ![Accesso facilitato - Passaggio 4](../assets/Accessibility_4.png)
+   ![Passaggio di accessibilità 4](../assets/Accessibility_4.png)
 
-È inoltre possibile utilizzare [!UICONTROL Rendi accessibile] azione nella [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) che consente di eseguire una serie di passaggi di base per creare un PDF accessibile.
+Puoi anche utilizzare l&#39;azione [!UICONTROL Rendi accessibile] nello strumento [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html), che descrive una serie di passaggi di base per creare un PDF accessibile.
 
 ## Risolvere i problemi di accessibilità
 

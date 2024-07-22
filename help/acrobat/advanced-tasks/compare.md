@@ -28,7 +28,7 @@ Risparmio sui costi, efficienza dell&#39;organizzazione, risparmio di tempo, gar
 
 >[!TIP]
 >
-Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) questo è disponibile gratuitamente su Experience League!
+Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponibile gratuitamente per l&#39;Experience League.
 
 >[!NOTE]
 >

@@ -27,7 +27,7 @@ In questa serie di webinar in sei parti on-demand, passate dalle nozioni di base
       <img alt="Introduzione all’accessibilità PDF" src="../assets/Accessibilitysession1_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession1.md"><strong>Introduzione all’accessibilità PDF</strong></a>
+    <a href="accessibilitysession1.md"><strong>Introduzione all'accessibilità di PDF</strong></a>
     </div>
     <em>In questa sessione su richiesta, scoprite cosa significa rendere accessibile un PDF, come impostare Acrobat Pro per lavorare sui PDF per l'accessibilità e il processo di conversione da un documento di origine a un PDF</em>
     <br>
@@ -39,7 +39,7 @@ In questa serie di webinar in sei parti on-demand, passate dalle nozioni di base
     <div>
     <a href="accessibilitysession2.md"><strong>Correzione di un PDF inaccessibile</strong></a>
     </div>
-    <em>In questa sessione on-demand, scopri il flusso di lavoro per convertire un documento Word e risolvere alcuni problemi di base relativi ai tag utilizzando gli strumenti Acrobat Pro mostrati nel webinar di introduzione</em>
+    <em>In questa sessione on-demand, scopri il flusso di lavoro per convertire un documento Word e risolvere alcuni problemi di tag di base utilizzando gli strumenti Acrobat Pro mostrati nel webinar di introduzione</em>
     <br>
   </td>  
   <td>
@@ -49,7 +49,7 @@ In questa serie di webinar in sei parti on-demand, passate dalle nozioni di base
     <div>
     <a href="accessibilitysession3.md"><strong>Tabelle complesse</strong></a>
     </div>
-    <em>Questa sessione on-demand risolve uno dei problemi più comuni e impegnativi relativi alla risoluzione di un PDF per l'accessibilità: le tabelle complesse</em>
+    <em>Questa sessione on-demand risolve uno dei problemi più comuni e impegnativi relativi alla correzione di un PDF per l'accessibilità: le tabelle complesse</em>
     <br>
   </td>
 </tr>
@@ -61,7 +61,7 @@ In questa serie di webinar in sei parti on-demand, passate dalle nozioni di base
     <div>
     <a href="accessibilitysession4.md"><strong>Documenti scansionati ed elenchi complessi</strong></a>
     </div>
-    <em>Questa sessione on-demand risolve i problemi più complessi che si verificano frequentemente, come documenti scansionati ed elenchi complessi</em>
+    <em>Questa sessione on-demand risolve i problemi più complessi che si verificano frequentemente, ad esempio documenti scansionati ed elenchi complessi</em>
     <br>
   </td>
   <td>
@@ -71,7 +71,7 @@ In questa serie di webinar in sei parti on-demand, passate dalle nozioni di base
     <div>
     <a href="accessibilitysession5.md"><strong>Aggiunta di campi modulo a un PDF con tag</strong></a>
     </div>
-    <em>Questa sessione su richiesta è incentrata sull’aggiunta di campi modulo a un PDF con tag precedente</em>
+    <em>Questa sessione su richiesta è incentrata sull'aggiunta di campi modulo a un PDF con tag precedente</em>
     <br>
   </td>  
   <td>
@@ -81,7 +81,7 @@ In questa serie di webinar in sei parti on-demand, passate dalle nozioni di base
     <div>
     <a href="accessibilitysession6.md"><strong>Aggiunta di campi modulo a un PDF senza tag</strong></a>
     </div>
-    <em>Questa sessione su richiesta consente di creare campi modulo manuali e proprietà aggiuntive dei campi modulo.</em>
+    <em>Questa sessione on-demand approfondisce la creazione manuale dei campi modulo e le proprietà aggiuntive dei campi modulo</em>
     <br>
   </td> 
 </tr>

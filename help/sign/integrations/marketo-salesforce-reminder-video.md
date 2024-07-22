@@ -13,7 +13,7 @@ thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ Scopri come inviare un promemoria via e-mail da Marketo per gli accordi non firm
 
 1. Installa Marketo Salesforce Sync.
 
-   Sono disponibili le informazioni e il plug-in più recente per Salesforce Sync [qui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   Le informazioni e il plug-in più recente per Salesforce Sync sono disponibili [qui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 1. Installa Acrobat Sign per Salesforce.
 
-   Sono disponibili informazioni su questo plug-in [qui.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   Le informazioni su questo plug-in sono disponibili [qui.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 >[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte del corso [Accelera i cicli di vendita con Acrobat Sign per Salesforce e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) questo è disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Accelerare i cicli di vendita con Acrobat Sign for Salesforce e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), disponibile gratuitamente per l’Experience League.
 

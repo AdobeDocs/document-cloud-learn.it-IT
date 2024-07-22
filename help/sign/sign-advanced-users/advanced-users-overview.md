@@ -10,7 +10,7 @@ exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
 source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 5%
+ht-degree: 2%
 
 ---
 
@@ -34,7 +34,7 @@ Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identi
       <img alt="Impostazione dell’ordine di firma" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>Impostazione dell’ordine di firma</strong></a>
+    <a href="setting-up-routing.md"><strong>Impostazione dell'ordine di firma</strong></a>
     </div>
     <em>Impostare l’ordine di firma per più firmatari</em>
     <br>
@@ -44,9 +44,9 @@ Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identi
       <img alt="Delega a un altro utente" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>Uso del ruolo di delegante</strong></a>
+    <a href="delegate-signature.md"><strong>Utilizzo del ruolo di delegante</strong></a>
     </div>
-    <em>Utilizzare il ruolo di delegante per inviare un documento a un intermediario che potrà quindi inoltrarlo per la firma</em>
+    <em>Utilizzare il ruolo di delegante per inviare un documento a un intermediario che potrà quindi indirizzare il documento per la firma</em>
     <br>
   </td>
   <td>
@@ -54,7 +54,7 @@ Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identi
       <img alt="Utilizzo del ruolo di approvatore" src="../assets/Approver.png" />
     </a>
     <div>
-    <a href="add-an-approver.md"><strong>Utilizzo del ruolo di approvatore</strong></a>
+    <a href="add-an-approver.md"><strong>Utilizzo del ruolo approvatore</strong></a>
     </div>
     <em>Aggiungere un ruolo approvatore al processo di approvazione del contratto</em>
     <br>
@@ -66,7 +66,7 @@ Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identi
     <div>
     <a href="authentication-methods.md"><strong>Metodi di autenticazione in Acrobat Sign</strong></a>
     </div>
-    <em>Scopri la gamma di metodi di autenticazione dell’identità disponibili in Acrobat Sign</em>
+    <em>Informazioni sull'intervallo di metodi di autenticazione dell'identità disponibili in Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -86,19 +86,19 @@ Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identi
       <img alt="Impostare i pagamenti online" src="../assets/Payments.png" />
     </a>
     <div>
-    <a href="set-up-online-payments.md"><strong>Impostare i pagamenti online</strong></a>
+    <a href="set-up-online-payments.md"><strong>Configurazione dei pagamenti online</strong></a>
     </div>
     <em>Scopri come impostare e accettare pagamenti online nei tuoi documenti</em>
     <br>
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="Inviare in modalità collettiva" src="../assets/send-in-bulk.png" />
+        <img alt="Invia in modalità collettiva" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>Inviare in modalità collettiva</strong></a>
+      <a href="megasign.md"><strong>Invia in modalità collettiva</strong></a>
       </div>
-      <em>Raccogli centinaia di firme contemporaneamente per qualsiasi documento in pochi passaggi</em>
+      <em>Raccogliere centinaia di firme contemporaneamente per qualsiasi documento in pochi passaggi</em>
       <br>
   </td>
  <td>
@@ -108,7 +108,7 @@ Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identi
       <div>
       <a href="webform.md"><strong>Creazione di un modulo Web</strong></a>
       </div>
-      <em>Scopri come creare un documento che possa essere firmato elettronicamente direttamente sul tuo sito web</em>
+      <em>Scopri come creare un documento che può essere firmato elettronicamente direttamente sul tuo sito Web</em>
       <br>
   </td>
 </tr>
@@ -118,9 +118,9 @@ Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identi
         <img alt="Applicazione di tag al testo in Acrobat Sign" src="../assets/Text-Tagging.png" />
     </a>
       <div>
-      <a href="adobe-sign-text-tagging.md"><strong>Applicazione di tag al testo in Acrobat Sign</strong></a>
+      <a href="adobe-sign-text-tagging.md"><strong>Tag di testo Acrobat Sign</strong></a>
       </div>
-      <em>Generare campi modulo Acrobat Sign tramite tag di testo con Adobe Acrobat</em>
+      <em>Compilare i campi modulo di Acrobat Sign tramite tag di testo con Adobe Acrobat</em>
       <br>
     </td>
   <td>
@@ -157,7 +157,7 @@ Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identi
     <div>
     <a href="creating-a-report.md"><strong>Creazione di un report</strong></a>
     </div>
-    <em>Scopri come creare report personalizzati per ottenere visibilità sul processo di firma dei documenti</em>
+    <em>Scopri come creare i tuoi report per ottenere visibilità sul processo di firma dei documenti</em>
     <br>
   </td>
   <td>

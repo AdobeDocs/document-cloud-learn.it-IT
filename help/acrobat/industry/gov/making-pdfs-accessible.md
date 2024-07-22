@@ -9,14 +9,14 @@ thumbnail: 34291.jpg
 exl-id: 5b205e7c-d41f-452d-9a54-208a25d3fa5e
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 # Accessibilità dei PDF (14:11)
 
-Scoprite il flusso di lavoro ottimale per la creazione di file PDF accessibili. In primo luogo, scoprite perché l&#39;accessibilità è così importante, seguito da come lavorare con i PDF creati da [!DNL Microsoft Word], quindi utilizzare gli strumenti di accessibilità di Acrobat Pro.
+Scoprite il flusso di lavoro ottimale per la creazione di file PDF accessibili. Scopri innanzitutto perché l&#39;accessibilità è così importante, quindi come utilizzare i PDF creati da [!DNL Microsoft Word] e infine come utilizzare gli strumenti di accessibilità in Acrobat Pro.
 
 >[!NOTE]
 >

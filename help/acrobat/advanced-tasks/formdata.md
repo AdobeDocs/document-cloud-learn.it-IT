@@ -9,7 +9,7 @@ thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -20,18 +20,18 @@ Se disponi di un set di moduli completati e devi compilare i dati, puoi utilizza
 
 1. Per iniziare, inserisci tutti i PDF forms completati in una cartella sul computer.
 
-   ![Passaggio 1 dati modulo](../assets/FormData_1.png)
+   ![Passaggio dati modulo 1](../assets/FormData_1.png)
 
-1. Apri uno dei file del modulo compilato, quindi seleziona **[!UICONTROL Prepare Form]** dal centro Strumenti o dal riquadro di destra.
+1. Apri uno dei file del modulo compilato, quindi seleziona **[!UICONTROL Prepare Form]** dal centro Strumenti o dal riquadro a destra.
 
-   ![Passaggio 2 dati modulo](../assets/FormData_2.png)
+   ![Passaggio dati modulo 2](../assets/FormData_2.png)
 
-1. Seleziona **[!UICONTROL Altro]** **>** **[!UICONTROL Unisci file di dati in foglio di calcolo]** nel riquadro a destra.
+1. Selezionare **[!UICONTROL Altro]** **>** **[!UICONTROL Unisci file di dati in foglio di calcolo]** nel riquadro a destra.
 
-   ![Passaggio 3 dati modulo](../assets/FormData_3.png)
+   ![Passaggio dati modulo 3](../assets/FormData_3.png)
 
 1. Selezionare la cartella creata con i moduli completati.
 
    Acrobat estrae i dati da ogni modulo e crea un foglio elettronico di tutti i dati.
 
-   ![Dati modulo Passaggio 4](../assets/FormData_4.png)
+   ![Passaggio dati modulo 4](../assets/FormData_4.png)

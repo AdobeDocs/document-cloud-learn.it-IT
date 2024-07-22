@@ -9,8 +9,8 @@ thumbnail: KT-9343.jpg
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 1%
+source-wordcount: '325'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ File di esempio con cui esercitarsi (ZIP, 342 KB)
 
 ## Scopri come aggiungere grafica di sfondo
 
-Utilizzare la [Strumento Modifica PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"} per aggiungere grafica di sfondo al PDF.
+Utilizza lo strumento [Modifica PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"} per aggiungere elementi grafici di sfondo al PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 
@@ -39,12 +39,12 @@ Utilizzare la [Strumento Modifica PDF](https://www.adobe.com/it/acrobat/online/p
 
 L’aggiunta di sfondi consente di aggiungere elementi visivi al PDF senza dover tornare al file o all’applicazione di origine originale.
 
-1. Apri *Altura Technology Employee Handbook.pdf* dai file di esempio.
-1. Seleziona **Edit PDF** nel riquadro a destra.
-1. Seleziona **Altro > Sfondo > Aggiungi**.
+1. Aprire *Altura Technology Employee Handbook.pdf* dai file di esempio.
+1. Seleziona **Modifica PDF** nel riquadro a destra.
+1. Selezionare **Altro > Sfondo > Aggiungi**.
 1. Seleziona **Opzioni intervallo pagine...**.
-Immettere da 2 a 26 nella **Pagine da** , quindi seleziona **OK**.
-1. Nella sezione Origine, scegli **File** e seleziona **Sfoglia** per aggiungere il *Immagine di sfondo.pdf* file di esempio.
+Immetti da 2 a 26 nella sezione **Pagine da**, quindi seleziona **OK**.
+1. Nella sezione Origine, scegli **File** e seleziona **Sfoglia** per aggiungere il file di esempio *Grafica di sfondo.pdf*.
 1. Seleziona **OK** per aggiungere la grafica di sfondo.
 
 ## Scopri come aggiungere un nuovo piè di pagina
@@ -59,18 +59,18 @@ Usa lo strumento Modifica per aggiungere un nuovo piè di pagina al tuo PDF.
 
 L’aggiunta di nuove intestazioni o piè di pagina consente di creare file PDF uniformi per un’esperienza di visualizzazione migliore.
 
-1. Seleziona **Intestazione e piè di pagina > Aggiungi > Aggiungi nuovo**.
-1. Immettere 2 nella **Anteprima pagina** box.
-1. Nella sezione Font, seleziona Calibri Bold nel menu **Nome** a discesa.
-Selezionare 12 nella **Dimensioni** e scegli un colore bianco.
-1. Tipo *Materiale riservato sulla tecnologia Altura* nella **Testo piè di pagina sinistro** box.
-1. Seleziona **Inserisci numero di pagina** nella **Centra testo piè di pagina** box.
-1. Tipo *Revisione 3.0* nella **Testo piè di pagina destro** box.
-1. Seleziona **Formato numero di pagina e data**.
+1. Selezionare **Intestazione e piè di pagina > Aggiungi > Aggiungi nuovo**.
+1. Immettere 2 nella casella **Anteprima pagina**.
+1. Nella sezione Font, seleziona Calibri Bold nel menu a discesa **Nome**.
+Selezionate 12 nel menu a discesa **Dimensioni** e scegliete un colore bianco.
+1. Digitate *Informazioni riservate sulla tecnologia Altura* nella casella **Testo piè di pagina sinistro**.
+1. Selezionare **Inserisci numero di pagina** nella casella **Testo piè di pagina centrale**.
+1. Digitare *Revisione 3.0* nella casella **Testo piè di pagina destro**.
+1. Selezionare **Formato numero di pagina e data**.
 Immetti 2 in **Numero pagina iniziale** e seleziona **OK**.
 1. Seleziona **Opzioni intervallo pagine...**.
-Immettete da 2 a 26 nella casella **Pagine da:** , quindi seleziona **OK**.
-1. Immettere 0,7 nella **In basso** della sezione Margine.
-1. Seleziona **Salva impostazioni**.
-Tipo *Revisione 3.0* nella casella e seleziona **OK**.
+Immetti da 2 a 26 nella sezione **Pagine da:**, quindi seleziona **OK**.
+1. Immettete 0.7 nella casella **Inferiore** della sezione Margine.
+1. Selezionare **Salva impostazioni**.
+Digita *Revisione 3.0* nella casella e seleziona **OK**.
 1. Seleziona **OK** per applicare il nuovo piè di pagina al PDF.

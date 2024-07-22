@@ -1,6 +1,6 @@
 ---
 title: Utilizzo dei tag di testo in [!DNL Microsoft Word]
-description: Scopri come creare un modello di documento riutilizzabile aggiungendo tag di testo Acrobat Sign in [!DNL Microsoft Word]
+description: Scopri come creare un modello di documento riutilizzabile aggiungendo tag di testo di Acrobat Sign in [!DNL Microsoft Word]
 feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Utilizzo dei tag di testo in [!DNL Microsoft Word]
 
-Scopri come creare un modello di documento riutilizzabile aggiungendo tag di testo Acrobat Sign in [!DNL Microsoft Word]. L’assegnazione di tag di testo crea automaticamente dei campi modulo nel documento quando viene inviato per la firma: non è necessario inserire manualmente i campi. Questo processo riduce notevolmente il tempo necessario per effettuare revisioni e modifiche [!DNL Microsoft Word] documenti inviati per la firma.
+Scopri come creare un modello di documento riutilizzabile aggiungendo tag di testo di Acrobat Sign in [!DNL Microsoft Word]. L’assegnazione di tag di testo crea automaticamente dei campi modulo nel documento quando viene inviato per la firma: non è necessario inserire manualmente i campi. Questo processo riduce notevolmente il tempo necessario per apportare revisioni e modifiche a [!DNL Microsoft Word] documenti inviati per la firma.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409482?quality=12&learn=on&hidetitle=true)

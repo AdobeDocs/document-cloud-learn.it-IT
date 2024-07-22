@@ -11,24 +11,24 @@ thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
 # Collaborazione PDF in [!DNL Microsoft Teams]
 
-Adobe Acrobat for Teams consente agli utenti di collaborare e lavorare con i colleghi visualizzando, annotando e rivedendo i PDF senza mai uscire [!DNL Microsoft Teams]. Questa integrazione include:
+Adobe Acrobat for Teams consente agli utenti di collaborare e lavorare con i colleghi visualizzando, annotando e rivedendo i PDF senza mai uscire da [!DNL Microsoft Teams]. Questa integrazione include:
 
-* Visualizzazione di alta qualità: si tratta dell&#39;unica esperienza di visualizzazione PDF che consente di aprire PDF ad alta fedeltà direttamente all&#39;interno [!DNL Microsoft Teams], per un&#39;esperienza di lavoro soddisfacente e senza interruzioni
-* Semplifica le recensioni dei PDF: raccogli i feedback dei membri del canale in un singolo PDF direttamente in [!DNL Microsoft Teams] invece di raccogliere e riconciliare feedback tramite più allegati
+* Visualizzazione di alta qualità: questa è l&#39;unica esperienza di visualizzazione PDF che consente di aprire PDF ad alta fedeltà direttamente all&#39;interno di [!DNL Microsoft Teams], per un&#39;esperienza di lavoro soddisfacente e uniforme
+* Semplifica le revisioni dei PDF: raccogli i feedback dei membri del canale direttamente in un singolo PDF in [!DNL Microsoft Teams] anziché raccogliere e riconciliare i feedback tramite più allegati
 * Ricevere una notifica dell&#39;avanzamento: ricevere una notifica in Teams quando altri intervengono sui tuoi documenti
 * Mantieni informati i revisori: i revisori ricevono una notifica quando altri rispondono ai loro commenti
-* Collaborazione sicura: collaborazione sicura con membri affidabili e possibilità di archiviare le versioni dei documenti in [!DNL Microsoft SharePoint] oppure [!DNL OneDrive]
+* Collaborazione protetta: collaborazione protetta con membri attendibili e possibilità di archiviare le versioni dei documenti in [!DNL Microsoft SharePoint] o [!DNL OneDrive]
 
 >[!TIP]
 >
->Scopri questi altri Microsoft [integrazioni](../integrate/integrate-overview.md#microsoft).
+>Scopri queste altre [integrazioni](../integrate/integrate-overview.md#microsoft) di Microsoft.
 
 <br> 
 
@@ -36,4 +36,4 @@ Adobe Acrobat for Teams consente agli utenti di collaborare e lavorare con i col
 
 >[!TIP]
 >
->Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) questo è disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponibile gratuitamente per l&#39;Experience League.

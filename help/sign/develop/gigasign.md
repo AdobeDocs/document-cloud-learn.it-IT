@@ -21,15 +21,15 @@ Gigasign consente di inviare, raccogliere e tenere traccia dei documenti da firm
 
 >[!IMPORTANT]
 >
->GigaSign non è più aggiornato alla versione più recente di Java o Acrobat Sign e avrà solo un supporto limitato. Le funzioni di GigaSign sono state aggiunte al prodotto nel [Invia in modalità collettiva](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?) funzionalità. Utilizza Invia in modalità collettiva per tutti i casi d&#39;uso che non richiedono esplicitamente l&#39;uso di GigaSign.
+>GigaSign non è più aggiornato alla versione più recente di Java o Acrobat Sign e avrà solo un supporto limitato. Le funzioni di GigaSign sono state aggiunte al prodotto con la funzionalità [Invia in modalità collettiva](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?). Utilizza Invia in modalità collettiva per tutti i casi d&#39;uso che non richiedono esplicitamente l&#39;uso di GigaSign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## Scaricare e installare l’app GigaSign
 
-[Scarica il file ZIP di GigaSign](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
+[Scarica file zip GigaSign](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
-[Collegamento per il download a Java 1.8 (solo se necessario)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
+[Collegamento per il download di Java 1.8 (solo se necessario)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
 [Indirizzi IP alla whitelist (solo se necessario)](https://helpx.adobe.com/it/sign/system-requirements.html#IPs){target="_blank"}
 
@@ -37,7 +37,7 @@ Gigasign consente di inviare, raccogliere e tenere traccia dei documenti da firm
 
 1. Accedi al tuo account Acrobat Sign.
 
-1. Fai clic **[!UICONTROL Raggruppamento]** oppure **[!UICONTROL Account]**, qualsiasi cosa veda in alto.
+1. Fai clic su **[!UICONTROL Gruppo]** o **[!UICONTROL Account]**, in base a quello che vedi in alto.
 
 1. Digita &quot;Token di accesso&quot; nel campo di ricerca sul lato sinistro dello schermo.
 
@@ -49,7 +49,7 @@ Gigasign consente di inviare, raccogliere e tenere traccia dei documenti da firm
 
 1. Apri GigaSign.
 
-1. Fare clic sul pulsante **[!UICONTROL Impostazioni]** icona in alto a destra.
+1. Fai clic sull&#39;icona **[!UICONTROL Impostazioni]** in alto a destra.
 
 1. Incolla la chiave di integrazione nella prima riga.
 

@@ -29,7 +29,7 @@ Scopri come trasformare le esperienze di clienti e dipendenti esplorando casi d&
     <div>
     <a href="gov/gov-overview.md"><strong>Esercitazioni per la Pubblica amministrazione</strong></a>
     </div>
-    <em>Esplora i nostri tutorial su Acrobat progettati specificamente per le amministrazioni federali, statali e locali</em>
+    <em>Esplora i tutorial di Acrobat progettati specificamente per il governo federale, statale e locale</em>
     <br>
   </td>
   <td>

@@ -8,7 +8,7 @@ level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -19,46 +19,46 @@ Compila, firma e invia rapidamente moduli da desktop, browser o app mobile. Adob
 
 In questo esercizio importerai, compilerai, firmerai e invierai un da utilizzando il tuo dispositivo mobile.
 
-Ecco le [file demo](assets/03_FillSignScan.zip) per questo esercizio.
+Di seguito sono riportati i [file demo](assets/03_FillSignScan.zip) per questo esercizio.
 
-**Passaggio 1:** Scarica il [!DNL Adobe Fill & Sign] dall&#39;app [!DNL Apple App] archiviare o [!DNL Google Play].
+**Passaggio 1:** Scarica l&#39;app [!DNL Adobe Fill & Sign] dall&#39;archivio [!DNL Apple App] o [!DNL Google Play].
 
-**Passaggio 2:** Apri l’app, tocca **[!UICONTROL Seleziona un modulo da compilare]**.
+**Passaggio 2:** Apri l&#39;app, tocca **[!UICONTROL Seleziona un modulo da compilare]**.
 
-![Carica immagine](assets/mobilescan.jpg)
+![Immagine Uploaddoc](assets/mobilescan.jpg)
 
-**Passaggio 3:** Scegliete una delle opzioni di importazione. In questo esercizio verrà eseguita una foto.
+**Passaggio 3:** Scegliere una delle opzioni di importazione. In questo esercizio verrà eseguita una foto.
 
-![Immagine Fase 2F](assets/Step2F.jpg)
+![Passaggio 2F immagine](assets/Step2F.jpg)
 
-**Passaggio 4:** Usa il pulsante bianco per scattare una foto, quindi tocca **[!UICONTROL Usa foto]**. Tocca **[!UICONTROL Fine]** nell&#39;angolo superiore destro.
+**Passaggio 4:** utilizzate il pulsante bianco per scattare una foto, quindi toccate **[!UICONTROL Usa foto]**. Tocca **[!UICONTROL Fine]** nell&#39;angolo superiore destro.
 
-**Passaggio 5:** Nella parte inferiore dell’app, tocca il **[!UICONTROL Ritaglio]** e utilizzare le guide per [ritaglia l’immagine](https://www.adobe.com/acrobat/online/crop-pdf.html). Tocca **[!UICONTROL Fine]** al termine.
+**Passaggio 5:** nella parte inferiore dell&#39;app, tocca lo strumento **[!UICONTROL Ritaglia]** e utilizza le guide per [ritagliare l&#39;immagine](https://www.adobe.com/it/acrobat/online/crop-pdf.html). Al termine, tocca **[!UICONTROL Fine]**.
 
 ![immagine documento locale](assets/localdoc.jpg)
 
-**Passaggio 6:** Se necessario, utilizzate lo strumento Bacchetta magica per pulire l’immagine. Tocca **[!UICONTROL Fine]** al termine.
+**Passaggio 6:** se necessario, utilizzate lo strumento Bacchetta magica per pulire l&#39;immagine. Al termine, tocca **[!UICONTROL Fine]**.
 
-**Passaggio 7:** Tocca in un punto qualsiasi della pagina per creare un campo e aggiungere le informazioni necessarie al documento. Seleziona l&#39;ellisse per visualizzare altre opzioni.
+**Passaggio 7:** tocca in un punto qualsiasi della pagina per creare un campo e aggiungere le informazioni necessarie al documento. Seleziona l&#39;ellisse per visualizzare altre opzioni.
 
 ![Riempi immagine](assets/fill.jpg)
 
 
-**Passaggio 8:** Toccate il pulsante **[!UICONTROL Firma]** nella parte inferiore dell’app per aggiungere la tua firma.
+**Passaggio 8:** Toccate il pulsante **[!UICONTROL Firma]** nella parte inferiore dell’app per aggiungere la firma.
 
 ![Crea immagine della firma](assets/createsign.jpg)
 
-**Passaggio 9:** Usa uno stilo o il dito per firmare nel campo firma. Spostare e posizionare il campo firma.
+**Passaggio 9:** utilizza uno stilo o il dito per firmare nel campo firma. Spostare e posizionare il campo firma.
 
 ![Immagine della firma](assets/sign.jpg)
 
-**Passaggio 10:** Toccate il pulsante **[!UICONTROL Profilo]** nella parte inferiore dell’app per ottenere valori precompilati quali nome e data. Devi solo compilare queste informazioni una volta e poi puoi usarle in tutti i moduli futuri completati con l&#39;app Fill &amp; Sign.
+**Passaggio 10:** toccate il pulsante **[!UICONTROL Profilo]** nella parte inferiore dell&#39;app per ottenere i valori precompilati, ad esempio il nome e la data. Devi solo compilare queste informazioni una volta e poi puoi usarle in tutti i moduli futuri completati con l&#39;app Fill &amp; Sign.
 
-![pieno](assets/filled.jpg)
+![compilato](assets/filled.jpg)
 
 ![pre pop](assets/prepop.jpg)
 
-**Passaggio 11:** Una volta completato il modulo, tocca il pulsante Condividi nell’angolo in basso a destra per inviare un’e-mail.
+**Passaggio 11:** una volta completato il modulo, tocca il pulsante Condividi nell&#39;angolo inferiore destro per inviare un&#39;e-mail.
 
 ## Ricapitolazione:
 

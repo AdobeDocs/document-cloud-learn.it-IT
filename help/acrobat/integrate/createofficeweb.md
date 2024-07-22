@@ -1,6 +1,6 @@
 ---
 title: Crea PDF in [!DNL Office] per il Web
-description: Scopri come creare file PDF senza mai uscire dal tuo [!DNL Microsoft Office] per le web app
+description: Scopri come creare file PDF senza mai uscire dalle tue  [!DNL Microsoft Office] applicazioni Web
 feature: Integrations, Create PDF
 role: User
 topic: Integrations
@@ -11,18 +11,18 @@ thumbnail: KT-8497.jpg
 exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 # Crea PDF in [!DNL Office] per il Web
 
-Scopri come creare file PDF senza mai uscire dal tuo [!DNL Microsoft Office] per le web app. Questo componente aggiuntivo richiede un abbonamento ad Acrobat for teams o Acrobat for enterprise.
+Scopri come creare file PDF senza mai uscire da [!DNL Microsoft Office] per le app Web. Questo componente aggiuntivo richiede un abbonamento ad Acrobat for teams o Acrobat for enterprise.
 
 >[!NOTE]
 >
->Adobe Acrobat per [!DNL Microsoft 365] include funzionalità gratuite (come la visualizzazione e la ricerca all’interno di PDF) disponibili per tutti gli utenti. Altre funzioni (come la creazione e la combinazione di PDF) richiedono un abbonamento a pagamento ad Acrobat for teams o Acrobat for enterprise.
+>Adobe Acrobat per [!DNL Microsoft 365] include funzionalità gratuite (come visualizzazione e ricerca all&#39;interno di PDF) disponibili per tutti gli utenti. Altre funzioni (come la creazione e la combinazione di PDF) richiedono un abbonamento a pagamento ad Acrobat for teams o Acrobat for enterprise.
 
 <br> 
 
@@ -30,4 +30,4 @@ Scopri come creare file PDF senza mai uscire dal tuo [!DNL Microsoft Office] per
 
 >[!TIP]
 >
->Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) questo è disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponibile gratuitamente per l&#39;Experience League.

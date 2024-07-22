@@ -9,8 +9,8 @@ thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 10%
+source-wordcount: '98'
+ht-degree: 4%
 
 ---
 
@@ -37,7 +37,7 @@ Articoli sulle best practice con informazioni utili sulla distribuzione di Acrob
     <div>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Centro protezione Adobe</strong></a>
     </div>
-    <em>Scopri i nostri continui sforzi in materia di sicurezza, legalità e standard per Acrobat Sign</em>
+    <em>Scopri le nostre attività correnti in materia di sicurezza, legalità e standard per Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -47,7 +47,7 @@ Articoli sulle best practice con informazioni utili sulla distribuzione di Acrob
     <div>
     <a href="assets/SignStudyGuide.pdf"><strong>Guida allo studio di Acrobat Sign Essentials</strong></a>
     </div>
-    <em>Guida allo studio Acrobat Sign per la valutazione di Acrobat Sign Essentials (AD3-D104)</em>
+    <em>Guida allo studio di Acrobat Sign per la valutazione di Acrobat Sign Essentials (AD3-D104)</em>
     <br>
   </td>
   <td>

@@ -10,8 +10,8 @@ thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 13%
+source-wordcount: '148'
+ht-degree: 2%
 
 ---
 
@@ -38,7 +38,7 @@ Il 40% degli accordi in Acrobat Sign viene creato utilizzando le API. Utilizza l
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Scopri cosa puoi fare</strong></a>
     </div>
-    <em>Scopri come incorporare la funzionalità di Acrobat Sign in qualsiasi applicazione esterna</em>
+    <em>Scopri come incorporare le funzionalità di Acrobat Sign in qualsiasi applicazione esterna</em>
     <br>
   </td>  
   <td>
@@ -46,7 +46,7 @@ Il 40% degli accordi in Acrobat Sign viene creato utilizzando le API. Utilizza l
       <img alt="Raccogliere documenti con grandi volumi con GigaSign" src="../assets/gigasign.jpg" />
     </a>
     <div>
-    <a href="gigasign.md"><strong>Raccogliere documenti con grandi volumi con GigaSign</strong></a>
+    <a href="gigasign.md"><strong>Raccogliere documenti di grandi dimensioni tramite GigaSign</strong></a>
     </div>
     <em>Inviare, raccogliere e monitorare i documenti da firmare a migliaia di persone allo stesso tempo</em>
     <br>
@@ -56,9 +56,9 @@ Il 40% degli accordi in Acrobat Sign viene creato utilizzando le API. Utilizza l
       <img alt="Creare esperienze incorporate di firma elettronica e di creazione di documenti" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
     <div>
-    <a href="embeddedesignature.md"><strong>Creare esperienze incorporate di firma elettronica e di creazione di documenti</strong></a>
+    <a href="embeddedesignature.md"><strong>Creare esperienze di firma elettronica e documenti incorporate</strong></a>
     </div>
-    <em>Scopri come utilizzare le API di Acrobat Sign per incorporare esperienze di firma elettronica e di gestione dei documenti in piattaforme Web e sistemi di gestione di contenuti e documenti</em>
+    <em>Scopri come utilizzare le API di Acrobat Sign per incorporare esperienze di firma elettronica e documenti nelle piattaforme Web e nei sistemi di gestione dei contenuti e dei documenti</em>
     <br>
   </td>
 </tr>

@@ -1,5 +1,5 @@
 ---
-title: Configurare Acrobat Sign per Workday
+title: Configurazione di Acrobat Sign per Workday
 description: Scopri come configurare Acrobat Sign in modo che funzioni direttamente in Workday per gestire senza problemi tutti i documenti HR
 feature: Integrations
 role: Admin
@@ -13,11 +13,11 @@ exl-id: c94a7756-1fae-4f17-aab4-ea1437b68645
 source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 15%
+ht-degree: 0%
 
 ---
 
-# Configurare Acrobat Sign per Workday
+# Configurazione di Acrobat Sign per Workday
 
 Semplifica i flussi di lavoro di firma e aumenta la produttività del tuo team utilizzando Acrobat Sign per Workday. Questa esercitazione video spiega come configurare Acrobat Sign in modo che funzioni direttamente in Workday per gestire senza problemi tutta la documentazione HR.
 

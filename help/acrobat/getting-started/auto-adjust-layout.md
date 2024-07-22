@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Adatta layout
 
-Scopri la nuova modalità di modifica che ridisegna il contenuto e regola automaticamente il layout su più pagine nel tuo PDF. Questa esercitazione video utilizza [nuova esperienza area di lavoro](new-workspace.md).
+Scopri la nuova modalità di modifica che ridisegna il contenuto e regola automaticamente il layout su più pagine nel tuo PDF. Questa esercitazione video utilizza la [nuova esperienza dell&#39;area di lavoro](new-workspace.md).
 
 >[!NOTE]
 >

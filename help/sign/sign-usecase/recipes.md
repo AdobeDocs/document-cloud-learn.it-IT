@@ -22,10 +22,10 @@ Scopri come le varie organizzazioni utilizzano Acrobat Sign per trasformare i fl
 ## Novità
 
 * [Flusso di lavoro personalizzato per il processo IEP dell’istruzione](usecase-edu-iep.md)
-Scopri come utilizzare Progettazione flussi di lavoro personalizzati per digitalizzare un processo IEP (Individualized Education Program)
-* [Applicazione di stage per moduli web per l’istruzione](usecase-edu-intern.md)
+Scopri come utilizzare il flusso di lavoro personalizzato Designer per digitalizzare un processo IEP (Individualized Education Program)
+* [Applicazione di internship per moduli web didattici](usecase-edu-intern.md)
 Scopri come utilizzare i moduli Web per migliorare l’accesso degli studenti ai moduli richiesti
-* [Creare un’applicazione di stage per moduli web didattici](usecase-edu-intern-create.md)
+* [Creare un&#39;applicazione di tirocinio per moduli Web didattici](usecase-edu-intern-create.md)
 Scopri come creare un modulo web per stage
 * [Richiesta di prestito governativo con più firmatari sconosciuti](webform-multiple-signers.md)
 Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’applicazione di un prestito pubblico che coinvolge più partecipanti sconosciuti
@@ -41,7 +41,7 @@ Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’a
     <div>
     <a href="webform-multiple-signers.md"><strong>Richiesta di prestito governativo con più firmatari sconosciuti</strong></a>
     </div>
-    <em>Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’applicazione di un prestito pubblico che coinvolge più partecipanti sconosciuti</em>
+    <em>Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’applicazione di un prestito governativo che coinvolge più partecipanti sconosciuti</em>
     <br>
   </td> 
   <td>
@@ -49,7 +49,7 @@ Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’a
       <img alt="Sovvenzioni e prestiti alle imprese" src="../assets/UC_Business.png" />
     </a>
     <div>
-    <a href="usecasegovgrants.md"><strong>Sovvenzioni e prestiti alle imprese</strong></a>
+    <a href="usecasegovgrants.md"><strong>Concessioni di lavoro e prestiti</strong></a>
     </div>
     <em>Fornire assistenza rapida alle aziende fornendo accesso self-service ai moduli di richiesta di concessione, prestito e differimento delle imposte</em>
     <br>
@@ -69,9 +69,9 @@ Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’a
       <img alt="Contratti e moduli di richiesta" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasegovcontracts.md"><strong>Contratti e moduli di richiesta</strong></a>
+    <a href="usecasegovcontracts.md"><strong>Contratti e moduli richiesta</strong></a>
     </div>
-    <em>Sostituisci rapidamente l’elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit</em>
+    <em>Sostituisci rapidamente l'elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit</em>
     <br>
   </td>
 </tr>
@@ -81,9 +81,9 @@ Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’a
       <img alt="Assistenza alla rioccupazione" src="../assets/UC_WebformsR.png" />
     </a>
     <div>
-    <a href="usecasegovreemployment.md"><strong>Assistenza alla rioccupazione</strong></a>
+    <a href="usecasegovreemployment.md"><strong>Assistenza per la rioccupazione</strong></a>
     </div>
-    <em>Aiuta i cittadini a ricevere l'aiuto di cui hanno bisogno senza essere in linea con tutti i moduli di applicazioni digitali che possono essere pubblicati in pochi giorni</em>
+    <em>Aiutate i cittadini a ricevere l'aiuto di cui hanno bisogno senza essere in linea con tutti i moduli di applicazioni digitali che possono essere pubblicati tra giorni</em>
     <br>
   </td>
   <td>
@@ -123,9 +123,9 @@ Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’a
       <img alt="Contratti e moduli di richiesta" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasecomcontracts.md"><strong>Contratti e moduli di richiesta</strong></a>
+    <a href="usecasecomcontracts.md"><strong>Contratti e moduli richiesta</strong></a>
     </div>
-    <em>Sostituisci rapidamente l’elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit</em>
+    <em>Sostituisci rapidamente l'elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit</em>
     <br>
   </td> 
   <td>
@@ -133,7 +133,7 @@ Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’a
       <img alt="Accordi sulle policy" src="../assets/UC_Policy.png" />
     </a>
     <div>
-    <a href="usecasecompolicy.md"><strong>Accordi sulle policy</strong></a>
+    <a href="usecasecompolicy.md"><strong>Accordi sui criteri</strong></a>
     </div>
     <em>Raccogli in modo efficiente le firme di tutti i tuoi dipendenti sugli accordi e gli aggiornamenti delle policy</em>
     <br>
@@ -145,7 +145,7 @@ Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’a
     <div>
     <a href="usecasecomtelework.md"><strong>Accordo sul telelavoro</strong></a>
     </div>
-    <em>Raccogliere in modo efficiente le firme di tutti i dipendenti sugli accordi di telelavoro</em>
+    <em>Raccogli in modo efficiente le firme di tutti i tuoi dipendenti sugli accordi di telelavoro</em>
     <br>
   </td>
   <td>
@@ -165,9 +165,9 @@ Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’a
       <img alt="Applicazione di stage per moduli web per l’istruzione" src="../assets/Webform-internship.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern.md"><strong>Applicazione di stage per moduli web per l’istruzione</strong></a>
+    <a href="usecase-edu-intern.md"><strong>Applicazione di internship per moduli web didattici</strong></a>
     </div>
-    <em>Scopri come utilizzare i moduli Web per migliorare l’accesso degli studenti ai moduli richiesti</em>
+    <em>Scopri come utilizzare i moduli Web per migliorare l'accesso degli studenti ai moduli richiesti</em>
     <br>
   </td> 
   <td>
@@ -175,9 +175,9 @@ Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’a
       <img alt="Creare un’applicazione di stage per moduli web didattici" src="../assets/Webform-internship-create.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern-create.md"><strong>Creare un’applicazione di stage per moduli web didattici</strong></a>
+    <a href="usecase-edu-intern-create.md"><strong>Creare un'applicazione di tirocinio per moduli Web didattici</strong></a>
     </div>
-    <em>Scopri come creare un modulo web per stage</em>
+    <em>Scopri come creare un modulo Web per stage</em>
     <br>
   </td> 
   <td>
@@ -187,7 +187,7 @@ Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’a
     <div>
     <a href="usecase-edu-iep.md"><strong>Flusso di lavoro personalizzato per il processo IEP dell’istruzione</strong></a>
     </div>
-    <em>Scopri come utilizzare Progettazione flussi di lavoro personalizzati per digitalizzare un processo IEP (Individualized Education Program)</em>
+    <em>Informazioni sull'utilizzo del flusso di lavoro personalizzato Designer per digitalizzare un processo IEP (Individualized Education Program)</em>
     <br>
   </td>
   <td>

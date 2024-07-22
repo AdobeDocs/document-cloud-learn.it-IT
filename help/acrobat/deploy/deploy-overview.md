@@ -9,8 +9,8 @@ thumbnail: KT-6862.jpg
 exl-id: 571db5c8-bac5-4066-af0f-f7e2d3a9105b
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 4%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 4%
 
 Articoli sull&#39;implementazione e sulle best practice con preziose informazioni e conoscenze acquisite lavorando con i clienti.
 
-* Scopri come [Distribuzione di Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} se utilizzi Adobe® Creative Cloud™ for teams o enterprise.
+* Scopri come [distribuire Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} se si utilizza Adobe® Creative Cloud™ for teams o enterprise.
 
-* Informazioni su [Enterprise Toolkit per i prodotti Acrobat](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"} per distribuire prodotti personalizzati all&#39;interno dell&#39;organizzazione, configurare installazioni virtualizzate e creare flussi di lavoro di enterprise PDF.
+* Informazioni sul [Enterprise Toolkit for Acrobat Products](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"} per distribuire prodotti personalizzati nell&#39;organizzazione, configurare installazioni virtualizzate e creare flussi di lavoro di Enterprise PDF.
 
-* Informazioni sulle modifiche importanti apportate a [Autorizzazioni Acrobat DC incluse in ETLA](signentitlementchanges.md){target="_blank"} (Enterprise Term License Agreement): offerte da agosto 2020 al 20 novembre 2020.
+* Scopri le modifiche importanti apportate alle [autorizzazioni Acrobat DC incluse nelle offerte ETLA](signentitlementchanges.md){target="_blank"} (Enterprise Term License Agreement) a partire da agosto 2020 fino al 20 novembre 2020.

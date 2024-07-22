@@ -1,6 +1,6 @@
 ---
-title: Firma con [!DNL Aadhaar]
-description: Scopri come utilizzare il tuo [!DNL Aadhaar] ID digitale per autenticare la tua identità e autorizzare una firma digitale remota (firma cloud) su un documento in Acrobat Sign
+title: Firma con  [!DNL Aadhaar]
+description: Scopri come utilizzare il tuo  [!DNL Aadhaar] ID digitale per autenticare la tua identità e autorizzare una firma digitale remota (firma cloud) su un documento in Acrobat Sign
 feature: Digital ID
 role: User
 level: Beginner
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Firma con [!DNL Aadhaar]
 
-Scopri come utilizzare il tuo [!DNL Aadhaar] ID digitale per autenticare la tua identità e autorizzare una firma digitale remota (firma cloud) su un documento in Acrobat Sign.
+Scopri come utilizzare l’ID digitale [!DNL Aadhaar] per autenticare la tua identità e autorizzare una firma digitale remota (firma cloud) su un documento in Acrobat Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)

@@ -11,8 +11,8 @@ kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '876'
-ht-degree: 2%
+source-wordcount: '832'
+ht-degree: 0%
 
 ---
 
@@ -45,9 +45,9 @@ Nella parte 2, esplora l’opzione &quot;low/no code&quot; per l’utilizzo dei 
 
 1. Accedi ad Acrobat Sign con il tuo account sviluppatore.
 
-1. Seleziona **Pubblicare un modulo Web** nella home page.
+1. Seleziona **Publish per un modulo Web** nella home page.
 
-   ![Schermata iniziale di Acrobat Sign](assets/embeddedesignature/embed_1.png)
+   ![Schermata della home page di Acrobat Sign](assets/embeddedesignature/embed_1.png)
 
 1. Crea l’accordo.
 
@@ -57,7 +57,7 @@ Nella parte 2, esplora l’opzione &quot;low/no code&quot; per l’utilizzo dei 
 
 1. Sperimentare l&#39;aggiunta dinamica dei parametri di query.
 
-   ![Schermata per l’aggiunta di parametri di query](assets/embeddedesignature/embed_3.png)
+   ![Schermata per l&#39;aggiunta dei parametri della query](assets/embeddedesignature/embed_3.png)
 
 +++
 
@@ -69,19 +69,19 @@ Nella parte 3, crea dinamicamente gli accordi.
 
 In primo luogo, è necessario stabilire l&#39;accesso. Con Acrobat Sign, sono disponibili due modi per connettersi tramite API. Token OAuth e chiavi di integrazione. A meno che tu non abbia un motivo molto specifico per utilizzare OAuth con la tua applicazione, dovresti prima esplorare le Chiavi di integrazione.
 
-1. Seleziona **Chiave di integrazione** sul **Informazioni API** menu sotto **Account** in Acrobat Sign.
+1. Seleziona **Chiave di integrazione** nel menu **Informazioni API** nella scheda **Account** in Acrobat Sign.
 
-   ![Schermata indicante dove trovare la chiave di integrazione](assets/embeddedesignature/embed_4.png)
+   ![Schermata in cui trovare la chiave di integrazione](assets/embeddedesignature/embed_4.png)
 
 Ora che hai accesso e puoi interagire con l’API, scopri cosa puoi fare con l’API.
 
-1. Passare alla [Metodi API REST versione 6 per Acrobat Sign](http://adobesign.com/public/docs/restapi/v6).
+1. Passa a [Metodi API REST versione 6 di Acrobat Sign](http://adobesign.com/public/docs/restapi/v6).
 
-   ![Schermata di navigazione Metodi API REST versione 6 di Acrobat Sign](assets/embeddedesignature/embed_5.png)
+   ![Schermata di navigazione nei metodi API REST versione 6 di Acrobat Sign](assets/embeddedesignature/embed_5.png)
 
 1. Utilizza il token come valore &quot;al portatore&quot;.
 
-   ![Schermata del valore al portatore](assets/embeddedesignature/embed_6.png)
+   ![Schermata con valore al portatore](assets/embeddedesignature/embed_6.png)
 
 Per inviare il primo accordo, è meglio comprendere come utilizzare l’API.
 
@@ -105,14 +105,16 @@ Dopo aver inviato un accordo per la prima volta, puoi aggiungere la logica. È s
 
 **URI di base**
 
-![Schermata della logica dell&#39;URI di base](assets/embeddedesignature/embed_10.png)
+![Schermata della logica URI di base](assets/embeddedesignature/embed_10.png)
 
 Tieni presente dove atterrano i documenti transitori all’interno del sistema complessivo dell’ecosistema Sign.
-Transitorio -> Accordo Transitorio -> Modello -> Accordo Transitorio -> Widget -> Accordo
+Transitorio -> Accordo
+Transitorio -> Modello -> Accordo
+Transitorio -> Widget -> Accordo
 
 In questo esempio viene utilizzato un modello come origine del documento. Questa è in genere la procedura migliore, a meno che non si abbia una ragione valida per generare dinamicamente i documenti per la firma (ad esempio, per generare codice legacy o documenti).
 
-Il codice è abbastanza semplice; utilizza un documento libreria (modello) per l&#39;origine del documento. Il primo e il secondo firmatario vengono assegnati in modo dinamico. La `IN_PROCESS` state indica che il documento viene inviato immediatamente. Inoltre, `mergeFieldInfo` viene utilizzato per compilare dinamicamente i campi.
+Il codice è abbastanza semplice; utilizza un documento libreria (modello) per l&#39;origine del documento. Il primo e il secondo firmatario vengono assegnati in modo dinamico. Lo stato `IN_PROCESS` indica che il documento viene inviato immediatamente. Inoltre, `mergeFieldInfo` viene utilizzato per riempire i campi in modo dinamico.
 
 ![Schermata del codice per aggiungere le firme in modo dinamico](assets/embeddedesignature/embed_11.png)
 
@@ -126,7 +128,7 @@ In molti casi può essere utile consentire al partecipante che esegue l’attiva
 
 Se non desideri che venga attivato il primo invio di e-mail, un modo semplice consiste nel gestire il comportamento modificando la chiamata API.
 
-![Schermata del codice per non attivare l’invio di e-mail](assets/embeddedesignature/embed_12.png)
+![Schermata del codice per non attivare l&#39;invio di e-mail](assets/embeddedesignature/embed_12.png)
 
 Ecco come controllare il reindirizzamento post-firma:
 
@@ -140,7 +142,7 @@ Dopo aver aggiornato il processo di creazione dell’accordo, il passaggio final
 >
 >Tieni presente che la chiamata per la creazione dell’accordo è tecnicamente asincrona. Ciò significa che è possibile effettuare una chiamata all’accordo &quot;POST&quot;, ma l’accordo non è ancora pronto. È consigliabile stabilire un ciclo di tentativi. Utilizza un nuovo tentativo o qualsiasi altra procedura consigliata per il tuo ambiente.
 
-![Screenshot che indica che è consigliabile stabilire un ciclo di tentativi](assets/embeddedesignature/embed_15.png)
+![Schermata che indica che è consigliabile stabilire un ciclo di tentativi](assets/embeddedesignature/embed_15.png)
 
 Quando si assembla tutto, la soluzione è piuttosto semplice. Stai creando un accordo e quindi generando un URL di firma in cui il firmatario può fare clic per iniziare il rituale di firma.
 
@@ -157,6 +159,6 @@ Quando si assembla tutto, la soluzione è piuttosto semplice. Stai creando un ac
 * Promemoria personalizzati
    * Con la creazione iniziale
 
-     ![Schermata di navigazione a Power Automate](assets/embeddedesignature/embed_16.png)
+     ![Schermata di navigazione in Power Automate](assets/embeddedesignature/embed_16.png)
 
-   * Oppure aggiungetene uno [in volo](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
+   * Oppure aggiungi un [in-flight](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)

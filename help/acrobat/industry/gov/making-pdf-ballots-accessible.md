@@ -10,7 +10,7 @@ thumbnail: KT-6817.jpg
 exl-id: 3a8eff2f-1b39-4073-828e-18bfc5d89dd3
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,6 @@ Le schede PDF disponibili elettronicamente devono essere accessibili e utilizzab
 
 Questa sessione si concentrerà sul miglioramento dell&#39;accessibilità delle schede elettroniche esistenti - per rendere le schede pienamente accessibili e utilizzabili per tutti gli utenti potrebbe richiedere un processo più completo. Affronteremo le modifiche ad alta priorità che possono essere apportate per rendere la tua attuale scheda PDF utilizzabile da più utenti, inclusi gli utenti non vedenti o ipovedenti e gli utenti che dipendono da una tastiera per visualizzare e interagire con la scheda.
 
-[Guarda come rendere più accessibili le schede dei PDF](https://event.on24.com/wcc/r/2620020/599427B9BC7DA6BB34A4D46EB0EB1F63)
+[Guarda come rendere le schede PDF più accessibili](https://event.on24.com/wcc/r/2620020/599427B9BC7DA6BB34A4D46EB0EB1F63)
 
 Data: 2020-09-10

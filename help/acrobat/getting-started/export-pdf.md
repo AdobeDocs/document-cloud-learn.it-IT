@@ -16,11 +16,11 @@ ht-degree: 2%
 
 # Convertire PDF in diversi formati di file
 
-Scopri come convertire i file PDF in diversi formati di file, ad esempio [Microsoft Word](https://www.adobe.com/it/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/it/acrobat/online/pdf-to-ppt.html)e [Excel](https://www.adobe.com/it/acrobat/online/pdf-to-excel.html). Conversione del PDF in [Adobe Express](https://express.adobe.com) sono inclusi anche gli elementi di design con marchio. Quando si converte il PDF in un altro formato di file come Microsoft Word, si migliora l’efficienza del flusso di lavoro dei documenti e si risparmia tempo significativo quando si apportano modifiche estese ai documenti lunghi. Questa esercitazione video utilizza la nuova esperienza dell’area di lavoro.
+Scopri come convertire i file PDF in diversi formati di file, ad esempio [Microsoft Word](https://www.adobe.com/it/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/it/acrobat/online/pdf-to-ppt.html) e [Excel](https://www.adobe.com/it/acrobat/online/pdf-to-excel.html). È anche inclusa la conversione del tuo PDF in [Adobe Express](https://express.adobe.com) per aggiungere elementi di progettazione con marchio. Quando si converte il PDF in un altro formato di file come Microsoft Word, si migliora l’efficienza del flusso di lavoro dei documenti e si risparmia tempo significativo quando si apportano modifiche estese ai documenti lunghi. Questa esercitazione video utilizza la nuova esperienza dell’area di lavoro.
 
 >[!TIP]
 >
->Per esportare più file PDF in un altro formato, prova a utilizzare il [Action Wizard](../advanced-tasks/action.md).
+>Per esportare più file PDF in un altro formato, prova a utilizzare l&#39;[Action Wizard](../advanced-tasks/action.md).
 
 <br> 
 
@@ -28,8 +28,8 @@ Scopri come convertire i file PDF in diversi formati di file, ad esempio [Micros
 
 >[!TIP]
 >
->Scopri tutto su come lavorare con [Acrobat e Microsoft 365](../integrate/integrate-overview.md).
+>Scopri tutto su come utilizzare [Acrobat e Microsoft 365](../integrate/integrate-overview.md).
 
 >[!TIP]
 >
->Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) questo è disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponibile gratuitamente per l&#39;Experience League.

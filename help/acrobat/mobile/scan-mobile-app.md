@@ -20,6 +20,6 @@ Scopri come convertire qualsiasi documento cartaceo in PDF utilizzando l’app g
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409254?quality=12&learn=on&hidetitle=true)
 
-![QR code](../assets/Scanqrcode.jpg)
+![Codice QR](../assets/Scanqrcode.jpg)
 
 Scansiona il codice QR per ottenere l&#39;app.

@@ -20,12 +20,12 @@ Grazie all&#39;impiego remoto ovunque, la distribuzione dei contenuti in modo ra
 
 >[!TIP]
 >
->Sei interessato a saperne di più sugli strumenti Acrobat a cui puoi accedere ovunque? Check-out [Lavora ovunque ti trovi con Acrobat Web](acrobatweb.md).
+>Sei interessato a saperne di più sugli strumenti Acrobat a cui puoi accedere ovunque? Scopri [Lavora ovunque con Acrobat Web](acrobatweb.md).
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337972?quality=12&learn=on&hidetitle=true)
 
-![QR code](../assets/Acrobatqrcode.jpg)
+![Codice QR](../assets/Acrobatqrcode.jpg)
 
 Scansiona il codice QR per ottenere l&#39;app.

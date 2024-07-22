@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # Creazione di un PDF
 
-Scopri come [creazione di PDF da tutti i diversi tipi di documenti](https://www.adobe.com/it/acrobat/online/convert-pdf.html). Inizia con un file creato in Microsoft Office o in un&#39;app Creative Cloud, oppure utilizza un&#39;immagine, una scansione o anche un sito Web. La conversione dei contenuti in PDF rappresenta un metodo pratico e affidabile per condividere, conservare e proteggere i documenti mantenendo la formattazione originale. Questa esercitazione video utilizza [nuova esperienza area di lavoro](new-workspace.md).
+Scopri come [creare PDF da tutti i diversi tipi di documenti](https://www.adobe.com/it/acrobat/online/convert-pdf.html). Inizia con un file creato in Microsoft Office o in un&#39;app Creative Cloud, oppure utilizza un&#39;immagine, una scansione o anche un sito Web. La conversione dei contenuti in PDF rappresenta un metodo pratico e affidabile per condividere, conservare e proteggere i documenti mantenendo la formattazione originale. Questa esercitazione video utilizza la [nuova esperienza dell&#39;area di lavoro](new-workspace.md).
 
 >[!TIP]
 >
->Utilizzi sempre Microsoft Office? Consulta questi [integrazioni](../integrate/integrate-overview.md#microsoft) che consentono di creare PDF direttamente nelle applicazioni di Office preferite.
+>Utilizzi sempre Microsoft Office? Consulta queste [integrazioni](../integrate/integrate-overview.md#microsoft) che consentono di creare PDF direttamente nelle tue applicazioni Office preferite.
 
 <br> 
 
@@ -28,4 +28,4 @@ Scopri come [creazione di PDF da tutti i diversi tipi di documenti](https://www.
 
 Desideri una versione portatile di questo tutorial? Seleziona l’icona PDF per aprire o scaricare una versione scritta del tutorial.
 
-[![Immagine dell’icona PDF](../assets/acrobat_PDF_96.png)](../assets/create_a_pdf.pdf){target="blank"}
+[![Immagine icona PDF](../assets/acrobat_PDF_96.png)](../assets/create_a_pdf.pdf){target="blank"}

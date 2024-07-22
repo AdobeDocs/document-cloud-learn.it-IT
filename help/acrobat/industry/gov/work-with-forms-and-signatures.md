@@ -8,14 +8,14 @@ thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 6%
+source-wordcount: '76'
+ht-degree: 1%
 
 ---
 
 # 5 suggerimenti per lavorare ovunque con Acrobat: utilizzo di moduli e firme
 
-Tutti prima o poi dovranno [compilare moduli](https://www.adobe.com/it/acrobat/online/sign-pdf.html). Poiché non sempre è possibile accedere a una stampante, è importante imparare a utilizzare la tecnologia digitale durante la compilazione dei moduli.
+Tutti, prima o poi, dovranno [compilare i moduli](https://www.adobe.com/it/acrobat/online/sign-pdf.html). Poiché non sempre è possibile accedere a una stampante, è importante imparare a utilizzare la tecnologia digitale durante la compilazione dei moduli.
 
 ## Suggerimento #4 - Utilizzare moduli e firme (7:03)
 

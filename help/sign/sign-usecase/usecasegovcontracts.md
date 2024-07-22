@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Contratti governativi e moduli di richiesta
 
-Sostituisci rapidamente l’elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit. Scopri come utilizzare lo strumento Progettazione flussi di lavoro di Acrobat Sign per semplificare l’intero processo.
+Sostituisci rapidamente l’elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit. Scopri come utilizzare lo strumento Workflow Designer di Acrobat Sign per semplificare l’intero processo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
 

@@ -8,7 +8,7 @@ level: Beginner
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -23,23 +23,23 @@ Raccogliere un biglietto da visita, una ricevuta o un altro elemento di carta co
 
 ## Scansiona un biglietto da visita
 
-**Passaggio 1:** Scarica l’app Adobe Scan dall’App Store Apple o da Google Play.
+**Passaggio 1:** scaricate l&#39;app Adobe Scan dall&#39;App Store di Apple o da Google Play.
 
-**Passaggio 2:** Apri l’app Adobe Scan.
+**Passaggio 2:** aprite l&#39;app Adobe Scan.
 
-**Passaggio 3:** Dall&#39;app, scatta una foto del biglietto da visita contenente le informazioni di contatto che desideri salvare sul telefono.
+**Passaggio 3:** dall&#39;app, scatta una foto del biglietto da visita contenente le informazioni di contatto che desideri salvare sul telefono.
 
-![b immagine della scheda](assets/scanbcard.png)
+![b immagine scheda](assets/scanbcard.png)
 
 
-**Passaggio 4:** Una volta completata la scansione, effettua le regolazioni necessarie per assicurarti che la scheda rientri nel rettangolo di selezione.
+**Passaggio 4:** una volta completata la scansione, apportare le regolazioni necessarie per assicurarsi che la scheda rientri nel rettangolo di selezione.
 
-**Passaggio 5:** Tocca **[!UICONTROL Salva PDF]** nell’angolo in alto a destra. Quindi, tocca **[!UICONTROL Salva contatto]**.
+**Passaggio 5:** Toccate **[!UICONTROL Salva PDF]** nell&#39;angolo superiore destro. Quindi, tocca **[!UICONTROL Salva contatto]**.
 
 
 ![salva immagine scheda b](assets/savecontact.jpg)
 
-![b immagine della scheda](assets/savecontact.png)
+![b immagine scheda](assets/savecontact.png)
 
 **Passaggio 6:** Apporta le modifiche o le aggiunte desiderate alle informazioni di contatto prima di archiviarle nel telefono. Tocca &quot;Salva&quot; ancora una volta per finalizzare il salvataggio nei contatti.
 
@@ -47,14 +47,14 @@ Raccogliere un biglietto da visita, una ricevuta o un altro elemento di carta co
 
 L’app Adobe Scan può essere utile anche per acquisire e archiviare una ricevuta di cui avrai bisogno in un secondo momento (ad esempio, una nota spese o altri rimborsi).
 
-**Passaggio 1:** Con l’app Adobe Scan aperta, scatta una foto della ricevuta che desideri archiviare.
+**Passaggio 1:** con l&#39;app Adobe Scan aperta, scatta una foto della ricevuta che desideri archiviare.
 
 ![immagine ricevuta di scansione](assets/scanreceipt.png)
 
 
-**Passaggio 2:** Osserva come l’app rileva automaticamente la ricevuta e ne acquisisce il contenuto.
+**Passaggio 2:** l&#39;app rileva automaticamente la ricevuta e ne acquisisce il contenuto.
 
-![b immagine della scheda](assets/receiptoutput.jpg)
+![b immagine scheda](assets/receiptoutput.jpg)
 
 **Passaggio 3:** Tocca **[!UICONTROL Salva PDF]** nell&#39;angolo in alto a destra per memorizzare la ricevuta nel telefono.
 

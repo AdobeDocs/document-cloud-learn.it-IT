@@ -10,7 +10,7 @@ exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
 source-wordcount: '465'
-ht-degree: 5%
+ht-degree: 3%
 
 ---
 
@@ -34,7 +34,7 @@ Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmar
       <img alt="Nozioni di base sull’area di lavoro" src="../assets/workspace_1280.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Nozioni di base sull’area di lavoro</strong></a>
+    <a href="quick-tour.md"><strong>Nozioni di base sull'area di lavoro</strong></a>
     </div>
     <em>Fai un rapido tour dell’area di lavoro di Acrobat Sign per iniziare a utilizzarla</em>
     <br>
@@ -46,7 +46,7 @@ Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmar
     <div>
     <a href="new-sender.md"><strong>Guida introduttiva ad Acrobat Sign</strong></a>
     </div>
-    <em>Questo tutorial completo rappresenta un ottimo punto di partenza per i nuovi mittenti in Acrobat Sign</em>
+    <em>Questa esercitazione completa è un ottimo punto di partenza per i nuovi mittenti in Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -66,7 +66,7 @@ Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmar
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Invio a più destinatari</strong></a>
     </div>
-    <em>Invia un documento da firmare a più persone esattamente nell’ordine desiderato</em>
+    <em>Inviare un documento per la firma elettronica a più persone esattamente nell'ordine desiderato</em>
     <br>
   </td>
 </tr>
@@ -96,9 +96,9 @@ Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmar
       <img alt="Modifica di un documento dopo l’invio" src="../assets/Modifying-sending.png" />
     </a>
     <div>
-    <a href="modify-in-flight.md"><strong>Modifica di un documento dopo l’invio</strong></a>
+    <a href="modify-in-flight.md"><strong>Modifica di un documento dopo l'invio</strong></a>
     </div>
-    <em>Modificare un documento già in corso</em>
+    <em>Modifica di un documento già in corso</em>
     <br>
   </td>
   <td>
@@ -120,7 +120,7 @@ Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmar
       <div>
       <a href="set-deadlines-reminders.md"><strong>Impostare scadenze e promemoria</strong></a>
       </div>
-      <em>Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmare rapidamente i tuoi documenti</em>
+      <em>Scopri come inviare promemoria e scadenze regolari tramite e-mail per ottenere rapidamente la firma dei documenti</em>
       <br>
     </td> 
   <td>
@@ -162,7 +162,7 @@ Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmar
     <div>
     <a href="fill-and-sign.md"><strong>Compilazione e firma di un documento</strong></a>
     </div>
-    <em>Compila i moduli e aggiungi la tua firma elettronica ai documenti</em>
+    <em>Compilare moduli e aggiungere la firma elettronica ai documenti</em>
     <br>
   </td>
   <td>
@@ -172,7 +172,7 @@ Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmar
     <div>
     <a href="sign-in-person.md"><strong>Ottenere una firma di persona</strong></a>
     </div>
-    <em>Ottenere la firma di qualcun altro di persona utilizzando l’app Acrobat Sign per dispositivi mobili</em>
+    <em>Ottieni la firma di qualcun altro di persona utilizzando l'app per dispositivi mobili Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -192,7 +192,7 @@ Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmar
       <img alt="Che cos’è una firma digitale" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
     <div>
-    <a href="sign-with-a-digital-signature.md"><strong>Che cos’è una firma digitale</strong></a>
+    <a href="sign-with-a-digital-signature.md"><strong>Che cos'è una firma digitale</strong></a>
     </div>
     <em>Informazioni sulle firme digitali basate su certificati</em>
     <br>
@@ -204,7 +204,7 @@ Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmar
     <div>
     <a href="sign-with-a-stamp.md"><strong>Firma con timbro</strong></a>
     </div>
-    <em>Usa i timbri per contrassegnare un documento approvato o completato</em>
+    <em>Utilizzare i timbri per contrassegnare un documento approvato o completato</em>
      <br>
   </td> 
  <td>

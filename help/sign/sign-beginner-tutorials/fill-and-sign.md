@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Compilazione e firma di un documento
 
-Scopri come compilare i moduli **E** aggiungere la firma elettronica ai documenti.
+Scopri come compilare i moduli **AND** e aggiungere la tua firma elettronica ai documenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33660?quality=12&learn=on&hidetitle=true)

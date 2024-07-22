@@ -9,7 +9,7 @@ thumbnail: 40187.jpg
 exl-id: 3154f0d0-3cc7-45ab-9515-bd69f5e46546
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Scopri come impostare l’accesso di sola visualizzazione alle transazioni nell�
 
 >[!TIP]
 >
->Questo video fa parte del corso [Attività avanzate per gli amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) questo è disponibile gratuitamente su Experience League!
+>Questo video fa parte del corso [Attività avanzate per gli amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) che è disponibile gratuitamente per l&#39;Experience League.
