@@ -7,16 +7,16 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6864
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 40960e4931e5491275f63775590e7029ff698c49
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 7%
+source-wordcount: '66'
+ht-degree: 4%
 
 ---
 
 # Esercitazioni per Acrobat
 
-Adobe Acrobat, una soluzione Adobe Document Cloud, aiuta le aziende a muoversi convertendo, modificando, condividendo e firmando i PDF. Qui troverai un&#39;ampia gamma di esperienze di apprendimento progettate per portare rapidamente all&#39;avanguardia sia i principianti che gli utenti avanzati su Adobe Acrobat.
+Adobe Acrobat, una soluzione Adobe Document Cloud, aiuta le aziende a muoversi convertendo, modificando, condividendo e firmando i PDF. Qui puoi trovare un&#39;ampia gamma di esperienze di apprendimento progettate per portare rapidamente all&#39;avanguardia sia i principianti che gli utenti avanzati su Adobe Acrobat.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -25,50 +25,28 @@ Adobe Acrobat, una soluzione Adobe Document Cloud, aiuta le aziende a muoversi c
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
 
-## Percorsi di apprendimento
+## Percorsi di apprendimento in primo piano
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="getting-started/getting-started-overview.md">
-      <img alt="Introduzione" src="assets/acrobat_title_getting_started.png" />
+      <img alt="Introduzione" src="assets/start.png" />
     </a>
   </td>
   <td>
     <a href="advanced-tasks/advanced-tasks-overview.md">
-      <img alt="Attività avanzate" src="assets/acrobat_title_advanced_tasks.png" />
+      <img alt="Attività avanzate" src="assets/advanced-tasks.png" />
     </a>
   </td>
   <td>
-    <a href="skill-builder/skill-builder-webinars.md">
-      <img alt="Skill Builder" src="assets/acrobat_title_skill_builder.png" />
+    <a href="60-second/60-second-overview.md">
+      <img alt="Acrobat da 60 secondi" src="assets/60-sec.png" />
     </a>
   </td>
   <td>
     <a href="integrate/integrate-overview.md">
-      <img alt="Integrazioni" src="assets/acrobat_title_integrate.png" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="industry/industry-overview.md">
-      <img alt="Settori e dipartimenti" src="assets/acrobat_title_industry.png" />
-    </a>
-  </td>  
-  <td>
-    <a href="develop/develop-overview.md">
-      <img alt="Sviluppo" src="assets/acrobat_title_develop.png" />
-    </a>
-  </td>
-  <td>
-  <a href="deploy/deploy-overview.md">
-      <img alt="Distribuisci" src="assets/acrobat_title_deploy.png" />
-    </a>
-  </td>
-  <td>
-    <a href="mobile/mobile-overview.md">
-      <img alt="Mobile" src="assets/acrobat_title_mobile.png" />
+      <img alt="Integrazioni" src="assets/integrations.png" />
     </a>
   </td>
 </tr>
