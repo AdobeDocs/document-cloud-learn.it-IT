@@ -7,10 +7,10 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 4c1a831cdeda378dceb8dc319c783cd4df8a115c
+source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 3%
+source-wordcount: '283'
+ht-degree: 1%
 
 ---
 
@@ -31,65 +31,113 @@ Scopri come ottimizzare un PDF per una migliore individuabilità e classificazio
     <a href="bookmarks.md">
       <img alt="Aggiunta di segnalibri e collegamenti ipertestuali" src="../assets/bookmarks.png" />
     </a>
+    <div>
+      <a href="bookmarks.md"><strong>Aggiunta di segnalibri e collegamenti ipertestuali</strong></a>
+      </div>
+      Aggiungere segnalibri e collegamenti ipertestuali per una migliore navigazione
   </td>
   <td>
     <a href="optimizescan.md">
       <img alt="Ottimizzare i documenti scansionati" src="../assets/optimize.png" />
     </a>
+    <div>
+      <a href="optimizescan.md"><strong>Ottimizzare i documenti scansionati</strong></a>
+      </div>
+      Scopri come migliorare i documenti scansionati
   </td>
   <td>
     <a href="custom.md">
       <img alt="Comandi e strumenti personalizzati" src="../assets/custom-commands.png" />
     </a>
+    <div>
+      <a href="custom.md"><strong>Comandi e strumenti personalizzati</strong></a>
+      </div>
+      Scopri come migliorare l’efficienza del flusso di lavoro dei documenti
   </td>
   <td>
     <a href="advancedforms.md">
       <img alt="Campi modulo avanzati" src="../assets/advanced-forms.png" />
     </a>
+    <div>
+      <a href="advancedforms.md"><strong>Campi modulo avanzati</strong></a>
+      </div>
+      Scopri come creare campi modulo avanzati
   </td>
 </tr>
 <tr>
  <td>
     <a href="optimizeseo.md">
-      <img alt="Optimize PDF per SEO (Search Engine Optimization)" src="../assets/seo.png" />
+      <img alt="Optimize PDF per SEO" src="../assets/seo.png" />
     </a>
+    <div>
+      <a href="optimizeseo.md"><strong>Optimize PDF per SEO</strong></a>
+      </div>
+      Ottimizzazione di un PDF per SEO (Search Engine Optimization)
   </td>
   <td>
     <a href="workforms.md">
       <img alt="Utilizzare i campi modulo" src="../assets/work-forms.png" />
     </a>
+    <div>
+      <a href="workforms.md"><strong>Utilizzare i campi modulo</strong></a>
+      </div>
+      Scopri come aggiungere vari tipi di campi modulo e proprietà
   </td>
   <td>
     <a href="enhance.md">
       <img alt="Migliora il tuo PDF" src="../assets/enhance.png" />
     </a>
+    <div>
+      <a href="enhance.md"><strong>Migliora il tuo PDF</strong></a>
+      </div>
+      Scopri come trasformare il tuo PDF
   </td>
  <td>
     <a href="compare.md">
-      <img alt="Rileva differenze tra due PDF" src="../assets/compare.png" />
+      <img alt="Rilevare le differenze tra due PDF" src="../assets/compare.png" />
     </a>
+    <div>
+      <a href="compare.md"><strong>Rileva differenze tra due PDF</strong></a>
+      </div>
+      Rileva rapidamente le differenze tra due file PDF
   </td>
 </tr>
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/action-wizard.png" />
+      <img alt="Action Wizard" src="../assets/action.png" />
     </a>
+    <div>
+      <a href="action.md"><strong>Action Wizard</strong></a>
+      </div>
+      Scopri come migliorare l’efficienza utilizzando le Azioni
   </td>
   <td>
     <a href="redact.md">
       <img alt="Redigi e Rimuovi informazioni riservate" src="../assets/redact.png" />
     </a>
+    <div>
+      <a href="redact.md"><strong>Redigi e Rimuovi informazioni riservate</strong></a>
+      </div>
+      Scopri come rimuovere definitivamente le informazioni riservate
   </td>
  <td>
     <a href="reduce.md">
       <img alt="Ridurre le dimensioni del file e ottimizzarlo" src="../assets/reduce.png" />
     </a>
+    <div>
+      <a href="reduce.md"><strong>Ridurre le dimensioni e ottimizzare i file</strong></a>
+      </div>
+      Riduzione dei file di grandi dimensioni senza compromettere la qualità
   </td>
   <td>
     <a href="formdata.md">
-      <img alt="Action Wizard" src="../assets/form-data.png" />
+      <img alt="Utilizzo dei dati dei moduli" src="../assets/form-data.png" />
     </a>
+    <div>
+      <a href="formdata.md"><strong>Utilizzo dei dati del modulo</strong></a>
+      </div>
+      Scopri come compilare i dati del modulo
   </td>
 </tr>
 <tr>
@@ -97,11 +145,19 @@ Scopri come ottimizzare un PDF per una migliore individuabilità e classificazio
     <a href="accessibility.md">
       <img alt="Verifica accessibilità PDF" src="../assets/accessibility.png" />
     </a>
+    <div>
+      <a href="accessibility.md"><strong>Verifica accessibilità PDF</strong></a>
+      </div>
+      Scopri come verificare se il tuo PDF è universalmente accessibile
   </td>
  <td>
     <a href="accessibility-series.md">
-      <img alt="Preparazione dei file PDF accessibili" src="../assets/accessibility-series.png" />
+      <img alt="Serie di accessibilità Acrobat" src="../assets/accessibility-series.png" />
     </a>
+    <div>
+      <a href="accessibility-series.md"><strong>Serie di accessibilità Acrobat</strong></a>
+      </div>
+      Serie di accessibilità on-demand PDF a sei sessioni
   </td>
   <td>
    <img alt="Spaziatore" src="../assets/Grayspacer.png" />

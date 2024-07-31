@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f71746be00bd71ea2e7fb242705fd4ec3f273803
+source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '541'
 ht-degree: 2%
 
 ---
@@ -48,7 +48,7 @@ Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;A
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Nozioni di base sull'area di lavoro</strong></a>
     </div>
-    Scopri come accedere a file e strumenti da desktop, Web e dispositivi mobili
+    Scopri le nozioni di base dell’area di lavoro di Acrobat
     <br>
   </td>
   <td>
@@ -58,7 +58,7 @@ Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;A
     <div>
     <a href="ai-assistant.md"><strong>Scopri gli insight di PDF con l'Assistente all'intelligenza artificiale</strong></a>
     </div>
-    Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l'Assistente AI
+    Ottenete informazioni dettagliate dai file PDF utilizzando l'Assistente AI
     <br>
   </td>
   <td>
@@ -68,7 +68,7 @@ Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;A
     <div>
     <a href="acrobatweb.md"><strong>Lavora ovunque ti trovi con Acrobat Web</strong></a>
     </div>
-    Scopri come gestire le richieste di documenti aziendali ovunque ti trovi
+    Scopri come lavorare ovunque
     <br>
   </td>
 </tr>
@@ -80,7 +80,7 @@ Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;A
     <div>
     <a href="productivity.md"><strong>Produttività in movimento</strong></a>
     </div>
-    Scopri come fare di più direttamente dal tuo tablet o cellulare
+    Scopri come fare di più dal tuo tablet o cellulare
     <br>
   </td>
     <td>
@@ -90,7 +90,7 @@ Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;A
       <div>
       <a href="../integrate/integrate-overview.md#microsoft"><strong>Utilizzare Microsoft 365</strong></a>
       </div>
-      Scopri come utilizzare i file PDF direttamente in Microsoft 365
+      Lavora senza problemi con i file PDF, direttamente in Microsoft 365
       <br> 
     </td>
     <td>
@@ -100,7 +100,7 @@ Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;A
       <div>
       <a href="where-do-pdfs-come-from.md"><strong>Da dove provengono i PDF?</strong></a>
       </div>
-      Scopri da dove provengono i PDF e come utilizzarli nei flussi di lavoro digitali
+      Scopri da dove provengono i PDF e come utilizzarli
       <br>
     </td>
     <td>
@@ -122,7 +122,7 @@ Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;A
       <div>
       <a href="create-pdf.md"><strong>Creazione di file PDF</strong></a>
       </div>
-      Scopri come creare PDF da tutti i diversi tipi di documenti
+      Creare PDF da tutti i diversi tipi di documenti
       <br>
     </td>
     <td>
@@ -132,7 +132,7 @@ Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;A
       <div>
       <a href="combine-to-pdf.md"><strong>Combinare più file in un unico PDF</strong></a>
       </div>
-      Scopri come combinare senza problemi molti tipi diversi di file in un unico PDF
+      Combina facilmente molti tipi diversi di file in un unico PDF
       <br>
     </td>
     <td>
@@ -169,7 +169,7 @@ Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;A
       <div>
       <a href="edit-pdf.md"><strong>Modificare il testo in un PDF</strong></a>
       </div>
-      Scopri come modificare parole, frasi o anche intere pagine nel tuo PDF
+      Modifica parole, frasi o anche intere pagine nel tuo PDF
       <br>
     </td>
     <td>
@@ -210,7 +210,7 @@ Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;A
       <div>
       <a href="export-pdf.md"><strong>Convertire PDF in diversi formati di file</strong></a>
       </div>
-      Scopri come convertire i file PDF in diversi formati di file
+      Convertire i file PDF in diversi formati di file
       <br>
     </td>
     <td>
@@ -251,7 +251,7 @@ Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;A
       <div>
       <a href="comment-on-pdf-files.md"><strong>Commento su un PDF</strong></a>
       </div>
-      Scopri come aggiungere commenti a un file PDF e condividerlo con altri utenti
+      Aggiungi commenti e condividi il tuo PDF con altri
       <br>
     </td>
     <td>
@@ -298,7 +298,7 @@ Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;A
     <div>
     <a href="scan-and-ocr.md"><strong>Scansione e OCR</strong></a>
     </div>
-    Convertire scansioni o immagini di documenti in file PDF ricercabili e modificabili
+    Converti scansioni e immagini in file PDF ricercabili e modificabili
     <br>
   </td>
   <td>
@@ -320,7 +320,7 @@ Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;A
     <div>
     <a href="signatures.md"><strong>Ottieni firme</strong></a>
     </div>
-    Continua a muovere, raccogli firme elettroniche legalmente vincolanti
+    Scopri come raccogliere firme elettroniche con valore legale
     <br>
   </td>
   <td>
@@ -330,7 +330,7 @@ Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;A
     <div>
     <a href="track.md"><strong>Tenere traccia dei documenti</strong></a>
     </div>
-    Scopri come monitorare e gestire i documenti di firma elettronica
+    Tenere traccia dei documenti da firmare e gestirli
     <br>
   </td>
   <td>
