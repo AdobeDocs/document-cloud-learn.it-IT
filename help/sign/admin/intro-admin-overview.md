@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '522'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,12 @@ Scopri come aggiungere utenti all’account, configurare gruppi, condividere l�
 
 ## Novità
 
+* [Report di audit](audit-reports.md)
+Scopri come accedere, utilizzare e configurare i report di audit in base alle esigenze dell’organizzazione
 * [Invia in modalità collettiva](../sign-advanced-users/megasign.md)
 Scopri come raccogliere migliaia di firme contemporaneamente per qualsiasi documento in pochi passaggi
 * [Opzioni report](report-options.md)
 Scopri come impostare le opzioni di report per gli utenti
-* [Aggiunta di utenti](add-users-to-your-account.md)
-Scopri come aggiungere e gestire gli utenti per Acrobat Sign
 
 ## Introduzione
 
@@ -169,8 +169,13 @@ Scopri come aggiungere e gestire gli utenti per Acrobat Sign
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <a href="audit-reports.md">
+      <img alt="Report di audit" src="../assets/audit-reports-configure.png" />
+    </a>
     <div>
+    <a href="audit-reports.md"><strong>Report di audit</strong></a>
+    </div>
+    <em>Informazioni su come accedere, utilizzare e configurare i report di audit</em>
     <br>
   </td>
   <td>
