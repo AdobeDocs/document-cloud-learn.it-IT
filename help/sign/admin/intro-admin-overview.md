@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '563'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,13 @@ Scopri come aggiungere utenti all’account, configurare gruppi, condividere l�
 
 ## Novità
 
+* [Come configurare gli amministratori della privacy](privacy.md)
+Scopri come configurare e utilizzare gli amministratori della privacy
+* [Strumento di download in blocco](bulk-download-tool.md)
+Scopri come utilizzare lo strumento di download in blocco per scaricare rapidamente tutti gli accordi firmati
 * [Report di audit](audit-reports.md)
 Scopri come accedere, utilizzare e configurare i report di audit in base alle esigenze dell’organizzazione
-* [Invia in modalità collettiva](../sign-advanced-users/megasign.md)
-Scopri come raccogliere migliaia di firme contemporaneamente per qualsiasi documento in pochi passaggi
-* [Opzioni report](report-options.md)
-Scopri come impostare le opzioni di report per gli utenti
+
 
 ## Introduzione
 
@@ -225,13 +226,13 @@ Scopri come impostare le opzioni di report per gli utenti
     <br>
   </td>
   <td>
-    <a href="use-bio-pharma-settings.md">
-      <img alt="Utilizzo delle impostazioni Bio-Pharma" src="../assets/Bio_1280.png" />
+    <a href="bulk-download-tool.md">
+      <img alt="Strumento di download in blocco" src="../assets/bulk-download-tool.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>Utilizzo delle impostazioni Bio-Pharma</strong></a>
+    <a href="bulk-download-tool.md"><strong>Strumento di download in blocco</strong></a>
     </div>
-    <em>Configurare le impostazioni Bio-Pharma che consentono di soddisfare i requisiti FDA 21 CFR Part 11</em>
+    <em>Scopri come utilizzare lo strumento di download in blocco per scaricare rapidamente tutti gli accordi firmati</em>
     <br>
   </td> 
 </tr>
@@ -247,13 +248,23 @@ Scopri come impostare le opzioni di report per gli utenti
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <a href="use-bio-pharma-settings.md">
+      <img alt="Utilizzo delle impostazioni Bio-Pharma" src="../assets/Bio_1280.png" />
+    </a>
     <div>
+    <a href="use-bio-pharma-settings.md"><strong>Utilizzo delle impostazioni Bio-Pharma</strong></a>
+    </div>
+    <em>Configurare le impostazioni Bio-Pharma che consentono di soddisfare i requisiti FDA 21 CFR Part 11</em>
     <br>
   </td>
   <td>
-    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <a href="privacy.md">
+      <img alt="Come configurare l’amministratore della privacy" src="../assets/privacy.png" />
+    </a>
     <div>
+    <a href="privacy.md"><strong>Come configurare gli amministratori della privacy</strong></a>
+    </div>
+    <em>Informazioni su come configurare e utilizzare gli amministratori della privacy</em>
     <br>
   </td>
   <td>
