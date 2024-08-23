@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
+source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '424'
 ht-degree: 2%
 
 ---
@@ -152,12 +152,12 @@ Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identi
 <tr>
 <td>
     <a href="creating-a-report.md">
-      <img alt="Creazione di un report" src="../assets/Report.png" />
+      <img alt="Report e utilizzo delle transazioni" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>Creazione di un report</strong></a>
+    <a href="creating-a-report.md"><strong>Segnalazione e utilizzo delle transazioni</strong></a>
     </div>
-    <em>Scopri come creare i tuoi report per ottenere visibilità sul processo di firma dei documenti</em>
+    <em>Informazioni sulla generazione di report e sull'utilizzo delle transazioni</em>
     <br>
   </td>
   <td>

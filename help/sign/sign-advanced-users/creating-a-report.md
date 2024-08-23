@@ -1,22 +1,22 @@
 ---
-title: Creazione di un report
-description: Scopri come creare report personalizzati per ottenere visibilità sul processo di firma dei documenti
+title: Report e utilizzo delle transazioni
+description: Scopri come generare report e tenere traccia dell’utilizzo delle transazioni
 feature: Report
 role: User, Admin
 level: Intermediate
 jira: KT-11027
 thumbnail: KT-11027.jpg
 exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 29f3dfa773325594787ca5a37838625e314212f6
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# Creazione di un report
+# Report e utilizzo delle transazioni
 
-Scopri come creare report personalizzati per ottenere visibilità sul processo di firma dei documenti o vedere come lavorano singoli gruppi o utenti.
+Scopri come generare report e tenere traccia dell’utilizzo delle transazioni. Questi report possono includere informazioni quali la percentuale di accordi firmati o il tempo medio necessario per firmarli. La generazione di report e il monitoraggio dell’utilizzo offrono visibilità sui processi di firma dei documenti.
 
 >[!NOTE]
 >

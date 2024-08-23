@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '869'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Puoi utilizzare Acrobat Sign in altre applicazioni già utilizzate dalla tua org
 
 ## Novità
 
+* [Configurare file di grandi dimensioni e mappature push](salesforce-large-files.md)
+Scopri come impostare documenti di grandi dimensioni e inviare i servizi per gli accordi in Salesforce
+* [Configurazione degli aggiornamenti automatici](salesforce-automatic-updates.md)
+Scopri come collegare facilmente il tuo account a Salesforce per ottenere aggiornamenti automatici
 * [Integrazione della scheda Documenti per [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
 Scopri come inviare documenti per la firma direttamente dalla scheda Documenti in [!DNL Microsoft Teams]
-* [Accesso in tempo reale in Adobe Acrobat Sign per [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
-Scopri come creare un’esperienza di firma online simile alla firma di persona durante una riunione di [!DNL Microsoft Teams]
-* [Crea un flusso di lavoro avanzato con [!DNL Power Automate]](advanced-workflow-power-automate.md)
-Scopri come creare un flusso di lavoro avanzato utilizzando i connettori [!DNL Power Automate]
 
 ## Esercitazioni sulle integrazioni Microsoft
 
@@ -275,6 +275,38 @@ Scopri come creare un flusso di lavoro avanzato utilizzando i connettori [!DNL P
     </div>
     <em>Crea un pulsante personalizzato che avvia il processo di invio e inserisce automaticamente un accordo in Salesforce</em>
     <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="salesforce-automatic-updates.md">
+      <img alt="Configurare gli aggiornamenti automatici" src="../assets/status-updates.png" />
+    </a>
+    <div>
+    <a href="salesforce-automatic-updates.md"><strong>Configurazione degli aggiornamenti automatici</strong></a>
+    </div>
+    <em>Scopri come collegare facilmente il tuo account a Salesforce per ottenere aggiornamenti automatici</em>
+    <br>
+  </td>
+ <td>
+    <a href="salesforce-large-files.md">
+      <img alt="Impostare file di grandi dimensioni e mappature push" src="../assets/large-files.png" />
+    </a>
+    <div>
+    <a href="salesforce-large-files.md"><strong>Configurare file di grandi dimensioni e mappature push</strong></a>
+    </div>
+    <em>Scopri come impostare documenti di grandi dimensioni e inviare i servizi per gli accordi in Salesforce</em>
+    <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
   </td>
 </tr>
 </table>

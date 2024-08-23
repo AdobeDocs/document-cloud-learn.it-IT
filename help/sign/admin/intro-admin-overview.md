@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '558'
 ht-degree: 2%
 
 ---
@@ -106,13 +106,13 @@ Scopri come accedere, utilizzare e configurare i report di audit in base alle es
     <br>
   </td>
   <td>
-    <a href="create-a-report.md">
-      <img alt="Creazione di un grafico report" src="../assets/Reportchart.png" />
+    <a href="../sign-advanced-users/creating-a-report.md">
+      <img alt="Report e utilizzo delle transazioni" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>Creazione di un grafico di report</strong></a>
+    <a href="../sign-advanced-users/creating-a-report.md"><strong>Segnalazione e utilizzo delle transazioni</strong></a>
     </div>
-    <em>Informazioni su come creare, salvare e gestire report ed esportazioni di dati personalizzati</em>
+    <em>Informazioni sulla generazione di report e sull'utilizzo delle transazioni</em>
     <br>
   </td>
 </tr>
