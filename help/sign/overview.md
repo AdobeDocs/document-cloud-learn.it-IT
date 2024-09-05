@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 3aabfd79a135f925fcc500d8ac42356b3437dfaa
+source-git-commit: 9e46f85c7c7d7ae9dbe190f30ef66a9944c5d8b1
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 4%
@@ -36,7 +36,7 @@ Acrobat Sign, una soluzione Adobe Document Cloud, è scalabile per soddisfare le
     <div>
       <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Per iniziare</strong></a>
       </div>
-      <em>Informazioni su come inviare, firmare e monitorare i documenti</em>
+      Scopri come inviare, firmare e monitorare i documenti
       <br>
   </td>
   <td>
@@ -46,7 +46,7 @@ Acrobat Sign, una soluzione Adobe Document Cloud, è scalabile per soddisfare le
     <div>
       <a href="sign-advanced-users/advanced-users-overview.md"><strong>Attività avanzate</strong></a>
       </div>
-      <em>Andare oltre le nozioni di base con attività e automazione specifiche</em>
+      Oltre le nozioni di base con attività e automazione specifiche
       <br>
   </td>  
   <td>
@@ -56,7 +56,7 @@ Acrobat Sign, una soluzione Adobe Document Cloud, è scalabile per soddisfare le
     <div>
       <a href="admin/intro-admin-overview.md"><strong>Amministrazione</strong></a>
       </div>
-      <em>Suggerimenti di configurazione di base e avanzati per la tua organizzazione</em>
+      Suggerimenti di base e avanzati per la configurazione dell'organizzazione
       <br>
   </td>
   <td>
@@ -66,7 +66,7 @@ Acrobat Sign, una soluzione Adobe Document Cloud, è scalabile per soddisfare le
      <div>
       <a href="digitalid/digitalid-overview.md"><strong>ID digitale</strong></a>
       </div>
-      <em>Scopri come utilizzare gli ID digitali in tutto il mondo in Acrobat Sign</em>
+      Scopri come utilizzare gli ID digitali in tutto il mondo in Acrobat Sign
       <br>
   </td>
 </tr>
@@ -78,7 +78,7 @@ Acrobat Sign, una soluzione Adobe Document Cloud, è scalabile per soddisfare le
     <div>
       <a href="integrations/integrations-overview.md"><strong>Integrazioni</strong></a>
       </div>
-      <em>Aggiungi Acrobat Sign direttamente in altre applicazioni già utilizzate dalla tua organizzazione</em>
+      Aggiungere Acrobat Sign direttamente in altre applicazioni già utilizzate dall’organizzazione
       <br>
   </td>
   <td>
@@ -88,7 +88,7 @@ Acrobat Sign, una soluzione Adobe Document Cloud, è scalabile per soddisfare le
     <div>
       <a href="sign-usecase/expand-inspire-overview.md"><strong>Settori e dipartimenti</strong></a>
       </div>
-      <em>Esplorare i casi d'uso reali del settore e del reparto</em>
+      Esplora i casi d'uso del settore e dei reparti del mondo reale
       <br>
   </td>
   <td>
@@ -98,7 +98,7 @@ Acrobat Sign, una soluzione Adobe Document Cloud, è scalabile per soddisfare le
     <div>
       <a href="develop/develop-overview.md"><strong>Sviluppo</strong></a>
       </div>
-      <em>Ottenere risorse di sviluppo in Acrobat Sign I/O</em>
+      Ottieni risorse di sviluppo su Acrobat Sign I/O
       <br>
   </td>
    <td>
@@ -108,7 +108,7 @@ Acrobat Sign, una soluzione Adobe Document Cloud, è scalabile per soddisfare le
     <div>
       <a href="deploy-overview.md"><strong>Distribuzione</strong></a>
       </div>
-      <em>Informazioni dettagliate e best practice per la distribuzione di Acrobat Sign all'interno dell'organizzazione</em>
+      Informazioni dettagliate e best practice per l’implementazione di Acrobat Sign all’interno dell’organizzazione
       <br>
   </td>
 </tr>
@@ -120,7 +120,7 @@ Acrobat Sign, una soluzione Adobe Document Cloud, è scalabile per soddisfare le
     <div>
       <a href="mobile/mobile-overview.md"><strong>Dispositivi mobili</strong></a>
       </div>
-      <em>Invia, firma e ricevi aggiornamenti in tempo reale sul tuo dispositivo mobile</em>
+      Invia, firma e ricevi aggiornamenti in tempo reale sul tuo dispositivo mobile
       <br>
   </td>  
 </tr>
