@@ -7,10 +7,10 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3aabfd79a135f925fcc500d8ac42356b3437dfaa
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 6%
+source-wordcount: '188'
+ht-degree: 4%
 
 ---
 
@@ -31,52 +31,97 @@ Acrobat Sign, una soluzione Adobe Document Cloud, è scalabile per soddisfare le
 <tr>
   <td>
     <a href="sign-beginner-tutorials/beginner-users-overview.md">
-      <img alt="Introduzione" src="assets/AS_Title_Getting-Started.png" />
+      <img alt="Introduzione" src="assets/getting-started.png" />
     </a>
+    <div>
+      <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Per iniziare</strong></a>
+      </div>
+      <em>Informazioni su come inviare, firmare e monitorare i documenti</em>
+      <br>
   </td>
   <td>
     <a href="sign-advanced-users/advanced-users-overview.md">
-      <img alt="Attività avanzate" src="assets/AS_Title_Advanced.png" />
+      <img alt="Attività avanzate" src="assets/advanced-tasks.png" />
     </a>
+    <div>
+      <a href="sign-advanced-users/advanced-users-overview.md"><strong>Attività avanzate</strong></a>
+      </div>
+      <em>Andare oltre le nozioni di base con attività e automazione specifiche</em>
+      <br>
   </td>  
   <td>
     <a href="admin/intro-admin-overview.md">
-      <img alt="Amministrazione" src="assets/AS_Title_Administer.png" />
+      <img alt="Amministrazione" src="assets/administer.png" />
     </a>
+    <div>
+      <a href="admin/intro-admin-overview.md"><strong>Amministrazione</strong></a>
+      </div>
+      <em>Suggerimenti di configurazione di base e avanzati per la tua organizzazione</em>
+      <br>
   </td>
   <td>
     <a href="digitalid/digitalid-overview.md">
-      <img alt="ID digitale" src="assets/AS_Title_DigitalID.png" />
+      <img alt="ID digitale" src="assets/identity.png" />
     </a>
+     <div>
+      <a href="digitalid/digitalid-overview.md"><strong>ID digitale</strong></a>
+      </div>
+      <em>Scopri come utilizzare gli ID digitali in tutto il mondo in Acrobat Sign</em>
+      <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="integrations/integrations-overview.md">
-      <img alt="Integrazioni" src="assets/AS_Title_Integrate.png" />
+      <img alt="Integrazioni" src="assets/integrations.png" />
     </a>
+    <div>
+      <a href="integrations/integrations-overview.md"><strong>Integrazioni</strong></a>
+      </div>
+      <em>Aggiungi Acrobat Sign direttamente in altre applicazioni già utilizzate dalla tua organizzazione</em>
+      <br>
   </td>
   <td>
     <a href="sign-usecase/expand-inspire-overview.md">
-      <img alt="Settori e dipartimenti" src="assets/AS_Title_Industry.png" />
+      <img alt="Settori e dipartimenti" src="assets/industries.png" />
     </a>
+    <div>
+      <a href="sign-usecase/expand-inspire-overview.md"><strong>Settori e dipartimenti</strong></a>
+      </div>
+      <em>Esplorare i casi d'uso reali del settore e del reparto</em>
+      <br>
   </td>
   <td>
     <a href="develop/develop-overview.md">
-      <img alt="Sviluppo" src="assets/AS_Title_Develop.png" />
+      <img alt="Sviluppo" src="assets/develop.png" />
     </a>
+    <div>
+      <a href="develop/develop-overview.md"><strong>Sviluppo</strong></a>
+      </div>
+      <em>Ottenere risorse di sviluppo in Acrobat Sign I/O</em>
+      <br>
   </td>
    <td>
     <a href="deploy-overview.md">
-      <img alt="Distribuisci" src="assets/AS_Title_Deploy.png" />
+      <img alt="Distribuisci" src="assets/deploy.png" />
     </a>
+    <div>
+      <a href="deploy-overview.md"><strong>Distribuzione</strong></a>
+      </div>
+      <em>Informazioni dettagliate e best practice per la distribuzione di Acrobat Sign all'interno dell'organizzazione</em>
+      <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="mobile/mobile-overview.md">
-      <img alt="Mobile" src="assets/AS_Title_Mobile.png" />
+      <img alt="Mobile" src="assets/mobile.png" />
     </a>
+    <div>
+      <a href="mobile/mobile-overview.md"><strong>Dispositivi mobili</strong></a>
+      </div>
+      <em>Invia, firma e ricevi aggiornamenti in tempo reale sul tuo dispositivo mobile</em>
+      <br>
   </td>  
 </tr>
 </table>
