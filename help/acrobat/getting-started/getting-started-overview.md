@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
+source-git-commit: 34fb3cbe888dc5eb81b9ce48b05a9c71aa35ba03
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '561'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,8 @@ Scopri come iniziare a utilizzare Adobe Acrobat tramite queste brevi esercitazio
 
 ## Novità
 
+* [Progettare una nuova pagina](add-custom-page.md)
+Scopri come creare una nuova pagina dall&#39;aspetto professionale nel tuo PDF utilizzando l&#39;Adobe Express
 * [Modificare gli elementi grafici in un PDF](edit-graphics.md)
 Scoprite come creare, modificare e migliorare la grafica nel vostro PDF
 * [Nuova esperienza area di lavoro](new-workspace.md)
