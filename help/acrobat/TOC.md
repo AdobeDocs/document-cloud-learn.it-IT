@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
+source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '489'
 ht-degree: 3%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 3%
    + [Creazione di un PDF](getting-started/create-pdf.md)
    + [Combina più file in un singolo PDF](getting-started/combine-to-pdf.md)
    + [Organizza pagine](getting-started/organize.md)
-   + [Aggiungi pagina personalizzata](getting-started/add-custom-page.md)
+   + [Progettare una nuova pagina](getting-started/add-custom-page.md)
    + [Modificare il testo in un PDF](getting-started/edit-pdf.md)
    + [Modificare gli elementi grafici in un PDF](getting-started/edit-graphics.md)
    + [Stilizza questo PDF](getting-started/stylize-this-PDF.md)
