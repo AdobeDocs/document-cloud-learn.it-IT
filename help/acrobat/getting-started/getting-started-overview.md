@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: dc2026b6bcee8369f244c9bd410622c55e3c96c8
+source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
 workflow-type: tm+mt
 source-wordcount: '562'
 ht-degree: 1%
@@ -36,7 +36,7 @@ Scopri la [nuova area di lavoro](new-workspace.md) in Acrobat che ti aiuta a sco
 
 >[!TAB Scopri gli insight di PDF con l&#39;Assistente all&#39;intelligenza artificiale]
 
-Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;Assistente AI.
+Scopri come ottenere informazioni dettagliate dai tuoi file PDF utilizzando [Assistente AI](ai-assistant.md).
 
 >[!ENDTABS]
 
@@ -196,11 +196,11 @@ Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l&#39;A
       <br>
     </td>
     <td>
-      <a href="stylize-this-PDF.md">
+      <a href="stylize-this-pdf.md">
         <img alt="Stilizza questo PDF" src="../assets/stylize-pdf.png" />
       </a>
       <div>
-      <a href="stylize-this-PDF.md"><strong>Stilizza questo PDF</strong></a>
+      <a href="stylize-this-pdf.md"><strong>Stilizza questo PDF</strong></a>
       </div>
       Scopri come creare PDF dall’aspetto professionale
       <br>
