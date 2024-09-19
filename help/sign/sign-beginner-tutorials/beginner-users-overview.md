@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -20,10 +20,17 @@ Scopri come inviare, firmare e monitorare i documenti con queste brevi esercitaz
 
 ## Novità
 
-* [Guida introduttiva ad Acrobat Sign](new-sender.md)
-È la prima volta che usi Acrobat Sign? Questo tutorial è un ottimo punto di partenza.
-* [Impostare scadenze e promemoria](set-deadlines-reminders.md)
-Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmare rapidamente i tuoi documenti
+>[!BEGINTABS]
+
+>[!TAB Guida introduttiva ad Acrobat Sign]
+
+È la prima volta che usi Acrobat Sign? Questo [tutorial](new-sender.md)) è un ottimo punto di partenza.
+
+>[!TAB Impostare scadenze e promemoria]
+
+Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite e-mail regolari per ottenere rapidamente la firma dei documenti.
+
+>[!ENDTABS]
 
 ## Invia
 

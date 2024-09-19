@@ -8,7 +8,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -21,14 +21,25 @@ Scopri come le varie organizzazioni utilizzano Acrobat Sign per trasformare i fl
 
 ## Novità
 
-* [Flusso di lavoro personalizzato per il processo IEP dell’istruzione](usecase-edu-iep.md)
-Scopri come utilizzare il flusso di lavoro personalizzato Designer per digitalizzare un processo IEP (Individualized Education Program)
-* [Applicazione di internship per moduli web didattici](usecase-edu-intern.md)
-Scopri come utilizzare i moduli Web per migliorare l’accesso degli studenti ai moduli richiesti
-* [Creare un&#39;applicazione di tirocinio per moduli Web didattici](usecase-edu-intern-create.md)
-Scopri come creare un modulo web per stage
-* [Richiesta di prestito governativo con più firmatari sconosciuti](webform-multiple-signers.md)
-Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’applicazione di un prestito pubblico che coinvolge più partecipanti sconosciuti
+>[!BEGINTABS]
+
+>[!TAB Flusso di lavoro personalizzato per il processo IEP dell’istruzione]
+
+Scopri come utilizzare il [flusso di lavoro personalizzato Designer](usecase-edu-iep.md) per digitalizzare un processo IEP (Individualized Education Program).
+
+>[!TAB Applicazione di internship per moduli web didattici]
+
+Scopri come [i moduli Web](usecase-edu-intern.md) vengono utilizzati per migliorare l&#39;accesso degli studenti ai moduli richiesti.
+
+>[!TAB Creare un&#39;applicazione di tirocinio per moduli Web didattici]
+
+Scopri come creare un [modulo Web](usecase-edu-intern-create.md) per lo stage.
+
+>[!TAB Richiesta di prestito governativo con più firmatari sconosciuti]
+
+Scopri come utilizzare un [modulo Web](webform-multiple-signers.md) per un complesso flusso di lavoro per l’applicazione di un prestito governativo che coinvolge più partecipanti sconosciuti.
+
+>[!ENDTABS]
 
 ## Casi d’uso governativi
 

@@ -8,7 +8,7 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 3%
@@ -21,8 +21,13 @@ Il 40% degli accordi in Acrobat Sign viene creato utilizzando le API. Utilizza l
 
 ## Novità
 
-* [Come configurare i webhook](webhooks.md)
-Scopri come creare un webhook per automatizzare i processi che normalmente richiedono un intervento manuale
+>[!BEGINTABS]
+
+>[!TAB Come configurare i webhook]
+
+Scopri come creare un [webhook](webhooks.md) per automatizzare i processi che normalmente richiedono un intervento manuale.
+
+>[!ENDTABS]
 
 <table style="table-layout:fixed">
 <tr>

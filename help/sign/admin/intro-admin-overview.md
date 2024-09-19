@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '642'
+ht-degree: 1%
 
 ---
 
@@ -21,14 +21,25 @@ Scopri come aggiungere utenti all’account, configurare gruppi, condividere l�
 
 ## Novità
 
-* [Come promuovere un utente a un ruolo di amministratore](promote-admin.md)
-Scopri come promuovere un utente a un ruolo di amministratore di Acrobat Sign utilizzando l&#39;Admin Console
-* [Come utilizzare più profili](multiple-profiles.md)
-Scopri come utilizzare il selettore di profilo per lavorare con più account Acrobat Sign
-* [Come configurare gli amministratori della privacy](privacy.md)
-Scopri come configurare e utilizzare gli amministratori della privacy
-* [Strumento di download in blocco](bulk-download-tool.md)
-Scopri come utilizzare lo strumento di download in blocco per scaricare rapidamente tutti gli accordi firmati
+>[!BEGINTABS]
+
+>[!TAB Come promuovere un utente a un ruolo di amministratore]
+
+Scopri come [promuovere un utente](promote-admin.md) a un ruolo di amministratore Acrobat Sign utilizzando l&#39;Admin Console.
+
+>[!TAB Come utilizzare più profili]
+
+Scopri come utilizzare il [selettore di profilo](multiple-profiles.md) per lavorare con più account Acrobat Sign.
+
+>[!TAB Come configurare gli amministratori della privacy]
+
+Scopri come configurare e utilizzare [amministratori della privacy](privacy.md).
+
+>[!TAB Strumento di download in blocco]
+
+Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.md) per scaricare rapidamente tutti gli accordi firmati.
+
+>[!ENDTABS]
 
 ## Introduzione
 
