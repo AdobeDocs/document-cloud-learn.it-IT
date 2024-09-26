@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 02e877aaf618c29208da2eb971524baf80e76678
+source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -43,7 +43,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="quick-tour.md"><strong>Nozioni di base sull'area di lavoro</strong></a>
     </div>
-    <em>Fai un rapido tour dell’area di lavoro di Acrobat Sign per iniziare a utilizzarla</em>
+    Fai un rapido tour dell’area di lavoro di Acrobat Sign per iniziare a utilizzarla
     <br>
   </td>
   <td>
@@ -53,7 +53,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="new-sender.md"><strong>Guida introduttiva ad Acrobat Sign</strong></a>
     </div>
-    <em>Questa esercitazione completa è un ottimo punto di partenza per i nuovi mittenti in Acrobat Sign</em>
+    Questo tutorial completo rappresenta un ottimo punto di partenza per i nuovi mittenti in Acrobat Sign
     <br>
   </td>
   <td>
@@ -63,7 +63,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="send-to-single-recipient.md"><strong>Invio a un singolo destinatario</strong></a>
     </div>
-    <em>Accedi e scopri quanto è facile inviare un documento per la firma</em>
+    Accedi e scopri quanto è facile inviare un documento per la firma
     <br>
   </td>
   <td>
@@ -73,7 +73,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Invio a più destinatari</strong></a>
     </div>
-    <em>Inviare un documento per la firma elettronica a più persone esattamente nell'ordine desiderato</em>
+    Invia un documento da firmare a più persone esattamente nell’ordine desiderato
     <br>
   </td>
 </tr>
@@ -85,7 +85,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="sending-options.md"><strong>Configurare le opzioni di invio</strong></a>
     </div>
-    <em>Scopri come configurare varie opzioni quando si invia un documento per la firma</em>
+    Scopri come configurare varie opzioni quando si invia un documento per la firma
     <br>
   </td>
   <td>
@@ -95,7 +95,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="adding-fields.md"><strong>Aggiunta di campi ai documenti</strong></a>
     </div>
-    <em>Scopri come aggiungere diversi tipi di campi ai documenti</em>
+    Scopri come aggiungere diversi tipi di campi ai documenti
     <br>
   </td>
   <td>
@@ -105,7 +105,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="modify-in-flight.md"><strong>Modifica di un documento dopo l'invio</strong></a>
     </div>
-    <em>Modifica di un documento già in corso</em>
+    Modificare un documento già in corso
     <br>
   </td>
   <td>
@@ -115,7 +115,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="replace-signer.md"><strong>Sostituzione di un firmatario</strong></a>
     </div>
-    <em>Scopri come cambiare il firmatario di un documento già in corso</em>
+    Scopri come cambiare il firmatario di un documento già in corso
      <br>
   </td>
 </tr>
@@ -127,7 +127,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
       <div>
       <a href="set-deadlines-reminders.md"><strong>Impostare scadenze e promemoria</strong></a>
       </div>
-      <em>Scopri come inviare promemoria e scadenze regolari tramite e-mail per ottenere rapidamente la firma dei documenti</em>
+      Scopri come inviare promemoria e scadenze regolari tramite e-mail per far firmare rapidamente i tuoi documenti
       <br>
     </td> 
   <td>
@@ -159,7 +159,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="electronically-sign-a-document.md"><strong>Firma elettronica di un documento</strong></a>
     </div>
-    <em>Scopri quanto è facile firmare un documento che ti viene inviato con Acrobat Sign</em>
+    Scopri quanto è facile firmare un documento che ti viene inviato con Acrobat Sign
     <br>
   </td>
   <td>
@@ -169,7 +169,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="fill-and-sign.md"><strong>Compilazione e firma di un documento</strong></a>
     </div>
-    <em>Compilare moduli e aggiungere la firma elettronica ai documenti</em>
+    Compila i moduli e aggiungi la tua firma elettronica ai documenti
     <br>
   </td>
   <td>
@@ -179,7 +179,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="sign-in-person.md"><strong>Ottenere una firma di persona</strong></a>
     </div>
-    <em>Ottieni la firma di qualcun altro di persona utilizzando l'app per dispositivi mobili Acrobat Sign</em>
+    Ottenere la firma di qualcun altro di persona utilizzando l’app Acrobat Sign per dispositivi mobili
     <br>
   </td>
   <td>
@@ -189,7 +189,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="delegate-signing.md"><strong>Delega la firma a un altro utente</strong></a>
     </div>
-    <em>Scopri come delegare la firma di un documento a un altro utente</em>
+    Scopri come delegare la firma di un documento a un altro utente
     <br>
   </td>
 </tr>
@@ -201,7 +201,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>Che cos'è una firma digitale</strong></a>
     </div>
-    <em>Informazioni sulle firme digitali basate su certificati</em>
+    Informazioni sulle firme digitali basate su certificati
     <br>
   </td>
   <td>
@@ -211,7 +211,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="sign-with-a-stamp.md"><strong>Firma con timbro</strong></a>
     </div>
-    <em>Utilizzare i timbri per contrassegnare un documento approvato o completato</em>
+    Usa i timbri per contrassegnare un documento approvato o completato
      <br>
   </td> 
  <td>
@@ -238,7 +238,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="manage-and-track.md"><strong>Gestisci e tieni traccia degli accordi</strong></a>
     </div>
-    <em>Scopri come gestire e tenere traccia degli accordi inviati per la firma</em>
+    Scopri come gestire e tenere traccia degli accordi inviati per la firma
     <br>
   </td>
   <td>
@@ -248,7 +248,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Creazione di un modello di documento</strong></a>
     </div>
-    <em>Crea un modello di documento riutilizzabile per fornire velocità e coerenza alla tua organizzazione</em>
+    Crea un modello di documento riutilizzabile per fornire velocità e coerenza alla tua organizzazione
     <br>
   </td>
   <td>
