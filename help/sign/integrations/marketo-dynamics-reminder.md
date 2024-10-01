@@ -10,9 +10,9 @@ topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '864'
 ht-degree: 0%
 
 ---
@@ -204,7 +204,3 @@ Poiché è stato utilizzato il filtro campagna **Giorni alla scadenza**, è poss
 1. Imposta **Pianificazione** su _Giornaliera_. Scegliere un giorno di inizio, un&#39;ora e una data di fine per la campagna, se necessario.
 
    ![Impostazioni pianificazione](assets/scheduleSettings.png)
-
->[!TIP]
->
->Questo tutorial fa parte del corso [Accelerare i cicli di vendita con Acrobat Sign per Microsoft Dynamics e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), disponibile gratuitamente per Experience League.

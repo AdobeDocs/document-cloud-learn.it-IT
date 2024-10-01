@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,4 @@ Scopri come modificare parole, frasi o anche intere pagine nel tuo PDF. La modif
 
 >[!TIP]
 >
->Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Introduzione ad Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) disponibile gratuitamente per l&#39;Experience League.

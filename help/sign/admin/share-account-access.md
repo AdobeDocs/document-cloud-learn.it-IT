@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-5494
 thumbnail: 40187.jpg
 exl-id: 3154f0d0-3cc7-45ab-9515-bd69f5e46546
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -22,4 +22,4 @@ Scopri come impostare l’accesso di sola visualizzazione alle transazioni nell�
 
 >[!TIP]
 >
->Questo video fa parte del corso [Attività avanzate per gli amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) che è disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Attività avanzate per gli amministratori](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) disponibile gratuitamente per l&#39;Experience League.

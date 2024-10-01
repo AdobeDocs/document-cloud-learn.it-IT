@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6803
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -26,4 +26,4 @@ Per offrire ai clienti la migliore esperienza possibile, è necessario creare i 
 
 >[!TIP]
 >
->Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Esegui attività avanzate in Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) disponibile gratuitamente per l&#39;Experience League.

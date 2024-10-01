@@ -8,7 +8,7 @@ jira: KT-5505
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 3%
@@ -27,4 +27,4 @@ Scopri come impostare la condivisione avanzata dell’account, consentendo agli 
 
 >[!TIP]
 >
->Questo video fa parte del corso [Attività avanzate per gli amministratori](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) che è disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Attività avanzate per gli amministratori](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) disponibile gratuitamente per l&#39;Experience League.

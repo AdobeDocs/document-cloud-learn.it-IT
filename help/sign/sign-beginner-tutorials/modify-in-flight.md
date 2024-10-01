@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5316
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -31,4 +31,4 @@ Scopri come modificare un documento già inviato per la firma, ad esempio se il 
 
 >[!TIP]
 >
->Questo video fa parte del corso [Attività avanzate per gli utenti](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) che è disponibile gratuitamente a titolo di Experience League.
+>Questo video fa parte della playlist [Attività avanzate per gli utenti](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) disponibile gratuitamente per l&#39;Experience League.

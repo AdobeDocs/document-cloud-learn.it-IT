@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-7142
 thumbnail: 331736.jpg
 exl-id: 95540954-d0c7-4cae-a919-00e3927d2f83
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ Scopri come creare file di PDF avanzati con sommari e rimandi, segnalibri e anch
 
 >[!TIP]
 >
->Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Integrazione di Acrobat e Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) disponibile gratuitamente per l&#39;Experience League.

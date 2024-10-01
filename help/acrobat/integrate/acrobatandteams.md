@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-7119
 thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,4 @@ Adobe Acrobat for Teams consente agli utenti di collaborare e lavorare con i col
 
 >[!TIP]
 >
->Questo video fa parte del corso [Lavora in modo più intelligente con Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Integrazione di Acrobat e Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) disponibile gratuitamente per l&#39;Experience League.
