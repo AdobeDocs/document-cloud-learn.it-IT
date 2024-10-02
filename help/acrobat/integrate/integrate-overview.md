@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
+source-git-commit: ab26a4e6ead996f8b49aa5595b9cdd6585eb0615
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -63,7 +63,7 @@ Scopri come tutti i membri del tuo team possono lavorare senza problemi con i fi
     <div>
     <a href="acrobatandteams.md"><strong>Collaborazione PDF in [!DNL Microsoft Teams]</strong></a>
     </div>
-    Collabora e rivedi i PDF senza mai uscire da [!DNL Microsoft Teams]
+    Collabora e verifica i PDF senza mai uscire da [!DNL Microsoft Teams]
     <br>
   </td>
 </tr>
@@ -85,7 +85,7 @@ Scopri come tutti i membri del tuo team possono lavorare senza problemi con i fi
     <div>
     <a href="edge.md"><strong>Crea contenuto PDF durante la navigazione con [!DNL Microsoft Edge]</strong></a>
     </div>
-    Scopri come trasformare rapidamente le pagine Web in PDF con l'estensione Adobe Acrobat per [!DNL Microsoft Edge]
+    Scopri come convertire le pagine Web in PDF con l'estensione Adobe Acrobat per [!DNL Microsoft Edge]
     <br>
   </td>
   <td>
