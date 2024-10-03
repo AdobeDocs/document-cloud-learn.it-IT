@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
 workflow-type: tm+mt
-source-wordcount: '642'
-ht-degree: 1%
+source-wordcount: '600'
+ht-degree: 2%
 
 ---
 
@@ -26,10 +26,6 @@ Scopri come aggiungere utenti all’account, configurare gruppi, condividere l�
 >[!TAB Come promuovere un utente a un ruolo di amministratore]
 
 Scopri come [promuovere un utente](promote-admin.md) a un ruolo di amministratore Acrobat Sign utilizzando l&#39;Admin Console.
-
->[!TAB Come utilizzare più profili]
-
-Scopri come utilizzare il [selettore di profilo](multiple-profiles.md) per lavorare con più account Acrobat Sign.
 
 >[!TAB Come configurare gli amministratori della privacy]
 
@@ -192,16 +188,6 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
     <br>
   </td>
   <td>
-    <a href="multiple-profiles.md">
-      <img alt="Come utilizzare più profili" src="../assets/multiple-profiles.png" />
-    </a>
-    <div>
-    <a href="multiple-profiles.md"><strong>Come utilizzare più profili</strong></a>
-    </div>
-    <em>Scopri come utilizzare il selettore di profilo per lavorare con più account Acrobat Sign</em>
-    <br>
-  </td>
-  <td>
     <a href="promote-admin.md">
       <img alt="Come promuovere un utente a un ruolo di amministratore" src="../assets/promote-admin.png" />
     </a>
@@ -209,6 +195,11 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
     <a href="promote-admin.md"><strong>Come promuovere un utente a un ruolo di amministratore</strong></a>
     </div>
     <em>Scopri come promuovere un utente a un ruolo di amministratore di Acrobat Sign utilizzando l'Admin Console</em>
+    <br>
+  </td>
+   <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </table>
