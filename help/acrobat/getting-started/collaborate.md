@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-8255
 thumbnail: KT-8255.jpg
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: f26ffeb845594ada1b0cde035f91781b5b1d3026
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
 # Collabora in tempo reale
 
-Grazie al lavoro remoto che si svolge ovunque, la collaborazione diretta è fondamentale per la distribuzione dei contenuti in modo rapido e scalabile. Porta avanti i tuoi progetti raccogliendo commenti, collaborando sulle risposte e monitorando l&#39;avanzamento dei tuoi documenti, tutto in tempo reale, da qualsiasi luogo. Questa esercitazione video utilizza la [nuova esperienza dell&#39;area di lavoro](new-workspace.md)
+Grazie al lavoro remoto che si svolge ovunque, la collaborazione diretta è fondamentale per la distribuzione dei contenuti in modo rapido e scalabile. Porta avanti i tuoi progetti raccogliendo commenti, collaborando sulle risposte e monitorando l&#39;avanzamento dei tuoi documenti, tutto in tempo reale, da qualsiasi luogo. Scoprite come creare un processo di revisione dei documenti che non solo migliora l&#39;efficienza, ma migliora anche la qualità dei contenuti. Questa esercitazione video utilizza la [nuova esperienza dell&#39;area di lavoro](new-workspace.md)
 
 >[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
 
