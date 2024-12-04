@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: 229342b0b960e8f170481b24101a4f2c8e859a71
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 3%
@@ -25,7 +25,6 @@ ht-degree: 3%
    + [Lavora ovunque ti trovi con Acrobat Web](getting-started/acrobatweb.md)
    + [Produttività ovunque ti trovi](getting-started/productivity.md)
    + [Collabora con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [Da dove vengono i PDF?](getting-started/where-do-pdfs-come-from.md)
    + [Creazione di un PDF](getting-started/create-pdf.md)
    + [Combina più file in un singolo PDF](getting-started/combine-to-pdf.md)
    + [Organizza pagine](getting-started/organize.md)
@@ -43,6 +42,7 @@ ht-degree: 3%
    + [Protect un file PDF con una password](getting-started/password-protect.md)
    + [Ottieni firme](getting-started/signatures.md)
    + [Tenere traccia dei documenti](getting-started/track.md)
+   + [Da dove vengono i PDF?](getting-started/where-do-pdfs-come-from.md)
 + Attività avanzate {#advanced-tasks}
    + [Panoramica](advanced-tasks/advanced-tasks-overview.md)
    + [Aggiunta di segnalibri e collegamenti ipertestuali](advanced-tasks/bookmarks.md)
