@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: cce27a2470b64de753992cbaa849043b79c936b3
+source-git-commit: 527eb69a9444db7dea38d41d7240cecc5cc62677
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '613'
 ht-degree: 2%
 
 ---
@@ -118,6 +118,16 @@ Scopri la [nuova area di lavoro](new-workspace.md) in Acrobat che ti aiuta a sco
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="acrobatweb.md">
+      <img alt="Lavora ovunque ti trovi con Acrobat Web" src="../assets/acrobat-web.png" />
+    </a>
+    <div>
+    <a href="acrobatweb.md"><strong>Lavora ovunque ti trovi con Acrobat Web</strong></a>
+    </div>
+    Scopri come lavorare ovunque
+    <br>
+  </td>
   <td>
     <a href="productivity.md">
       <img alt="Produttività ovunque ti trovi" src="../assets/productivity.png" />
