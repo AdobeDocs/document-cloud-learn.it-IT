@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 441bf1c0b8c9b6e218b947b9ccbd1f253b9cc301
+source-git-commit: a60bfd196091a6eeb8d9299226881bf5fbb682cd
 workflow-type: tm+mt
-source-wordcount: '521'
-ht-degree: 2%
+source-wordcount: '339'
+ht-degree: 0%
 
 ---
 
@@ -47,14 +47,22 @@ Scopri la [nuova area di lavoro](new-workspace.md) in Acrobat che ti aiuta a sco
 
 ## Creazione, combinazione e organizzazione di esercitazioni
 
+
+
+## Modifica ed esportazione delle esercitazioni
+
+
+
+## Esercitazioni per la collaborazione
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create PDF files">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Collaborate in real time">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/create-pdf" title="Creare file PDF" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/35491?enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1733769004765" alt="Creare file PDF"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate" title="Collabora in tempo reale" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f5dd20f4df4fb7d2f5c80653268baf61e708a449.png?width=400&format=webply&optimize=medium" alt="Collabora in tempo reale"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -62,22 +70,22 @@ Scopri la [nuova area di lavoro](new-workspace.md) in Acrobat che ti aiuta a sco
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/create-pdf" target="_blank" rel="referrer" title="Creare file PDF">Creazione di file PDF</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate" target="_blank" rel="referrer" title="Collabora in tempo reale">Collabora in tempo reale</a>
                     </p>
-                    <p class="is-size-6">Creare PDF da tutti i diversi tipi di documenti</p>
+                    <p class="is-size-6">Porta avanti i tuoi progetti collaborando in tempo reale</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/create-pdf" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Combine files to a single PDF">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Comment on a PDF">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/combine-to-pdf" title="Combinare più file in un unico PDF" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/35452?quality=12&hidetitle=true&format=jpeg&nocache=1733769004657" alt="Combinare più file in un unico PDF"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" title="Commentare un PDF" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_116d7c4b645e8d4c4e4645df9cb83a36501431471.png?width=400&format=webply&optimize=medium" alt="Commentare un PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -85,57 +93,11 @@ Scopri la [nuova area di lavoro](new-workspace.md) in Acrobat che ti aiuta a sco
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/combine-to-pdf" target="_blank" rel="referrer" title="Combinare più file in un unico PDF">Combinare più file in un singolo PDF</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_blank" rel="referrer" title="Commentare un PDF">Commento su un PDF</a>
                     </p>
-                    <p class="is-size-6">Combina facilmente molti tipi diversi di file in un unico PDF</p>
+                    <p class="is-size-6">Aggiungi commenti e condividi il tuo PDF con altri</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/combine-to-pdf" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Organize pages">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/organize" title="Organizzare le pagine" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409022?quality=12&hidetitle=true&format=jpeg&nocache=1733769004955" alt="Organizzare le pagine"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/organize" target="_blank" rel="referrer" title="Organizzare le pagine">Organizzare le pagine</a>
-                    </p>
-                    <p class="is-size-6">Scopri come riorganizzare le pagine nel modo che preferisci</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/organize" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Design a new page">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page" title="Progettare una nuova pagina" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/347331?enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1733769004625" alt="Progettare una nuova pagina"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page" target="_blank" rel="referrer" title="Progettare una nuova pagina">Progettare una nuova pagina</a>
-                    </p>
-                    <p class="is-size-6">Scopri come creare una nuova pagina dall’aspetto professionale nel tuo PDF</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
@@ -143,115 +105,6 @@ Scopri la [nuova area di lavoro](new-workspace.md) in Acrobat che ti aiuta a sco
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-## Modifica ed esportazione delle esercitazioni
-
-<table style="table-layout:fixed">
-  <tr>
-    <td>
-      <a href="edit-pdf.md">
-        <img alt="Modificare il testo in un PDF" src="../assets/edit-text.png" />
-      </a>
-      <div>
-      <a href="edit-pdf.md"><strong>Modificare il testo in un PDF</strong></a>
-      </div>
-      Modifica parole, frasi o anche intere pagine nel tuo PDF
-      <br>
-    </td>
-    <td>
-      <a href="edit-graphics.md">
-        <img alt="Modificare gli elementi grafici in un PDF" src="../assets/edit-graphics.png" />
-      </a>
-      <div>
-      <a href="edit-graphics.md"><strong>Modificare gli elementi grafici in un PDF</strong></a>
-      </div>
-      Scoprite come creare, modificare e migliorare la grafica nel vostro PDF
-      <br>
-    </td>
-    <td>
-      <a href="stylize-this-pdf.md">
-        <img alt="Stilizza questo PDF" src="../assets/stylize-pdf.png" />
-      </a>
-      <div>
-      <a href="stylize-this-pdf.md"><strong>Stilizza questo PDF</strong></a>
-      </div>
-      Scopri come creare PDF dall’aspetto professionale
-      <br>
-    </td>
-   <td>
-      <a href="auto-adjust-layout.md">
-        <img alt="Adatta layout" src="../assets/auto-adjust.png" />
-      </a>
-      <div>
-      <a href="auto-adjust-layout.md"><strong>Adatta layout</strong></a>
-      </div>
-      Scopri la nuova modalità di modifica per la ridisposizione del contenuto
-      <br>
-    </td>
-  </tr>
-    <td>
-      <a href="export-pdf.md">
-        <img alt="Convertire PDF in diversi formati di file" src="../assets/convert.png" />
-      </a>
-      <div>
-      <a href="export-pdf.md"><strong>Convertire PDF in diversi formati di file</strong></a>
-      </div>
-      Convertire i file PDF in diversi formati di file
-      <br>
-    </td>
-    <td>
-   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-   <td>
-   <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-## Esercitazioni per la collaborazione
-
-<table style="table-layout:fixed">
-  <tr>
-    <td>
-      <a href="collaborate.md">
-        <img alt="Collabora in tempo reale" src="../assets/collaborate.png" />
-      </a>
-      <div>
-      <a href="collaborate.md"><strong>Collabora in tempo reale</strong></a>
-      </div>
-      Porta avanti i tuoi progetti collaborando in tempo reale
-    </td>
-    <td>
-      <a href="comment-on-pdf-files.md">
-        <img alt="Commentare un PDF" src="../assets/comment.png" />
-      </a>
-      <div>
-      <a href="comment-on-pdf-files.md"><strong>Commento su un PDF</strong></a>
-      </div>
-      Aggiungi commenti e condividi il tuo PDF con altri
-      <br>
-    </td>
-    <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
-    <td>
-    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
-</tr>
-</table>
 
 ## Esercitazioni aggiuntive
 
