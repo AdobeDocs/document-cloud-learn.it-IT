@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6853
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 251d7aa679e53d55a9cc1d827ff41898b89aefd9
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 4%
+source-wordcount: '99'
+ht-degree: 6%
 
 ---
 
 # Panoramica sulla distribuzione
 
-Articoli sulle best practice con informazioni utili sulla distribuzione di Acrobat Sign all&#39;interno dell&#39;organizzazione.
+Articoli con informazioni dettagliate e procedure ottimali sulla distribuzione di Acrobat Sign all&#39;interno dell&#39;organizzazione.
 
 <table style="table-layout:fixed">
 <tr>
@@ -32,10 +32,10 @@ Articoli sulle best practice con informazioni utili sulla distribuzione di Acrob
   </td>
   <td>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
-      <img alt="Centro protezione Adobe" src="assets/Deploy_Trust.png" />
+      <img alt="Centro protezione di Adobe" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Centro protezione Adobe</strong></a>
+    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Centro protezione di Adobe</strong></a>
     </div>
     <em>Scopri le nostre attività correnti in materia di sicurezza, legalità e standard per Acrobat Sign</em>
     <br>
