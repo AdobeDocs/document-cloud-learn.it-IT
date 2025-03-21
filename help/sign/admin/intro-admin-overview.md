@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 96a2d14e4bc47061e3b545585ba2a28822764409
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '587'
 ht-degree: 1%
 
 ---
@@ -78,7 +78,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
     <div>
     <a href="add-users-to-your-account.md"><strong>Aggiungi nuovo utente</strong></a>
     </div>
-    <em>Aggiungere e gestire utenti per Acrobat Sign</em>
+    <em>Aggiunta di nuovi utenti ad Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -189,12 +189,12 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="Come promuovere un utente a un ruolo di amministratore" src="../assets/promote-admin.png" />
+      <img alt="Assegnare i ruoli di amministratore del prodotto e del supporto" src="../assets/admin-roles.jpg" />
     </a>
     <div>
-    <a href="promote-admin.md"><strong>Come promuovere un utente a un ruolo di amministratore</strong></a>
+    <a href="promote-admin.md"><strong>Assegnazione dei ruoli di amministratore di prodotto e supporto</strong></a>
     </div>
-    <em>Scopri come promuovere un utente a un ruolo di amministratore di Acrobat Sign utilizzando l'Admin Console</em>
+    <em>Scopri come promuovere un utente a un prodotto Acrobat Sign o a un ruolo di amministratore del supporto utilizzando l'Admin Console</em>
     <br>
   </td>
    <td>
