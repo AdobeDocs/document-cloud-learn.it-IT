@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
+source-git-commit: 72a03c600396f317278f5dfcd251796631b0c25f
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '616'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Scopri come aggiungere utenti allâ€™account, configurare gruppi, condividere lâ€
 
 >[!TAB Aggiungi nuovo utente]
 
-Scopri come [aggiungere e gestire utenti per Acrobat Sign](add-users-to-your-account.md).
+Scopri come [aggiungere nuovi utenti ad Acrobat Sign](add-users-to-your-account.md).
 
 >[!TAB Come configurare gli amministratori della privacy]
 
@@ -72,6 +72,18 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
     <br>
   </td>
   <td>
+    <a href="add-users-to-your-account.md">
+      <img alt="Aggiungi un nuovo utente" src="../assets/Add-a-new-user.jpg" />
+    </a>
+    <div>
+    <a href="add-users-to-your-account.md"><strong>Aggiungi nuovo utente</strong></a>
+    </div>
+    <em>Scopri come aggiungere nuovi utenti ad Acrobat Sign</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="add-admin.md">
       <img alt="Aggiungi un nuovo amministratore account" src="../assets/Add-a-new-admin.jpg" />
     </a>
@@ -79,18 +91,6 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
     <a href="add-admin.md"><strong>Aggiungere un nuovo amministratore dell'account</strong></a>
     </div>
     <em>Scopri come creare un nuovo utente o promuovere un utente esistente al ruolo di amministratore di Acrobat Sign</em>
-    <br>
-  </td>
-</tr>
-<tr>
- <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="Creazione e gestione dei gruppi" src="../assets/Creating-Groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>Creazione e gestione dei gruppi</strong></a>
-    </div>
-    <em>Creare gruppi, aggiungere utenti ai gruppi e modificare le impostazioni dei gruppi</em>
     <br>
   </td>
   <td>
