@@ -9,7 +9,7 @@ jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 0a299592f0616988b6208fc98d3140f4ac22057e
 workflow-type: tm+mt
 source-wordcount: '832'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Nella parte 1, scopri come iniziare con tutto ciò di cui hai bisogno per le par
 
 +++Visualizza dettagli su come ottenere le credenziali API
 
-* [Account per sviluppatori Acrobat Sign](https://acrobat.adobe.com/it/it/sign/developer-form.html)
+* [Account per sviluppatori Acrobat Sign](https://www.adobe.com/acrobat/business/developer-form.html)
 * [Codice Starter](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [Codice VS (o editor di tua scelta)](https://code.visualstudio.com)
 * Python 3.x
