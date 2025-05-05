@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Scopri come inviare gli accordi per la firma, controllare lo stato degli accordi e inviare promemoria tutti da [!DNL Microsoft Teams]. Questo esempio esamina un broker di mutui che invia una richiesta di prestito per la firma direttamente all’interno di Teams. Questa stretta integrazione accelera il processo dei mutui ipotecari, anche quando si lavora con i richiedenti in un ambiente di lavoro remoto.
 
->[!VIDEO](https://video.tv.adobe.com/v/346545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446201?quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!TIP]
 >

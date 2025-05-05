@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Scopri come gestire e tenere traccia dei documenti inviati per la firma in Acrobat Sign. Ottieni aggiornamenti dello stato e notifiche in tempo reale per ogni documento che firmi o invii per la firma.
 
->[!VIDEO](https://video.tv.adobe.com/v/338695?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347133?quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!TIP]
 >

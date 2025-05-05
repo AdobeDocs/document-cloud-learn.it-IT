@@ -25,7 +25,7 @@ Scopri come [aggiungere una password al tuo PDF](https://www.adobe.com/it/acroba
 [!BADGE Impatto sull&#39;organizzazione]
 Protezione delle informazioni, gestione dei rischi
 
->[!VIDEO](https://video.tv.adobe.com/v/35497?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409647?quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!TIP]
 >

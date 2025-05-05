@@ -20,4 +20,4 @@ Scoprite come aggiungere commenti su un PDF condiviso utilizzando solo un browse
 
 Per informazioni su come condividere un PDF, consulta l&#39;esercitazione [Collaborare in tempo reale](collaborate.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/35492?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409185?quality=12&learn=on&hidetitle=true&captions=ita)

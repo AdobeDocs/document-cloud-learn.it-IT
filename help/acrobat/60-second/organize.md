@@ -18,4 +18,4 @@ ht-degree: 3%
 
 In questo tutorial video di 60 secondi, imparate a utilizzare lo strumento [Organizza pagine](https://www.adobe.com/it/acrobat/online/rearrange-pdf.html) per ottenere una vista aerea del vostro PDF. Modificate l&#39;ordine e il layout delle pagine e persino [divise il PDF](https://www.adobe.com/it/acrobat/online/split-pdf.html){target="_blank"} in file più piccoli.
 
->[!VIDEO](https://video.tv.adobe.com/v/338278?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409110?quality=12&learn=on&hidetitle=true&captions=ita)

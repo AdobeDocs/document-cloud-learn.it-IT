@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Scopri come creare un’esperienza di firma online simile alla firma di persona durante una riunione di Microsoft Teams. Live Sign ti consente di offrire un’esperienza di firma personale, veloce e sicura da qualsiasi dispositivo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445948?quality=12&learn=on&hidetitle=true&captions=ita)

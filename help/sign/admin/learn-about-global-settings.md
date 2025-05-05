@@ -19,7 +19,7 @@ ht-degree: 2%
 
 La sezione Impostazioni globali della scheda Account è una delle sezioni più ricche di funzionalità e tutte le impostazioni sono specifiche per i casi di utilizzo. Scopri come modificare le impostazioni a livello globale per l&#39;intera organizzazione o per gruppi specifici.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452110?quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!TIP]
 >

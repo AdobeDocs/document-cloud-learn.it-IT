@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come disattivare, modificare e riattivare un modulo Web esistente. Quando disabiliti un modulo Web, puoi reindirizzare l’URL o creare un messaggio personalizzato per gli utenti finali.
 
->[!VIDEO](https://video.tv.adobe.com/v/346677?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412769?quality=12&learn=on&hidetitle=true&captions=ita)

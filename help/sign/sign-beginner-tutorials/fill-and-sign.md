@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come compilare i moduli **AND** e aggiungere la tua firma elettronica ai documenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/33660?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410709?quality=12&learn=on&hidetitle=true&captions=ita)

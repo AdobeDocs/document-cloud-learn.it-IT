@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come proteggere i PDF aggiungendo, modificando, personalizzando ed eliminando [etichette di riservatezza di Microsoft Purview Information](https://learn.microsoft.com/en-us/microsoft-365/compliance/information-protection?view=o365-worldwide) direttamente in Acrobat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410552?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444306?quality=12&learn=on&hidetitle=true&captions=ita)

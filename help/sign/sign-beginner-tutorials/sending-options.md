@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come configurare varie opzioni quando si invia un documento per la firma. Scopri come impostare la messaggistica del documento, i formati di file, la frequenza dei promemoria e la scadenza del documento.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412764?quality=12&learn=on&hidetitle=true&captions=ita)

@@ -22,4 +22,4 @@ Scopri sempre quali file sono in attesa di firma e quali sono stati firmati.
 >
 >Oltre all’abbonamento ad Acrobat Sign Enterprise, è necessario disporre di un’autorizzazione ad Acrobat Enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/338492?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347156?quality=12&learn=on&hidetitle=true&captions=ita)

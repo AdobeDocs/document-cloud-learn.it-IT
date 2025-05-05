@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come creare un archivio esterno per le copie di backup degli accordi firmati. Puoi archiviare le copie in qualsiasi indirizzo e-mail o in [!DNL Box] e Evernote. Una copia dell’e-mail firmata e completata viene inviata all’indirizzo e-mail o al servizio cloud designato.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409072?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412809?quality=12&learn=on&hidetitle=true&captions=ita)

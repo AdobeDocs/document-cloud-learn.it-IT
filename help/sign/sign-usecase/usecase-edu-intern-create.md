@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Scopri come creare un modulo Web per stage per migliorare l’accesso degli studenti ai moduli richiesti che possono essere inviati da qualsiasi dispositivo e in qualsiasi luogo. In questo esempio, il flusso di lavoro per ogni studente è unico a seconda del suo corso di studio, perché ogni studente deve aggiungere il proprio supervisore della facoltà e capo dipartimento per l&#39;approvazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423376?quality=12&learn=on&hidetitle=true&captions=ita)

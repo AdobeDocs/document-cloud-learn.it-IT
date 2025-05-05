@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Scopri come impostare l’accesso di sola visualizzazione alle transazioni nell’account di un altro utente.
 
->[!VIDEO](https://video.tv.adobe.com/v/40187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411195?quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!TIP]
 >

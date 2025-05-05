@@ -17,4 +17,4 @@ ht-degree: 0%
 
 In questo tutorial video di 60 secondi, scopri come condividere un PDF per raccogliere rapidamente feedback da più persone in un singolo file.
 
->[!VIDEO](https://video.tv.adobe.com/v/340769?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437196?quality=12&learn=on&hidetitle=true&captions=ita)

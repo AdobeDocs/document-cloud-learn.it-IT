@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Scopri come ottenere un certificato di firma digitale qualificato da [!DNL Intesi Group]. Una volta effettuata la registrazione e verificata la tua identità, [!DNL Intesi Group] ti rilascia un ID digitale utilizzato per applicare una firma cloud di Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/337064?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449036?quality=12&learn=on&hidetitle=true&captions=ita)
 
 <br> 
 

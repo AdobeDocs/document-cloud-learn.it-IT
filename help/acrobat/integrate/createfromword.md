@@ -26,7 +26,7 @@ Scopri come creare file di PDF avanzati con sommari e rimandi, segnalibri e anch
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331736?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409573?quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!TIP]
 >

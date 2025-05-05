@@ -22,4 +22,4 @@ Scopri come monitorare, gestire ed esportare i dati da un [modulo Web](webform.m
 >
 >Solo i piani a livello aziendale e aziendale possono configurare l’accesso ai moduli web e le opzioni per i firmatari. Le opzioni di accesso ai moduli Web e firmatario sono abilitate o disabilitate a livello di account o di gruppo in Account > Impostazioni account > Impostazioni globali > Moduli Web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409607?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417074?quality=12&learn=on&hidetitle=true&captions=ita)

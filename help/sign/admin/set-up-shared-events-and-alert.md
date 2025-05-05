@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri gli eventi condivisi e le impostazioni degli avvisi che è possibile configurare in Acrobat Sign. Gli avvisi sono azioni che non si sono verificate in un determinato periodo di tempo, mentre gli eventi sono azioni che si sono verificate.
 
->[!VIDEO](https://video.tv.adobe.com/v/343589?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411207?quality=12&learn=on&hidetitle=true&captions=ita)

@@ -24,7 +24,7 @@ Scopri come modificare parole, frasi o anche intere pagine nel tuo PDF. La modif
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35493?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409178?enablevpops&quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!TIP]
 >

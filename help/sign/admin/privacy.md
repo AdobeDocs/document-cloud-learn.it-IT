@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Scopri come configurare e utilizzare gli amministratori privacy per i flussi di lavoro di Acrobat Sign nell&#39;Admin Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432695?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448224?quality=12&learn=on&hidetitle=true&captions=ita)

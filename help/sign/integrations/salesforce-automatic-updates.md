@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Scopri come collegare facilmente il tuo account a [!DNL Salesforce] per ottenere aggiornamenti automatici, semplificando le operazioni e la precisione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432775?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439600?quality=12&learn=on&hidetitle=true&captions=ita)

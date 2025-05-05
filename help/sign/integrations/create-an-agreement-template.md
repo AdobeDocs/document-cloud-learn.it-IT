@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come creare un modello di documento riutilizzabile utilizzando Document Builder for Salesforce. I modelli per documenti riutilizzabili forniscono velocità e coerenza nelle transazioni Sign e consentono di gestire revisioni e modifiche dei documenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409414?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412829?quality=12&learn=on&hidetitle=true&captions=ita)

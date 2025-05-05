@@ -31,7 +31,7 @@ File di esempio con cui esercitarsi (ZIP, 342 KB)
 
 Utilizza lo strumento [Modifica PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"} per aggiungere elementi grafici di sfondo al PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443825?hidetitle=true&captions=ita)
 
 <br> 
 
@@ -51,7 +51,7 @@ Immetti da 2 a 26 nella sezione **Pagine da**, quindi seleziona **OK**.
 
 Usa lo strumento Modifica per aggiungere un nuovo piè di pagina al tuo PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437741?hidetitle=true&captions=ita)
 
 <br> 
 

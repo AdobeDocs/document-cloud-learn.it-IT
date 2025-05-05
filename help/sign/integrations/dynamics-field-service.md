@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri in che modo un dispatcher di assistenza sul campo e un tecnico utilizzano Acrobat Sign, [!DNL Power Automate] e [!DNL Dynamics 365] per semplificare i progetti di assistenza sul campo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447306?quality=12&learn=on&hidetitle=true&captions=ita)

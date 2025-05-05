@@ -23,7 +23,7 @@ Scopri come impostare la condivisione avanzata dell’account, consentendo agli 
 >
 >La Condivisione account avanzata è disponibile solo per i piani a livello Enterprise. Il supporto tecnico può abilitare la condivisione avanzata, ma una volta abilitata, modifica le relazioni degli oggetti condivisi in un modo che non può essere annullato. Per questo motivo, ti consigliamo di contattare il tuo Account Team di Adobe e di avere un account di prova impostato per te per testare la funzionalità e verificare che consenta tutto ciò che desideri realizzare.
 
->[!VIDEO](https://video.tv.adobe.com/v/40186?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411213?quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!TIP]
 >

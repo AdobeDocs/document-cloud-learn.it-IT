@@ -24,7 +24,7 @@ Grazie all&#39;impiego remoto ovunque, la distribuzione dei contenuti in modo ra
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337436?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443541?enablevpops&quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!TIP]
 >

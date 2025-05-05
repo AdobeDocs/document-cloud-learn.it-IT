@@ -20,4 +20,4 @@ Digidentity è un fornitore di servizi fiduciari qualificato (QTSP) dell’UE. I
 
 Questa esercitazione video descrive in dettaglio il percorso dell’utente dalla ricezione dell’e-mail di invito alla registrazione all’utilizzo di un ID digitale per autenticare e applicare una firma cloud in Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449790?quality=12&learn=on&hidetitle=true&captions=ita)

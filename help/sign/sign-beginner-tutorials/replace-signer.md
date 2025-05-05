@@ -22,4 +22,4 @@ Scopri come sostituire un firmatario, ad esempio quando veniva inviato un docume
 >
 >Per impostazione predefinita, Sostituisci destinatario sostituisce completamente il destinatario corrente con un nuovo destinatario. I piani a livello aziendale ed Enterprise dispongono di opzioni aggiuntive.
 
->[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425303?quality=12&learn=on&hidetitle=true&captions=ita)

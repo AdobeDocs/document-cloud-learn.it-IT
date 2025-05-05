@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Scopri come utilizzare il flusso di lavoro personalizzato di Designer per digitalizzare un processo IEP (Individualized Education Program) per una scuola primaria e secondaria. Gli IEP sono piani formativi scritti progettati per soddisfare le esigenze di uno studente e richiedono la firma di più membri del team IEP.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422174?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423331?quality=12&learn=on&hidetitle=true&captions=ita)

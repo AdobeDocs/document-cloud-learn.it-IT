@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come impostare la mappatura dati per Acrobat Sign in [!DNL Salesforce]. La mappatura dati consente di richiamare i dati _indietro_ in [!DNL Salesforce] dopo la firma di un accordo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412804?quality=12&learn=on&hidetitle=true&captions=ita)

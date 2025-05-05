@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In questo tutorial video di 60 secondi, scopri come rimuovere le informazioni riservate da un PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411377?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436920?quality=12&learn=on&hidetitle=true&captions=ita)

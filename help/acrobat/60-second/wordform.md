@@ -18,4 +18,4 @@ ht-degree: 2%
 
 In questo tutorial video di 60 secondi, scopri come [convertire file e moduli di Word in PDF](https://www.adobe.com/it/acrobat/online/word-to-pdf.html){target="_blank"} e creare automaticamente campi modulo.
 
->[!VIDEO](https://video.tv.adobe.com/v/340082?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347091?quality=12&learn=on&hidetitle=true&captions=ita)

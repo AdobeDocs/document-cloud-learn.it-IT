@@ -18,5 +18,5 @@ ht-degree: 0%
 
 Scopri come aggiungere segnalibri e collegamenti ipertestuali per una migliore navigazione e interazione con i file PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/340837?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347058?quality=12&learn=on&hidetitle=true&captions=ita)
 

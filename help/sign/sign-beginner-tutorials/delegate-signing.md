@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come delegare la firma di un documento a un altro utente.
 
->[!VIDEO](https://video.tv.adobe.com/v/343856?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411243?quality=12&learn=on&hidetitle=true&captions=ita)

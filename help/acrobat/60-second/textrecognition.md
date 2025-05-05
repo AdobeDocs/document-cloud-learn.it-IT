@@ -18,4 +18,4 @@ ht-degree: 0%
 
 In questo tutorial video di 60 secondi, scoprite come convertire un PDF scansionato in modo da poter cercare testo in PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/340081?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347079?quality=12&learn=on&hidetitle=true&captions=ita)

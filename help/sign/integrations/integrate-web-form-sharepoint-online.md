@@ -23,4 +23,4 @@ Scopri come mappare i dati raccolti da un modulo Web in un elenco [!DNL SharePoi
 >
 >La mappatura dei campi tra Acrobat Sign Web Form ed elenchi [!DNL SharePoint] è disponibile solo per le installazioni online e non per le installazioni locali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421616?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423562?quality=12&learn=on&hidetitle=true&captions=ita)

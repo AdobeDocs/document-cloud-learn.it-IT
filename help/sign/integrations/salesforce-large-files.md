@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come impostare documenti di grandi dimensioni e inviare i servizi per gli accordi in Acrobat Sign per [!DNL Salesforce]. Gli accordi push consentono di inviare documenti, creare un modulo Web e inviare gli accordi come se fossero stati creati in [!DNL Salesforce].
 
->[!VIDEO](https://video.tv.adobe.com/v/3432842?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3455785?quality=12&learn=on&hidetitle=true&captions=ita)

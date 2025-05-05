@@ -18,4 +18,4 @@ ht-degree: 0%
 
 In questo tutorial video di 60 secondi, scoprite come apportare modifiche avanzate a un elemento grafico nel vostro PDF utilizzando Illustrator! Dopo aver selezionato Modifica PDF, fai clic con il pulsante destro del mouse su un elemento grafico e scegli di modificarlo in Illustrator. Quando hai finito, scegli semplicemente Salva in Illustrator e Acrobat aggiorna la grafica in PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338277?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409118?quality=12&learn=on&hidetitle=true&captions=ita)

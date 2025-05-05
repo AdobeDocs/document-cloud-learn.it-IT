@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Scopri come convertire qualsiasi documento cartaceo in PDF utilizzando l’app gratuita Adobe Scan per dispositivi mobili.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409254?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412789?quality=12&learn=on&hidetitle=true&captions=ita)
 
 ![Codice QR](../assets/Scanqrcode.jpg)
 

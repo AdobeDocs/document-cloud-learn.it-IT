@@ -27,7 +27,7 @@ Scopri come modificare un documento già inviato per la firma, ad esempio se il 
 >
 >La modifica di un documento dopo l’invio è disponibile solo per i piani a livello Enterprise. L’amministratore di Acrobat Sign deve abilitare **Modifica accordi** nella sezione **Impostazioni di invio** delle **Impostazioni account** per utilizzare questa funzione.
 
->[!VIDEO](https://video.tv.adobe.com/v/342299?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410735?quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!TIP]
 >

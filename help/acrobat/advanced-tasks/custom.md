@@ -22,4 +22,4 @@ Scoprite come migliorare l’efficienza del flusso di lavoro dei documenti utili
 >
 >I comandi personalizzati sono disponibili solo in Acrobat Pro.
 
->[!VIDEO](https://video.tv.adobe.com/v/340545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347070?quality=12&learn=on&hidetitle=true&captions=ita)

@@ -21,4 +21,4 @@ In qualità di amministratore di Acrobat Sign, scopri come impostare le opzioni 
 >
 >La creazione di rapporti è disponibile solo per i piani a livello aziendale ed enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419303?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437152?quality=12&learn=on&hidetitle=true&captions=ita)

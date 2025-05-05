@@ -19,4 +19,4 @@ Scoprite come creare, modificare e migliorare la grafica nel vostro PDF. La modi
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446937?enablevpops&quality=12&learn=on&hidetitle=true&captions=ita)

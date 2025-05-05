@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come inserire automaticamente i campi nel documento o utilizzare l’ambiente di authoring con trascinamento all’interno di Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/346620?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425292?quality=12&learn=on&hidetitle=true&captions=ita)

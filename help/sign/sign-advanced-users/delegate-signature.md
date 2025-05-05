@@ -22,7 +22,7 @@ Scopri come utilizzare il ruolo di delegante per inviare un documento a un inter
 >
 >Il ruolo di delegante è disponibile solo per i piani a livello Enterprise. L&#39;amministratore di Acrobat Sign potrebbe dover abilitare l&#39;impostazione **Consenti ai mittenti di contrassegnare alcuni destinatari come delegati** nella sezione **Impostazioni di invio** delle **Impostazioni account** per utilizzare questa funzione.
 
->[!VIDEO](https://video.tv.adobe.com/v/343621?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412749?quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!TIP]
 >

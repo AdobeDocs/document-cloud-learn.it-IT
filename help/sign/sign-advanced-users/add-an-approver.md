@@ -19,7 +19,7 @@ ht-degree: 23%
 
 Scopri come inviare un documento tramite un processo di approvazione. In questo esempio, vedere come inviare un contratto di assunzione tramite HR, un potenziale dipendente e il responsabile delle assunzioni. Il ruolo Approvatore è utile per le situazioni in cui un utente deve “dare l’OK” prima di inviare un documento al firmatario.
 
->[!VIDEO](https://video.tv.adobe.com/v/343854?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411219?quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!TIP]
 >

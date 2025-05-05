@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Scopri come Liquid Mode migliora l’esperienza di firma da dispositivo mobile. Non dovrai più pizzicare e ingrandire mentre provi a leggere e firmare i documenti. Questo tutorial spiega come inviare un _modulo HTML_ per la firma e creare automaticamente un&#39;esperienza di firma ottimizzata per gli utenti di dispositivi mobili.
 
->[!VIDEO](https://video.tv.adobe.com/v/333803?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409665?quality=12&learn=on&hidetitle=true&captions=ita)

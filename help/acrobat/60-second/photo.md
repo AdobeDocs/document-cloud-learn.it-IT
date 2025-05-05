@@ -18,4 +18,4 @@ ht-degree: 1%
 
 In questo tutorial video di 60 secondi, scopri come trascinare un gruppo di JPG sull’icona di Acrobat. Fare clic su Sì per creare un PDF con più pagine. È quindi possibile trascinare altri file JPG nel pannello Pagine per [aggiungere altre pagine al file PDF](https://www.adobe.com/it/acrobat/online/add-pages-to-pdf.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/336365?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409560?quality=12&learn=on&hidetitle=true&captions=ita)

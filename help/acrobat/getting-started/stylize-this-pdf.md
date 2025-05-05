@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Scoprite come creare PDF dall&#39;aspetto professionale con gli strumenti di progettazione integrati facili da usare in [Adobe Express](https://express.adobe.com). Questa esercitazione video utilizza la [Nuova esperienza Acrobat](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445549?enablevpops&quality=12&learn=on&hidetitle=true&captions=ita)

@@ -26,7 +26,7 @@ Scopri come creare file PDF senza mai uscire da [!DNL Microsoft Office] per le a
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337482?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409133?quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!TIP]
 >

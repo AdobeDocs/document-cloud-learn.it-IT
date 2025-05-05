@@ -18,4 +18,4 @@ ht-degree: 0%
 
 In questo tutorial video di 60 secondi, scoprite come apportare modifiche avanzate a una foto nel vostro PDF utilizzando Photoshop! Dallo strumento Modifica PDF a Photoshop e viceversa, la procedura è semplice e veloce e consente di completare il lavoro in modo semplice e veloce.
 
->[!VIDEO](https://video.tv.adobe.com/v/338276?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409126?quality=12&learn=on&hidetitle=true&captions=ita)

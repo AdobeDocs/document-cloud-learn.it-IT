@@ -17,4 +17,4 @@ ht-degree: 2%
 
 Scopri come assegnare un ruolo di amministratore del prodotto e amministratore del supporto utente Acrobat Sign nell&#39;[Admin Console](https://adminconsole.adobe.com/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453166?quality=12&learn=on&hidetitle=true&captions=ita)

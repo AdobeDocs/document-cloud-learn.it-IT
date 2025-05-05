@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In questo tutorial video di 60 secondi, scopri come convalidare il contenuto PDF in base ai criteri standard PDF come PDF/X, PDF/A o PDF/E.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409906?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437305?quality=12&learn=on&hidetitle=true&captions=ita)

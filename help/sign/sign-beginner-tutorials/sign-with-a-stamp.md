@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come utilizzare i timbri per contrassegnare un documento approvato o completato.
 
->[!VIDEO](https://video.tv.adobe.com/v/345170?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411255?quality=12&learn=on&hidetitle=true&captions=ita)

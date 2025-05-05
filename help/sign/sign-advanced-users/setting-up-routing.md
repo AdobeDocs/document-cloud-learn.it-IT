@@ -22,4 +22,4 @@ Scopri come impostare l’ordine di firma per più firmatari. Inviare un documen
 >
 >Il routing ibrido è disponibile solo per i piani a livello aziendale. L’amministratore Acrobat Sign potrebbe dover abilitare queste funzioni nella sezione Impostazioni di invio delle Impostazioni account.
 
->[!VIDEO](https://video.tv.adobe.com/v/342249?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410716?quality=12&learn=on&hidetitle=true&captions=ita)

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Scopri la gamma di metodi disponibili in Acrobat Sign per autenticare l’identità di chi firma un documento. L’autenticazione dell’identità consente di ridurre le frodi e aggiunge un ulteriore livello di sicurezza ai documenti firmati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419287?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447590?quality=12&learn=on&hidetitle=true&captions=ita)

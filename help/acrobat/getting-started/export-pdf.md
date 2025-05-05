@@ -24,7 +24,7 @@ Scopri come convertire i file PDF in diversi formati di file, ad esempio [Micros
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35494?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409653?enablevpops&quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!TIP]
 >

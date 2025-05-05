@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Scopri come creare un nuovo utente o promuovere un utente esistente al ruolo di amministratore di Acrobat Sign nell&#39;[Admin Console](https://adminconsole.adobe.com/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3453156?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453177?quality=12&learn=on&hidetitle=true&captions=ita)

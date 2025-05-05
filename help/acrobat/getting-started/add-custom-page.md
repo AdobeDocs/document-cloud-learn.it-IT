@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come creare una nuova pagina dall&#39;aspetto professionale nel tuo PDF utilizzando l&#39;Adobe Express. La progettazione di una nuova pagina ti dà la possibilità di creare in pochi minuti contenuti personalizzati dall&#39;aspetto professionale per il tuo brand, che siano davvero unici. Questa esercitazione video utilizza la [Nuova esperienza Acrobat](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/347331?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417493?enablevpops&quality=12&learn=on&hidetitle=true&captions=ita)

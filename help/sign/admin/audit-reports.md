@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Scopri come accedere, utilizzare e configurare i report di audit in base alle esigenze dell’organizzazione. Ogni documento in Acrobat Sign passa attraverso una serie di eventi &quot;cardine&quot; che definiscono lo stato di avanzamento di una transazione. Queste fasi cardine sono documentate in modo esauriente in un report di audit per ogni transazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432661?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448553?quality=12&learn=on&hidetitle=true&captions=ita)

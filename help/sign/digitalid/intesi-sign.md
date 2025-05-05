@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come utilizzare l&#39;ID digitale [!DNL Intesi Group] per autenticare la tua identità e autorizzare una firma digitale remota (firma cloud) su un documento.
 
->[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443669?quality=12&learn=on&hidetitle=true&captions=ita)

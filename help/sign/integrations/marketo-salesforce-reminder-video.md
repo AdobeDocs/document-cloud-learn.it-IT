@@ -32,5 +32,5 @@ Scopri come inviare un promemoria via e-mail da Marketo per gli accordi non firm
 
    Le informazioni su questo plug-in sono disponibili [qui.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
->[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410391?quality=12&learn=on&hidetitle=true&captions=ita)
 

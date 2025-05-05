@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Sostituisci rapidamente l’elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit. Informazioni sullo strumento [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) per semplificare l&#39;intero processo.
 
->[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409213?quality=12&learn=on&hidetitle=true&captions=ita)
 
 Selezionare questa opzione per scaricare o aprire una composizione PDF dettagliata per contratti e moduli di richiesta.
 
