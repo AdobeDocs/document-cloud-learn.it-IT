@@ -20,13 +20,13 @@ Scopri come inviare e raccogliere centinaia di firme (fino a 1.000 destinatari p
 
 [!BADGE Casi di utilizzo]
 
-* [Accordo sul telelavoro](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
-* [Accordo sui criteri](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
+* [Accordo sul telelavoro](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=it)
+* [Accordo sui criteri](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=it)
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[Scarica il file CSV di esempio in formato ZIP](../assets/sendInBulkSample.zip). Scopri tutti i valori che puoi impostare nel file CSV [qui](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html).
+[Scarica il file CSV di esempio in formato ZIP](../assets/sendInBulkSample.zip). Scopri tutti i valori che puoi impostare nel file CSV [qui](https://helpx.adobe.com/it/sign/adv-user/send-in-bulk/send-with-csv.html).
 
 >[!TIP]
 >
->Questo video fa parte delle [attività avanzate per gli utenti](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) e delle [playlist introduttive di Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) disponibili gratuitamente per l&#39;Experience League.
+>Questo video fa parte delle [attività avanzate per gli utenti](https://experienceleague.adobe.com/it/playlists/acrobat-sign-perform-advanced-tasks-business-users) e delle [playlist introduttive di Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/it/playlists/acrobat-sign-get-started-administrators) disponibili gratuitamente per l&#39;Experience League.

@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Ottenere una firma di persona
 
-Scopri come ottenere la firma di qualcun altro di persona utilizzando [l&#39;app per dispositivi mobili Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html).
+Scopri come ottenere la firma di qualcun altro di persona utilizzando [l&#39;app per dispositivi mobili Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=it).
 
 >[!VIDEO](https://video.tv.adobe.com/v/345169?quality=12&learn=on&hidetitle=true)

@@ -30,4 +30,4 @@ Semplifica i flussi di lavoro dei documenti con [!DNL SharePoint] e Acrobat util
 
 >[!TIP]
 >
->Questo video fa parte della playlist [Integrazione di Acrobat e Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Integrazione di Acrobat e Microsoft 365](https://experienceleague.adobe.com/it/playlists/acrobat-integrate-microsoft-365) disponibile gratuitamente per l&#39;Experience League.

@@ -26,4 +26,4 @@ Scopri come utilizzare il ruolo di delegante per inviare un documento a un inter
 
 >[!TIP]
 >
->Questo video fa parte della playlist [Attività avanzate per gli utenti](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Attività avanzate per gli utenti](https://experienceleague.adobe.com/it/playlists/acrobat-sign-perform-advanced-tasks-business-users) disponibile gratuitamente per l&#39;Experience League.

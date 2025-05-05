@@ -19,7 +19,7 @@ Questo progetto rispetta il codice di condotta di Adobe [&#128279;](code-of-cond
 
 ## Documentazione Guida sui collaboratori
 
-Vedere la [Guida per i collaboratori](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Vedere la [Guida per i collaboratori](https://docs.adobe.com/content/help/it-IT/contributor/contributor-guide/introduction.html).
 
 ## Hai Una Domanda?
 
@@ -57,4 +57,4 @@ sentitevi liberi di raggiungere gli attuali comitati per avere una conversazione
 
 ## Problemi di sicurezza
 
-I problemi di sicurezza non devono essere segnalati su questo rilevatore di problemi. Invece [inviare un problema ai nostri esperti di sicurezza](https://helpx.adobe.com/security/alertus.html)
+I problemi di sicurezza non devono essere segnalati su questo rilevatore di problemi. Invece [inviare un problema ai nostri esperti di sicurezza](https://helpx.adobe.com/it/security/alertus.html)

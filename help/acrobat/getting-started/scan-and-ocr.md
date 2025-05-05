@@ -48,4 +48,4 @@ Il file è ora un file PDF ricercabile e modificabile.
 
 >[!TIP]
 >
->Questo video fa parte della playlist [Introduzione ad Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Introduzione ad Adobe Acrobat](https://experienceleague.adobe.com/it/playlists/acrobat-get-started-business-users) disponibile gratuitamente per l&#39;Experience League.

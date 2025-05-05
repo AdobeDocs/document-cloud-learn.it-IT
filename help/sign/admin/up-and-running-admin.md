@@ -26,4 +26,4 @@ Scopri le sette aree chiave su cui gli amministratori devono concentrarsi per in
 
 >[!TIP]
 >
->Questo video fa parte della playlist [Guida introduttiva di Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Guida introduttiva di Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/it/playlists/acrobat-sign-get-started-administrators) disponibile gratuitamente per l&#39;Experience League.

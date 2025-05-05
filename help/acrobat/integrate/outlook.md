@@ -30,4 +30,4 @@ Scopri come archiviare i messaggi di posta elettronica e gli allegati in PDF in 
 
 >[!TIP]
 >
->Questo video fa parte della playlist [Integrazione di Acrobat e Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Integrazione di Acrobat e Microsoft 365](https://experienceleague.adobe.com/it/playlists/acrobat-integrate-microsoft-365) disponibile gratuitamente per l&#39;Experience League.

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Articoli sull&#39;implementazione e sulle best practice con preziose informazioni e conoscenze acquisite lavorando con i clienti.
 
-* Scopri come [distribuire Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} se si utilizza Adobe® Creative Cloud™ for teams o enterprise.
+* Scopri come [distribuire Adobe Acrobat](https://helpx.adobe.com/it/enterprise/using/deploying-acrobat.html){target="_blank"} se si utilizza Adobe® Creative Cloud™ for teams o enterprise.
 
 * Informazioni sul [Enterprise Toolkit for Acrobat Products](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"} per distribuire prodotti personalizzati nell&#39;organizzazione, configurare installazioni virtualizzate e creare flussi di lavoro di Enterprise PDF.
 

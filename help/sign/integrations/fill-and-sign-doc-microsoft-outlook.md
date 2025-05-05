@@ -24,4 +24,4 @@ Scopri come semplificare i flussi di lavoro dei documenti compilando e firmando 
 
 >[!TIP]
 >
->Questo video fa parte della playlist [Utilizzo di Acrobat Sign all&#39;interno delle app Microsoft](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps) che è disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Utilizzo di Acrobat Sign all&#39;interno delle app Microsoft](https://experienceleague.adobe.com/it/playlists/acrobat-sign-integrate-microsoft-apps) che è disponibile gratuitamente per l&#39;Experience League.

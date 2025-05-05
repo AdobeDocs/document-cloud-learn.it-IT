@@ -22,4 +22,4 @@ In questo tutorial video di 60 secondi, scopri come convertire un [allegato di P
 
 >[!TIP]
 >
->Questo video fa parte della playlist [Integrazione di Acrobat e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Integrazione di Acrobat e Microsoft 365](https://experienceleague.adobe.com/?lang=it&recommended=Acrobat-U-1-2021.microsoft365) disponibile gratuitamente per l&#39;Experience League.

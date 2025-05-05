@@ -20,17 +20,17 @@ Scopri come creare un documento che possa essere firmato elettronicamente dirett
 
 [!BADGE Casi di utilizzo]
 
-* [Applicazione di internship per moduli web didattici](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+* [Applicazione di internship per moduli web didattici](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=it)
 Scopri come utilizzare i moduli Web per migliorare l’accesso degli studenti ai moduli richiesti
-* [Creare un&#39;applicazione di tirocinio per moduli Web didattici](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+* [Creare un&#39;applicazione di tirocinio per moduli Web didattici](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=it)
 Scopri come creare un modulo web per stage
-* [Richiesta di prestito governativo con più firmatari sconosciuti](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html?lang=en)
+* [Richiesta di prestito governativo con più firmatari sconosciuti](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html?lang=it)
 Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’applicazione di un prestito pubblico che coinvolge più partecipanti sconosciuti
-* [Concessioni di lavoro e prestiti](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
-* [Assistenza per la riassunzione](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
+* [Concessioni di lavoro e prestiti](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=it)
+* [Assistenza per la riassunzione](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=it)
 
 >[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Questo video fa parte delle [attività avanzate per gli utenti](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) e delle [playlist introduttive di Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) disponibili gratuitamente per l&#39;Experience League.
+>Questo video fa parte delle [attività avanzate per gli utenti](https://experienceleague.adobe.com/it/playlists/acrobat-sign-perform-advanced-tasks-business-users) e delle [playlist introduttive di Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/it/playlists/acrobat-sign-get-started-administrators) disponibili gratuitamente per l&#39;Experience League.

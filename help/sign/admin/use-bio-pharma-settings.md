@@ -22,4 +22,4 @@ Scopri le impostazioni Bio-Pharma che consentono di configurare Acrobat Sign per
 
 >[!TIP]
 >
->Questo video fa parte della playlist [Attività avanzate per gli amministratori](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Attività avanzate per gli amministratori](https://experienceleague.adobe.com/it/playlists/acrobat-sign-perform-advanced-tasks-administrators) disponibile gratuitamente per l&#39;Experience League.

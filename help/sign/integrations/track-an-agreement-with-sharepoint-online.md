@@ -24,4 +24,4 @@ Scopri come tenere traccia dell’avanzamento di un accordo direttamente in Micr
 
 >[!TIP]
 >
->Questo video fa parte della playlist [Utilizzo di Acrobat Sign all&#39;interno delle app Microsoft](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps) che è disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Utilizzo di Acrobat Sign all&#39;interno delle app Microsoft](https://experienceleague.adobe.com/it/playlists/acrobat-sign-integrate-microsoft-apps) che è disponibile gratuitamente per l&#39;Experience League.

@@ -31,7 +31,7 @@ Il contenuto di PDF deve essere univoco e strutturato come segue:
 * Utilizzare paragrafi brevi contenenti parole chiave ed elenchi
 * Aggiunta di collegamenti ipertestuali interni ed esterni (contenuto del sito Web o di altri siti Web)
 * Aggiungere un sommario con collegamento ipertestuale per documenti di oltre 25 pagine
-* Esegui [riconoscimento testo](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) in tutti i documenti scansionati
+* Esegui [riconoscimento testo](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=it) in tutti i documenti scansionati
 * Costruisci PDF compatibili con i dispositivi mobili
 Per verificare l&#39;esperienza di visualizzazione per dispositivi mobili del PDF, apri il file nella [app per dispositivi mobili Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) e attiva la modalità Liquid Mode. Se necessario, includere sottotitoli aggiuntivi per migliorare la navigazione.
 
@@ -64,7 +64,7 @@ Provate a iniziare il riepilogo utilizzando un verbo di azione come Scopri, Scop
 
 ## 3. Assegnare tag ai PDF
 
-L&#39;assegnazione di tag al contenuto del PDF non solo rende il file [accessibile](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) per gli utenti con disabilità, ma migliora anche la funzionalità SEO.
+L&#39;assegnazione di tag al contenuto del PDF non solo rende il file [accessibile](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=it) per gli utenti con disabilità, ma migliora anche la funzionalità SEO.
 
 +++Visualizzare i dettagli su come applicare i tag a un PDF
 

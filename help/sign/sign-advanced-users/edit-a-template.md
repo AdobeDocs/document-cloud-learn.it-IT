@@ -22,4 +22,4 @@ Scopri come modificare o eliminare un modello nella tua libreria.
 
 >[!TIP]
 >
->Questo video fa parte della playlist [Attività avanzate per gli utenti](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Attività avanzate per gli utenti](https://experienceleague.adobe.com/it/playlists/acrobat-sign-perform-advanced-tasks-business-users) disponibile gratuitamente per l&#39;Experience League.

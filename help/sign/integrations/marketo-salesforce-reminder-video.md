@@ -26,7 +26,7 @@ Scopri come inviare un promemoria via e-mail da Marketo per gli accordi non firm
 
 1. Installa Marketo Salesforce Sync.
 
-   Le informazioni e il plug-in più recente per Salesforce Sync sono disponibili [qui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   Le informazioni e il plug-in più recente per Salesforce Sync sono disponibili [qui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=it)
 
 1. Installa Acrobat Sign per Salesforce.
 

@@ -30,4 +30,4 @@ Scopri come trasformare rapidamente le pagine Web in PDF con l&#39;estensione Ad
 
 >[!TIP]
 >
->Questo video fa parte della playlist [Integrazione di Acrobat e Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Integrazione di Acrobat e Microsoft 365](https://experienceleague.adobe.com/it/playlists/acrobat-integrate-microsoft-365) disponibile gratuitamente per l&#39;Experience League.

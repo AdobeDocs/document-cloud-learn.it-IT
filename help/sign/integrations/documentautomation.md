@@ -263,7 +263,7 @@ A queste cartelle viene ora fatto riferimento come parte del flusso di Power Aut
 
    ![Schermata di selezione del simbolo +](assets/documentautomation/automation_27.png)
 
-1. Passa a https://www.adobe.com/go/powerautomate_getstarted in una nuova scheda.
+1. Passa a https://www.adobe.com/go/powerautomate_getstarted_it in una nuova scheda.
 1. Fai clic su **Guida introduttiva**.
 
    ![Schermata del pulsante Introduzione](assets/documentautomation/automation_28.png)
