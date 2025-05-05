@@ -33,4 +33,4 @@ Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’a
 
 >[!TIP]
 >
-Questo video fa parte delle [attività avanzate per gli utenti](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) e delle [playlist introduttive di Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) disponibili gratuitamente per l&#39;Experience League.
+>Questo video fa parte delle [attività avanzate per gli utenti](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) e delle [playlist introduttive di Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) disponibili gratuitamente per l&#39;Experience League.

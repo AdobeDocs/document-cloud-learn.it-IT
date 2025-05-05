@@ -27,10 +27,10 @@ Scopri come utilizzare il flusso di lavoro personalizzato Designer per digitaliz
 
 >[!NOTE]
 >
-Gli amministratori dei gruppi possono assegnare flussi di lavoro a qualsiasi gruppo amministrato (non solo al gruppo principale). Gli amministratori dei gruppi possono inoltre modificare qualsiasi flusso di lavoro assegnato a qualsiasi gruppo amministrato.
+>Gli amministratori dei gruppi possono assegnare flussi di lavoro a qualsiasi gruppo amministrato (non solo al gruppo principale). Gli amministratori dei gruppi possono inoltre modificare qualsiasi flusso di lavoro assegnato a qualsiasi gruppo amministrato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
-Questo video fa parte della playlist [Guida introduttiva di Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Guida introduttiva di Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) disponibile gratuitamente per l&#39;Experience League.

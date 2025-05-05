@@ -66,7 +66,7 @@ ht-degree: 3%
       + [Documenti scansionati ed elenchi complessi](advanced-tasks/accessibilitysession4.md)
       + [Aggiunta di campi modulo a un PDF con tag](advanced-tasks/accessibilitysession5.md)
       + [Aggiunta di campi modulo a un PDF senza tag](advanced-tasks/accessibilitysession6.md)
-+ Acrobat {#60-second} di 60 secondi
++ Acrobat di 60 secondi {#60-second}
    + [Panoramica](60-second/60-second-overview.md)
    + [Modifica PDF con Acrobat Web](60-second/edit.md)
    + [Riconoscere il testo in un file PDF scansionato](60-second/textrecognition.md)

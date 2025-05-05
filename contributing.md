@@ -13,7 +13,7 @@ Di seguito sono riportate alcune linee guida da seguire per contribuire a questo
 
 ## Codice Di Condotta
 
-Questo progetto rispetta il codice di condotta di Adobe [](code-of-conduct.md). Partecipando,
+Questo progetto rispetta il codice di condotta di Adobe [&#128279;](code-of-conduct.md). Partecipando,
 è previsto che tu sostenga questo codice. Segnala un comportamento inaccettabile a
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 

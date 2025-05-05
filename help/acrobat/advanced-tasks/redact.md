@@ -67,8 +67,8 @@ Utilizzare la casella di ricerca per cercare una parola o frase specifica.
 
 >[!TIP]
 >
-Per velocizzare il processo di redazione, controllare l&#39;[Action Wizard](../advanced-tasks/action.md).
+>Per velocizzare il processo di redazione, controllare l&#39;[Action Wizard](../advanced-tasks/action.md).
 
 >[!TIP]
 >
-Questo video fa parte della playlist [Esegui attività avanzate in Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Esegui attività avanzate in Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) disponibile gratuitamente per l&#39;Experience League.

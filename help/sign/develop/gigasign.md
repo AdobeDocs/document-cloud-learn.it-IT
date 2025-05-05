@@ -29,7 +29,7 @@ Gigasign consente di inviare, raccogliere e tenere traccia dei documenti da firm
 
 [Scarica file zip GigaSign](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
-[Collegamento per il download di Java 1.8 (solo se necessario)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
+[Collegamento per il download di Java 1.8 (solo se necessario)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html){target="_blank"} 
 
 [Indirizzi IP alla whitelist (solo se necessario)](https://helpx.adobe.com/it/sign/system-requirements.html#IPs){target="_blank"}
 

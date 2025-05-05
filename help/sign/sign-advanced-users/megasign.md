@@ -29,4 +29,4 @@ Scopri come inviare e raccogliere centinaia di firme (fino a 1.000 destinatari p
 
 >[!TIP]
 >
-Questo video fa parte delle [attività avanzate per gli utenti](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) e delle [playlist introduttive di Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) disponibili gratuitamente per l&#39;Experience League.
+>Questo video fa parte delle [attività avanzate per gli utenti](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) e delle [playlist introduttive di Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) disponibili gratuitamente per l&#39;Experience League.

@@ -74,5 +74,5 @@ membri della direzione del progetto.
 
 ## Attribuzione
 
-Il presente Codice di condotta è adattato dal Patto per i collaboratori](https://contributor-covenant.org), versione 1.4,
-disponibile all&#39;indirizzo [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)[
+Il presente Codice di condotta è adattato dal Patto per i collaboratori, versione 1.4,
+disponibile all&#39;indirizzo [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/) [&#128279;](https://contributor-covenant.org)
