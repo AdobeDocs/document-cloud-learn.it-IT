@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
+source-git-commit: 46a89000c2fe67e870655459da1917289483b8b4
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -58,7 +58,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Invio a un singolo destinatario" src="../assets/Send-to-single-recipient.png" />
+      <img alt="Invio a un singolo destinatario" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>Invio a un singolo destinatario</strong></a>
@@ -68,7 +68,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Invio a più destinatari" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="Invio a più destinatari" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Invio a più destinatari</strong></a>
@@ -80,7 +80,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
 <tr>
   <td>
     <a href="sending-options.md">
-      <img alt="Configurare le opzioni di invio" src="../assets/Sendingoptions.png" />
+      <img alt="Configurare le opzioni di invio" src="../assets/configure.png" />
     </a>
     <div>
     <a href="sending-options.md"><strong>Configurare le opzioni di invio</strong></a>
@@ -90,7 +90,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
   </td>
   <td>
     <a href="adding-fields.md">
-      <img alt="Aggiunta di campi ai documenti" src="../assets/AddingFields.png" />
+      <img alt="Aggiunta di campi ai documenti" src="../assets/adding-fields.png" />
     </a>
     <div>
     <a href="adding-fields.md"><strong>Aggiunta di campi ai documenti</strong></a>
@@ -100,7 +100,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="Modifica di un documento dopo l’invio" src="../assets/Modifying-sending.png" />
+      <img alt="Modifica di un documento dopo l’invio" src="../assets/modify.png" />
     </a>
     <div>
     <a href="modify-in-flight.md"><strong>Modifica di un documento dopo l'invio</strong></a>
@@ -110,7 +110,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
   </td>
   <td>
     <a href="replace-signer.md">
-      <img alt="Sostituzione di un firmatario" src="../assets/replace-signer.png" />
+      <img alt="Sostituzione di un firmatario" src="../assets/replace.png" />
     </a>
     <div>
     <a href="replace-signer.md"><strong>Sostituzione di un firmatario</strong></a>
@@ -122,7 +122,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
 <tr>
   <td>
       <a href="set-deadlines-reminders.md">
-        <img alt="Impostare scadenze e promemoria" src="../assets/Reminders.png" />
+        <img alt="Impostare scadenze e promemoria" src="../assets/deadlines-reminders.png" />
       </a>
       <div>
       <a href="set-deadlines-reminders.md"><strong>Impostare scadenze e promemoria</strong></a>
@@ -154,7 +154,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="Firma elettronica di un documento" src="../assets/Electronically-sign.png" />
+      <img alt="Firma elettronica di un documento" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong>Firma elettronica di un documento</strong></a>
@@ -164,7 +164,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Compilazione e firma di un documento" src="../assets/FillandSign.png" />
+      <img alt="Compilazione e firma di un documento" src="../assets/fill-and-sign.png" />
     </a>
     <div>
     <a href="fill-and-sign.md"><strong>Compilazione e firma di un documento</strong></a>
@@ -174,7 +174,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="Ottenere una firma di persona" src="../assets/In-person.png" />
+      <img alt="Ottenere una firma di persona" src="../assets/inperson.png" />
     </a>
     <div>
     <a href="sign-in-person.md"><strong>Ottenere una firma di persona</strong></a>
@@ -184,7 +184,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
   </td>
   <td>
     <a href="delegate-signing.md">
-      <img alt="Delega la firma a un altro utente" src="../assets/Delegatesigning.png" />
+      <img alt="Delega la firma a un altro utente" src="../assets/delegate-signing.png" />
     </a>
     <div>
     <a href="delegate-signing.md"><strong>Delega la firma a un altro utente</strong></a>
@@ -196,7 +196,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="Che cos’è una firma digitale" src="../assets/whatisdigsig.png" />
+      <img alt="Che cos’è una firma digitale" src="../assets/digital-signature.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>Che cos'è una firma digitale</strong></a>
@@ -206,7 +206,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="Firma con timbro" src="../assets/Stamp.png" />
+      <img alt="Firma con timbro" src="../assets/sign-stamp.png" />
     </a>
     <div>
     <a href="sign-with-a-stamp.md"><strong>Firma con timbro</strong></a>
@@ -233,7 +233,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Gestisci e tieni traccia degli accordi" src="../assets/Manage.png" />
+      <img alt="Gestisci e tieni traccia degli accordi" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>Gestisci e tieni traccia degli accordi</strong></a>
@@ -243,7 +243,7 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Creazione di un modello di documento" src="../assets/Template.png" />
+      <img alt="Creazione di un modello di documento" src="../assets/create-template.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Creazione di un modello di documento</strong></a>
