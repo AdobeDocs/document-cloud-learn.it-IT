@@ -7,10 +7,10 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: a091d08a0a8a3bd7ce1080658a22a4d4931b8b04
+source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 8%
+source-wordcount: '184'
+ht-degree: 5%
 
 ---
 
@@ -27,275 +27,101 @@ Acrobat Sign, una soluzione Adobe Document Cloud, è scalabile per soddisfare le
 
 ## Percorsi di apprendimento
 
-<!-- Comment -->
-<!-- CARDS
-
-* https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/getting-started/beginner-users-overview
-  {target = _self}
-  {title = Getting started}
-  {description = Get up-to-speed on how to send, sign, and track documents}
-  {image = https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_18ba3ceee7595f1e28a75a6592e8a4bb37cb71fab.png?width=400&format=webply&optimize=medium}
-  {cta = Browse tutorials}
-* https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-users-overview
-  {target = _self}
-  {title = Advanced tasks}
-  {description = Go beyond the basics with specific tasks and automation}
-  {image = https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_146ddb86d3ad9a5f6209f6a4b6d0d64cb49468b9e.png?width=400&format=webply&optimize=medium}
-  {cta = Browse tutorials}
-* https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/admin-set-up/intro-admin-overview
-  {target = _self}
-  {title = Administrators}
-  {description = Basic to advanced set-up tips for your organization}
-  {image = https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_111971e7e23b65f50e06f84ac9790847f3a22a072.png?width=400&format=webply&optimize=medium}
-  {cta = Browse tutorials}
-* https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/digital-id/digitalid-overview
-  {target = _self}
-  {title = Digital ID}
-  {description = Learn how to use digital IDs from around the word in Acrobat Sign}
-  {image = https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_1824487d546924662b61ff3b7775ddede42f53294.png?width=400&format=webply&optimize=medium}
-  {cta = Browse tutorials}
-* https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview
-  {target = _self}
-  {title = Integrations}
-  {description = Add Acrobat Sign directly inside other applications}
-  {image = https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_1e9daa7a15754eb2f98528bb142c7f8d35c8ea37f.png?width=400&format=webply&optimize=medium}
-  {cta = Browse tutorials}
-* https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/expand/expand-inspire-overview
-  {target = _self}
-  {title = Industries and departments}
-  {description = Explore real-world industry and department use cases}
-  {image = https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_1429cec59ff57c920dcb7ee25284cfab92ac132de.png?width=400&format=webply&optimize=medium}
-  {cta = Browse tutorials}
-* https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/develop/develop-overview
-  {target = _self}
-  {title = Develop}
-  {description = Get development resources on Acrobat Sign I/O}
-  {image = https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_1ea321c07076da85df029aea9cb40a57d3bb5b980.png?width=400&format=webply&optimize=medium}
-  {cta = Browse tutorials}
-* https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/deploy/deploy-overview
-  {target = _self}
-  {title = Deploy}
-  {description = Insight and best practicies for deploying Acrobat Sign within your organization}
-  {image = https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_1eeb82a8f9e7b30fbc2eff133888ccaf827fe9cd6.png?width=400&format=webply&optimize=medium}
-  {cta = Browse tutorials}
-* https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview
-  {target = _self}
-  {title = Mobile}
-  {description = Send, sign, and get real-time updates on your mobile device}
-  {image = https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_12404baf4a5b172beb0dfce0073e8970c2c59d669.png?width=400&format=webply&optimize=medium}
-  {cta = Browse tutorials}
-  
--->
-<!-- END COMMENT -->
-
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Getting started">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/getting-started/beginner-users-overview" title="Introduzione" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_18ba3ceee7595f1e28a75a6592e8a4bb37cb71fab.png?width=400&format=webply&optimize=medium" alt="Introduzione"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/getting-started/beginner-users-overview" target="_self" rel="referrer" title="Introduzione">Per iniziare</a>
-                    </p>
-                    <p class="is-size-6">Scopri come inviare, firmare e monitorare i documenti</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/getting-started/beginner-users-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia esercitazioni</span>
-                </a>
-            </div>
-        </div>
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="sign-beginner-tutorials/beginner-users-overview.md">
+      <img alt="Introduzione" src="assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Per iniziare</strong></a>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Advanced tasks">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-users-overview" title="Attività avanzate" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_146ddb86d3ad9a5f6209f6a4b6d0d64cb49468b9e.png?width=400&format=webply&optimize=medium" alt="Attività avanzate"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-users-overview" target="_self" rel="referrer" title="Attività avanzate">Attività avanzate</a>
-                    </p>
-                    <p class="is-size-6">Oltre le nozioni di base con attività e automazione specifiche</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-users-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia esercitazioni</span>
-                </a>
-            </div>
-        </div>
+    Scopri come inviare, firmare e monitorare i documenti
+    <br>
+  </td>
+  <td>
+    <a href="sign-advanced-users/advanced-users-overview.md">
+      <img alt="Attività avanzate" src="assets/advanced-tasks.png" />
+    </a>
+    <div>
+    <a href="sign-advanced-users/advanced-users-overview.md"><strong>Attività avanzate</strong></a>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Administrators">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/admin-set-up/intro-admin-overview" title="Amministratori" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_111971e7e23b65f50e06f84ac9790847f3a22a072.png?width=400&format=webply&optimize=medium" alt="Amministratori"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/admin-set-up/intro-admin-overview" target="_self" rel="referrer" title="Amministratori">Amministratori</a>
-                    </p>
-                    <p class="is-size-6">Suggerimenti di base e avanzati per la configurazione dell'organizzazione</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/admin-set-up/intro-admin-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia esercitazioni</span>
-                </a>
-            </div>
-        </div>
+    Oltre le nozioni di base con attività e automazione specifiche
+    <br>
+  </td>
+   <td>
+    <a href="admin/intro-admin-overview.md">
+      <img alt="Amministratori" src="assets/administer.png" />
+    </a>
+    <div>
+    <a href="admin/intro-admin-overview.md"><strong>Amministratori</strong></a>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Digital ID">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/digital-id/digitalid-overview" title="ID digitale" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_1824487d546924662b61ff3b7775ddede42f53294.png?width=400&format=webply&optimize=medium" alt="ID digitale"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/digital-id/digitalid-overview" target="_self" rel="referrer" title="ID digitale">ID digitale</a>
-                    </p>
-                    <p class="is-size-6">Scopri come utilizzare gli ID digitali in tutto il mondo in Acrobat Sign</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/digital-id/digitalid-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia esercitazioni</span>
-                </a>
-            </div>
-        </div>
+    Suggerimenti di base e avanzati per la configurazione dell'organizzazione
+    <br>
+  </td>
+   <td>
+    <a href="digitalid/digitalid-overview.md">
+      <img alt="ID digitale" src="assets/identity.png" />
+    </a>
+    <div>
+    <a href="digitalid/digitalid-overview.md"><strong>ID digitale</strong></a>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Integrations">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview" title="Integrazioni" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_1e9daa7a15754eb2f98528bb142c7f8d35c8ea37f.png?width=400&format=webply&optimize=medium" alt="Integrazioni"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview" target="_self" rel="referrer" title="Integrazioni">Integrazioni</a>
-                    </p>
-                    <p class="is-size-6">Aggiungere Acrobat Sign direttamente in altre applicazioni</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia esercitazioni</span>
-                </a>
-            </div>
-        </div>
+    Scopri come utilizzare gli ID digitali di tutto il mondo in Acrobat Sign
+    <br>
+  </td>
+</tr>
+<tr>
+    <td>
+    <a href="integrations/integrations-overview.md">
+      <img alt="Integrazioni" src="assets/integrations.png" />
+    </a>
+    <div>
+    <a href="integrations/integrations-overview.md"><strong>Integrazioni</strong></a>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Industries and departments">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/expand/expand-inspire-overview" title="Settori e dipartimenti" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_1429cec59ff57c920dcb7ee25284cfab92ac132de.png?width=400&format=webply&optimize=medium" alt="Settori e dipartimenti"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/expand/expand-inspire-overview" target="_self" rel="referrer" title="Settori e dipartimenti">Settori e dipartimenti</a>
-                    </p>
-                    <p class="is-size-6">Esplora i casi d'uso del settore e dei reparti del mondo reale</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/expand/expand-inspire-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia esercitazioni</span>
-                </a>
-            </div>
-        </div>
+    Aggiungere Acrobat Sign direttamente all’interno di un’altra applicazione
+    <br>
+    </td>
+  <td>
+    <a href="sign-usecase/expand-inspire-overview.md">
+      <img alt="Settori e dipartimenti" src="assets/industries.png" />
+    </a>
+    <div>
+    <a href="sign-usecase/expand-inspire-overview.md"><strong>Settori e dipartimenti</strong></a>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Develop">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/develop/develop-overview" title="Sviluppo" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_1ea321c07076da85df029aea9cb40a57d3bb5b980.png?width=400&format=webply&optimize=medium" alt="Sviluppo"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/develop/develop-overview" target="_self" rel="referrer" title="Sviluppo">Sviluppo</a>
-                    </p>
-                    <p class="is-size-6">Ottieni risorse di sviluppo su Acrobat Sign I/O</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/develop/develop-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia esercitazioni</span>
-                </a>
-            </div>
-        </div>
+    Esplora i casi d'uso del settore e dei reparti del mondo reale
+    <br>
+  </td>
+  <td>
+    <a href="develop/develop-overview.md">
+      <img alt="Sviluppo" src="assets/develop.png" />
+    </a>
+    <div>
+    <a href="develop/develop-overview.md"><strong>Sviluppo</strong></a>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Deploy">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/deploy/deploy-overview" title="Distribuisci" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_1eeb82a8f9e7b30fbc2eff133888ccaf827fe9cd6.png?width=400&format=webply&optimize=medium" alt="Distribuisci"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/deploy/deploy-overview" target="_self" rel="referrer" title="Distribuisci">Distribuzione</a>
-                    </p>
-                    <p class="is-size-6">Informazioni dettagliate e best practice per l’implementazione di Acrobat Sign all’interno dell’organizzazione</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/deploy/deploy-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia esercitazioni</span>
-                </a>
-            </div>
-        </div>
+    Ottieni risorse di sviluppo su Acrobat Sign I/O
+    <br>
+  </td>
+  <td>
+    <a href="deploy-overview.md">
+      <img alt="Distribuisci" src="assets/deploy.png" />
+    </a>
+    <div>
+    <a href="deploy-overview.md"><strong>Distribuzione</strong></a>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Mobile">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview" title="Mobile" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/media_12404baf4a5b172beb0dfce0073e8970c2c59d669.png?width=400&format=webply&optimize=medium" alt="Mobile"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview" target="_self" rel="referrer" title="Mobile">Dispositivi mobili</a>
-                    </p>
-                    <p class="is-size-6">Invia, firma e ricevi aggiornamenti in tempo reale sul tuo dispositivo mobile</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia esercitazioni</span>
-                </a>
-            </div>
-        </div>
+    Informazioni dettagliate e best practice per l’implementazione di Acrobat Sign all’interno dell’organizzazione
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="mobile/mobile-overview.md">
+      <img alt="Mobile" src="assets/mobile.png" />
+    </a>
+    <div>
+    <a href="mobile/mobile-overview.md"><strong>Dispositivi mobili</strong></a>
     </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+    Invia, firma e ricevi aggiornamenti in tempo reale sul tuo dispositivo mobile
+    <br>
+  </td>
+</tr>
+</table>

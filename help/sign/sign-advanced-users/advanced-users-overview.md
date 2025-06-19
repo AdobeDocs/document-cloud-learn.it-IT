@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -38,7 +38,7 @@ Informazioni sull&#39;intervallo di metodi disponibili in Acrobat Sign per [aute
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Impostazione dell’ordine di firma" src="../assets/Routing.png">
+      <img alt="Impostazione dell’ordine di firma" src="../assets/signing-order.png">
     </a>
     <div>
     <a href="setting-up-routing.md"><strong>Impostazione dell'ordine di firma</strong></a>
@@ -48,7 +48,7 @@ Informazioni sull&#39;intervallo di metodi disponibili in Acrobat Sign per [aute
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="Delega a un altro utente" src="../assets/Delegating.png" />
+      <img alt="Delega a un altro utente" src="../assets/delegator-role.png" />
     </a>  
     <div>
     <a href="delegate-signature.md"><strong>Utilizzo del ruolo di delegante</strong></a>
@@ -58,7 +58,7 @@ Informazioni sull&#39;intervallo di metodi disponibili in Acrobat Sign per [aute
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="Utilizzo del ruolo di approvatore" src="../assets/Approver.png" />
+      <img alt="Utilizzo del ruolo di approvatore" src="../assets/approver-role.png" />
     </a>
     <div>
     <a href="add-an-approver.md"><strong>Utilizzo del ruolo approvatore</strong></a>
@@ -90,7 +90,7 @@ Informazioni sull&#39;intervallo di metodi disponibili in Acrobat Sign per [aute
     </td>
   <td>
     <a href="set-up-online-payments.md">
-      <img alt="Impostare i pagamenti online" src="../assets/Payments.png" />
+      <img alt="Impostare i pagamenti online" src="../assets/payment.png" />
     </a>
     <div>
     <a href="set-up-online-payments.md"><strong>Configurazione dei pagamenti online</strong></a>
@@ -110,7 +110,7 @@ Informazioni sull&#39;intervallo di metodi disponibili in Acrobat Sign per [aute
   </td>
  <td>
       <a href="webform.md">
-        <img alt="Creazione di un modulo Web" src="../assets/Webform.png" />
+        <img alt="Creazione di un modulo Web" src="../assets/web-form.png" />
     </a>
       <div>
       <a href="webform.md"><strong>Creazione di un modulo Web</strong></a>
@@ -122,7 +122,7 @@ Informazioni sull&#39;intervallo di metodi disponibili in Acrobat Sign per [aute
 <tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
-        <img alt="Applicazione di tag al testo in Acrobat Sign" src="../assets/Text-Tagging.png" />
+        <img alt="Applicazione di tag al testo in Acrobat Sign" src="../assets/tagging.png" />
     </a>
       <div>
       <a href="adobe-sign-text-tagging.md"><strong>Tag di testo Acrobat Sign</strong></a>
@@ -132,7 +132,7 @@ Informazioni sull&#39;intervallo di metodi disponibili in Acrobat Sign per [aute
     </td>
   <td>
     <a href="text-tagging-word.md">
-      <img alt="Utilizzo dei tag di testo in [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
+      <img alt="Utilizzo dei tag di testo in [!DNL Microsoft Word]" src="../assets/word-tagging.png" />
   </a>
     <div>
     <a href="text-tagging-word.md"><strong>Utilizzo dei tag di testo in [!DNL Microsoft Word]</strong></a>
@@ -169,7 +169,7 @@ Informazioni sull&#39;intervallo di metodi disponibili in Acrobat Sign per [aute
   </td>
   <td>
     <a href="edit-a-template.md">
-      <img alt="Gestire i modelli di documento" src="../assets/ManageTemplate.png" />
+      <img alt="Gestire i modelli di documento" src="../assets/edit-template.png" />
     </a>
     <div>
     <a href="edit-a-template.md"><strong>Gestire i modelli di documento</strong></a>
@@ -179,7 +179,7 @@ Informazioni sull&#39;intervallo di metodi disponibili in Acrobat Sign per [aute
   </td>
   <td>
     <a href="modify-webform.md">
-      <img alt="Modificare un modulo Web esistente" src="../assets/Modifywebform.png" />
+      <img alt="Modificare un modulo Web esistente" src="../assets/modify-web-form.png" />
     </a>
     <div>
     <a href="modify-webform.md"><strong>Modificare un modulo Web esistente</strong></a>
@@ -189,7 +189,7 @@ Informazioni sull&#39;intervallo di metodi disponibili in Acrobat Sign per [aute
   </td>  
   <td>
     <a href="manage-webform-data.md">
-      <img alt="Gestione dei dati dei moduli Web" src="../assets/Managewebform.png" />
+      <img alt="Gestione dei dati dei moduli Web" src="../assets/manage-web-form.png" />
     </a>
     <div>
     <a href="manage-webform-data.md"><strong>Gestione dei dati dei moduli Web</strong></a>

@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 46a89000c2fe67e870655459da1917289483b8b4
+source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 1%
@@ -147,7 +147,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="../sign-advanced-users/webform.md">
-      <img alt="Creazione di un modulo Web" src="../assets/Webform.png" />
+      <img alt="Creazione di un modulo Web" src="../assets/web-form.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/webform.md"><strong>Creazione di un modulo Web</strong></a>
@@ -157,7 +157,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
-      <img alt="Modificare un modulo Web esistente" src="../assets/Modifywebform.png" />
+      <img alt="Modificare un modulo Web esistente" src="../assets/modify-web-form.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/modify-webform.md"><strong>Modificare un modulo Web esistente</strong></a>
@@ -258,7 +258,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
 <tr>
    <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Applicazione di tag al testo in Acrobat Sign" src="../assets/Text-Tagging.png" />
+      <img alt="Applicazione di tag al testo in Acrobat Sign" src="../assets/tagging.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Tag di testo Acrobat Sign</strong></a>
