@@ -24,4 +24,4 @@ In questo webinar registrato (senza necessità di registrazione), scopri come cr
 
 >[!TIP]
 >
->Questo video fa parte delle playlist [Attività avanzate per gli utenti](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) e [Attività avanzate per gli amministratori](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) disponibili gratuitamente per l&#39;Experience League.
+>Questo video fa parte delle playlist [Attività avanzate per gli utenti](https://experienceleague.adobe.com/it/playlists/acrobat-sign-get-started-business-users) e [Attività avanzate per gli amministratori](https://experienceleague.adobe.com/it/playlists/acrobat-sign-perform-advanced-tasks-administrators) disponibili gratuitamente per l&#39;Experience League.
