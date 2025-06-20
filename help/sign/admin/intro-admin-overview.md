@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: c776790139b32c80655b7ce6a8bdef8b63acb357
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 1%
@@ -43,7 +43,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="Guida introduttiva per nuovi amministratori" src="../assets/Gettingstartedadmin_1280.png" />
+      <img alt="Guida introduttiva per nuovi amministratori" src="../assets/get-started-admin.png" />
     </a>
     <div>
     <a href="get-started-admin.md"><strong>Guida introduttiva per nuovi amministratori</strong></a>
@@ -53,7 +53,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="Attiva e funzionante per gli amministratori" src="../assets/Up-Running.png" />
+      <img alt="Attiva e funzionante per gli amministratori" src="../assets/up-and-running.png" />
     </a>
     <div>
     <a href="up-and-running-admin.md"><strong>Attivo e in esecuzione per gli amministratori</strong></a>
@@ -63,7 +63,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Impostazione di eventi e avvisi condivisi" src="../assets/Notifications_1280.png" />
+      <img alt="Impostazione di eventi e avvisi condivisi" src="../assets/notifications.png" />
     </a>
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Configurare le notifiche per eventi e avvisi</strong></a>
@@ -73,7 +73,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Aggiungi un nuovo utente" src="../assets/Add-a-new-user.jpg" />
+      <img alt="Aggiungi un nuovo utente" src="../assets/add-user.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>Aggiungi nuovo utente</strong></a>
@@ -85,7 +85,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
 <tr>
  <td>
     <a href="add-admin.md">
-      <img alt="Aggiungi un nuovo amministratore account" src="../assets/Add-a-new-admin.jpg" />
+      <img alt="Aggiungi un nuovo amministratore account" src="../assets/add-admin.png" />
     </a>
     <div>
     <a href="add-admin.md"><strong>Aggiungere un nuovo amministratore dell'account</strong></a>
@@ -95,7 +95,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="create-and-manage-groups.md">
-      <img alt="Creazione e gestione dei gruppi" src="../assets/Creating-Groups.png" />
+      <img alt="Creazione e gestione dei gruppi" src="../assets/groups.png" />
     </a>
     <div>
     <a href="create-and-manage-groups.md"><strong>Creazione e gestione dei gruppi</strong></a>
@@ -105,7 +105,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
-      <img alt="Configurazione di un archivio esterno" src="../assets/ExternalArchive.png" />
+      <img alt="Configurazione di un archivio esterno" src="../assets/external-archive.png" />
     </a>
     <div>
     <a href="set-up-your-external-archive.md"><strong>Configurazione di un archivio esterno</strong></a>
@@ -179,7 +179,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="Impostazione di un flusso di lavoro" src="../assets/BuildingWorkflow.png" />
+      <img alt="Impostazione di un flusso di lavoro" src="../assets/workflow.png" />
     </a>
     <div>
     <a href="building-a-custom-workflow.md"><strong>Configurazione di un flusso di lavoro</strong></a>
@@ -189,7 +189,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="audit-reports.md">
-      <img alt="Report di audit" src="../assets/audit-reports-configure.png" />
+      <img alt="Report di audit" src="../assets/audit-report.png" />
     </a>
     <div>
     <a href="audit-reports.md"><strong>Report di audit</strong></a>
@@ -199,7 +199,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="Assegnare i ruoli di amministratore del prodotto e del supporto" src="../assets/admin-roles.jpg" />
+      <img alt="Assegnare i ruoli di amministratore del prodotto e del supporto" src="../assets/assign-product.png" />
     </a>
     <div>
     <a href="promote-admin.md"><strong>Assegnazione dei ruoli di amministratore di prodotto e supporto</strong></a>
@@ -216,7 +216,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
 <tr>
   <td>
     <a href="learn-about-global-settings.md">
-      <img alt="Impostazioni globali" src="../assets/GlobalSettings_1280.png">
+      <img alt="Impostazioni globali" src="../assets/global-settings.png">
     </a>
     <div>
     <a href="learn-about-global-settings.md"><strong>Impostazioni globali</strong></a>
@@ -226,7 +226,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="share-account-access.md">
-      <img alt="Accesso all’account condiviso" src="../assets/SharingAccess.png" />
+      <img alt="Accesso all’account condiviso" src="../assets/sharing.png" />
     </a>  
     <div>
     <a href="share-account-access.md"><strong>Accesso all'account condiviso</strong></a>
@@ -236,7 +236,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="advanced-account-sharing.md">
-      <img alt="Condivisione account avanzata" src="../assets/AdvancedSharing_1280.png" />
+      <img alt="Condivisione account avanzata" src="../assets/advanced-sharing.png" />
     </a>
     <div>
     <a href="advanced-account-sharing.md"><strong>Condivisione account avanzata</strong></a>
@@ -246,7 +246,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="bulk-download-tool.md">
-      <img alt="Strumento di download in blocco" src="../assets/bulk-download-tool.png" />
+      <img alt="Strumento di download in blocco" src="../assets/bulk-download.png" />
     </a>
     <div>
     <a href="bulk-download-tool.md"><strong>Strumento di download in blocco</strong></a>
@@ -268,7 +268,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
-      <img alt="Utilizzo delle impostazioni Bio-Pharma" src="../assets/Bio_1280.png" />
+      <img alt="Utilizzo delle impostazioni Bio-Pharma" src="../assets/bio-settings.png" />
     </a>
     <div>
     <a href="use-bio-pharma-settings.md"><strong>Utilizzo delle impostazioni Bio-Pharma</strong></a>
@@ -278,7 +278,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
   <td>
     <a href="privacy.md">
-      <img alt="Come configurare l’amministratore della privacy" src="../assets/privacy.png" />
+      <img alt="Come configurare l’amministratore della privacy" src="../assets/privacy-admin.png" />
     </a>
     <div>
     <a href="privacy.md"><strong>Come configurare gli amministratori della privacy</strong></a>
