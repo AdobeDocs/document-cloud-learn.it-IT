@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c776790139b32c80655b7ce6a8bdef8b63acb357
+source-git-commit: 1cdbd8bd8753bf570d09219a6ca17f93ac317547
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '632'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ Scopri come aggiungere utenti all’account, configurare gruppi, condividere l�
 
 >[!BEGINTABS]
 
+>[!TAB Migrazione dei modelli Docusign]
+
+Scopri come [migrare senza problemi i modelli Docusign](docusign-templates.md) e i flussi di lavoro in tre semplici passaggi.
+
 >[!TAB Aggiungi nuovo utente]
 
 Scopri come [aggiungere nuovi utenti ad Acrobat Sign](add-users-to-your-account.md).
@@ -30,10 +34,6 @@ Scopri come [aggiungere nuovi utenti ad Acrobat Sign](add-users-to-your-account.
 >[!TAB Come configurare gli amministratori della privacy]
 
 Scopri come configurare e utilizzare [amministratori della privacy](privacy.md).
-
->[!TAB Strumento di download in blocco]
-
-Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.md) per scaricare rapidamente tutti gli accordi firmati.
 
 >[!ENDTABS]
 
@@ -62,13 +62,13 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
     <br>
   </td>
   <td>
-    <a href="set-up-shared-events-and-alert.md">
-      <img alt="Impostazione di eventi e avvisi condivisi" src="../assets/notifications.png" />
+    <a href="docusign-templates.md">
+      <img alt="Migrazione dei modelli Docusign" src="../assets/migrate-templates.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>Configurare le notifiche per eventi e avvisi</strong></a>
+    <a href="docusign-templates.md"><strong>Migrazione dei modelli Docusign</strong></a>
     </div>
-    <em>Configurare le notifiche per eventi e avvisi per l'account</em>
+    <em>Scopri come migrare facilmente modelli e flussi di lavoro Docusign</em>
     <br>
   </td>
   <td>
@@ -83,7 +83,7 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
   </td>
 </tr>
 <tr>
- <td>
+  <td>
     <a href="add-admin.md">
       <img alt="Aggiungi un nuovo amministratore account" src="../assets/add-admin.png" />
     </a>
@@ -94,25 +94,37 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
     <br>
   </td>
   <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="Creazione e gestione dei gruppi" src="../assets/groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>Creazione e gestione dei gruppi</strong></a>
-    </div>
-    <em>Creare gruppi, aggiungere utenti ai gruppi e modificare le impostazioni dei gruppi</em>
-    <br>
-  </td>
-  <td>
-    <a href="set-up-your-external-archive.md">
-      <img alt="Configurazione di un archivio esterno" src="../assets/external-archive.png" />
-    </a>
-    <div>
-    <a href="set-up-your-external-archive.md"><strong>Configurazione di un archivio esterno</strong></a>
-    </div>
-    <em>Crea un archivio esterno per il backup delle copie degli accordi firmati</em>
-    <br>
-  </td>
+      <a href="set-up-shared-events-and-alert.md">
+        <img alt="Impostazione di eventi e avvisi condivisi" src="../assets/notifications.png" />
+      </a>
+      <div>
+      <a href="set-up-shared-events-and-alert.md"><strong>Configurare le notifiche per eventi e avvisi</strong></a>
+      </div>
+      <em>Configurare le notifiche per eventi e avvisi per l'account</em>
+      <br>
+    </td>
+    <td>
+      <a href="create-and-manage-groups.md">
+        <img alt="Creazione e gestione dei gruppi" src="../assets/groups.png" />
+      </a>
+      <div>
+      <a href="create-and-manage-groups.md"><strong>Creazione e gestione dei gruppi</strong></a>
+      </div>
+      <em>Creare gruppi, aggiungere utenti ai gruppi e modificare le impostazioni dei gruppi</em>
+      <br>
+    </td>
+    <td>
+      <a href="set-up-your-external-archive.md">
+        <img alt="Configurazione di un archivio esterno" src="../assets/external-archive.png" />
+      </a>
+      <div>
+      <a href="set-up-your-external-archive.md"><strong>Configurazione di un archivio esterno</strong></a>
+      </div>
+      <em>Crea un archivio esterno per il backup delle copie degli accordi firmati</em>
+      <br>
+    </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="Creazione di un modello di documento" src="../assets/create-template.png" />
@@ -123,8 +135,6 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
     <em>Crea un modello di documento riutilizzabile per velocità e coerenza</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
       <img alt="Report e utilizzo delle transazioni" src="../assets/reporting.png" />
@@ -155,7 +165,9 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
     <em>Crea un documento che può essere firmato elettronicamente direttamente sul tuo sito Web</em>
     <br>
   </td>
-  <td>
+</tr>  
+<tr>
+   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Modificare un modulo Web esistente" src="../assets/modify-web-form.png" />
     </a>
@@ -165,8 +177,6 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
     <em>Scopri come disattivare, modificare e riattivare un modulo Web esistente</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="Invia in modalità collettiva" src="../assets/send-in-bulk.png" />
@@ -197,17 +207,34 @@ Scopri come utilizzare lo [strumento di download in blocco](bulk-download-tool.m
     <em>Informazioni su come accedere, utilizzare e configurare i report di audit</em>
     <br>
   </td>
-  <td>
-    <a href="promote-admin.md">
-      <img alt="Assegnare i ruoli di amministratore del prodotto e del supporto" src="../assets/assign-product.png" />
-    </a>
-    <div>
-    <a href="promote-admin.md"><strong>Assegnazione dei ruoli di amministratore di prodotto e supporto</strong></a>
-    </div>
-    <em>Scopri come assegnare un ruolo di amministratore del prodotto e amministratore del supporto per un utente Acrobat Sign nell'Admin Console</em>
-    <br>
-  </td>
-</tr> 
+</tr>
+<tr>
+    <td>
+      <a href="promote-admin.md">
+        <img alt="Assegnare i ruoli di amministratore del prodotto e del supporto" src="../assets/assign-product.png" />
+      </a>
+      <div>
+      <a href="promote-admin.md"><strong>Assegnazione dei ruoli di amministratore di prodotto e supporto</strong></a>
+      </div>
+      <em>Scopri come assegnare un ruolo di amministratore del prodotto e amministratore del supporto per un utente Acrobat Sign nell'Admin Console</em>
+      <br>
+    </td>
+    <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+</tr>    
 </table>
 
 ## Attività avanzate
