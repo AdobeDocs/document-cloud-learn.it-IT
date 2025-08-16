@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Scopri come migrare senza problemi i modelli e i flussi di lavoro Docusign in Acrobat Sign in tre semplici passaggi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465274?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3465282?quality=12&learn=on&hidetitle=true&captions=ita)
