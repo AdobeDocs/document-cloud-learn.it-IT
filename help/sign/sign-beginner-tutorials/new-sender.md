@@ -30,4 +30,4 @@ Questo tutorial verte sui seguenti argomenti:
 * Gestione e tracciamento degli accordi
 * Accesso al supporto e alle risorse
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454391?quality=12&learn=on&hidetitle=true&captions=ita)
