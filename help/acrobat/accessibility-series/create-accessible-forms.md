@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Scopri come rendere i moduli accessibili in Acrobat. Seguendo questi sette passaggi puoi velocizzare l’elaborazione di rendere PDF accessibile con i campi modulo interattivi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471670?quality=12&learn=on&hidetitle=true&captions=ita)

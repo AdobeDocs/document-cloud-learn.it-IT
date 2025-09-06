@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Scopri come creare un file PDF accessibile da Microsoft Word. Iniziare con un file Word ben strutturato può fare una differenza enorme quando si crea un PDF accessibile.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471614?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471659?quality=12&learn=on&hidetitle=true&captions=ita)
