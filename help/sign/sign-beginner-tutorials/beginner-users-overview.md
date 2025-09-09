@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
+source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '470'
 ht-degree: 3%
 
 ---
@@ -22,13 +22,13 @@ Scopri come inviare, firmare e monitorare i documenti con queste brevi esercitaz
 
 >[!BEGINTABS]
 
+>[!TAB Invia un documento a un singolo firmatario]
+
+Accedi e scopri quanto è facile [inviare un documento per la firma](send-to-single-recipient.md)
+
 >[!TAB Introduzione ad Acrobat Sign]
 
 È la prima volta che usi Acrobat Sign? Questo [tutorial](new-sender.md) è un ottimo punto di partenza.
-
->[!TAB Impostare scadenze e promemoria]
-
-Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite e-mail regolari per ottenere rapidamente la firma dei documenti.
 
 >[!ENDTABS]
 
@@ -36,6 +36,16 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Guida introduttiva ad Acrobat Sign" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Introduzione ad Acrobat Sign</strong></a>
+    </div>
+    Questo tutorial è un ottimo punto di partenza per i nuovi utenti in Acrobat Sign
+    <br>
+  </td>
  <td>
     <a href="quick-tour.md">
       <img alt="Nozioni di base sull’area di lavoro" src="../assets/workspace.png" />
@@ -47,21 +57,11 @@ Scopri come inviare [promemoria e scadenze](set-deadlines-reminders.md) tramite 
     <br>
   </td>
   <td>
-    <a href="new-sender.md">
-      <img alt="Guida introduttiva ad Acrobat Sign" src="../assets/gettingstartednew.png" />
-    </a>
-    <div>
-    <a href="new-sender.md"><strong>Introduzione ad Acrobat Sign</strong></a>
-    </div>
-    Questo tutorial è un ottimo punto di partenza per i nuovi utenti in Acrobat Sign
-    <br>
-  </td>
-  <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Invio a un singolo destinatario" src="../assets/send-single-recipient.png" />
+      <img alt="Inviare un documento a un singolo firmatario" src="../assets/send-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>Invio a un singolo destinatario</strong></a>
+    <a href="send-to-single-recipient.md"><strong>Invia un documento a un singolo firmatario</strong></a>
     </div>
     Accedi e scopri quanto è facile inviare un documento per la firma
     <br>
