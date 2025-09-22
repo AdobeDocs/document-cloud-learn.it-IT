@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
+source-git-commit: 165df9226be5dd82ba7dc2ab90b79adb39329815
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 3%
+source-wordcount: '495'
+ht-degree: 2%
 
 ---
 
@@ -21,6 +21,10 @@ Scopri come inviare, firmare e monitorare i documenti con queste brevi esercitaz
 ## Novità
 
 >[!BEGINTABS]
+
+>[!TAB Invia a più firmatari]
+
+Scopri come inviare un documento per la firma elettronica a [più persone](send-to-multiple-recipients.md) esattamente nell&#39;ordine desiderato.
 
 >[!TAB Invia un documento a un singolo firmatario]
 
@@ -68,10 +72,10 @@ Accedi e scopri com&#39;è facile [inviare un documento per la firma](send-to-si
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Invio a più destinatari" src="../assets/send-to-multiple-recipient.png" />
+      <img alt="Invia a più firmatari" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>Invio a più destinatari</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>Invia a più firmatari</strong></a>
     </div>
     Invia un documento da firmare a più persone esattamente nell’ordine desiderato
     <br>
