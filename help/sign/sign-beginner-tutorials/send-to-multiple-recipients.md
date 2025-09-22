@@ -22,4 +22,4 @@ Hai più persone che devono firmare il tuo documento? Scopri come inviare un doc
 
 >[!TIP]
 >
->Questo video fa parte della playlist [Guida introduttiva di Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Guida introduttiva di Acrobat Sign](https://experienceleague.adobe.com/it/playlists/acrobat-sign-get-started-business-users) disponibile gratuitamente per l&#39;Experience League.
