@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 701b24aa8b6db23ce3f87c03d7201de4f98ff5cf
+source-git-commit: d535bb4312111833c0cd7f64a62ea6494ca9ede9
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '522'
 ht-degree: 5%
 
 ---
@@ -21,10 +21,11 @@ ht-degree: 5%
    + [Overview](getting-started/getting-started-overview.md)
    + [Nuova esperienza di Acrobat](getting-started/new-workspace.md)
    + [Nozioni di base sull’area di lavoro](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [Migliorare l&#39;efficienza del team con PDF Spaces](getting-started/pdf-spaces-legal.md)
    + [Scopri gli insight di PDF con AI Assistant](getting-started/ai-assistant.md)
    + [Lavora ovunque ti trovi con Acrobat Web](getting-started/acrobatweb.md)
    + [Che cos’è Acrobat Studio?](getting-started/acrobat-studio.md)
-   + [Collabora con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=it#microsoft)
+   + [Collabora con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Creazione di un PDF](getting-started/create-pdf.md)
    + [Combina più file in un singolo PDF](getting-started/combine-to-pdf.md)
    + [Organizza pagine](getting-started/organize.md)
@@ -139,5 +140,5 @@ ht-degree: 5%
    + [Aggiornamenti di prodotto Acrobat DC importanti per i clienti ETLA](deploy/signentitlementchanges.md)
 + Mobile {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [Produttività in movimento](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=it)
+   + [Produttività in movimento](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Acquisisci in PDF qualsiasi documento](mobile/scan-mobile-app.md)
