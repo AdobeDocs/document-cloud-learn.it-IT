@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Hai più persone che devono firmare il tuo documento? Scopri come inviare un documento per la firma elettronica a più persone esattamente nell’ordine desiderato.
 
->[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425281?quality=12&learn=on&hidetitle=true&captions=ita)
 
 >[!TIP]
 >
