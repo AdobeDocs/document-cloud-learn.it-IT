@@ -18,4 +18,4 @@ Trasforma le raccolte di file e siti Web in hub di conoscenza condivisibili e co
 
 PDF Spaces è disponibile per gli utenti che acquistano Acrobat Studio o il componente aggiuntivo AI Assistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475140?quality=12&learn=on&hidetitle=true&captions=ita)
