@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Scopri come impostare le regole di assegnazione automatica che consentono agli utenti di accedere ad Acrobat Sign nell&#39;[Admin Console](https://adminconsole.adobe.com/), semplificando il provisioning e riducendo le attività amministrative manuali. Gli utenti possono invitare altri utenti ad Acrobat Sign tramite l&#39;URL di accesso al prodotto generato dall&#39;Admin Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475273?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475292?quality=12&learn=on&hidetitle=true&captions=ita)
