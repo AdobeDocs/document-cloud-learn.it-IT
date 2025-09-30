@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 16666ba6f96f85182fd7b8b4741bd3a009f5159a
+source-git-commit: e62043373ad528f7ee22b8a14d28ffe9303a6cd7
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '666'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ Scopri come aggiungere utenti all’account, configurare gruppi, condividere l�
 
 >[!BEGINTABS]
 
+>[!TAB Abilita regole di assegnazione automatica degli utenti]
+
+Scopri come impostare [le regole di assegnazione automatica](automatic-assignment-rules.md) che consentono agli utenti di accedere ad Acrobat Sign nell&#39;Admin Console.
+
 >[!TAB Migrazione dei modelli Docusign]
 
 Scopri come [migrare facilmente i modelli Docusign](docusign-templates.md) e i flussi di lavoro in tre semplici passaggi.
@@ -30,10 +34,6 @@ Scopri come [migrare facilmente i modelli Docusign](docusign-templates.md) e i f
 >[!TAB Aggiungi nuovo utente]
 
 Scopri come [aggiungere nuovi utenti ad Acrobat Sign](add-users-to-your-account.md).
-
->[!TAB Come configurare gli amministratori della privacy]
-
-Scopri come configurare e utilizzare [amministratori della privacy](privacy.md).
 
 >[!ENDTABS]
 
@@ -84,6 +84,16 @@ Scopri come configurare e utilizzare [amministratori della privacy](privacy.md).
 </tr>
 <tr>
   <td>
+    <a href="automatic-assignment-rules.md">
+      <img alt="Abilitare le regole di assegnazione automatica degli utenti" src="../assets/add-admin.png" />
+    </a>
+    <div>
+    <a href="automatic-assignment-rules.md"><strong>Abilita regole di assegnazione automatica degli utenti</strong></a>
+    </div>
+    <em>Scopri come impostare le regole di assegnazione automatica che consentono agli utenti di accedere ad Acrobat Sign nell'Admin Console</em>
+    <br>
+  </td>
+  <td>
     <a href="add-admin.md">
       <img alt="Aggiungi un nuovo amministratore account" src="../assets/add-admin.png" />
     </a>
@@ -93,14 +103,14 @@ Scopri come configurare e utilizzare [amministratori della privacy](privacy.md).
     <em>Scopri come creare un nuovo utente o promuovere un utente esistente al ruolo di amministratore di Acrobat Sign</em>
     <br>
   </td>
-  <td>
-      <a href="set-up-shared-events-and-alert.md">
-        <img alt="Impostazione di eventi e avvisi condivisi" src="../assets/notifications.png" />
+    <td>
+      <a href="promote-admin.md">
+        <img alt="Assegnare i ruoli di amministratore del prodotto e del supporto" src="../assets/assign-product.png" />
       </a>
       <div>
-      <a href="set-up-shared-events-and-alert.md"><strong>Configurare le notifiche per eventi e avvisi</strong></a>
+      <a href="promote-admin.md"><strong>Assegnazione dei ruoli di amministratore di prodotto e supporto</strong></a>
       </div>
-      <em>Configurare le notifiche per eventi e avvisi per l'account</em>
+      <em>Scopri come assegnare un ruolo di amministratore del prodotto e amministratore del supporto per un utente Acrobat Sign nell'Admin Console</em>
       <br>
     </td>
     <td>
@@ -113,7 +123,9 @@ Scopri come configurare e utilizzare [amministratori della privacy](privacy.md).
       <em>Creare gruppi, aggiungere utenti ai gruppi e modificare le impostazioni dei gruppi</em>
       <br>
     </td>
-    <td>
+</tr>
+<tr>
+ <td>
       <a href="set-up-your-external-archive.md">
         <img alt="Configurazione di un archivio esterno" src="../assets/external-archive.png" />
       </a>
@@ -123,8 +135,6 @@ Scopri come configurare e utilizzare [amministratori della privacy](privacy.md).
       <em>Crea un archivio esterno per il backup delle copie degli accordi firmati</em>
       <br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="Creazione di un modello di documento" src="../assets/create-template.png" />
@@ -155,7 +165,9 @@ Scopri come configurare e utilizzare [amministratori della privacy](privacy.md).
     <em>Informazioni sulla configurazione delle opzioni di report per gli utenti</em>
     <br>
   </td>
-  <td>
+</tr>  
+<tr>
+   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Creazione di un modulo Web" src="../assets/web-form.png" />
     </a>
@@ -165,9 +177,7 @@ Scopri come configurare e utilizzare [amministratori della privacy](privacy.md).
     <em>Crea un documento che può essere firmato elettronicamente direttamente sul tuo sito Web</em>
     <br>
   </td>
-</tr>  
-<tr>
-   <td>
+  <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Modificare un modulo Web esistente" src="../assets/modify-web-form.png" />
     </a>
@@ -197,7 +207,9 @@ Scopri come configurare e utilizzare [amministratori della privacy](privacy.md).
     <em>Automatizzare i flussi di lavoro dei documenti per ottenere rapidamente firme elettroniche e dati</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+     <td>
     <a href="audit-reports.md">
       <img alt="Report di audit" src="../assets/audit-report.png" />
     </a>
@@ -206,22 +218,15 @@ Scopri come configurare e utilizzare [amministratori della privacy](privacy.md).
     </div>
     <em>Informazioni su come accedere, utilizzare e configurare i report di audit</em>
     <br>
-  </td>
-</tr>
-<tr>
-    <td>
-      <a href="promote-admin.md">
-        <img alt="Assegnare i ruoli di amministratore del prodotto e del supporto" src="../assets/assign-product.png" />
-      </a>
-      <div>
-      <a href="promote-admin.md"><strong>Assegnazione dei ruoli di amministratore di prodotto e supporto</strong></a>
-      </div>
-      <em>Scopri come assegnare un ruolo di amministratore del prodotto e amministratore del supporto per un utente Acrobat Sign nell'Admin Console</em>
-      <br>
     </td>
     <td>
-      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+      <a href="set-up-shared-events-and-alert.md">
+        <img alt="Impostazione di eventi e avvisi condivisi" src="../assets/notifications.png" />
+      </a>
       <div>
+      <a href="set-up-shared-events-and-alert.md"><strong>Configurare le notifiche per eventi e avvisi</strong></a>
+      </div>
+      <em>Configurare le notifiche per eventi e avvisi per l'account</em>
       <br>
     </td>
     <td>
