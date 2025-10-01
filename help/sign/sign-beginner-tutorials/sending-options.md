@@ -7,15 +7,19 @@ level: Beginner
 jira: KT-10980
 thumbnail: KT-10980.jpg
 exl-id: 86c0825e-1f40-428f-ad0d-b69118c72be1
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # Configurare le opzioni di invio
 
-Scopri come configurare varie opzioni quando si invia un documento per la firma. Scopri come impostare la messaggistica del documento, i formati di file, la frequenza dei promemoria e la scadenza del documento.
+Scopri come personalizzare i dettagli dell’accordo, allegare file e configurare impostazioni aggiuntive come promemoria, scadenza e lingua dei destinatari quando si invia un documento per la firma.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412764?quality=12&learn=on&hidetitle=true&captions=ita)
+>[!NOTE]
+>
+>Le opzioni di invio possono essere configurate dall’amministratore in modo che sia possibile che non vengano visualizzate le stesse opzioni menzionate in questo tutorial.
+
+>[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
