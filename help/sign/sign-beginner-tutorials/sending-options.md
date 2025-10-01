@@ -22,4 +22,4 @@ Scopri come personalizzare i dettagli dell’accordo, allegare file e configurar
 >
 >Le opzioni di invio possono essere configurate dall’amministratore in modo che sia possibile che non vengano visualizzate le stesse opzioni menzionate in questo tutorial.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412764?quality=12&learn=on&hidetitle=true&captions=ita)
