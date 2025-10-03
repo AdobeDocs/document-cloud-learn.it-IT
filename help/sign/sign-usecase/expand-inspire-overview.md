@@ -6,11 +6,10 @@ role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
-kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: edf5851a3c7593ee79716b432d84f944a72e9343
+source-git-commit: fc99c38ffd46d916b185ede7a3a442c3a0083e00
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -41,14 +40,10 @@ Scopri come trasformare le esperienze di firma elettronica della tua organizzazi
     <em>Esplora il modo in cui le varie organizzazioni utilizzano Acrobat Sign con questi casi d'uso reali</em>
     <br>
   </td>
+ </td>
   <td>
-    <a href="use-case-showcase.md">
-      <img alt="Presentazione di casi d&apos;uso" src="../assets/UseCaseShowcaseR.png" />
-    </a>
+    <img alt="Spaziatore" src="../assets/Whitespacer.png" />
     <div>
-    <a href="use-case-showcase.md"><strong>Vetrina d'uso</strong></a>
-    </div>
-    <em>Guarda le sessioni dal vivo o registrate che ti presentano i nuovi casi d'uso e le tendenze di Acrobat Sign</em>
     <br>
   </td>
   <td>
