@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
+source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '678'
 ht-degree: 2%
 
 ---
@@ -22,6 +22,10 @@ Scopri come aggiungere utenti all’account, configurare gruppi, condividere l�
 ## Novità
 
 >[!BEGINTABS]
+
+>[!TAB Creare un modello riutilizzabile]
+
+Scopri come creare un [modello di documento riutilizzabile](../sign-advanced-users/create-a-template.md).
 
 >[!TAB Abilita regole di assegnazione automatica degli utenti]
 
