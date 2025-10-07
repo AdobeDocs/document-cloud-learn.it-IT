@@ -1,27 +1,76 @@
 ---
 title: Applicazione di tag al testo in Acrobat Sign
-description: Scopri come creare campi modulo di Acrobat Sign tramite l’assegnazione di tag di testo con Adobe Acrobat
+description: Scopri come creare campi modulo di Acrobat Sign tramite tag di testo
 feature: Workflow, Sign
 role: User, Admin
 level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 03197d1b968dd53c3e92183ae3fa321e3b03b01c
+source-git-commit: 06ec359f950cc8e589bc6c97219acc32f460b969
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 0%
+source-wordcount: '402'
+ht-degree: 2%
 
 ---
 
 # Applicazione di tag al testo in Acrobat Sign
 
-In questo webinar registrato (senza necessità di registrazione), scopri come creare campi modulo Acrobat Sign con tag di testo utilizzando Adobe Acrobat. L’aggiunta di tag al testo riduce notevolmente il tempo necessario per creare e rivedere i documenti con molti campi modulo. I mittenti dei documenti non devono inserire campi singoli in ogni documento: un ulteriore notevole risparmio di tempo. Altri vantaggi includono la convalida dei campi modulo (raccolta di dati accurata e priva di errori) e la coerenza nella progettazione dei moduli professionali. Sentitevi liberi di inviarci le vostre domande durante il webinar attraverso il contenitore Domande e Risposte. Fare clic sull&#39;immagine seguente per iniziare a guardare la registrazione.
+Scopri come creare campi modulo di Acrobat Sign con tag di testo. I tag di testo possono essere aggiunti direttamente agli strumenti di creazione come Microsoft Word, Adobe InDesign o, se disponi di un PDF, in Acrobat. Essi possono ridurre in modo significativo lo sforzo richiesto per preparare i documenti utilizzati in Acrobat Sign. Dopo aver caricato un documento con tag in Acrobat Sign, può essere configurato come modello, eliminando la necessità di aggiungere campi ai documenti.
 
-[![Sessione esaminata](../assets/tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+## Guida introduttiva
 
-[Guarda il webinar registrato sui tag di testo di Acrobat Sign](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+I tag di testo sono parti di testo formattate in modo univoco inserite in qualsiasi punto di un documento che
+riconosciuti automaticamente come campi quando caricati in Acrobat Sign.
 
->[!TIP]
->
->Questo video fa parte delle playlist [Attività avanzate per gli utenti](https://experienceleague.adobe.com/it/playlists/acrobat-sign-get-started-business-users) e [Attività avanzate per gli amministratori](https://experienceleague.adobe.com/it/playlists/acrobat-sign-perform-advanced-tasks-administrators) disponibili gratuitamente per l&#39;Experience League.
+    .[Sintassi del tag di testo](../assets/syntax.png)
+
+I tag di testo possono essere aggiunti direttamente agli strumenti di creazione come Microsoft Word, Adobe InDesign o se
+avete un PDF - Acrobat. I tag di testo riducono notevolmente il lavoro di preparazione
+documenti utilizzati in Acrobat Sign.
+
+## Aggiungere tag in Microsoft Word
+
+Per aggiungere tag di testo a un documento di Microsoft Word, consultate questa [esercitazione video](text-tagging-word.md).
+
+## Aggiungere tag in Acrobat
+
+Adobe Acrobat dispone di un solido ambiente di authoring con trascinamento della selezione. L’applicazione di tag di testo in Acrobat consente di sfruttare le funzionalità aggiuntive disponibili in Acrobat Sign.
+
+1. Apri il modulo in Acrobat.
+
+1. Selezionare **[!UICONTROL Prepara modulo]** dal pannello **[!UICONTROL Tutti gli strumenti]**.
+
+1. Seleziona **[!UICONTROL Crea modulo]**.
+
+1. Seleziona **[!UICONTROL Prepara modulo per firma elettronica]** dal menu a discesa del pannello **[!UICONTROL Opzioni]**.
+
+   ![Prepara modulo per firma elettronica](../assets/tag-prepare-e-signing.png)
+
+1. Seleziona **[!UICONTROL Avanti]** per confermare.
+
+   ![Conferma conversione dei campi](../assets/tag-confirm.png)
+
+1. Fare doppio clic su un campo per visualizzare la finestra di dialogo **[!UICONTROL Proprietà]**.
+
+   Utilizza la sintassi descritta nella [Guida ai tag di testo di Acrobat Sign](https://helpx.adobe.com/it/sign/using/text-tag.html) per modificare il nome del campo modulo.
+
+1. Ad esempio, puoi digitare *OInt_es_:signer1:optinitials* nel nome del campo per rendere facoltativo un campo iniziale.
+
+   ![Cambia nome campo](../assets/tag-opt-initials.png)
+
+   I tag di testo vengono aggiunti al nome del campo modulo e, a differenza della sintassi utilizzata in Microsoft Word (o in altri strumenti di creazione), le parentesi graffe non sono incluse.
+
+   I tag di testo possono essere aggiunti nel pannello Campi semplicemente rinominando il campo modulo.
+
+   ![Rinomina nel pannello dei campi](../assets/tag-rename.png)
+
+1. Salvate e chiudete il file.
+
+1. Carica il file in Acrobat Sign e crea un modello riutilizzabile come descritto nella sezione successiva.
+
+## Creare un modello da riutilizzare
+
+Dopo aver creato un documento con tag, configuralo come modello da riutilizzare, eliminando la necessità di aggiungere campi ai documenti.
+
+Per creare un modello riutilizzabile, consulta questa [esercitazione video](../sign-advanced-users/create-a-template.md).
