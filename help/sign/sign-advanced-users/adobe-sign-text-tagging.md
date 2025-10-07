@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 06ec359f950cc8e589bc6c97219acc32f460b969
+source-git-commit: 656c87201aca58de947cb835f610f6c82a814d57
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 2%
+source-wordcount: '400'
+ht-degree: 3%
 
 ---
 
@@ -20,26 +20,23 @@ Scopri come creare campi modulo di Acrobat Sign con tag di testo. I tag di testo
 
 ## Guida introduttiva
 
-I tag di testo sono parti di testo formattate in modo univoco inserite in qualsiasi punto di un documento che
-riconosciuti automaticamente come campi quando caricati in Acrobat Sign.
+I tag di testo sono parti di testo formattate in modo univoco inserite in qualsiasi punto di un documento che vengono riconosciute automaticamente come campi quando vengono caricate in Acrobat Sign.
 
-    .[Sintassi del tag di testo](../assets/syntax.png)
+![Sintassi del tag di testo](../assets/syntax.png)
 
-I tag di testo possono essere aggiunti direttamente agli strumenti di creazione come Microsoft Word, Adobe InDesign o se
-avete un PDF - Acrobat. I tag di testo riducono notevolmente il lavoro di preparazione
-documenti utilizzati in Acrobat Sign.
+I tag di testo possono essere aggiunti direttamente agli strumenti di creazione come Microsoft Word, Adobe InDesign o se disponi di un PDF, Acrobat. I tag di testo riducono notevolmente il lavoro di preparazione dei documenti utilizzati in Acrobat Sign.
 
-## Aggiungere tag in Microsoft Word
+### Aggiungere tag in Microsoft Word
 
 Per aggiungere tag di testo a un documento di Microsoft Word, consultate questa [esercitazione video](text-tagging-word.md).
 
-## Aggiungere tag in Acrobat
+### Aggiungere tag in Acrobat
 
 Adobe Acrobat dispone di un solido ambiente di authoring con trascinamento della selezione. L’applicazione di tag di testo in Acrobat consente di sfruttare le funzionalità aggiuntive disponibili in Acrobat Sign.
 
 1. Apri il modulo in Acrobat.
 
-1. Selezionare **[!UICONTROL Prepara modulo]** dal pannello **[!UICONTROL Tutti gli strumenti]**.
+1. Seleziona **[!UICONTROL Prepara un modulo]** dal pannello **[!UICONTROL Tutti gli strumenti]**.
 
 1. Seleziona **[!UICONTROL Crea modulo]**.
 
@@ -69,7 +66,7 @@ Adobe Acrobat dispone di un solido ambiente di authoring con trascinamento della
 
 1. Carica il file in Acrobat Sign e crea un modello riutilizzabile come descritto nella sezione successiva.
 
-## Creare un modello da riutilizzare
+### Creare un modello da riutilizzare
 
 Dopo aver creato un documento con tag, configuralo come modello da riutilizzare, eliminando la necessità di aggiungere campi ai documenti.
 
