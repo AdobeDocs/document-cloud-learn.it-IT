@@ -15,6 +15,6 @@ ht-degree: 5%
 
 # Firma i documenti ovunque ti trovi
 
-Scopri come firmare i documenti utilizzando l&#39;app Acrobat Sign per dispositivi mobili per [iOS](https://apps.apple.com/it/app/adobe-sign/id481082197) o [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=it).
+Scopri come firmare i documenti utilizzando l&#39;app Acrobat Sign per dispositivi mobili per [iOS](https://apps.apple.com/it/app/adobe-sign/id481082197) o [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=it).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439046?quality=12&learn=on&hidetitle=true&captions=ita)
