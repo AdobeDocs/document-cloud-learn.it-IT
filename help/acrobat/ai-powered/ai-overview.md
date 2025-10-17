@@ -5,16 +5,16 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-19422
-source-git-commit: 6fe3549230e9c277ba4e936b947d5c9d5d6c481d
+source-git-commit: d23c32d7123e1611d667358b1b070d5d421d2887
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
 
 # Panoramica basata su IA
 
-Scopri tutto sugli strumenti basati sull&#39;intelligenza artificiale in Acrobat.
+Scoprite come l&#39;intelligenza artificiale può trasformare i flussi di lavoro PDF. Informazioni sugli strumenti che semplificano le attività relative ai documenti e aumentano la produttività.
 
 ## Novità
 
@@ -82,7 +82,7 @@ Scopri come [scoprire gli insight di PDF](../getting-started/ai-assistant.md) ne
 <tr>
   <td>
   <a href="../getting-started/stylize-this-pdf.md">
-      <img alt="Stilizza questo PDF" src="../assets/ai-powered.png" />
+      <img alt="Stilizza questo PDF" src="../assets/stylize-pdf.png" />
     </a>
     <div>
     <a href="../getting-started/stylize-this-pdf.md"><strong>Stilizza questo PDF</strong></a>
