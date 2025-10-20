@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
+source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -38,17 +38,17 @@ Protezione dei dati dei clienti, gestione dei rischi
 
 1. Seleziona **[!UICONTROL Redigi testo e immagini]** e usa il cursore per selezionare il contenuto da redigere.
 
-   ![Redigi passaggio 4](../assets/Redact_3.png)
+   ![Redigi passaggio 3](../assets/Redact_3.png)
 
    Per visualizzare un’anteprima della redazione, passa il cursore del mouse sul contenuto selezionato.
 
-   ![Redigi passaggio 5a](../assets/Redact_4.png)
-
 1. Selezionare **[!UICONTROL Trova testo e redigi]** per cercare una parola o frase specifica oppure cercare un motivo per trovare determinati tipi di informazioni. Impostate la ricerca e selezionate Cerca e rimuovi testo.
+
+![Redigi passaggio 4](../assets/Redact_4.png)
 
 1. Nella finestra di dialogo dei risultati della ricerca, selezionare le caselle accanto agli elementi e selezionare **[!UICONTROL Contrassegna i risultati selezionati per la redazione]**.
 
-   ![Redigi passaggio 5b](../assets/Redact_5.png)
+   ![Redigi passaggio 5](../assets/Redact_5.png)
 
 1. Selezionare **[!UICONTROL Redigi pagine]** per contrassegnare intere pagine per la redazione.
 
@@ -56,13 +56,15 @@ Protezione dei dati dei clienti, gestione dei rischi
 
 1. Seleziona le pagine e scegli **[!UICONTROL OK]**.
 
+   ![Redigi passaggio 7](../assets/Redact_7.png)
+
 1. Selezionate **[!UICONTROL Applica]** nel pannello Redigi un PDF per applicare le redazioni contrassegnate.
 
-   ![Redigi passaggio 6](../assets/Redact_7.png)
+   ![Redigi passaggio 8](../assets/Redact_8.png)
 
 1. Selezionare **[!UICONTROL Continua]** per eliminare le informazioni nascoste.
 
-   ![Redigi passaggio 6](../assets/Redact_8.png)
+   ![Redigi passaggio 9](../assets/Redact_9.png)
 
 Una volta confermata, le redazioni e le informazioni nascoste vengono rimosse definitivamente e salvate in un nuovo file.
 
