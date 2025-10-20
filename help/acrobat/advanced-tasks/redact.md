@@ -1,5 +1,5 @@
 ---
-title: Redigi e Rimuovi informazioni riservate
+title: Rimuovi informazioni riservate
 description: Scopri come rimuovere definitivamente le informazioni private o sensibili dal tuo PDF
 feature: Security
 role: User
@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
 
-# Redigi e Rimuovi informazioni riservate
+# Rimuovere le informazioni riservate
 
-Scopri come utilizzare lo strumento Redigi per rimuovere definitivamente informazioni private o sensibili dal tuo PDF. Utilizzare lo strumento Rimuovi informazioni riservate per rimuovere le informazioni non visibili nel file, ad esempio commenti, metadati o livelli nascosti.
+Scopri come utilizzare lo strumento Redigi per rimuovere in modo permanente informazioni private o riservate da un PDF, quindi rimuovi dal documento le informazioni che non sono visibili nel file, come commenti, metadati o livelli nascosti. La rimozione permanente di contenuti sensibili e dati nascosti è importante per evitare che le informazioni vengano passate durante la pubblicazione del PDF. Questo tutorial utilizza la [Nuova esperienza Acrobat](../getting-started/new-workspace.md).
 
 >[!NOTE]
 >
@@ -25,50 +25,47 @@ Scopri come utilizzare lo strumento Redigi per rimuovere definitivamente informa
 [!BADGE Impatto sull&#39;organizzazione]
 Protezione dei dati dei clienti, gestione dei rischi
 
-## Redigi testo e immagini
+## Come redigere le informazioni in Acrobat desktop
 
-1. Seleziona **[!UICONTROL Redigi]** dal riquadro centrale o destro di [!UICONTROL Strumenti].
-
+1. Apri un file e seleziona **[!UICONTROL Tutti gli strumenti]** dalla barra degli strumenti, quindi scegli **[!UICONTROL Redigi un PDF]**.
    ![Redigi passaggio 1](../assets/Redact_1.png)
 
-1. Selezionate **[!UICONTROL Redigi testo e immagini]** **>** **[!UICONTROL Proprietà]** per personalizzare l’aspetto delle redazioni, incluso il colore delle caselle di redazione o della sovrapposizione del testo.
+1. Selezionare **[!UICONTROL Imposta proprietà]** per personalizzare l&#39;aspetto delle redazioni, incluso il colore delle caselle di redazione o della sovrapposizione del testo.
 
    ![Redigi passaggio 2](../assets/Redact_2.png)
 
-Per redigere le informazioni, contrassegnare prima gli elementi per la rimozione e quindi applicare le redazioni. Puoi redigere intere pagine o contenuti selezionati.
+   Per redigere le informazioni, contrassegnare prima gli elementi per la rimozione e quindi applicare le redazioni. Puoi redigere intere pagine o contenuti selezionati.
 
-1. Seleziona **[!UICONTROL Redigi pagine]**, quindi scegli la pagina o l’intervallo di pagine da redigere e seleziona **[!UICONTROL OK]**.
+1. Seleziona **[!UICONTROL Redigi testo e immagini]** e usa il cursore per selezionare il contenuto da redigere.
 
    ![Redigi passaggio 4](../assets/Redact_3.png)
 
-In alternativa, usa il cursore per selezionare il contenuto da redigere. Per visualizzare un’anteprima della redazione, passa il cursore del mouse sul contenuto selezionato.
+   Per visualizzare un’anteprima della redazione, passa il cursore del mouse sul contenuto selezionato.
 
    ![Redigi passaggio 5a](../assets/Redact_4.png)
 
-1. Selezionate **[!UICONTROL Redigi testo e immagini]** **>** **[!UICONTROL Trova testo e redigi]** per trovare il contenuto specifico da redigere.
+1. Selezionare **[!UICONTROL Trova testo e redigi]** per cercare una parola o frase specifica oppure cercare un motivo per trovare determinati tipi di informazioni. Impostate la ricerca e selezionate Cerca e rimuovi testo.
 
-Utilizzare la casella di ricerca per cercare una parola o frase specifica.
-
-1. Seleziona **[!UICONTROL Pattern]** per trovare determinati tipi of , quindi selezionare le caselle e selezionare **[!UICONTROL Cerca e rimuovi testo]**.
+1. Nella finestra di dialogo dei risultati della ricerca, selezionare le caselle accanto agli elementi e selezionare **[!UICONTROL Contrassegna i risultati selezionati per la redazione]**.
 
    ![Redigi passaggio 5b](../assets/Redact_5.png)
 
-1. Selezionate **[!UICONTROL Applica]** nel menu superiore [!UICONTROL Redigi] per applicare le redazioni contrassegnate e salvare il file redatto.
+1. Selezionare **[!UICONTROL Redigi pagine]** per contrassegnare intere pagine per la redazione.
 
    ![Redigi passaggio 6](../assets/Redact_6.png)
 
-## Rimuovi informazioni riservate dal documento
+1. Seleziona le pagine e scegli **[!UICONTROL OK]**.
 
-1. Seleziona **[!UICONTROL Rimuovi informazioni riservate dal documento]** nel menu superiore [!UICONTROL Redigi].
+1. Selezionate **[!UICONTROL Applica]** nel pannello Redigi un PDF per applicare le redazioni contrassegnate.
 
-1. Selezionare **[!UICONTROL OK]** per confermare la rimozione delle informazioni nascoste. In alternativa, scegli **[!UICONTROL Fai clic qui]** per rimuovere selettivamente le informazioni nascoste.
+   ![Redigi passaggio 6](../assets/Redact_7.png)
 
-   ![Rimuovi informazioni riservate dal passaggio 2](../assets/Redact_7.png)
+1. Selezionare **[!UICONTROL Continua]** per eliminare le informazioni nascoste.
+
+   ![Redigi passaggio 6](../assets/Redact_8.png)
+
+Una volta confermata, le redazioni e le informazioni nascoste vengono rimosse definitivamente e salvate in un nuovo file.
 
 >[!TIP]
 >
 >Per velocizzare il processo di redazione, controllare l&#39;[Action Wizard](../advanced-tasks/action.md).
-
->[!TIP]
->
->Questo video fa parte della playlist [Esegui attività avanzate in Adobe Acrobat](https://experienceleague.adobe.com/it/playlists/acrobat-peform-advanced-tasks) disponibile gratuitamente per l&#39;Experience League.
