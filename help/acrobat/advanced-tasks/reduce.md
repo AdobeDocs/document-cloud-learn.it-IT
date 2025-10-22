@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: f6875404577165bc22cbfffee1fed66b27254aca
+source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ Scopri come comprimere e ottimizzare le dimensioni di un file PDF. La compressio
 
    ![Riduci passaggio 1](../assets/Reduce_1.png)
 
-1. Selezionate **[!UICONTROL File singoli]** o **[!UICONTROL File multipli]** nel pannello **[!UICONTROL Comprimi un PDF]** e scegliete **[!UICONTROL Salva]**.
-
-   Il file viene ridotto al minimo senza compromettere la qualità del documento.
+1. Seleziona **[!UICONTROL File singoli]** o **[!UICONTROL Più file]** nel pannello **[!UICONTROL Comprimi un PDF]**.
 
    ![Riduci passaggio 2](../assets/Reduce_2.png)
 
 1. Seleziona **[!UICONTROL Salva]**.
 
    ![Riduci passaggio 3](../assets/Reduce_3.png)
+
+   Il file viene ridotto al minimo senza compromettere la qualità del documento.
 
 
 ## Come comprimere un PDF in Acrobat per il Web
@@ -43,7 +43,7 @@ Scopri come comprimere e ottimizzare le dimensioni di un file PDF. La compressio
 
    ![Riduci passaggio 4](../assets/Reduce_4.png)
 
-1. Scegli **[!UICONTROL Seleziona file]**, seleziona i tuoi file e scegli [!UICONTROL Apri].
+1. Scegli **[!UICONTROL Seleziona file]**, seleziona i tuoi file e scegli **[!UICONTROL Apri]**.
 
    ![Riduci passaggio 5](../assets/Reduce_5.png)
 
