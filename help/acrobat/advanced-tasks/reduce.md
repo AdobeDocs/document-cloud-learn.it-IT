@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
+source-git-commit: c977a4da1389b656e6bc3adb5ac52e9dbb6a6067
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Scopri come comprimere e ottimizzare le dimensioni di un file PDF. La compressio
 
    ![Riduci passaggio 1](../assets/Reduce_1.png)
 
-1. Seleziona **[!UICONTROL File singoli]** o **[!UICONTROL Più file]** nel pannello **[!UICONTROL Comprimi un PDF]**.
+1. Seleziona **[!UICONTROL File singolo]** o **[!UICONTROL Più file]** nel pannello **[!UICONTROL Comprimi un PDF]**.
 
    ![Riduci passaggio 2](../assets/Reduce_2.png)
 
@@ -65,15 +65,13 @@ Scopri come comprimere e ottimizzare le dimensioni di un file PDF. La compressio
 
    ![Ottimizza passaggio 1](../assets/Optimize_1.png)
 
-   Per impostazione predefinita, **Standard** è selezionato nel menu **Impostazioni**. Se modificate le impostazioni nella finestra di dialogo Ottimizzatore PDF, il menu **Impostazioni** passa automaticamente a **Personalizzato**.
-
 1. Dal menu a discesa **Rendi compatibile con**, scegli **Mantieni esistente** per mantenere la versione di PDF corrente o scegli una versione di Acrobat. Seleziona la casella di controllo accanto a un pannello (ad esempio, Immagini, Font, Trasparenza), quindi seleziona le opzioni in tale pannello, scegli **[!UICONTROL OK]** e salva il file.
 
    ![Ottimizza passaggio 2](../assets/Optimize_2.png)
 
-   Per impedire l’esecuzione di tutte le opzioni di un pannello durante l’ottimizzazione, deselezionate la casella di controllo relativa a tale pannello.
+   Per impostazione predefinita, **Standard** è selezionato nel menu **Impostazioni**. Se modificate le impostazioni nella finestra di dialogo Ottimizzatore PDF, il menu **Impostazioni** passa automaticamente a **Personalizzato**. Per impedire l’esecuzione di tutte le opzioni di un pannello durante l’ottimizzazione, deselezionate la casella di controllo relativa a tale pannello.
 
-1. (Facoltativo) Per salvare le impostazioni personalizzate, seleziona **[!UICONTROL Salva]** e assegna un nome alle impostazioni. Per eliminare un&#39;impostazione salvata, sceglierla nel menu **Impostazioni** e selezionare **[!UICONTROL Elimina]**.
+1. (Facoltativo) Per salvare le impostazioni personalizzate, seleziona **[!UICONTROL Salva]** e assegna un nome alle impostazioni. Per eliminare un&#39;impostazione salvata, sceglila nel menu a discesa **Impostazioni** e seleziona **[!UICONTROL Elimina]**.
 
    ![Ottimizza passaggio 3](../assets/Optimize_3.png)
 
