@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
+source-git-commit: 4e790be5fe4ce6f142c0ac001671c19fd25fb8e4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ Scopri come rendere [accessibili](create-accessible-forms.md) i moduli in Acroba
     <div>
     <a href="set-up-workspace.md"><strong>Configura l'area di lavoro</strong></a>
     </div>
-    <em>Scoprite come mettere a portata di mano tutti gli strumenti di accessibilità per semplificare la creazione di file di PDF accessibili</em>
+    <em>Scoprite come mettere a portata di mano tutti gli strumenti di accessibilità</em>
     <br>
   </td>
   <td>
