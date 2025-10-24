@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -21,9 +21,9 @@ Scopri tutto su come rendere accessibili i file di PDF. I Tutorials della serie 
 
 >[!BEGINTABS]
 
->[!TAB Cosa e perché dei file PDF accessibili]
+>[!TAB Documenti scansionati]
 
-Scopri [cos&#39;è un file PDF accessibile e perché è importante](what-why-accessible-pdf.md).
+Scopri come rendere accessibile un [documento acquisito](scanned-documents.md).
 
 >[!TAB Configura l&#39;area di lavoro]
 
@@ -74,14 +74,41 @@ Scopri come rendere [accessibili](create-accessible-forms.md) i moduli in Acroba
     <br>
   </td>
   <td>
+    <a href="scanned-documents.md">
+      <img alt="Documenti scansionati" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="scanned-documents.md"><strong>Documenti scansionati</strong></a>
+    </div>
+    <em>Informazioni su come rendere accessibili i documenti scansionati in Acrobat Pro</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="create-accessible-forms.md">
       <img alt="Creare moduli accessibili" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
     <a href="create-accessible-forms.md"><strong>Creazione di moduli accessibili</strong></a>
     </div>
-    <em>Informazioni su come rendere i moduli accessibili in Acrobat</em>
+    <em>Informazioni su come rendere i moduli accessibili in Acrobat Pro</em>
     <br>
+  </td>
+  <td>
+        <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
