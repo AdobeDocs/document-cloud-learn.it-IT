@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: ae69e1a95a482c3faad886a07adb65af0bb8b56d
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # Da carta a PDF
 
-Scopri come acquisire (o scattare una foto) un documento cartaceo e trasformarlo in un [file PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"} avanzato e ricercabile. La conversione di documenti cartacei in PDF aumenta la capacità di trovare rapidamente le informazioni e di renderle accessibili agli utenti con disabilità. Inoltre, è possibile condividere e collaborare con altri utenti in modalità elettronica, convertendo i documenti cartacei in PDF.
+Scopri come acquisire (o scattare una foto) un documento cartaceo e trasformarlo in un [file PDF modificabile](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"} ricercabile. La conversione di documenti cartacei in PDF aumenta la capacità di trovare rapidamente le informazioni e di renderle accessibili agli utenti con disabilità.
 
 ## Come trasformare la carta in PDF in Acrobat per desktop
 
@@ -50,7 +50,7 @@ Il file è ora un file PDF ricercabile e modificabile.
 
    ![Passaggio analisi 5](../assets/Scan_5.png)
 
-1. Scegli **[!UICONTROL Seleziona file]**, seleziona il tuo file e scegli **[!UICONTROL Apri]**.
+1. Scegliere **[!UICONTROL Seleziona file]**, scegliere il file e selezionare **[!UICONTROL Apri]**.
 
    ![Passaggio analisi 6](../assets/Scan_6.png)
 
