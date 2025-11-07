@@ -7,16 +7,17 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 5bf010d8fda369b42515eeb0cc26f3853322cc8a
+source-git-commit: 6153591accebf9fa815100fa1545348e6f259f17
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
 # Da carta a PDF
 
-Scopri come acquisire (o scattare una foto) un documento cartaceo e trasformarlo in un [file PDF modificabile](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"} ricercabile. La conversione di documenti cartacei in PDF aumenta la capacità di trovare rapidamente le informazioni e di renderle accessibili agli utenti con disabilità.
+Scopri come acquisire (o scattare una foto) un documento cartaceo e trasformarlo in un [file PDF modificabile](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"} ricercabile. La conversione di documenti cartacei in PDF aumenta la capacità di trovare rapidamente le informazioni e di renderle accessibili agli utenti con disabilità. Questa esercitazione mostra la [nuova esperienza di Acrobat](new-workspace.md).
+
 
 ## Come trasformare la carta in PDF in Acrobat per desktop
 
