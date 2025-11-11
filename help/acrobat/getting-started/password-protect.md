@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 01b037690e249731ec29ff294cc8adce4378bacc
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 2%
+source-wordcount: '64'
+ht-degree: 3%
 
 ---
 
@@ -22,11 +22,4 @@ Scopri come [aggiungere una password al tuo PDF](https://www.adobe.com/it/acroba
 >
 >Per proteggere con password più file PDF, prova a utilizzare l&#39;[Action Wizard](../advanced-tasks/action.md).
 
-[!BADGE Impatto sull&#39;organizzazione]
-Protezione delle informazioni, gestione dei rischi
-
->[!VIDEO](https://video.tv.adobe.com/v/3409647?quality=12&learn=on&hidetitle=true&captions=ita)
-
->[!TIP]
->
->Questo video fa parte della playlist [Introduzione ad Adobe Acrobat](https://experienceleague.adobe.com/it/playlists/acrobat-get-started-business-users) disponibile gratuitamente per l&#39;Experience League.
+>[!SLIDE](protect-pdfs)
