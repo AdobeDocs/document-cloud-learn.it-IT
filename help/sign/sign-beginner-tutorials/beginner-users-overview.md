@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b6198f50dbdbf6fab6c9f9e91e2395cb8b046406
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 2%
+source-wordcount: '502'
+ht-degree: 6%
 
 ---
 
@@ -21,6 +21,10 @@ Scopri come inviare, firmare e monitorare i documenti con queste brevi esercitaz
 ## Novità
 
 >[!BEGINTABS]
+
+>[!TAB Firmare elettronicamente un documento]
+
+Scopri quanto è facile [firmare](../sign-beginner-tutorials/electronically-sign-a-document.md) un documento che ti viene inviato con Acrobat Sign.
 
 >[!TAB Creare un modello riutilizzabile]
 
@@ -34,14 +38,6 @@ Scopri come [configurare varie opzioni](sending-options.md) quando si invia un d
 
 Scopri come inviare un documento per la firma elettronica a [più persone](send-to-multiple-recipients.md) esattamente nell&#39;ordine desiderato.
 
->[!TAB Invia un documento a un singolo firmatario]
-
-Accedi e scopri com&#39;è facile [inviare un documento per la firma](send-to-single-recipient.md).
-
->[!TAB Introduzione ad Acrobat Sign]
-
-È la prima volta che usi Acrobat Sign? Questo [tutorial](new-sender.md) è un ottimo punto di partenza.
-
 >[!ENDTABS]
 
 ## Invia
@@ -50,7 +46,7 @@ Accedi e scopri com&#39;è facile [inviare un documento per la firma](send-to-si
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="Guida introduttiva ad Acrobat Sign" src="../assets/gettingstartednew.png" />
+      <img alt="Inizia a usare Acrobat Sign" src="../assets/gettingstartednew.png" />
     </a>
     <div>
     <a href="new-sender.md"><strong>Introduzione ad Acrobat Sign</strong></a>
@@ -70,7 +66,7 @@ Accedi e scopri com&#39;è facile [inviare un documento per la firma](send-to-si
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Inviare un documento a un singolo firmatario" src="../assets/send-single-recipient.png" />
+      <img alt="Invia un documento a un singolo firmatario" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>Invia un documento a un singolo firmatario</strong></a>
@@ -171,7 +167,7 @@ Accedi e scopri com&#39;è facile [inviare un documento per la firma](send-to-si
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="Firma elettronica di un documento" src="../assets/sign-electronically.png" />
+      <img alt="Firmare elettronicamente un documento" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong>Firma elettronica di un documento</strong></a>
