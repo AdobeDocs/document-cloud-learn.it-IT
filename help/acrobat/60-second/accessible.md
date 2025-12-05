@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-9749
 thumbnail: KT-9749.jpg
 exl-id: 916a17bb-bd84-4561-ab1f-e2776099fcfc
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '43'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Disponibile solo in Acrobat Pro.
+>Disponibile solo in Acrobat Pro, Premium e Studio.
 
 In questo tutorial video di 60 secondi, scoprite come verificare se un PDF è accessibile.
 
->[!VIDEO](https://video.tv.adobe.com/v/347085?quality=12&learn=on&hidetitle=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/340076?quality=12&learn=on&hidetitle=true)

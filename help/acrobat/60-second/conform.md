@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-13287
 exl-id: ea0645d9-d0c4-4256-8a17-87fc8839a087
-source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Disponibile solo in Acrobat Pro.
+>Disponibile solo in Acrobat Pro, Premium e Studio.
 
 In questo tutorial video di 60 secondi, scopri come convalidare il contenuto PDF in base ai criteri standard PDF come PDF/X, PDF/A o PDF/E.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437305?quality=12&learn=on&hidetitle=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3409906?quality=12&learn=on&hidetitle=true)

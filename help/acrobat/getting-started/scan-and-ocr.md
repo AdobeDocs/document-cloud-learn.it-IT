@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 6153591accebf9fa815100fa1545348e6f259f17
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -76,4 +76,4 @@ Il file è ora un file PDF ricercabile e modificabile.
 
 >[!TIP]
 >
->Per sottoporre a OCR più file PDF, prova a utilizzare l&#39;[Action Wizard](../advanced-tasks/action.md) in Acrobat Pro sul desktop.
+>Per sottoporre a OCR più file di PDF, prova a utilizzare l&#39;[Action Wizard](../advanced-tasks/action.md) in Acrobat Pro, Premium o Studio sul desktop.

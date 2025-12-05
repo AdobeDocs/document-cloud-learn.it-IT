@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Scopri come utilizzare lo strumento Redigi per rimuovere in modo permanente info
 
 >[!NOTE]
 >
->Disponibile solo in Acrobat Pro.
+>Disponibile solo in Acrobat Pro, Premium o Studio.
 
 [!BADGE Impatto sull&#39;organizzazione]
 Protezione dei dati dei clienti, gestione dei rischi
@@ -70,4 +70,4 @@ Una volta confermata, le redazioni e le informazioni nascoste vengono rimosse de
 
 >[!TIP]
 >
->Per velocizzare il processo di redazione, consulta [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro sul desktop.
+>Per velocizzare il processo di redazione, consulta [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro, Premium o Studio sul desktop.
