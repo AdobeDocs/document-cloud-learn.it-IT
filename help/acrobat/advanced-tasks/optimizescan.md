@@ -22,4 +22,4 @@ Che il documento provenga da una fotocamera o da uno scanner, scoprite come migl
 >
 >Se si dispone di Acrobat Pro (Premium o Studio), eseguire Ottimizza documenti acquisiti nello strumento di Action Wizard per automatizzare questa procedura.
 
->[!VIDEO](https://video.tv.adobe.com/v/340823?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347064?captions=ita&quality=12&learn=on&hidetitle=true)

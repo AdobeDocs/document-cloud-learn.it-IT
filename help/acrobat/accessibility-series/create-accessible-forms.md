@@ -22,4 +22,4 @@ Scopri come rendere i moduli accessibili in Acrobat. Seguendo questi sette passa
 >
 >Alcune funzioni di questo tutorial sono disponibili solo in Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471670?captions=ita&quality=12&learn=on&hidetitle=true)
