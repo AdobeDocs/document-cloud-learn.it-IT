@@ -23,7 +23,7 @@ Scopri come inviare e raccogliere centinaia di firme (fino a 1.000 destinatari p
 * [Accordo sul telelavoro](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=it)
 * [Accordo sui criteri](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=it)
 
->[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477306?captions=ita&quality=12&learn=on&hidetitle=true)
 
 [Scarica il file CSV di esempio in formato ZIP](../assets/sendInBulkSample.zip). Scopri tutti i valori che puoi impostare nel file CSV [qui](https://helpx.adobe.com/it/sign/adv-user/send-in-bulk/send-with-csv.html).
 
