@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b8470e3cd127f6998e57d125b1acddb2e1d51b4c
+source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 6%
+source-wordcount: '494'
+ht-degree: 7%
 
 ---
 
@@ -21,6 +21,10 @@ Scopri come inviare, firmare e monitorare i documenti con queste brevi esercitaz
 ## Novità
 
 >[!BEGINTABS]
+
+>[!TAB Gestire e tenere traccia degli accordi]
+
+Scopri come [gestire e tenere traccia degli accordi](../sign-beginner-tutorials/manage-and-track.md) inviati per la firma.
 
 >[!TAB Firmare elettronicamente un documento]
 
@@ -33,10 +37,6 @@ Scopri come creare un [modello di documento riutilizzabile](../sign-advanced-use
 >[!TAB Configurare le opzioni di invio]
 
 Scopri come [configurare varie opzioni](sending-options.md) quando si invia un documento per la firma.
-
->[!TAB Invia a più firmatari]
-
-Scopri come inviare un documento per la firma elettronica a [più persone](send-to-multiple-recipients.md) esattamente nell&#39;ordine desiderato.
 
 >[!ENDTABS]
 
