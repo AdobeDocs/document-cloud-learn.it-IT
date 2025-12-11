@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -20,6 +20,10 @@ Scopri tutto su come rendere accessibili i file di PDF. I Tutorials della serie 
 ## Novità
 
 >[!BEGINTABS]
+
+>[!TAB Elenchi complessi]
+
+Scopri come applicare i tag a [elenchi complessi](complex-lists.md) per l&#39;accessibilità in Acrobat.
 
 >[!TAB Documenti scansionati]
 
@@ -32,10 +36,6 @@ Scopri come [configurare la tua area di lavoro](set-up-workspace.md) per semplif
 >[!TAB Creare un PDF accessibile da Word]
 
 Scopri come [creare un file di PDF accessibile da Microsoft Word](create-accessible-from-word.md).
-
->[!TAB Creazione di moduli accessibili]
-
-Scopri come rendere [accessibili](create-accessible-forms.md) i moduli in Acrobat.
 
 >[!ENDTABS]
 
@@ -96,9 +96,14 @@ Scopri come rendere [accessibili](create-accessible-forms.md) i moduli in Acroba
     <br>
   </td>
   <td>
-        <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
+    <a href="complex-lists.md">
+      <img alt="Elenchi complessi" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-lists.md"><strong>Elenchi complessi</strong></a>
+    </div>
+    <em>Informazioni su come assegnare tag a elenchi complessi per l'accessibilità in Acrobat</em>
+    <br>
   </td>
   <td>
         <img alt="Spaziatore" src="../assets/Grayspacer.png" />
