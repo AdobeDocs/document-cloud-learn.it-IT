@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
+source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Scopri tutto su come rendere accessibili i file di PDF. I Tutorials della serie 
 
 >[!BEGINTABS]
 
+>[!TAB Nozioni di base sull&#39;assegnazione di tag]
+
+Scopri le nozioni di base su come [assegnare tag a un file PDF](basics-tagging.md) per renderlo accessibile.
+
 >[!TAB Elenchi complessi]
 
 Scopri come applicare i tag a [elenchi complessi](complex-lists.md) per l&#39;accessibilità in Acrobat.
@@ -32,10 +36,6 @@ Scopri come rendere accessibile un [documento acquisito](scanned-documents.md).
 >[!TAB Configura l&#39;area di lavoro]
 
 Scopri come [configurare la tua area di lavoro](set-up-workspace.md) per semplificare la creazione di file PDF accessibili.
-
->[!TAB Creare un PDF accessibile da Word]
-
-Scopri come [creare un file di PDF accessibile da Microsoft Word](create-accessible-from-word.md).
 
 >[!ENDTABS]
 
@@ -74,6 +74,18 @@ Scopri come [creare un file di PDF accessibile da Microsoft Word](create-accessi
     <br>
   </td>
   <td>
+    <a href="basics-tagging.md">
+      <img alt="Nozioni di base sui tag" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="basics-tagging.md"><strong>Nozioni di base sull'assegnazione di tag"</strong></a>
+    </div>
+    <em>Informazioni di base su come applicare i tag a un file PDF per renderlo accessibile</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="scanned-documents.md">
       <img alt="Documenti scansionati" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -83,8 +95,6 @@ Scopri come [creare un file di PDF accessibile da Microsoft Word](create-accessi
     <em>Informazioni su come rendere accessibili i documenti scansionati in Acrobat</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-accessible-forms.md">
       <img alt="Creare moduli accessibili" src="../assets/accessibility-series-2025.png" />
@@ -95,7 +105,7 @@ Scopri come [creare un file di PDF accessibile da Microsoft Word](create-accessi
     <em>Informazioni su come rendere i moduli accessibili in Acrobat</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="complex-lists.md">
       <img alt="Elenchi complessi" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -104,11 +114,6 @@ Scopri come [creare un file di PDF accessibile da Microsoft Word](create-accessi
     </div>
     <em>Informazioni su come assegnare tag a elenchi complessi per l'accessibilità in Acrobat</em>
     <br>
-  </td>
-  <td>
-        <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
   <td>
         <img alt="Spaziatore" src="../assets/Grayspacer.png" />

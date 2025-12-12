@@ -1,14 +1,14 @@
 ---
 title: Documenti scansionati
-description: Scopri come rendere accessibili i documenti scansionati in Acrobat Pro
+description: Scopri come rendere accessibili i documenti scansionati in Acrobat
 feature: Accessibility
 role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18732
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Scopri come rendere accessibili i documenti scansionati in Acrobat. I PDF scansi
 >
 >Alcune funzioni di questo tutorial sono disponibili solo in Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476242?captions=ita&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)
