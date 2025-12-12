@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
+source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -78,7 +78,7 @@ Scopri come [configurare la tua area di lavoro](set-up-workspace.md) per semplif
       <img alt="Nozioni di base sui tag" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="basics-tagging.md"><strong>Nozioni di base sull'assegnazione di tag"</strong></a>
+    <a href="basics-tagging.md"><strong>Nozioni di base sull'assegnazione di tag</strong></a>
     </div>
     <em>Informazioni di base su come applicare i tag a un file PDF per renderlo accessibile</em>
     <br>
