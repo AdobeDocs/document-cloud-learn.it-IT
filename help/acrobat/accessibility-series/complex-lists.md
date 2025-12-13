@@ -21,4 +21,4 @@ Scopri come applicare i tag agli elenchi complessi per renderli accessibili in A
 >
 >Alcune funzioni di questo tutorial sono disponibili solo in Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477831?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477839?captions=ita&quality=12&learn=on&hidetitle=true)
