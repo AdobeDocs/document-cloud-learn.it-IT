@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
+source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Scopri tutto su come rendere accessibili i file di PDF. I Tutorials della serie 
 
 >[!BEGINTABS]
 
+>[!TAB Creazione di un PDF accessibile in Acrobat]
+
+Scopri come creare un [PDF accessibile a partire da Acrobat](accessible-acrobat.md).
+
 >[!TAB Nozioni di base sull&#39;assegnazione di tag]
 
 Scopri le nozioni di base su come [assegnare tag a un file PDF](basics-tagging.md) per renderlo accessibile.
@@ -32,10 +36,6 @@ Scopri come applicare i tag a [elenchi complessi](complex-lists.md) per l&#39;ac
 >[!TAB Documenti scansionati]
 
 Scopri come rendere accessibile un [documento acquisito](scanned-documents.md).
-
->[!TAB Configura l&#39;area di lavoro]
-
-Scopri come [configurare la tua area di lavoro](set-up-workspace.md) per semplificare la creazione di file PDF accessibili.
 
 >[!ENDTABS]
 
@@ -74,6 +74,18 @@ Scopri come [configurare la tua area di lavoro](set-up-workspace.md) per semplif
     <br>
   </td>
   <td>
+    <a href="accessible-acrobat.md">
+      <img alt="Creazione di un PDF accessibile in Acrobat" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="accessible-acrobat.md"><strong>Creazione di un PDF accessibile in Acrobat</strong></a>
+    </div>
+    <em>Scopri come creare un PDF accessibile a partire da Acrobat</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="basics-tagging.md">
       <img alt="Nozioni di base sui tag" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -83,9 +95,7 @@ Scopri come [configurare la tua area di lavoro](set-up-workspace.md) per semplif
     <em>Informazioni di base su come applicare i tag a un file PDF per renderlo accessibile</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="scanned-documents.md">
       <img alt="Documenti scansionati" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -105,7 +115,7 @@ Scopri come [configurare la tua area di lavoro](set-up-workspace.md) per semplif
     <em>Informazioni su come rendere i moduli accessibili in Acrobat</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="complex-lists.md">
       <img alt="Elenchi complessi" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -114,11 +124,6 @@ Scopri come [configurare la tua area di lavoro](set-up-workspace.md) per semplif
     </div>
     <em>Informazioni su come assegnare tag a elenchi complessi per l'accessibilità in Acrobat</em>
     <br>
-  </td>
-  <td>
-        <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
