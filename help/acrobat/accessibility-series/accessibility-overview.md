@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
+source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,14 @@ Scopri tutto su come rendere accessibili i file di PDF. I Tutorials della serie 
 
 >[!BEGINTABS]
 
+>[!TAB Tabelle complesse]
+
+Scopri come [assegnare tag alle tabelle](complex-tables.md) per l&#39;accessibilità in Acrobat.
+
+>[!TAB Azione guidata Rendi accessibile]
+
+Scopri come utilizzare l&#39;[azione guidata Rendi accessibile](make-accessible-action.md).
+
 >[!TAB Creazione di un PDF accessibile in Acrobat]
 
 Scopri come creare un [PDF accessibile a partire da Acrobat](accessible-acrobat.md).
@@ -28,14 +36,6 @@ Scopri come creare un [PDF accessibile a partire da Acrobat](accessible-acrobat.
 >[!TAB Nozioni di base sull&#39;assegnazione di tag]
 
 Scopri le nozioni di base su come [assegnare tag a un file PDF](basics-tagging.md) per renderlo accessibile.
-
->[!TAB Elenchi complessi]
-
-Scopri come applicare i tag a [elenchi complessi](complex-lists.md) per l&#39;accessibilità in Acrobat.
-
->[!TAB Documenti scansionati]
-
-Scopri come rendere accessibile un [documento acquisito](scanned-documents.md).
 
 >[!ENDTABS]
 
@@ -125,5 +125,37 @@ Scopri come rendere accessibile un [documento acquisito](scanned-documents.md).
     <em>Informazioni su come assegnare tag a elenchi complessi per l'accessibilità in Acrobat</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="complex-tables.md">
+      <img alt="Tabelle complesse" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-tables.md"><strong>Tabelle complesse</strong></a>
+    </div>
+    <em>Informazioni su come applicare i tag alle tabelle per l'accessibilità in Acrobat</em>
+    <br>
+  </td>
+  <td>
+    <a href="make-accessible-action.md">
+      <img alt="Azione guidata Rendi accessibile" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="make-accessible-action.md"><strong>Azione guidata Rendi accessibile</strong></a>
+    </div>
+    <em>Scopri come utilizzare l'azione guidata Rendi accessibile</em>
+    <br>
+  </td>
+   <td>
+        <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+      </td>
+      <td>
+        <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
 </tr>
 </table>
