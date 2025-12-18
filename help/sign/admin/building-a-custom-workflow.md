@@ -20,10 +20,10 @@ Scopri come creare e utilizzare flussi di lavoro personalizzati per velocizzare 
 
 [!BADGE Casi di utilizzo]
 
-* [Flusso di lavoro personalizzato per il processo IEP dell’istruzione](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+* [Flusso di lavoro personalizzato per il processo IEP dell’istruzione](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=it)
 Scopri come utilizzare il flusso di lavoro personalizzato Designer per digitalizzare un processo IEP (Individualized Education Program)
-* [Contratti governativi e richiesta di acquisto Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
-* [Contratti commerciali e richiesta di acquisto Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
+* [Contratti governativi e richiesta di acquisto Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=it)
+* [Contratti commerciali e richiesta di acquisto Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=it)
 
 >[!NOTE]
 >
@@ -33,4 +33,4 @@ Scopri come utilizzare il flusso di lavoro personalizzato Designer per digitaliz
 
 >[!TIP]
 >
->Questo video fa parte della playlist [Guida introduttiva di Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Guida introduttiva di Acrobat Sign per gli amministratori](https://experienceleague.adobe.com/it/playlists/acrobat-sign-get-started-administrators) disponibile gratuitamente per l&#39;Experience League.
