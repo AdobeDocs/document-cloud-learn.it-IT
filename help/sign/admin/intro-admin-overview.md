@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b24235986241d53bfd09d602192e50290bfb8817
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 2%
+source-wordcount: '697'
+ht-degree: 3%
 
 ---
 
@@ -22,6 +22,10 @@ Scopri come aggiungere utenti all’account, configurare gruppi, condividere l�
 ## Novità
 
 >[!BEGINTABS]
+
+>[!TAB Creare un flusso di lavoro personalizzato]
+
+Scopri come creare e utilizzare [flussi di lavoro personalizzati](building-a-custom-workflow.md) per velocizzare il processo di creazione e invio di un accordo.
 
 >[!TAB Creare un modello riutilizzabile]
 
@@ -35,10 +39,6 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
 
 Scopri come [migrare facilmente i modelli Docusign](docusign-templates.md) e i flussi di lavoro in tre semplici passaggi.
 
->[!TAB Aggiungi nuovo utente]
-
-Scopri come [aggiungere nuovi utenti ad Acrobat Sign](add-users-to-your-account.md).
-
 >[!ENDTABS]
 
 ## Introduzione
@@ -47,7 +47,7 @@ Scopri come [aggiungere nuovi utenti ad Acrobat Sign](add-users-to-your-account.
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="Guida introduttiva per nuovi amministratori" src="../assets/get-started-admin.png" />
+      <img alt="Introduzione per nuovi amministratori" src="../assets/get-started-admin.png" />
     </a>
     <div>
     <a href="get-started-admin.md"><strong>Guida introduttiva per nuovi amministratori</strong></a>
@@ -151,7 +151,7 @@ Scopri come [aggiungere nuovi utenti ad Acrobat Sign](add-users-to-your-account.
   </td>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
-      <img alt="Report e utilizzo delle transazioni" src="../assets/reporting.png" />
+      <img alt="Utilizzo di transazioni e reporting" src="../assets/reporting.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/creating-a-report.md"><strong>Segnalazione e utilizzo delle transazioni</strong></a>
@@ -203,12 +203,12 @@ Scopri come [aggiungere nuovi utenti ad Acrobat Sign](add-users-to-your-account.
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="Impostazione di un flusso di lavoro" src="../assets/workflow.png" />
+      <img alt="Creare un flusso di lavoro personalizzato" src="../assets/workflow.png" />
     </a>
     <div>
-    <a href="building-a-custom-workflow.md"><strong>Configurazione di un flusso di lavoro</strong></a>
+    <a href="building-a-custom-workflow.md"><strong>Creare un flusso di lavoro personalizzato</strong></a>
     </div>
-    <em>Automatizzare i flussi di lavoro dei documenti per ottenere rapidamente firme elettroniche e dati</em>
+    <em>Scopri come creare e utilizzare flussi di lavoro personalizzati per accelerare il processo di creazione e invio di un accordo</em>
     <br>
   </td>
 </tr>

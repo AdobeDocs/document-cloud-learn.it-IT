@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: 8f33f6e533aca9d2c8945abaf0f4d6d5d958d777
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 2%
+source-wordcount: '458'
+ht-degree: 4%
 
 ---
 
@@ -21,6 +21,10 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
 ## Novità
 
 >[!BEGINTABS]
+
+>[!TAB Creare un flusso di lavoro personalizzato]
+
+
 
 >[!TAB Invia in modalità collettiva]
 
@@ -67,38 +71,6 @@ Informazioni sull&#39;intervallo di metodi disponibili in Acrobat Sign per [aute
     <br>
   </td>
   <td>
-    <a href="authentication-methods.md">
-      <img alt="Metodi di autenticazione in Acrobat Sign" src="../assets/authentication.png" />
-    </a>
-    <div>
-    <a href="authentication-methods.md"><strong>Metodi di autenticazione in Acrobat Sign</strong></a>
-    </div>
-    <em>Informazioni sull'intervallo di metodi di autenticazione dell'identità disponibili in Acrobat Sign</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-      <a href="manage-form-data.md">
-        <img alt="Gestire i dati del modulo" src="../assets/manage-form-data.png" />
-      </a>
-      <div>
-      <a href="manage-form-data.md"><strong>Gestire i dati del modulo</strong></a>
-      </div>
-      <em>Scopri come consolidare i dati dei moduli dai tuoi documenti</em>
-      <br>
-    </td>
-  <td>
-    <a href="set-up-online-payments.md">
-      <img alt="Impostare i pagamenti online" src="../assets/payment.png" />
-    </a>
-    <div>
-    <a href="set-up-online-payments.md"><strong>Configurazione dei pagamenti online</strong></a>
-    </div>
-    <em>Scopri come impostare e accettare pagamenti online nei tuoi documenti</em>
-    <br>
-  </td>
-  <td>
       <a href="megasign.md">
         <img alt="Invia in modalità collettiva" src="../assets/send-in-bulk.png" />
       </a>
@@ -108,7 +80,9 @@ Informazioni sull&#39;intervallo di metodi disponibili in Acrobat Sign per [aute
       <em>Raccogliere centinaia di firme contemporaneamente per qualsiasi documento in pochi passaggi</em>
       <br>
   </td>
- <td>
+</tr>
+<tr>
+  <td>
       <a href="webform.md">
         <img alt="Creazione di un modulo Web" src="../assets/web-form.png" />
     </a>
@@ -116,6 +90,36 @@ Informazioni sull&#39;intervallo di metodi disponibili in Acrobat Sign per [aute
       <a href="webform.md"><strong>Creazione di un modulo Web</strong></a>
       </div>
       <em>Scopri come creare un documento che può essere firmato elettronicamente direttamente sul tuo sito Web</em>
+      <br>
+  </td>
+  <td>
+      <a href="../admin/building-a-custom-workflow.md">
+        <img alt="Creare un flusso di lavoro personalizzato" src="../assets/workflow.png" />
+      </a>
+      <div>
+      <a href="../admin/building-a-custom-workflow.md"><strong>Creare un flusso di lavoro personalizzato</strong></a>
+      </div>
+      <em>Scopri come creare e utilizzare flussi di lavoro personalizzati per accelerare il processo di creazione e invio di un accordo</em>
+      <br>
+  </td>
+  <td>
+      <a href="set-up-online-payments.md">
+        <img alt="Impostare i pagamenti online" src="../assets/payment.png" />
+      </a>
+      <div>
+      <a href="set-up-online-payments.md"><strong>Configurazione dei pagamenti online</strong></a>
+      </div>
+      <em>Scopri come impostare e accettare pagamenti online nei tuoi documenti</em>
+      <br>
+  </td>
+  <td>
+      <a href="authentication-methods.md">
+        <img alt="Metodi di autenticazione in Acrobat Sign" src="../assets/authentication.png" />
+      </a>
+      <div>
+      <a href="authentication-methods.md"><strong>Metodi di autenticazione in Acrobat Sign</strong></a>
+      </div>
+      <em>Informazioni sull'intervallo di metodi di autenticazione dell'identità disponibili in Acrobat Sign</em>
       <br>
   </td>
 </tr>
@@ -159,7 +163,7 @@ Informazioni sull&#39;intervallo di metodi disponibili in Acrobat Sign per [aute
 <tr>
 <td>
     <a href="creating-a-report.md">
-      <img alt="Report e utilizzo delle transazioni" src="../assets/reporting.png" />
+      <img alt="Utilizzo di transazioni e reporting" src="../assets/reporting.png" />
     </a>
     <div>
     <a href="creating-a-report.md"><strong>Segnalazione e utilizzo delle transazioni</strong></a>
@@ -197,5 +201,32 @@ Informazioni sull&#39;intervallo di metodi disponibili in Acrobat Sign per [aute
     <em>Scopri come monitorare, gestire ed esportare i dati da un modulo Web</em>
     <br>
   </td>  
+</tr>
+<tr>
+  <td>
+      <a href="manage-form-data.md">
+        <img alt="Gestire i dati del modulo" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data.md"><strong>Gestire i dati del modulo</strong></a>
+      </div>
+      <em>Scopri come consolidare i dati dei moduli dai tuoi documenti</em>
+      <br>
+    </td>
+    <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
