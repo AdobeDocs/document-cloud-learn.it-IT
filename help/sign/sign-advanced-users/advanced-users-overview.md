@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 8f33f6e533aca9d2c8945abaf0f4d6d5d958d777
+source-git-commit: 05438cb78ede952466c4c15c3cacc427c6bd83f1
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 4%
+source-wordcount: '477'
+ht-degree: 3%
 
 ---
 
@@ -24,7 +24,7 @@ Scopri come inviare un documento per la firma a 100 destinatari contemporaneamen
 
 >[!TAB Creare un flusso di lavoro personalizzato]
 
-
+Scopri come creare e utilizzare [flussi di lavoro personalizzati](../admin/building-a-custom-workflow.md) per velocizzare il processo di creazione e invio di un accordo.
 
 >[!TAB Invia in modalità collettiva]
 
