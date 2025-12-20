@@ -20,4 +20,4 @@ Scoprite come applicare i tag alle tabelle per l’accessibilità in Acrobat. Gl
 >
 >Disponibile solo in Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477960?captions=ita&quality=12&learn=on&hidetitle=true)

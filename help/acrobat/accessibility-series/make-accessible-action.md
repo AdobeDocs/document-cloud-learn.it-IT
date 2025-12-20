@@ -20,4 +20,4 @@ Scopri come utilizzare l’azione guidata Rendi accessibile per rendere accessib
 >
 >Disponibile solo in Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477952?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477971?captions=ita&quality=12&learn=on&hidetitle=true)
