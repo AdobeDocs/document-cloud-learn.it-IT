@@ -1,20 +1,20 @@
 ---
 title: Crea Visualizzazione Per Dispositivi Mobili
-description: Scopri come creare una vista del documento adatta ai dispositivi mobili con la modalità "Mobile Focus"
+description: Scopri come generare un documento adatto ai dispositivi mobili senza problemi e senza il supporto degli sviluppatori
 feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18736
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # Creare una vista compatibile con i dispositivi mobili
 
-Scoprite come creare una vista del documento adatta ai dispositivi mobili con la modalità &quot;Mobile Focus&quot;. I mittenti possono ora generare un modulo per dispositivi mobili senza problemi, senza il supporto degli sviluppatori.
+Scopri come generare un documento adatto ai dispositivi mobili senza problemi e senza il supporto degli sviluppatori.
 
 Con Mobile Focus, i mittenti possono beneficiare dei seguenti vantaggi:
 
