@@ -74,11 +74,11 @@ Scopri come utilizzare la [visualizzazione per dispositivi mobili](mobile-friend
 </tr>
 <tr>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1">
       <img alt="Scarica l’app Acrobat Sign per dispositivi mobili per Android" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1"><strong>Scarica l’app mobile Acrobat Sign per Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1"><strong>Scarica l’app mobile Acrobat Sign per Android</strong></a>
     </div>
     <em>Scarica l’app Acrobat Sign per dispositivi mobili da Google Play</em>
     <br>
