@@ -5,7 +5,7 @@ feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18736
-source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
+source-git-commit: 67d0b3568daab5d957b917fa9d52203dcc2bb0f8
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Scopri come generare un documento adatto ai dispositivi mobili senza problemi e senza il supporto degli sviluppatori.
 
-Con Mobile Focus, i mittenti possono beneficiare dei seguenti vantaggi:
+Con la vista per dispositivi mobili, i mittenti possono beneficiare dei seguenti vantaggi:
 
 * Aumento del tasso di completamento: aumento dei tassi di completamento dei moduli con conseguente miglioramento dei risultati
 * Riduzione di tempi e costi: non è più necessario convertire i documenti in moduli per dispositivi mobili
 * Nessuna competenza tecnica necessaria: generazione di moduli dinamici e facili da usare con il minimo sforzo
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3478406?captions=ita&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478398?quality=12&learn=on&hidetitle=true)
