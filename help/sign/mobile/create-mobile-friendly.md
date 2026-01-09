@@ -23,4 +23,4 @@ Con la vista per dispositivi mobili, i mittenti possono beneficiare dei seguenti
 * Nessuna competenza tecnica necessaria: generazione di moduli dinamici e facili da usare con il minimo sforzo
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3478398?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478406?captions=ita&quality=12&learn=on&hidetitle=true)

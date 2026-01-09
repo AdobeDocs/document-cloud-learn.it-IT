@@ -22,4 +22,4 @@ Con Vista per dispositivi mobili, Acrobat Sign consente a chiunque di compilare 
 * Maggiore precisione: riduce gli errori e garantisce l&#39;acquisizione di tutte le informazioni necessarie
 * Continuità: gli utenti possono iniziare e tornare al modulo compatibile con i dispositivi mobili in qualsiasi momento, senza perdere l’avanzamento
 
->[!VIDEO](https://video.tv.adobe.com/v/3478386?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478394?captions=ita&quality=12&learn=on&hidetitle=true)
