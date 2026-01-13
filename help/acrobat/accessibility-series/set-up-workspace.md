@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Scopri come mettere a portata di mano tutti gli strumenti di accessibilità per semplificare la creazione di file di PDF accessibili.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471612?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471624?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

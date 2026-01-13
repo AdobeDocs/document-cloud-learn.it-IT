@@ -21,7 +21,7 @@ Scopri come rendere accessibili i documenti scansionati in Acrobat. I PDF scansi
 >
 >Alcune funzioni di questo tutorial sono disponibili solo in Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476242?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

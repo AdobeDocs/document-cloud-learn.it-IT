@@ -21,7 +21,7 @@ Scopri le nozioni di base su come assegnare tag a un file PDF per renderlo acces
 >
 >Alcune funzioni di questo tutorial sono disponibili solo in Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477882?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477890?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

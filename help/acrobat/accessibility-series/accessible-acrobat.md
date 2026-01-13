@@ -21,7 +21,7 @@ Scopri come creare un PDF accessibile partendo da Acrobat. Gli argomenti trattat
 >
 >Alcune funzioni di questo tutorial sono disponibili solo in Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477933?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
