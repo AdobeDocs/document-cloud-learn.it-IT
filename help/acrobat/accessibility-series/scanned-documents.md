@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18732
-source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,8 @@ Scopri come rendere accessibili i documenti scansionati in Acrobat. I PDF scansi
 >
 >Alcune funzioni di questo tutorial sono disponibili solo in Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476242?captions=ita&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>Questo video fa parte della playlist [serie Accessibilità PDF](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) disponibile gratuitamente per l&#39;Experience League.

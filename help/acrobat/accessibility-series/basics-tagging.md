@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18726
-source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,8 @@ Scopri le nozioni di base su come assegnare tag a un file PDF per renderlo acces
 >
 >Alcune funzioni di questo tutorial sono disponibili solo in Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477890?captions=ita&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477882?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>Questo video fa parte della playlist [serie Accessibilità PDF](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) disponibile gratuitamente per l&#39;Experience League.

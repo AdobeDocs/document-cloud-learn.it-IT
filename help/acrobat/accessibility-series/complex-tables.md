@@ -5,9 +5,9 @@ role: User
 level: Intermediate, Experienced
 topics: Accessibility
 jira: KT-18730
-source-git-commit: 17b60b29a28f78b244670026e6812e4457ec79fc
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,8 @@ Scoprite come applicare i tag alle tabelle per l’accessibilità in Acrobat. Gl
 >
 >Disponibile solo in Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477960?captions=ita&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>Questo video fa parte della playlist [serie Accessibilità PDF](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) disponibile gratuitamente per l&#39;Experience League.

@@ -6,9 +6,10 @@ role: User
 level: Beginner, Intermediate
 topics: Accessibility
 jira: KT-18728
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+exl-id: c30beeec-861d-4ffb-9e6e-57e7f9306d2e
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,8 @@ ht-degree: 0%
 
 Scopri come creare un file PDF accessibile da Microsoft Word. Iniziare con un file Word ben strutturato può fare una differenza enorme quando si crea un PDF accessibile.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471659?quality=12&learn=on&hidetitle=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3471614?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>Questo video fa parte della playlist [serie Accessibilità PDF](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) disponibile gratuitamente per l&#39;Experience League.
