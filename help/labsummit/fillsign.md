@@ -6,7 +6,7 @@ solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: c34798d5e4c08c57620cfd1507dd2f51d9f711b0
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Compila e firma qualsiasi modulo su desktop o dispositivo mobile
 
-Compila, firma e invia rapidamente moduli da desktop, browser o app mobile. Adobe Sensei riconosce e salva i dati di uso comune per utilizzarli in un modulo PDF. Crea una firma disegnando, importando una scansione o digitando il tuo nome, quindi applicala in modo sicuro a un documento.
+Compila, firma e invia rapidamente moduli da desktop, browser o app mobile. Adobe riconosce e salva i dati di uso comune per l’utilizzo in un modulo PDF. Crea una firma disegnando, importando una scansione o digitando il tuo nome, quindi applicala in modo sicuro a un documento.
 
 In questo esercizio importerai, compilerai, firmerai e invierai un da utilizzando il tuo dispositivo mobile.
 
