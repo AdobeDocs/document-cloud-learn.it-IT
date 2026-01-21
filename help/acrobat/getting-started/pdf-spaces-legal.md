@@ -19,7 +19,7 @@ Scopri come un team legale interno utilizza PDF Spaces per riunire documenti sul
 
 PDF Spaces è disponibile per gli utenti che acquistano Acrobat Studio o il componente aggiuntivo AI Assistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475140?captions=ita&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Per ruolo]
 

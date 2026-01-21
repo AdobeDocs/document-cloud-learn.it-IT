@@ -17,7 +17,7 @@ ht-degree: 1%
 
 Scopri come utilizzare Stylize This PDF per migliorare l&#39;aspetto visivo di un PDF applicando consigli sui font, temi colore, immagini ed elementi di progettazione utilizzando strumenti in-app basati sull&#39;Adobe Express [Adobe Express](https://express.adobe.com). Il tutorial mostra anche come perfezionare i layout, aggiungere immagini Adobe Stock o generate dall&#39;intelligenza artificiale e personalizzare lo stile del testo per creare documenti dall&#39;aspetto professionale. Questa esercitazione video utilizza la [Nuova esperienza Acrobat](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445549?captions=ita&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Per ruolo]
 
