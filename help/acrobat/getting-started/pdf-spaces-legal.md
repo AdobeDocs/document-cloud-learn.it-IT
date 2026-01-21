@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-18747
 exl-id: dab3498a-3cc7-44b9-bb6f-3d843b521716
-source-git-commit: e2911087f78e07e269a387b9414f3fbaf8dfc57d
+source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,36 +19,36 @@ Scopri come un team legale interno utilizza PDF Spaces per riunire documenti sul
 
 PDF Spaces è disponibile per gli utenti che acquistano Acrobat Studio o il componente aggiuntivo AI Assistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475140?captions=ita&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Per ruolo]
 
 ## In che modo PDF Spaces aiuta i diversi team
 
-* Legale e conformità
+* **Legalità e conformità**
 
   I team legali utilizzano PDF Spaces per riunire contratti, policy e linee guida normative in un unico spazio di lavoro, semplificando la revisione dei documenti insieme, l&#39;identificazione delle modifiche e la generazione di riepiloghi citati che supportano processi decisionali accurati e verificabili.
 
-* Risorse umane
+* **Risorse umane**
 
   I team HR utilizzano PDF Spaces per organizzare documenti strategici, materiali di onboarding e risorse di formazione e generare rapidamente riepiloghi chiari o note di riferimento che possono essere condivisi in modo coerente all&#39;interno dell&#39;organizzazione.
 
-* Vendite
+* **Vendite**
 
   I team di vendita utilizzano PDF Spaces per raccogliere proposte, documenti RFP e materiali di supporto in un unico luogo, consentendo loro di esaminare i contenuti in modo efficiente, estrarre i punti chiave e preparare risposte pronte per il cliente più rapidamente.
 
-* Marketing e comunicazioni
+* **Marketing e comunicazioni**
 
   I team di marketing utilizzano PDF Spaces per analizzare report di ricerca e creare documenti, consentendo loro di estrarre informazioni e allineare i messaggi prima di creare presentazioni, brevi video o campagne.
 
-* Finanza
+* **Finanza**
 
   I team finanziari utilizzano PDF Spaces per esaminare report, fogli di calcolo e documentazione di supporto nel contesto, semplificando il confronto di informazioni, approfondimenti di base e supporto per la creazione di report esecutivi.
 
-* Gestione delle operazioni e dei programmi
+* **Operazioni e gestione dei programmi**
 
   I team operativi utilizzano PDF Spaces per organizzare SOP, documenti di progetto e aggiornamenti in un&#39;area di lavoro condivisa, consentendo un allineamento più rapido e una comunicazione più chiara tra i team.
 
-* Dirigenti e leader
+* **Dirigenti e leader**
 
   I dirigenti utilizzano PDF Spaces per rivedere i riepiloghi generati dall&#39;intelligenza artificiale in più documenti, aiutandoli a comprendere rapidamente le informazioni chiave mantenendo al contempo l&#39;accesso al contenuto sorgente originale quando necessario.
