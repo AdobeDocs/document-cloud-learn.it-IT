@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
+source-git-commit: bebd1666353b6bef2bc98fd2b97b38ad9a75fa02
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '546'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + Nozioni di base {#basics}
       + [Nozioni di base sull’area di lavoro](getting-started/workspace-basics.md)
       + [Nuova esperienza di Acrobat](getting-started/new-experience.md)
-      + [Collabora con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=it#microsoft)
+      + [Collabora con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Lavora ovunque ti trovi con Acrobat Web](getting-started/acrobatweb.md)
       + [Produttività ovunque ti trovi](getting-started/productivity.md)
       + [Da dove vengono i PDF?](getting-started/where-do-pdfs-come-from.md)
@@ -141,12 +141,6 @@ ht-degree: 5%
          + [Suggerimento #3 - Documenti digitali Protect](industry/gov/protect-digital-documents.md)
          + [Suggerimento #4: utilizzare moduli e firme](industry/gov/work-with-forms-and-signatures.md)
          + [Suggerimento #5: scansiona e modifica su dispositivi mobili](industry/gov/scan-and-edit-on-mobile.md)
-      + Accessibilità {#pdfs}
-         + [Accessibilità dei PDF](industry/gov/making-pdfs-accessible.md)
-         + [#1 - Informazioni sull’accessibilità](industry/gov/understanding-accessibility.md)
-         + [#2 - Creazione in Word](industry/gov/authoring-in-word.md)
-         + [#3 - Rifinitura in Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [Rendere più accessibili le schede elettorali dei PDF](industry/gov/making-pdf-ballots-accessible.md)
 + Sviluppo {#develop}
    + [Overview](develop/develop-overview.md)
 + Distribuisci {#deploy}
