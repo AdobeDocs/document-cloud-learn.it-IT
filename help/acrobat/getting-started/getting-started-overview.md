@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 7b76b90df77bf73e7f5d17eabe761f106c74d62b
+source-git-commit: 27cfaa963095bfc2e9b265f1da66e52f627b080e
 workflow-type: tm+mt
 source-wordcount: '930'
 ht-degree: 1%
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 # Panoramica della Guida introduttiva
 
-Scopri come iniziare a utilizzare Adobe Acrobat tramite queste brevi esercitazioni dettagliate. Dalla creazione di un documento alla protezione o [modifica dei file PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"}, questo contenuto è progettato per semplificare i flussi di lavoro PDF. Scopri questa [playlist](https://experienceleague.adobe.com/it/playlists/acrobat-get-started-business-users) esperta per iniziare a usare Acrobat.
+Scopri come iniziare a utilizzare Adobe Acrobat tramite queste brevi esercitazioni dettagliate. Dalla creazione di un documento alla protezione o [modifica dei file PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"}, questo contenuto è progettato per semplificare i flussi di lavoro PDF. Scopri questa [playlist](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) esperta per iniziare a usare Acrobat.
 
 ## Novità
 
@@ -49,7 +49,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" title="Nozioni di base sull’area di lavoro" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_1829b23b3d26ba9ab2687a87be27ecf1b2adde71e.png?width=400&format=webply&optimize=medium" alt="Nozioni di base sull’area di lavoro"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1829b23b3d26ba9ab2687a87be27ecf1b2adde71e.png?width=400&format=webply&optimize=medium" alt="Nozioni di base sull’area di lavoro"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -72,7 +72,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" title="Nuova esperienza di Acrobat" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="Nuova esperienza di Acrobat"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="Nuova esperienza di Acrobat"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,8 +94,8 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" title="Utilizzo di Microsoft 365" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e715d1ec959dc755a27cab94e21039372673afac.png?width=400&format=webply&optimize=medium" alt="Utilizzo di Microsoft 365"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" title="Utilizzo di Microsoft 365" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e715d1ec959dc755a27cab94e21039372673afac.png?width=400&format=webply&optimize=medium" alt="Utilizzo di Microsoft 365"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -103,11 +103,11 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_self" rel="referrer" title="Utilizzo di Microsoft 365">Utilizzare Microsoft 365</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_self" rel="referrer" title="Utilizzo di Microsoft 365">Utilizzare Microsoft 365</a>
                     </p>
                     <p class="is-size-6">Lavora senza problemi con i file PDF, direttamente in Microsoft 365</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza esercitazioni</span>
                 </a>
             </div>
@@ -117,8 +117,8 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/acrobatweb" title="Lavora ovunque ti trovi con Acrobat Web" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_1bfcf9b6746a553be3bae3718499df7f83847b637.png?width=400&format=webply&optimize=medium" alt="Lavora ovunque ti trovi con Acrobat Web"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="Lavora ovunque ti trovi con Acrobat Web" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1bfcf9b6746a553be3bae3718499df7f83847b637.png?width=400&format=webply&optimize=medium" alt="Lavora ovunque ti trovi con Acrobat Web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,11 +126,11 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/acrobatweb" target="_self" rel="referrer" title="Lavora ovunque ti trovi con Acrobat Web">Lavora ovunque ti trovi con Acrobat Web</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_self" rel="referrer" title="Lavora ovunque ti trovi con Acrobat Web">Lavora ovunque ti trovi con Acrobat Web</a>
                     </p>
                     <p class="is-size-6">Scopri come lavorare ovunque</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/acrobatweb" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
@@ -140,8 +140,8 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/productivity" title="Produttività ovunque ti trovi" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium" alt="Produttività ovunque ti trovi"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="Produttività ovunque ti trovi" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium" alt="Produttività ovunque ti trovi"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -149,11 +149,11 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                         <div class="top-card-content">
                             <p class="headline is-size-6 has-text-weight-bold">
-                                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/productivity" target="_self" rel="referrer" title="Produttività ovunque ti trovi">Produttività in movimento</a>
+                                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_self" rel="referrer" title="Produttività ovunque ti trovi">Produttività in movimento</a>
                             </p>
                             <p class="is-size-6">Scopri come fare di più direttamente dal tuo tablet o cellulare</p>
                         </div>
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/productivity" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                             <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                         </a>
             </div>
@@ -163,8 +163,8 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/where-do-pdfs-come-from" title="Produttività ovunque ti trovi" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_133ee13f07ef84d06eef5d6b1c81d024747f19f36.png?width=400&format=webply&optimize=medium" alt="Da dove vengono i PDF?"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/where-do-pdfs-come-from" title="Produttività ovunque ti trovi" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_133ee13f07ef84d06eef5d6b1c81d024747f19f36.png?width=400&format=webply&optimize=medium" alt="Da dove vengono i PDF?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -172,11 +172,11 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/where-do-pdfs-come-from" target="_self" rel="referrer" title="Da dove vengono i PDF?">Da dove provengono i PDF?</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/where-do-pdfs-come-from" target="_self" rel="referrer" title="Da dove vengono i PDF?">Da dove provengono i PDF?</a>
                     </p>
                     <p class="is-size-6">Scopri da dove provengono i PDF e come utilizzarli</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/where-do-pdfs-come-from" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/where-do-pdfs-come-from" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
@@ -194,7 +194,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" title="Scopri gli insight di PDF con AI Assistant" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_16b40a5c89df63b8d9116ee1733680b378915394a.png?width=400&format=webply&optimize=medium" alt="Scopri gli insight di PDF con AI Assistant"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_16b40a5c89df63b8d9116ee1733680b378915394a.png?width=400&format=webply&optimize=medium" alt="Scopri gli insight di PDF con AI Assistant"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -217,7 +217,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" title="Migliorare l&apos;efficienza del team con PDF Spaces" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1a0a666ba69346a3cb306b786f1b0681e09316801.png?width=400&format=webply&optimize=medium" alt="Migliorare l&apos;efficienza del team con PDF Spaces"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1a0a666ba69346a3cb306b786f1b0681e09316801.png?width=400&format=webply&optimize=medium" alt="Migliorare l&apos;efficienza del team con PDF Spaces"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -240,7 +240,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
                  <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio" title="Che cos’è Acrobat Studio?" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/by-industry/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium" alt="Che cos’è Acrobat Studio?"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium" alt="Che cos’è Acrobat Studio?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -270,7 +270,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/create-pdf" title="Creazione di un PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_16f0a3abd52647334bb64fdf140cf94afd63188d2.png?width=400&format=webply&optimize=medium" alt="Creazione di un PDF"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_16f0a3abd52647334bb64fdf140cf94afd63188d2.png?width=400&format=webply&optimize=medium" alt="Creazione di un PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -293,7 +293,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/combine-to-pdf" title="Combina più file in un unico PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_11be639aeee441f5b0e2b4900730339cd1798a4b9.png?width=400&format=webply&optimize=medium" alt="Combina più file in un unico PDF"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_11be639aeee441f5b0e2b4900730339cd1798a4b9.png?width=400&format=webply&optimize=medium" alt="Combina più file in un unico PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -316,7 +316,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/organize" title="Organizzare le pagine" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_17e55bdc9d65c0ae578fd3d6d32d1eb3bf3719714.png?width=400&format=webply&optimize=medium" alt="Organizzare le pagine"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_17e55bdc9d65c0ae578fd3d6d32d1eb3bf3719714.png?width=400&format=webply&optimize=medium" alt="Organizzare le pagine"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -339,7 +339,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" title="Progettare una nuova pagina" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f048322a16c3f2b9762347f0ea4e90b24dcd279e.png?width=400&format=webply&optimize=medium" alt="Progettare una nuova pagina"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f048322a16c3f2b9762347f0ea4e90b24dcd279e.png?width=400&format=webply&optimize=medium" alt="Progettare una nuova pagina"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -362,7 +362,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/scan-and-ocr" title="Da carta a PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_1b026238a32eb56a79f2826f8c588a2f4d83c93e5.png?width=400&format=webply&optimize=medium" alt="Da carta a PDF"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1b026238a32eb56a79f2826f8c588a2f4d83c93e5.png?width=400&format=webply&optimize=medium" alt="Da carta a PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -392,7 +392,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-pdf" title="Modificare il testo in un PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_13401767164ccbafc5bcc35d34d2334fc961255e1.png?width=400&format=webply&optimize=medium" alt="Modificare il testo in un PDF"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_13401767164ccbafc5bcc35d34d2334fc961255e1.png?width=400&format=webply&optimize=medium" alt="Modificare il testo in un PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -415,7 +415,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" title="Modificare gli elementi grafici in un PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_10cbcb294cdbd62dc9d8f6b2f5f5f160782370141.png?width=400&format=webply&optimize=medium" alt="Modificare gli elementi grafici in un PDF"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_10cbcb294cdbd62dc9d8f6b2f5f5f160782370141.png?width=400&format=webply&optimize=medium" alt="Modificare gli elementi grafici in un PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -438,7 +438,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" title="Stilizza questo PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_199eeb70612b1e3f04c00cbe3ebf7f4cc2016bcef.png?width=400&format=webply&optimize=medium" alt="Stilizza questo PDF"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_199eeb70612b1e3f04c00cbe3ebf7f4cc2016bcef.png?width=400&format=webply&optimize=medium" alt="Stilizza questo PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -461,7 +461,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/auto-adjust-layout" title="Adatta layout" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_1072b7b70b16efa68b4bd6bbc2152a4dd90bd6dfb.png?width=400&format=webply&optimize=medium" alt="Adatta layout"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1072b7b70b16efa68b4bd6bbc2152a4dd90bd6dfb.png?width=400&format=webply&optimize=medium" alt="Adatta layout"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -484,7 +484,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/export-pdf" title="Convertire PDF in diversi formati di file" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_16383696f2610f1419050df7dca0b9dc77b94f836.png?width=400&format=webply&optimize=medium" alt="Convertire PDF in diversi formati di file"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_16383696f2610f1419050df7dca0b9dc77b94f836.png?width=400&format=webply&optimize=medium" alt="Convertire PDF in diversi formati di file"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -514,7 +514,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/collaborate" title="Collabora in tempo reale" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f5dd20f4df4fb7d2f5c80653268baf61e708a449.png?width=400&format=webply&optimize=medium" alt="Collabora in tempo reale"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f5dd20f4df4fb7d2f5c80653268baf61e708a449.png?width=400&format=webply&optimize=medium" alt="Collabora in tempo reale"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -537,7 +537,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/comment-on-pdf-files" title="Commentare un PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_116d7c4b645e8d4c4e4645df9cb83a36501431471.png?width=400&format=webply&optimize=medium" alt="Commentare un PDF"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_116d7c4b645e8d4c4e4645df9cb83a36501431471.png?width=400&format=webply&optimize=medium" alt="Commentare un PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -567,7 +567,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/create-fillable-forms" title="Creare moduli compilabili" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_12789c7c38d4d314c98ac632578aa46e427cdf603.webp?width=400&format=webply&optimize=medium" alt="Creare moduli compilabili"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12789c7c38d4d314c98ac632578aa46e427cdf603.webp?width=400&format=webply&optimize=medium" alt="Creare moduli compilabili"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -590,7 +590,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" title="Fill &amp; Sign, un modulo PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e8d0607bd61f9cf6a5781801e8e075019fa10ce8.png?width=400&format=webply&optimize=medium" alt="Fill &amp; Sign, un modulo PDF"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e8d0607bd61f9cf6a5781801e8e075019fa10ce8.png?width=400&format=webply&optimize=medium" alt="Fill &amp; Sign, un modulo PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -613,7 +613,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/password-protect" title="Protect un file PDF con una password" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_1803b816278477ef62c8c4a25be6fcc6094763124.png?width=400&format=webply&optimize=medium" alt="Protect un file PDF con una password"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1803b816278477ef62c8c4a25be6fcc6094763124.png?width=400&format=webply&optimize=medium" alt="Protect un file PDF con una password"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -636,7 +636,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/signatures" title="Ottieni firme" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_1d23992362b8a44ebfa1801c33d482df88e1865e1.png?width=400&format=webply&optimize=medium" alt="Ottieni firme"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1d23992362b8a44ebfa1801c33d482df88e1865e1.png?width=400&format=webply&optimize=medium" alt="Ottieni firme"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -659,7 +659,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/track" title="Tenere traccia dei documenti" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/media_1b0f65154db21a029cc4155f26ca8c24f5eeb71ef.png?width=400&format=webply&optimize=medium" alt="Tenere traccia dei documenti"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1b0f65154db21a029cc4155f26ca8c24f5eeb71ef.png?width=400&format=webply&optimize=medium" alt="Tenere traccia dei documenti"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
