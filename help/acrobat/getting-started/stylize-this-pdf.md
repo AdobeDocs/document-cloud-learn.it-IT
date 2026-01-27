@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # Stilizza questo PDF
 
-Scopri come utilizzare Stylize This PDF per migliorare l&#39;aspetto visivo di un PDF applicando consigli sui font, temi colore, immagini ed elementi di progettazione utilizzando strumenti in-app basati sull&#39;Adobe Express [Adobe Express](https://express.adobe.com). Il tutorial mostra anche come perfezionare i layout, aggiungere immagini Adobe Stock o generate dall&#39;intelligenza artificiale e personalizzare lo stile del testo per creare documenti dall&#39;aspetto professionale. Questa esercitazione video utilizza la [Nuova esperienza Acrobat](new-workspace.md).
+Scopri come utilizzare Stylize This PDF per migliorare l&#39;aspetto visivo di un PDF applicando consigli sui font, temi colore, immagini ed elementi di progettazione utilizzando strumenti in-app basati sull&#39;Adobe Express [Adobe Express](https://express.adobe.com). Il tutorial mostra anche come perfezionare i layout, aggiungere immagini Adobe Stock o generate dall&#39;intelligenza artificiale e personalizzare lo stile del testo per creare documenti dall&#39;aspetto professionale. Questa esercitazione video utilizza la [Nuova esperienza Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3445549?captions=ita&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Per ruolo]
 

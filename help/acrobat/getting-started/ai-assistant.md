@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 # Scopri gli insight di PDF con AI Assistant
 
-Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando Assistente intelligenza artificiale. Assistente AI analizza un PDF per generare riepiloghi, rispondere a domande ed estrarre informazioni con chiare attribuzioni al contenuto sorgente, riducendo la necessità di leggere manualmente documenti lunghi. Le risposte generate dall&#39;intelligenza artificiale vengono verificate collegandosi direttamente alle posizioni esatte del documento, consentendo un processo decisionale più rapido e affidabile. Questa esercitazione video utilizza la [Nuova esperienza Acrobat](new-workspace.md).
+Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando Assistente intelligenza artificiale. Assistente AI analizza un PDF per generare riepiloghi, rispondere a domande ed estrarre informazioni con chiare attribuzioni al contenuto sorgente, riducendo la necessità di leggere manualmente documenti lunghi. Le risposte generate dall&#39;intelligenza artificiale vengono verificate collegandosi direttamente alle posizioni esatte del documento, consentendo un processo decisionale più rapido e affidabile. Questa esercitazione video utilizza la [Nuova esperienza Acrobat](new-experience.md).
 
 Ai Assistant è disponibile per gli utenti che acquistano Acrobat Studio o il componente aggiuntivo AI Assistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445830?captions=ita&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Per ruolo]
 

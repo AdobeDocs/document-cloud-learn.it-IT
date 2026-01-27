@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Rimuovere le informazioni riservate
 
-Scopri come utilizzare lo strumento Redigi per rimuovere in modo permanente informazioni private o riservate da un PDF, quindi rimuovi dal documento le informazioni che non sono visibili nel file, come commenti, metadati o livelli nascosti. La rimozione permanente di contenuti sensibili e dati nascosti è importante per evitare che le informazioni vengano passate durante la pubblicazione del PDF. Questo tutorial utilizza la [Nuova esperienza Acrobat](../getting-started/new-workspace.md).
+Scopri come utilizzare lo strumento Redigi per rimuovere in modo permanente informazioni private o riservate da un PDF, quindi rimuovi dal documento le informazioni che non sono visibili nel file, come commenti, metadati o livelli nascosti. La rimozione permanente di contenuti sensibili e dati nascosti è importante per evitare che le informazioni vengano passate durante la pubblicazione del PDF. Questo tutorial utilizza la [Nuova esperienza Acrobat](../getting-started/new-experience.md).
 
 >[!NOTE]
 >
