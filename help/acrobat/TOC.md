@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7b76b90df77bf73e7f5d17eabe761f106c74d62b
+source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '566'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + Nozioni di base {#basics}
       + [Nozioni di base sull’area di lavoro](getting-started/workspace-basics.md)
       + [Nuova esperienza di Acrobat](getting-started/new-experience.md)
-      + [Collabora con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=it#microsoft)
+      + [Collabora con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Lavora ovunque ti trovi con Acrobat Web](getting-started/acrobatweb.md)
       + [Produttività ovunque ti trovi](getting-started/productivity.md)
       + [Da dove vengono i PDF?](getting-started/where-do-pdfs-come-from.md)
@@ -65,26 +65,22 @@ ht-degree: 5%
    + [Azione guidata Rendi accessibile](accessibility-series/make-accessible-action.md)
 + Attività avanzate {#advanced-tasks}
    + [Overview](advanced-tasks/advanced-tasks-overview.md)
-   + [Aggiunta di segnalibri e collegamenti ipertestuali](advanced-tasks/bookmarks.md)
-   + [Ottimizzare i documenti scansionati](advanced-tasks/optimizescan.md)
-   + [Comandi e strumenti personalizzati](advanced-tasks/custom.md)
-   + [Campi modulo avanzati](advanced-tasks/advancedforms.md)
-   + [Optimize PDF per SEO](advanced-tasks/optimizeseo.md)
-   + [Utilizzare i campi modulo](advanced-tasks/workforms.md)
-   + [Migliora il tuo PDF](advanced-tasks/enhance.md)
-   + [Rilevare le differenze tra due PDF](advanced-tasks/compare.md)
-   + [Azioni guidate](advanced-tasks/action.md)
-   + [Rimuovere le informazioni riservate](advanced-tasks/redact.md)
-   + [Comprimere e ottimizzare un PDF](advanced-tasks/reduce.md)
-   + [Utilizzo dei dati dei moduli](advanced-tasks/formdata.md)
-   + Webinar sull’accessibilità di Acrobat {#accessibility-series}
-      + [Overview](advanced-tasks/accessibility-series.md)
-      + [Introduzione all’accessibilità PDF](advanced-tasks/accessibilitysession1.md)
-      + [Correzione di un PDF inaccessibile](advanced-tasks/accessibilitysession2.md)
-      + [Tabelle complesse](advanced-tasks/accessibilitysession3.md)
-      + [Documenti scansionati ed elenchi complessi](advanced-tasks/accessibilitysession4.md)
-      + [Aggiunta di campi modulo a un PDF con tag](advanced-tasks/accessibilitysession5.md)
-      + [Aggiunta di campi modulo a un PDF senza tag](advanced-tasks/accessibilitysession6.md)
+   + Prepara e migliora {#prepare}
+      + [Comprimere e ottimizzare un PDF](advanced-tasks/reduce.md)
+      + [Ottimizzare i documenti scansionati](advanced-tasks/optimizescan.md)
+      + [Optimize PDF per SEO](advanced-tasks/optimizeseo.md)
+      + [Aggiunta di segnalibri e collegamenti ipertestuali](advanced-tasks/bookmarks.md)
+      + [Rilevare le differenze tra due PDF](advanced-tasks/compare.md)
+      + [Migliora il tuo PDF](advanced-tasks/enhance.md)
+   + Creare e gestire i moduli {#forms}
+      + [Utilizzare i campi modulo](advanced-tasks/workforms.md)
+      + [Campi modulo avanzati](advanced-tasks/advancedforms.md)
+      + [Utilizzo dei dati dei moduli](advanced-tasks/formdata.md)
+   + Proteggi {#protect}
+      + [Rimuovere le informazioni riservate](advanced-tasks/redact.md)
+   + Automatizzare e ridimensionare i flussi di lavoro {#automate}
+      + [Azioni guidate](advanced-tasks/action.md)
+      + [Comandi e strumenti personalizzati](advanced-tasks/custom.md)
 + Basato sull&#39;intelligenza artificiale {#ai-powered}
    + [Overview](ai-powered/ai-overview.md)
    + [Scopri gli insight di PDF con Assistente AI](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
