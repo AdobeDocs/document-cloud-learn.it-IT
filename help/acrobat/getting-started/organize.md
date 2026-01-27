@@ -24,4 +24,4 @@ Per offrire ai clienti la migliore esperienza possibile, è necessario creare i 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409022?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412794?captions=ita&quality=12&learn=on&hidetitle=true)

@@ -24,7 +24,7 @@ Scopri come [creare PDF da tutti i diversi tipi di documenti](https://www.adobe.
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35491?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409192?captions=ita&enablevpops&quality=12&learn=on&hidetitle=true)
 
 Desideri una versione portatile di questo tutorial? Seleziona l’icona PDF per aprire o scaricare una versione scritta del tutorial.
 
