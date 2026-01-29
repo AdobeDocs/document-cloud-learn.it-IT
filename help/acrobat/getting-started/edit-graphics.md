@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scoprite come utilizzare la modalità Modifica in Acrobat per aggiungere, sostituire, ritagliare, ridimensionare, ruotare e disporre le immagini direttamente all&#39;interno di un PDF su desktop e Web. Il tutorial mostra anche come generare e perfezionare le immagini dai prompt di testo utilizzando un generatore di immagini in-app con tecnologia Adobe Express. Questa esercitazione video utilizza la [Nuova esperienza Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446937?captions=ita&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Specifico del team]
 
