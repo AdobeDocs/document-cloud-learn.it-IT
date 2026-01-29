@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Da carta a PDF
 
-Scopri come acquisire (o scattare una foto) un documento cartaceo e trasformarlo in un [file PDF modificabile](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"} ricercabile. La conversione di documenti cartacei in PDF aumenta la capacità di trovare rapidamente le informazioni e di renderle accessibili agli utenti con disabilità. Questa esercitazione mostra la [nuova esperienza di Acrobat](new-experience.md).
+Scopri come acquisire (o scattare una foto) un documento cartaceo e trasformarlo in un [file PDF modificabile](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"} ricercabile. La conversione da carta a PDF consente di trovare rapidamente le informazioni e di renderle accessibili agli utenti con disabilità. Questa esercitazione mostra la [nuova esperienza di Acrobat](new-experience.md).
 
 
 ## Come trasformare la carta in PDF in Acrobat per desktop
@@ -61,7 +61,7 @@ Il file è ora un file PDF ricercabile e modificabile.
 
    Il testo nel file è ora ricercabile e modificabile.
 
-1. Per rimuovere lo sfondo, seleziona l&#39;immagine e scegli **[!UICONTROL Modifica immagine]**.
+1. Per rimuovere lo sfondo, selezionare l&#39;immagine e scegliere **[!UICONTROL Modifica immagine]**.
 
    ![Passaggio analisi 8](../assets/Scan_8.png)
 

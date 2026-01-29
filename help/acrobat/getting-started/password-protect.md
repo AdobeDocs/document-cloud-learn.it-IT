@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Scopri come [aggiungere una password al tuo PDF](https://www.adobe.com/it/acroba
 
 >[!TIP]
 >
->Per proteggere con password più file PDF, prova a utilizzare l&#39;[Action Wizard](../advanced-tasks/action.md).
+>Utilizza l&#39;[Action Wizard](../advanced-tasks/action.md) per proteggere con password più file PDF.
 
 [!BADGE Specifico del team]
 

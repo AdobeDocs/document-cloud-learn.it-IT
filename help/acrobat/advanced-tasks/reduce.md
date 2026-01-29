@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ Scopri come comprimere e ottimizzare le dimensioni di un file PDF. La compressio
 
    ![Ottimizza passaggio 2](../assets/Optimize_2.png)
 
-   Per impostazione predefinita, **Standard** è selezionato nel menu **Impostazioni**. Se modificate le impostazioni nella finestra di dialogo Ottimizzatore PDF, il menu **Impostazioni** passa automaticamente a **Personalizzato**. Per impedire l’esecuzione di tutte le opzioni di un pannello durante l’ottimizzazione, deselezionate la casella di controllo relativa a tale pannello.
+   Per impostazione predefinita, **Standard** è selezionato nel menu **Impostazioni**. Se modificate le impostazioni nella finestra di dialogo Ottimizzatore PDF, il menu **Impostazioni** passa automaticamente a **Personalizzato**. Per impedire l&#39;esecuzione di tutte le opzioni di un pannello durante l&#39;ottimizzazione, deselezionate la casella di controllo relativa a tale pannello.
 
 1. (Facoltativo) Per salvare le impostazioni personalizzate, seleziona **[!UICONTROL Salva]** e assegna un nome alle impostazioni. Per eliminare un&#39;impostazione salvata, sceglila nel menu a discesa **Impostazioni** e seleziona **[!UICONTROL Elimina]**.
 

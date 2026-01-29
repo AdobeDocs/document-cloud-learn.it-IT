@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,9 @@ Il contenuto di PDF deve essere univoco e strutturato come segue:
 * Usare un titolo principale singolo che inizia con una parola chiave
 * Usare sottotitoli di parole chiave organizzati in una struttura gerarchica
 * Utilizzare paragrafi brevi contenenti parole chiave ed elenchi
-* Aggiunta di collegamenti ipertestuali interni ed esterni (contenuto del sito Web o di altri siti Web)
+* Aggiungere contenuti interni ed esterni al sito Web o ad altri siti Web con collegamenti ipertestuali
 * Aggiungere un sommario con collegamento ipertestuale per documenti di oltre 25 pagine
-* Esegui [riconoscimento testo](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=it) in tutti i documenti scansionati
+* Esegui [riconoscimento testo](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) in tutti i documenti scansionati
 * Costruisci PDF compatibili con i dispositivi mobili
 Per verificare l&#39;esperienza di visualizzazione per dispositivi mobili del PDF, apri il file nella [app per dispositivi mobili Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) e attiva la modalità Liquid Mode. Se necessario, includere sottotitoli aggiuntivi per migliorare la navigazione.
 
@@ -64,7 +64,7 @@ Provate a iniziare il riepilogo utilizzando un verbo di azione come Scopri, Scop
 
 ## &#x200B;3. Assegnare tag ai PDF
 
-L&#39;assegnazione di tag al contenuto del PDF non solo rende il file [accessibile](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=it) per gli utenti con disabilità, ma migliora anche la funzionalità SEO.
+L&#39;assegnazione di tag al contenuto del PDF non solo rende il file [accessibile](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) agli utenti con disabilità, ma migliora anche la funzionalità SEO.
 
 +++Visualizzare i dettagli su come applicare i tag a un PDF
 
@@ -88,7 +88,7 @@ Applicare i tag a un PDF nel modo seguente:
 
 ## &#x200B;4. Preparazione per il Web
 
-Ottimizza l&#39;esperienza di interazione con il tuo PDF preparandolo per la visualizzazione sul Web e [riducendo le dimensioni del file PDF](https://www.adobe.com/it/acrobat/online/compress-pdf.html){target="_blank"}.
+Ottimizza il tuo PDF preparandolo per la visualizzazione sul Web e [riducendo le dimensioni del file PDF](https://www.adobe.com/it/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Visualizzate i dettagli su come preparare il vostro PDF per il Web
 
@@ -131,7 +131,7 @@ L&#39;ultimo passaggio è [proteggere il PDF](https://www.adobe.com/it/acrobat/o
 Proteggi un PDF come segue:
 
 1. Apri **[!UICONTROL Proprietà documento]** (*Ctrl + D* in Windows o *Cmd + D* in Mac) e seleziona la scheda **[!UICONTROL Sicurezza]**.
-1. Selezionare **[!UICONTROL Stampa e modifica del documento. Per modificare queste impostazioni sarà necessaria una password.]**
+1. Selezionare **[!UICONTROL Stampa e modifica del documento. Per modificare queste impostazioni è necessaria una password.]**
 1. In **[!UICONTROL Modifiche consentite:]** selezionare **[!UICONTROL Nessuna]**.
 1. Selezionare **[!UICONTROL Abilita l&#39;accesso al testo per i dispositivi di lettura video per ipovedenti.]**
 1. Immettere e confermare una password complessa.

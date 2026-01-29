@@ -6,20 +6,20 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
 # Scopri gli insight di PDF con AI Assistant
 
-Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando Assistente intelligenza artificiale. Assistente AI analizza un PDF per generare riepiloghi, rispondere a domande ed estrarre informazioni con chiare attribuzioni al contenuto sorgente, riducendo la necessità di leggere manualmente documenti lunghi. Le risposte generate dall&#39;intelligenza artificiale vengono verificate collegandosi direttamente alle posizioni esatte del documento, consentendo un processo decisionale più rapido e affidabile. Questa esercitazione video utilizza la [Nuova esperienza Acrobat](new-experience.md).
+Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando Assistente intelligenza artificiale. Assistente AI analizza un PDF per generare riepiloghi, rispondere a domande ed estrarre approfondimenti con chiare attribuzioni al contenuto di origine, riducendo la necessità di leggere manualmente documenti lunghi. Le risposte generate dall&#39;intelligenza artificiale vengono verificate collegandosi direttamente alle posizioni esatte del documento, consentendo un processo decisionale più rapido e affidabile. Questa esercitazione video utilizza la [nuova esperienza Acrobat](new-experience.md).
 
 Ai Assistant è disponibile per gli utenti che acquistano Acrobat Studio o il componente aggiuntivo AI Assistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445830?captions=ita&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Specifico del team]
 
@@ -27,7 +27,7 @@ Ai Assistant è disponibile per gli utenti che acquistano Acrobat Studio o il co
 
 * **Ufficio legale**
 
-  I team legali utilizzano l&#39;Assistente all&#39;intelligenza artificiale per riepilogare contratti lunghi, politiche e documenti normativi, identificare rapidamente le clausole o le modifiche rilevanti e verificare gli approfondimenti attraverso citazioni dirette al testo sorgente. Ciò accelera la revisione mantenendo al contempo la fiducia e la tracciabilità.
+  I team legali utilizzano l&#39;Assistente all&#39;intelligenza artificiale per riepilogare contratti lunghi, politiche e documenti normativi, identificare rapidamente le clausole o le modifiche rilevanti e verificare gli approfondimenti attraverso citazioni dirette al testo sorgente.
 
 * **Vendite**
 

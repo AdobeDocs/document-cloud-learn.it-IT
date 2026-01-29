@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-9345
 thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Usa lo strumento Prepare Form per aggiungere automaticamente dei campi modulo a 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3448519?quality=12&learn=on&hidetitle=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -80,7 +80,7 @@ I campi Selezione data aggiungono interattività ed eliminano gli errori in un m
 1. Seleziona **Larghezza e altezza corrispondenti** nel riquadro a destra.
 1. Se necessario, utilizzare i tasti di direzione per allineare ogni campo.
 
-Le proprietà del testo vengono utilizzate per distribuire uniformemente il testo lungo la larghezza di un campo di testo.
+Le proprietà del testo vengono utilizzate per distribuire il testo in modo uniforme lungo la larghezza di un campo di testo.
 
 1. Fare doppio clic sul campo *Codice riferimento* e selezionare la scheda **Opzioni**.
 1. Deseleziona tutte le caselle tranne **Pettine di**.
@@ -94,7 +94,7 @@ Le proprietà del testo vengono utilizzate per distribuire uniformemente il test
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439900?hidetitle=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
 
@@ -118,7 +118,7 @@ La protezione di un modulo impedisce la modifica dei campi o del contenuto del d
 1. Digita *Ctrl + D (Comando + D in Mac)* per visualizzare la finestra di dialogo **Proprietà documento**.
 1. Selezionare la scheda **Protezione**.
 1. Selezionare **Protezione con password** nel menu a discesa **Metodo di protezione:**.
-1. Selezionare **Limita modifica e stampa del documento. Per modificare queste impostazioni di autorizzazione sarà necessaria una password.**
+1. Selezionare **Limita modifica e stampa del documento. Per modificare queste impostazioni di autorizzazione è necessaria una password.**
 1. Selezionare **Alta risoluzione** dal menu a discesa **Stampa consentita:**.
 1. Seleziona **Compilazione dei campi modulo e firma dei campi firma esistenti** dal menu a discesa **Modifiche consentite:**.
 1. Digitare una password complessa nel campo **Modifica password autorizzazioni:**.
