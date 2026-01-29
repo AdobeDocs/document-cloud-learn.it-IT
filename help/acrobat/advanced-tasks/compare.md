@@ -24,7 +24,7 @@ Applicazioni, Materiale collaterale, Schede tecniche, Manuali, Politiche, Rappor
 [!BADGE Impatto sull&#39;organizzazione]
 Risparmio sui costi, efficienza dell&#39;organizzazione, risparmio di tempo, garanzia della qualità
 
->[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409325?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

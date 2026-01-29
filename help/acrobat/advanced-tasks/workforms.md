@@ -37,7 +37,7 @@ Usa lo strumento Prepare Form per aggiungere automaticamente dei campi modulo a 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448519?captions=ita&quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -94,7 +94,7 @@ Le proprietà del testo vengono utilizzate per distribuire il testo in modo unif
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439900?captions=ita&hidetitle=true)
 
 <br> 
 

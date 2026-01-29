@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Grazie al lavoro remoto che si svolge ovunque, la collaborazione diretta è fondamentale per la distribuzione dei contenuti in modo rapido e scalabile. Mantieni in movimento i progetti raccogliendo commenti, collaborando in tempo reale e monitorando l&#39;avanzamento da qualsiasi luogo. Scoprite come creare un processo di revisione dei documenti che non solo migliora l&#39;efficienza, ma migliora anche la qualità dei contenuti. Questa esercitazione video utilizza la [nuova esperienza Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409199?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
