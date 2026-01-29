@@ -28,7 +28,7 @@ Risparmio sui costi, efficienza dell&#39;organizzazione, risparmio di tempo, gar
 
 >[!TIP]
 >
->Questo video fa parte della playlist [Esegui attività avanzate in Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [Esegui attività avanzate in Adobe Acrobat](https://experienceleague.adobe.com/it/playlists/acrobat-peform-advanced-tasks) disponibile gratuitamente per l&#39;Experience League.
 
 >[!NOTE]
 >
