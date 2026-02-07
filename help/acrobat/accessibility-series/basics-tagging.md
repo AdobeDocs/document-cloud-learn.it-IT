@@ -25,4 +25,4 @@ Scopri le nozioni di base su come assegnare tag a un file PDF per renderlo acces
 
 >[!TIP]
 >
->Questo video fa parte della playlist [serie Accessibilità PDF](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [serie Accessibilità PDF](https://experienceleague.adobe.com/it/playlists/acrobat-pdf-accessibility) disponibile gratuitamente per l&#39;Experience League.

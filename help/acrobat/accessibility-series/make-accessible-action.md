@@ -24,4 +24,4 @@ Scopri come utilizzare l’azione guidata Rendi accessibile per rendere accessib
 
 >[!TIP]
 >
->Questo video fa parte della playlist [serie Accessibilità PDF](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [serie Accessibilità PDF](https://experienceleague.adobe.com/it/playlists/acrobat-pdf-accessibility) disponibile gratuitamente per l&#39;Experience League.

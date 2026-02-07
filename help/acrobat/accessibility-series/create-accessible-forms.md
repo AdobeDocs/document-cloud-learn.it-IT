@@ -26,4 +26,4 @@ Scopri come rendere i moduli accessibili in Acrobat. Seguendo questi sette passa
 
 >[!TIP]
 >
->Questo video fa parte della playlist [serie Accessibilità PDF](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [serie Accessibilità PDF](https://experienceleague.adobe.com/it/playlists/acrobat-pdf-accessibility) disponibile gratuitamente per l&#39;Experience League.

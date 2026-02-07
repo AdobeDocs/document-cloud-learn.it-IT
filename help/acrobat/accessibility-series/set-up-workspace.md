@@ -22,4 +22,4 @@ Scopri come mettere a portata di mano tutti gli strumenti di accessibilità per 
 
 >[!TIP]
 >
->Questo video fa parte della playlist [serie Accessibilità PDF](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) disponibile gratuitamente per l&#39;Experience League.
+>Questo video fa parte della playlist [serie Accessibilità PDF](https://experienceleague.adobe.com/it/playlists/acrobat-pdf-accessibility) disponibile gratuitamente per l&#39;Experience League.
