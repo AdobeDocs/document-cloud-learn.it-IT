@@ -6,23 +6,23 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: bebd1666353b6bef2bc98fd2b97b38ad9a75fa02
+source-git-commit: 3a947947f9eaac8e369a2236b5795fb5a74fb01b
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 5%
+source-wordcount: '634'
+ht-degree: 4%
 
 ---
 
 
 # Acrobat Tutorials {#acrobat-learning}
 
-+ [Overview](overview.md)
++ [Panoramica](overview.md)
 + Guida introduttiva {#get-started}
-   + [Overview](getting-started/getting-started-overview.md)
+   + [Panoramica](getting-started/getting-started-overview.md)
    + Nozioni di base {#basics}
       + [Nozioni di base sull’area di lavoro](getting-started/workspace-basics.md)
       + [Nuova esperienza di Acrobat](getting-started/new-experience.md)
-      + [Collabora con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=it#microsoft)
+      + [Lavora con  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Lavora ovunque ti trovi con Acrobat Web](getting-started/acrobatweb.md)
       + [Produttività ovunque ti trovi](getting-started/productivity.md)
       + [Da dove vengono i PDF?](getting-started/where-do-pdfs-come-from.md)
@@ -52,7 +52,7 @@ ht-degree: 5%
       + [Ottieni firme](getting-started/signatures.md)
       + [Tenere traccia dei documenti](getting-started/track.md)
 + Serie di accessibilità {#accessibility-tutorials}
-   + [Overview](accessibility-series/accessibility-overview.md)
+   + [Panoramica](accessibility-series/accessibility-overview.md)
    + [Cosa e perché dei file PDF accessibili](accessibility-series/what-why-accessible-pdf.md)
    + [Configurare l’area di lavoro](accessibility-series/set-up-workspace.md)
    + [Creazione di un PDF accessibile da Word](accessibility-series/create-accessible-from-word.md)
@@ -64,53 +64,64 @@ ht-degree: 5%
    + [Tabelle complesse](accessibility-series/complex-tables.md)
    + [Azione guidata Rendi accessibile](accessibility-series/make-accessible-action.md)
 + Attività avanzate {#advanced-tasks}
-   + [Overview](advanced-tasks/advanced-tasks-overview.md)
+   + [Panoramica](advanced-tasks/advanced-tasks-overview.md)
    + Prepara e migliora {#prepare}
       + [Comprimere e ottimizzare un PDF](advanced-tasks/reduce.md)
       + [Ottimizzare i documenti scansionati](advanced-tasks/optimizescan.md)
       + [Optimize PDF per SEO](advanced-tasks/optimizeseo.md)
       + [Aggiunta di segnalibri e collegamenti ipertestuali](advanced-tasks/bookmarks.md)
-      + [Rilevare le differenze tra due PDF](advanced-tasks/compare.md)
+      + [Rilevare differenze tra due PDF](advanced-tasks/compare.md)
       + [Migliora il tuo PDF](advanced-tasks/enhance.md)
    + Creare e gestire i moduli {#forms}
       + [Utilizzare i campi modulo](advanced-tasks/workforms.md)
       + [Campi modulo avanzati](advanced-tasks/advancedforms.md)
-      + [Utilizzo dei dati dei moduli](advanced-tasks/formdata.md)
+      + [Utilizzare i dati del modulo](advanced-tasks/formdata.md)
    + Proteggi {#protect}
-      + [Rimuovere le informazioni riservate](advanced-tasks/redact.md)
-   + Automatizzare e ridimensionare i flussi di lavoro {#automate}
+      + [Rimuovi informazioni riservate](advanced-tasks/redact.md)
+   + Automatizzare e scalare i flussi di lavoro {#automate}
       + [Azioni guidate](advanced-tasks/action.md)
       + [Comandi e strumenti personalizzati](advanced-tasks/custom.md)
-+ Basato sull&#39;intelligenza artificiale {#ai-powered}
-   + [Overview](ai-powered/ai-overview.md)
-   + [Scopri gli insight di PDF con Assistente AI](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [Maggiore efficienza del team con PDF Spaces](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [Che cos&#39;è Acrobat Studio?](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [Modificare gli elementi grafici in un PDF](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [Stilizza questo PDF](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
-+ Acrobat da 60 secondi {#60-second}
-   + [Overview](60-second/60-second-overview.md)
-   + [Modifica PDF con Acrobat Web](60-second/edit.md)
-   + [Riconoscere il testo in un file PDF scansionato](60-second/textrecognition.md)
-   + [Combina più file in un unico PDF](60-second/combine-to-one-pdf.md)
-   + [Organizzare le pagine in un attimo](60-second/organize.md)
++ Basato su IA {#ai-powered}
+   + [Panoramica](ai-powered/ai-overview.md)
+   + [Scopri gli approfondimenti di PDF con l’Assistente AI](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [Aumentare l&#39;efficienza del team con PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [Cos’è Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [Modificare gli elementi grafici in un PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [Stilizza questo PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
++ Casi d’uso {#use-cases}
+   + [Panoramica](use-cases/use-cases-overview.md)
+   + Pubblica Amministrazione {#gov}
+      + [Panoramica](use-cases/gov/gov-overview.md)
+      + 5 suggerimenti per lavorare ovunque con Acrobat {#tips}
+         + [5 suggerimenti per lavorare ovunque con Acrobat](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [Suggerimento #1: scopri gli strumenti](use-cases/gov/get-your-tools.md)
+         + [Suggerimento #2: collaborare ai documenti](use-cases/gov/collaborate-on-documents.md)
+         + [Suggerimento #3: protezione dei documenti digitali](use-cases/gov/protect-digital-documents.md)
+         + [Suggerimento #4: utilizzare moduli e firme](use-cases/gov/work-with-forms-and-signatures.md)
+         + [Suggerimento #5: scansione e modifica su dispositivi mobili](use-cases/gov/scan-and-edit-on-mobile.md)
++ Acrobat a 60 secondi {#60-second}
+   + [Panoramica](60-second/60-second-overview.md)
+   + [Modificare PDF con Acrobat Web](60-second/edit.md)
+   + [Riconoscere il testo in un file PDF acquisito da scanner](60-second/textrecognition.md)
+   + [Combinare i file in un unico PDF](60-second/combine-to-one-pdf.md)
+   + [Organizzare le pagine in modo rapido](60-second/organize.md)
    + [Modificare una foto nel PDF](60-second/editphoto.md)
-   + [Modificare un elemento grafico in PDF](60-second/editgraphic.md)
+   + [Modificare un&#39;immagine nel PDF](60-second/editgraphic.md)
    + [Convertire un PDF in Word](60-second/convert-pdf-word.md)
    + [Convertire un PDF in Excel](60-second/convert-pdf-excel.md)
-   + [Convertire un PDF in PowerPoint](60-second/convert-pdf-powerpoint.md)
-   + [Export PDF in Word dal telefono](60-second/exportwordphone.md)
-   + [Creare un PDF da Microsoft Word](60-second/word-to-pdf.md)
-   + [Creazione di file PDF con Acrobat](60-second/create-from-acrobat.md)
-   + [Converti da Word a PDF inclusi i campi modulo](60-second/wordform.md)
-   + [Crea un PDF di foto in un istante](60-second/photo.md)
-   + [Converti un file PPT in PDF sul tuo telefono](60-second/phone.md)
-   + [Creare file PDF più efficienti in un attimo](60-second/optimize.md)
+   + [Conversione di un PDF in PowerPoint](60-second/convert-pdf-powerpoint.md)
+   + [Export PDF a Word dal telefono](60-second/exportwordphone.md)
+   + [Creazione di un PDF da Microsoft Word](60-second/word-to-pdf.md)
+   + [Creare file PDF con Acrobat](60-second/create-from-acrobat.md)
+   + [Conversione da Word a PDF, inclusi i campi modulo](60-second/wordform.md)
+   + [Creazione immediata di un PDF di foto](60-second/photo.md)
+   + [Conversione di un file PPT in PDF sul telefono](60-second/phone.md)
+   + [Creazione rapida di file PDF più efficienti](60-second/optimize.md)
    + [Firmare elettronicamente un documento cartaceo](60-second/sign.md)
-   + [Protect i tuoi file PDF con una password](60-second/protect.md)
-   + [Redazione: il modo giusto](60-second/redaction.md)
-   + [Condividere per i commenti](60-second/share-comment.md)
-   + [Condividere e commentare i file PDF in Teams](60-second/share-comment-teams.md)
+   + [Proteggere i file PDF con una password](60-second/protect.md)
+   + [Redaction: il modo giusto](60-second/redaction.md)
+   + [Condividi per aggiungere commenti](60-second/share-comment.md)
+   + [Condividi e commenta i file PDF in Teams](60-second/share-comment-teams.md)
    + [Commenti PDF in conflitto con Riepilogo](60-second/summarize-comments.md)
    + [Caricare i commenti PDF in InDesign](60-second/indesign.md)
    + [Lascia che Acrobat ti aiuti a rendere accessibili i PDF](60-second/accessible.md)
@@ -120,7 +131,7 @@ ht-degree: 5%
 + Generatori di abilità {#skill-builders}
    + [Webinar](skill-builder/skill-builder-webinars.md)
 + Integrazioni {#integrations}
-   + [Overview](integrate/integrate-overview.md)
+   + [Panoramica](integrate/integrate-overview.md)
    + [Crea PDF da  [!DNL Microsoft Word]](integrate/createfromword.md)
    + [Creazione di PDF in [!DNL Office] per il Web](integrate/createofficeweb.md)
    + [Collaborazione PDF in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
@@ -130,23 +141,12 @@ ht-degree: 5%
    + [Protect PDF che utilizza  [!DNL Microsoft Purview Information] etichette di riservatezza](integrate/microsoftsensitivitylabels.md)
    + [Adobe Acrobat per  [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [Lavora con i file di  [!DNL Dropbox]](integrate/acrobat-dropbox.md)
-+ Settori e dipartimenti {#by-industry}
-   + [Overview](industry/industry-overview.md)
-   + Pubblica Amministrazione {#gov}
-      + [Overview](industry/gov/gov-overview.md)
-      + 5 suggerimenti per lavorare ovunque con Acrobat {#tips}
-         + [5 suggerimenti per lavorare ovunque con Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-         + [Suggerimento #1 - Scarica gli strumenti](industry/gov/get-your-tools.md)
-         + [Suggerimento #2: collabora sui documenti](industry/gov/collaborate-on-documents.md)
-         + [Suggerimento #3 - Documenti digitali Protect](industry/gov/protect-digital-documents.md)
-         + [Suggerimento #4: utilizzare moduli e firme](industry/gov/work-with-forms-and-signatures.md)
-         + [Suggerimento #5: scansiona e modifica su dispositivi mobili](industry/gov/scan-and-edit-on-mobile.md)
 + Sviluppo {#develop}
-   + [Overview](develop/develop-overview.md)
+   + [Panoramica](develop/develop-overview.md)
 + Distribuisci {#deploy}
-   + [Overview](deploy/deploy-overview.md)
+   + [Panoramica](deploy/deploy-overview.md)
    + [Aggiornamenti di prodotto Acrobat DC importanti per i clienti ETLA](deploy/signentitlementchanges.md)
 + Mobile {#mobile}
-   + [Overview](mobile/mobile-overview.md)
-   + [Produttività in movimento](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [Panoramica](mobile/mobile-overview.md)
+   + [Produttività ovunque ti trovi](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Acquisisci in PDF qualsiasi documento](mobile/scan-mobile-app.md)
