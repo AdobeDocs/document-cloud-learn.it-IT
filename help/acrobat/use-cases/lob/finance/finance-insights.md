@@ -6,32 +6,36 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: 57155812d67c812370d0b5d93f03211b5e1c25f7
+source-git-commit: f2e1f0be291ffebda877db7e99e8f5371aafbb99
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 1%
+source-wordcount: '197'
+ht-degree: 3%
 
 ---
 
 # Preparazione di documenti finanziari pronti per i dirigenti, dall&#39;analisi alla consegna
 
-Scopri come i team finanziari utilizzano Acrobat Studio per passare dall’analisi alla distribuzione consolidando i documenti finanziari, collaborando in modo sicuro con gli stakeholder e creando report e presentazioni pronti per i dirigenti. Questo flusso di lavoro end-to-end mostra come presentare approfondimenti, gestire revisioni, applicare una progettazione coerente con il marchio e fornire materiali finanziari sicuri e pronti per la revisione per la leadership e la creazione di report sui consigli di amministrazione. Questo caso di utilizzo è progettato per essere completato in sequenza. Ogni video è basato sul passaggio precedente del flusso di lavoro.
+Scopri come i team finanziari utilizzano Acrobat per gestire i documenti finanziari dall&#39;analisi alla consegna. Questo caso di utilizzo descrive un flusso di lavoro completo per l&#39;analisi delle informazioni, la collaborazione con gli stakeholder e la creazione di materiali finanziari pronti per i dirigenti. Questo caso di utilizzo è progettato per essere completato in sequenza, con ogni video creato nella fase precedente.
 
-## &#x200B;1. Comprendere i risultati finanziari
+Ideale per: leader finanziari, team FP&amp;A, analisti e chiunque prepari materiali per la revisione esecutiva o del consiglio di amministrazione.
+
+## Passaggio 1. Comprendere i risultati finanziari
 
 Inizia consolidando i documenti finanziari e fornendo informazioni fondamentali per preparare le informazioni per la revisione esecutiva.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
 
-## &#x200B;2. Collaborare ai report finanziari
+## Passaggio 2. Collaborare ai report finanziari
 
-Riunisci gli stakeholder per rivedere i materiali finanziari, condividere feedback e perfezionare le informazioni in un&#39;area di lavoro sicura.
+Le informazioni sono ora pronte per la revisione del team. Riunisci gli stakeholder per rivedere i materiali finanziari, condividere feedback e perfezionare le informazioni in un&#39;area di lavoro sicura.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
 
-## &#x200B;3. Creazione di presentazioni pronte per i dirigenti
+## Passaggio 3. Creazione di presentazioni pronte per i dirigenti
 
-Trasforma informazioni convalidate in presentazioni raffinate e personalizzate e in servizi finanziari sicuri per la leadership.
+Il feedback è stato completato e i contenuti sono pronti per essere forniti. Trasforma informazioni convalidate in presentazioni raffinate e personalizzate e in servizi finanziari sicuri per la leadership.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
+
+È ora disponibile un processo ripetibile per l&#39;analisi, la revisione e la distribuzione di documenti finanziari pronti per i dirigenti tramite Acrobat.
 
