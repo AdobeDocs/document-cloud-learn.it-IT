@@ -125,7 +125,7 @@ Adobe Acrobat, una soluzione Adobe Document Cloud, aiuta le aziende a muoversi c
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" title="Casi d’uso" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" title="Casi d’uso" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/by-industry/media_1c9a698c7bae70a0e784d1cea181152f5dd4e17ec.png?width=400&format=webply&optimize=medium" alt="Casi d’uso"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -134,11 +134,11 @@ Adobe Acrobat, una soluzione Adobe Document Cloud, aiuta le aziende a muoversi c
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" target="_self" rel="referrer" title="Casi d’uso">Casi d'uso</a>
+                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" target="_self" rel="referrer" title="Casi d’uso">Casi d'uso</a>
                     </p>
                     <p class="is-size-6">Flussi di lavoro Acrobat per aziende nel mondo reale</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Esplora</span>
                 </a>
             </div>
