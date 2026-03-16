@@ -5,7 +5,8 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20534
-source-git-commit: 5f9eb79aaedd0dcab16ef0483f1df7e359280b73
+exl-id: a3527421-1f3f-43da-af60-ceed93369ab0
+source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 1%
@@ -20,7 +21,7 @@ Scopri come i team HR utilizzano Acrobat per gestire documenti e flussi di lavor
 
 >[!BEGINTABS]
 
->[!TAB Da analisi a impatto: semplificazione dei flussi di lavoro HR]
+>[!TAB Da analisi a impatto: semplifica i flussi di lavoro di onboarding]
 
 Scopri come i team HR utilizzano Acrobat Studio per semplificare i contenuti di onboarding dei dipendenti, dalle [informazioni dettagliate, alla collaborazione fino alla distribuzione on-brand](hr-insights.md).
 
@@ -32,10 +33,10 @@ Scopri come i team HR utilizzano Acrobat Studio per semplificare i contenuti di 
 <tr>
   <td>
     <a href="hr-insights.md">
-      <img alt="Dall’analisi all’impatto: semplificazione dei flussi di lavoro HR" src="../../../assets/use-case-hr-insights.png" />
+      <img alt="Dall’analisi all’impatto: semplifica i flussi di lavoro di onboarding" src="../../../assets/use-case-hr-insights.png" />
     </a>
     <div>
-    <a href="hr-insights.md"><strong>Da analisi a impatto: semplificazione dei flussi di lavoro HR</strong></a>
+    <a href="hr-insights.md"><strong>Da analisi a impatto: semplifica i flussi di lavoro di onboarding</strong></a>
     </div>
     <em>Scopri come i team HR utilizzano Acrobat Studio per semplificare l'onboarding dei dipendenti dall'inizio alla fine</em>
     <br>
