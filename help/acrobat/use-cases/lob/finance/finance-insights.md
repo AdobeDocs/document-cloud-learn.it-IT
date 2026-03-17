@@ -23,13 +23,13 @@ Scopri come i team finanziari utilizzano Acrobat per gestire i documenti finanzi
 
 Inizia consolidando i documenti finanziari e fornendo informazioni fondamentali per preparare le informazioni per la revisione esecutiva.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481431?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Passaggio 2. Collaborare ai report finanziari
 
 Le informazioni sono ora pronte per la revisione del team. Riunisci gli stakeholder per rivedere i materiali finanziari, condividere feedback e perfezionare le informazioni in un&#39;area di lavoro sicura.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481444?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Passaggio 3. Creazione di presentazioni pronte per i dirigenti
 
