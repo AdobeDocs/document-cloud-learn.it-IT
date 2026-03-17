@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: c4f34f8331a6e6d823ec1ef0c5f9df0ef8a750b5
+source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 3%
 
 ---
@@ -23,13 +23,13 @@ Scopri come i team finanziari utilizzano Acrobat per gestire i documenti finanzi
 
 Inizia consolidando i documenti finanziari e fornendo informazioni fondamentali per preparare le informazioni per la revisione esecutiva.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481431?captions=ita&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
 
 ## Passaggio 2. Collaborare ai report finanziari
 
 Le informazioni sono ora pronte per la revisione del team. Riunisci gli stakeholder per rivedere i materiali finanziari, condividere feedback e perfezionare le informazioni in un&#39;area di lavoro sicura.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481444?captions=ita&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
 
 ## Passaggio 3. Creazione di presentazioni pronte per i dirigenti
 
@@ -37,5 +37,5 @@ Il feedback è stato completato e i contenuti sono pronti per essere forniti. Tr
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
 
-È ora disponibile un processo ripetibile per l&#39;analisi, la revisione e la distribuzione di documenti finanziari pronti per i dirigenti tramite Acrobat.
+È ora disponibile un processo ripetibile per l&#39;analisi, la revisione e la distribuzione di documenti finanziari pronti per i dirigenti mediante Acrobat Studio.
 

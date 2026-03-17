@@ -1,11 +1,12 @@
 ---
 title: Panoramica sui casi di utilizzo di Acrobat Sales
-description: Scopri come i team di vendita possono influire in modo approfondito grazie a una collaborazione più intelligente e a una creazione più rapida dei contenuti.
+description: Scopri come i team di vendita vanno da una semplice analisi all'impatto con una collaborazione più intelligente e una creazione più veloce dei contenuti
 feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20544
-source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+exl-id: f0839850-c6d1-4468-ad40-2da36a1cc78b
+source-git-commit: 9f20c7f0dc345eba6b9deb22e2b365d1f7911b04
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 1%
@@ -26,7 +27,7 @@ Scopri come i team di vendita possono raccogliere [informazioni dettagliate sui 
 
 >[!ENDTABS]
 
-## Esercitazioni per i casi d’uso HR
+## Esercitazioni sui casi d&#39;uso per le vendite
 
 <table style="table-layout:fixed">
 <tr>
