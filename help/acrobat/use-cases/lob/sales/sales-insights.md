@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20546
-source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+source-git-commit: e0561a2b7a25dd36bf8bc5eb37219a4decdcfee8
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 2%
 
 Scopri come i team di vendita possono raccogliere informazioni sui clienti, collaborare in un&#39;area di lavoro condivisa e trasformare le informazioni convalidate in presentazioni e proposte on-brand, in modo più rapido e con maggiore sicurezza. Questo caso di utilizzo è progettato per essere completato in sequenza, con ogni video creato nella fase precedente.
 
-**Ideale per:** Ideale per: responsabili delle risorse umane, partner aziendali e delle operazioni HR, team di onboarding e di esperienza dei dipendenti e chiunque prepari materiali HR per dipendenti o dirigenti.
+**Ideale per:** amministratori di account, responsabili delle vendite, team di vendita e chiunque prepari materiale di vendita rivolto al cliente per riunioni, presentazioni o proposte.
 
-## Passaggio 1. Trasforma i documenti di onboarding in informazioni chiare
+## Passaggio 1. Comprendere il cliente con approfondimenti basati sull&#39;intelligenza artificiale
 
 Inizia imparando a raccogliere i documenti dei clienti, analizzare le informazioni chiave e utilizzare riepiloghi e approfondimenti basati sull&#39;intelligenza artificiale per comprendere le esigenze dei clienti e prepararsi a conversazioni di vendita più efficaci.
 
@@ -36,4 +36,4 @@ Il feedback è stato completato e i contenuti sono pronti per essere forniti. Sc
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481564?quality=12&learn=on&hidetitle=true)
 
-Ora disponi di un processo ripetibile per comprendere i clienti, collaborare con gli stakeholder e offrire presentazioni e proposte pronte per la vendita utilizzando Acrobat Studio.Y
+Ora disponi di un processo ripetibile per comprendere i clienti, collaborare con gli stakeholder e offrire presentazioni e proposte pronte per la vendita utilizzando Acrobat Studio.
