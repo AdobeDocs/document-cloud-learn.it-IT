@@ -23,18 +23,18 @@ Scopri come i team HR utilizzano Acrobat Studio per semplificare l&#39;onboardin
 
 Inizia scoprendo come le intuizioni di onboarding basate sull&#39;intelligenza artificiale possono evidenziare le informazioni chiave, delineare i passaggi successivi e contribuire a garantire ai nuovi assunti di ottenere le informazioni corrette al momento giusto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481484?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481492?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Passaggio 2. Rivedi e allinea i materiali di onboarding
 
 Le informazioni sono ora pronte per la revisione del team. Scopri in che modo PDF Spaces mantiene organizzati feedback, commenti e aggiornamenti, in modo che gli stakeholder rimangano allineati e l&#39;onboarding avanzi senza catene di e-mail o confusione di versione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481529?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Passaggio 3. Creazione di contenuti coinvolgenti per i nuovi assunti
 
 Il feedback è stato completato e i contenuti sono pronti per essere forniti. Scopri come Acrobat Studio utilizza l&#39;intelligenza artificiale e i modelli con marchio per creare rapidamente presentazioni e materiali pronti per i dipendenti, facili da condividere e aggiornare.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481540?captions=ita&quality=12&learn=on&hidetitle=true)
 
 È ora disponibile un processo ripetibile per l’analisi, la revisione e la distribuzione di documenti pronti per i dipendenti tramite Acrobat Studio.

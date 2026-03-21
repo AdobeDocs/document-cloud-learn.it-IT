@@ -22,18 +22,18 @@ Scopri come i team di vendita possono raccogliere informazioni sui clienti, coll
 
 Inizia imparando a raccogliere i documenti dei clienti, analizzare le informazioni chiave e utilizzare riepiloghi e approfondimenti basati sull&#39;intelligenza artificiale per comprendere le esigenze dei clienti e prepararsi a conversazioni di vendita più efficaci.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481562?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481572?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Passaggio 2. Portare avanti gli accordi con una collaborazione mirata tra team
 
 Le informazioni sono ora pronte per la revisione del team. Scopri come collaborare sugli account dei clienti in un&#39;area di lavoro condivisa, mantenere gli stakeholder allineati con l&#39;accesso basato sui ruoli e rivedere approfondimenti, note e documenti senza perdere contesto o controllo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481563?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481596?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Passaggio 3. Accelera gli accordi sui contenuti pronti per la vendita
 
 Il feedback è stato completato e i contenuti sono pronti per essere forniti. Scopri come trasformare le intuizioni convalidate dei clienti in presentazioni e proposte di vendita esclusive e mirate per il marchio, senza iniziare da zero o affidarsi al supporto del design.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481564?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481607?captions=ita&quality=12&learn=on&hidetitle=true)
 
 Ora disponi di un processo ripetibile per comprendere i clienti, collaborare con gli stakeholder e offrire presentazioni e proposte pronte per la vendita utilizzando Acrobat Studio.
