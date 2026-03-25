@@ -88,11 +88,11 @@ Scopri come generare un documento [adatto ai dispositivi mobili](create-mobile-f
     <br>
   </td>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
       <img alt="Scarica l’app Acrobat Sign per dispositivi mobili per Android" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong>Scarica l’app mobile Acrobat Sign per Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong>Scarica l’app mobile Acrobat Sign per Android</strong></a>
     </div>
     <em>Scarica l’app Acrobat Sign per dispositivi mobili da Google Play</em>
     <br>
