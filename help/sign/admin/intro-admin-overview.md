@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: b24235986241d53bfd09d602192e50290bfb8817
+source-git-commit: 184d041d27da2172761c4bfbb6f58ac80f3395cc
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '719'
 ht-degree: 3%
 
 ---
@@ -23,6 +23,10 @@ Scopri come aggiungere utenti all’account, configurare gruppi, condividere l�
 
 >[!BEGINTABS]
 
+>[!TAB Configurare e modificare l’accordo]
+
+Scopri come configurare e gestire [Modifica accordo](configure-modify-agreement.md) in Acrobat Sign.
+
 >[!TAB Creare un flusso di lavoro personalizzato]
 
 Scopri come creare e utilizzare [flussi di lavoro personalizzati](building-a-custom-workflow.md) per velocizzare il processo di creazione e invio di un accordo.
@@ -34,10 +38,6 @@ Scopri come creare un [modello di documento riutilizzabile](../sign-advanced-use
 >[!TAB Abilita regole di assegnazione automatica degli utenti]
 
 Scopri come impostare [le regole di assegnazione automatica](automatic-assignment-rules.md) che consentono agli utenti di accedere ad Acrobat Sign nell&#39;Admin Console.
-
->[!TAB Migrazione dei modelli Docusign]
-
-Scopri come [migrare facilmente i modelli Docusign](docusign-templates.md) e i flussi di lavoro in tre semplici passaggi.
 
 >[!ENDTABS]
 
@@ -234,8 +234,13 @@ Scopri come [migrare facilmente i modelli Docusign](docusign-templates.md) e i f
       <br>
     </td>
     <td>
-      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
+      <a href="configure-modify-agreement.md">
+        <img alt="Configurare e gestire Modifica accordo" src="../assets/configure-modify.png" />
+      </a>
       <div>
+      <a href="configure-modify-agreement.md"><strong>Configurare e modificare l’accordo</strong></a>
+      </div>
+      <em>Scopri come configurare e gestire Modifica accordo</em>
       <br>
     </td>
     <td>
