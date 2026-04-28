@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
+source-git-commit: c4dd480735696feee27fe21320b24aaa74c990f8
 workflow-type: tm+mt
-source-wordcount: '510'
-ht-degree: 26%
+source-wordcount: '539'
+ht-degree: 24%
 
 ---
 
@@ -149,9 +149,14 @@ Scopri come creare un [modello di documento riutilizzabile](../sign-advanced-use
     <br>
   </td>
     <td>
-      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
+     <a href="checkbox-groups.md">
+      <img alt="Guida le selezioni necessarie con i gruppi di caselle di controllo" src="../assets/checkboxes.png" />
+    </a>
+    <div>
+    <a href="checkbox-groups.md"><strong>Guida alle selezioni necessarie con gruppi di caselle di controllo</strong></a>
+    </div>
+    Scopri come utilizzare i gruppi di caselle di controllo per controllare quante opzioni un firmatario può selezionare in un modulo
+    <br>
     </td>
     <td>
       <img alt="Spaziatore" src="../assets/Whitespacer.png" />
