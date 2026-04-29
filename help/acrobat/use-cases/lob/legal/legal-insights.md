@@ -5,10 +5,11 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20552
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+exl-id: 86b7e471-0e26-45d9-b87a-c91886e10c33
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 3%
+source-wordcount: '205'
+ht-degree: 2%
 
 ---
 
@@ -17,6 +18,8 @@ ht-degree: 3%
 Scopri come i team legali utilizzano Acrobat Studio per analizzare documenti complessi, collaborare in modo sicuro e trasformare le informazioni in linee guida chiare e attuabili, in modo più rapido e con maggiore sicurezza. Questo caso di utilizzo è progettato per essere completato in sequenza, con ogni video creato nella fase precedente.
 
 **Ideale per:** leader legali, consulenti interni, revisori dei contratti e team che forniscono assistenza legale in tutta l&#39;azienda.
+
+**Prova:** scopri questo flusso di lavoro legale [pratico](https://w.adobedemo.com/s/ujZN1y){target="_blank"} in questo momento.
 
 ## Passaggio 1. Analisi di informazioni legali e approfondimenti sulle superfici
 
@@ -37,4 +40,3 @@ Il feedback è stato completato e i contenuti sono pronti per essere forniti. Sc
 >[!VIDEO](https://video.tv.adobe.com/v/3481666?captions=ita&quality=12&learn=on&hidetitle=true)
 
 È ora disponibile un processo ripetibile per comprendere i documenti legali, collaborare in modo sicuro e creare linee guida chiare e pronte per l&#39;uso.
-

@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '272'
 ht-degree: 2%
 
 ---
@@ -18,6 +18,8 @@ ht-degree: 2%
 Scopri come i team HR utilizzano Acrobat Studio per semplificare l&#39;onboarding dei dipendenti dall&#39;inizio alla fine. Scopri come trasformare i documenti di onboarding complessi in informazioni chiare, collaborare con gli stakeholder in PDF Spaces condivisi e creare contenuti esclusivi per il brand pronti per la condivisione con nuovi assunti, in modo più rapido, coerente e sicuro. Questo caso di utilizzo è progettato per essere completato in sequenza, con ogni video creato nella fase precedente.
 
 **Ideale per:** responsabili delle risorse umane, partner aziendali e delle operazioni delle risorse umane, team di onboarding e di esperienza dei dipendenti e chiunque prepari materiali HR per dipendenti o dirigenti.
+
+**Prova:** scopri questo flusso di lavoro di onboarding HR [pratico](https://w.adobedemo.com/s/NvvfVm){target="_blank"} in questo momento.
 
 ## Passaggio 1. Trasforma i documenti di onboarding in informazioni chiare
 
