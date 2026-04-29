@@ -5,10 +5,11 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20552
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+exl-id: 86b7e471-0e26-45d9-b87a-c91886e10c33
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 3%
+source-wordcount: '205'
+ht-degree: 2%
 
 ---
 
@@ -18,23 +19,24 @@ Scopri come i team legali utilizzano Acrobat Studio per analizzare documenti com
 
 **Ideale per:** leader legali, consulenti interni, revisori dei contratti e team che forniscono assistenza legale in tutta l&#39;azienda.
 
+**Prova:** scopri questo flusso di lavoro legale [pratico](https://w.adobedemo.com/s/ujZN1y){target="_blank"} in questo momento.
+
 ## Passaggio 1. Analisi di informazioni legali e approfondimenti sulle superfici
 
 Inizia analizzando documenti legali complessi, emergendo modifiche chiave e identificando i rischi utilizzando approfondimenti basati sull&#39;intelligenza artificiale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481642?captions=ita&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481634?quality=12&learn=on&hidetitle=true)
 
 ## Passaggio 2. Collabora in modo sicuro alla revisione legale
 
 Le informazioni sono ora pronte per la revisione del team. Scopri come ridurre il caos nelle e-mail, mantenere il controllo delle versioni e collaborare in modo sicuro su revisioni legali complesse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481655?captions=ita&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481646?quality=12&learn=on&hidetitle=true)
 
 ## Passaggio 3. Trasformare informazioni legali in contenuti pronti per l&#39;uso
 
 Il feedback è stato completato e i contenuti sono pronti per essere forniti. Scopri come i team legali elaborano rapidamente le linee guida, applicano il branding approvato e forniscono PDF sicuri e accessibili.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481666?captions=ita&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481647?quality=12&learn=on&hidetitle=true)
 
 È ora disponibile un processo ripetibile per comprendere i documenti legali, collaborare in modo sicuro e creare linee guida chiare e pronte per l&#39;uso.
-
