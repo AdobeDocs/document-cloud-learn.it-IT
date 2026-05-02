@@ -22,4 +22,4 @@ Scopri come raggruppare le caselle di controllo:
 * Guida i firmatari con feedback chiaro e in linea
 * Migliorare l&#39;accuratezza delle informazioni raccolte nei moduli
 
->[!VIDEO](https://video.tv.adobe.com/v/3484144?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3484168?captions=ita&quality=12&learn=on&hidetitle=true)
