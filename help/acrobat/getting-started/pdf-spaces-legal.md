@@ -21,7 +21,7 @@ PDF Spaces è disponibile per gli utenti che acquistano Acrobat Studio o il comp
 
 **Prova:** scopri gli spazi PDF [pratici](https://w.adobedemo.com/s/Y1h_Xk){target="_blank"} in questo momento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475140?captions=ita&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Specifico del team]
 
