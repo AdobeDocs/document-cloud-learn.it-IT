@@ -7,9 +7,20 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6864
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 9f17fd494d1ecf87ac7bb8ca971258c70614bc88
+TQID: https://experienceleague.adobe.com/NybSWjRwDsbNNoKTb-AyBmTZMaBCgTIMoAzDEmlDPd4
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: 483
 ht-degree: 1%
 
 ---
@@ -102,8 +113,8 @@ Adobe Acrobat, una soluzione Adobe Document Cloud, aiuta le aziende a muoversi c
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" title="Basato su IA" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1220d424bff112d1d5f154e5ab4f2fe8a5cbd4334.png?width=2000?width=400&format=webply&optimize=medium" alt="Basato su IA"
+                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" title="Basato sull&apos;intelligenza artificiale" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1220d424bff112d1d5f154e5ab4f2fe8a5cbd4334.png?width=2000?width=400&format=webply&optimize=medium" alt="Basato sull&apos;intelligenza artificiale"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -111,9 +122,9 @@ Adobe Acrobat, una soluzione Adobe Document Cloud, aiuta le aziende a muoversi c
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" target="_self" rel="referrer" title="Basato su IA">Alimentazione AI</a>
+                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" target="_self" rel="referrer" title="Basato sull&apos;intelligenza artificiale">Intelligenza artificiale </a>
                     </p>
-                    <p class="is-size-6">Scopri come AI può trasformare i flussi di lavoro PDF</p>
+                    <p class="is-size-6">Scopri come l'intelligenza artificiale può trasformare i flussi di lavoro di PDF</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Esplora</span>
@@ -125,8 +136,8 @@ Adobe Acrobat, una soluzione Adobe Document Cloud, aiuta le aziende a muoversi c
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" title="Casi d’uso" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/by-industry/media_1c9a698c7bae70a0e784d1cea181152f5dd4e17ec.png?width=400&format=webply&optimize=medium" alt="Casi d’uso"
+                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" title="Casi di utilizzo" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/by-industry/media_1c9a698c7bae70a0e784d1cea181152f5dd4e17ec.png?width=400&format=webply&optimize=medium" alt="Casi di utilizzo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,9 +145,9 @@ Adobe Acrobat, una soluzione Adobe Document Cloud, aiuta le aziende a muoversi c
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" target="_self" rel="referrer" title="Casi d’uso">Casi d'uso</a>
+                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" target="_self" rel="referrer" title="Casi di utilizzo">Casi di utilizzo</a>
                     </p>
-                    <p class="is-size-6">Flussi di lavoro Acrobat per aziende nel mondo reale</p>
+                    <p class="is-size-6">Flussi di lavoro Acrobat per aziende reali</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Esplora</span>
@@ -148,7 +159,7 @@ Adobe Acrobat, una soluzione Adobe Document Cloud, aiuta le aziende a muoversi c
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" title="Acrobat a 60 secondi" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" title="Acrobat da 60 secondi" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/media_1e95e07bbceaf7e8f9bfccff9dccc7827fe813d96.png?width=400&format=webply&optimize=medium" alt="Acrobat da 60 secondi"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>

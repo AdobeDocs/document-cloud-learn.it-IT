@@ -7,10 +7,17 @@ level: Beginner
 jira: KT-9278
 thumbnail: KT-9278.jpg
 exl-id: b7f08003-1bbd-4d90-9ff7-6033da20a705
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+TQID: https://experienceleague.adobe.com/0ESFBxGtOHdZGF-Tn5p9XmELpHLPbKvYhHx6unRNP2U
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 3%
+source-wordcount: 75
+ht-degree: 16%
 
 ---
 
@@ -18,4 +25,4 @@ ht-degree: 3%
 
 In questo tutorial video di 60 secondi, imparate a utilizzare lo strumento [Organizza pagine](https://www.adobe.com/it/acrobat/online/rearrange-pdf.html) per ottenere una vista aerea del vostro PDF. Modificate l&#39;ordine e il layout delle pagine e persino [divise il PDF](https://www.adobe.com/it/acrobat/online/split-pdf.html){target="_blank"} in file più piccoli.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409110?quality=12&learn=on&hidetitle=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3409110?captions=ita&quality=12&learn=on&hidetitle=true)

@@ -7,16 +7,25 @@ level: Beginner
 jira: KT-8254
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/0slgFMsmVYzfjcziRMSfJmZvwtNr-AyZMcFzrSewUKM
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 0%
+source-wordcount: 133
+ht-degree: 4%
 
 ---
 
 # Combina più file in un unico PDF
 
-Per offrire ai clienti la migliore esperienza possibile, è necessario creare i contenuti in modo più rapido che mai. Scopri come combinare facilmente molti tipi diversi di file (PDF, Word, Excel, PowerPoint, JPEG, ecc.) in un unico PDF. [La combinazione dei file in un unico PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} consente di gestire e controllare i contenuti inviati ad altri utenti, offrendo un&#39;esperienza migliore.
+Per offrire ai clienti la migliore esperienza possibile, è necessario creare i contenuti in modo più rapido che mai. Scopri come combinare facilmente molti tipi diversi di file (PDF, Word, Excel, PowerPoint, JPEG, ecc.) in un singolo PDF. [La combinazione dei file in un unico PDF](https://www.adobe.com/it/acrobat/online/merge-pdf.html){target="_blank"} consente di gestire e controllare i contenuti inviati ad altri utenti, offrendo un&#39;esperienza migliore.
 
 >[!TIP]
 >

@@ -9,10 +9,21 @@ jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 0a299592f0616988b6208fc98d3140f4ac22057e
+TQID: https://experienceleague.adobe.com/hpoT07uqXklt0yT3-oD6AW8mWcbGxqalTao-5lc6BCc
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+feature_v2:
+  - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 0%
+source-wordcount: 917
+ht-degree: 1%
 
 ---
 
@@ -24,7 +35,7 @@ Scopri come utilizzare le API di Acrobat Sign per incorporare esperienze di firm
 
 Nella parte 1, scopri come iniziare con tutto ciò di cui hai bisogno per le parti 2-4. Iniziamo con il recupero delle credenziali API.
 
-+++Visualizza dettagli su come ottenere le credenziali API
++++Visualizzare i dettagli su come ottenere le credenziali API
 
 * [Account per sviluppatori Acrobat Sign](https://www.adobe.com/acrobat/business/developer-form.html)
 * [Codice Starter](https://github.com/benvanderberg/adobe-sign-api-tutorial)
@@ -65,7 +76,7 @@ Nella parte 2, esplora l’opzione &quot;low/no code&quot; per l’utilizzo dei 
 
 Nella parte 3, crea dinamicamente gli accordi.
 
-+++Visualizza dettagli su come creare dinamicamente gli accordi
++++Visualizzare i dettagli sulla creazione dinamica degli accordi
 
 In primo luogo, è necessario stabilire l&#39;accesso. Con Acrobat Sign, sono disponibili due modi per connettersi tramite API. Token OAuth e chiavi di integrazione. A meno che tu non abbia un motivo molto specifico per utilizzare OAuth con la tua applicazione, dovresti prima esplorare le Chiavi di integrazione.
 
@@ -124,7 +135,7 @@ Il codice è abbastanza semplice; utilizza un documento libreria (modello) per l
 
 In molti casi può essere utile consentire al partecipante che esegue l’attivazione di firmare immediatamente un accordo. Questa funzione è utile per le applicazioni e i chioschi rivolti ai clienti.
 
-+++Visualizza i dettagli su come incorporare l’esperienza di firma
++++Visualizzare i dettagli su come incorporare l’esperienza di firma
 
 Se non desideri che venga attivato il primo invio di e-mail, un modo semplice consiste nel gestire il comportamento modificando la chiamata API.
 

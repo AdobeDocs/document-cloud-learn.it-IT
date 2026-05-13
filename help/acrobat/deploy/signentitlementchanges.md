@@ -7,10 +7,21 @@ level: Intermediate
 jira: KT-7269
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/yAZqS-n9dBEr5B56ibBNPNF8MfEOfCq3J74wNHFnYo0
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 2%
+source-wordcount: 803
+ht-degree: 7%
 
 ---
 
@@ -47,7 +58,7 @@ Inoltre, Adobe Sign Enterprise offre più funzionalità rispetto a quelle dispon
 * Personalizzazione e ottimizzazione
    * Autenticazione della firma elettronica migliorata, verifica avanzata dell’identità dei firmatari basata su ID, progettazione di flussi di lavoro, supporto linguistico avanzato, ecc.
 
-Adobe Sign è la soluzione leader del settore riconosciuta a livello globale per l’acquisizione di firme legalmente conformi. Adobe Sign è stato progettato appositamente per soddisfare le esigenze di firma elettronica della tua organizzazione. Gli strumenti di facile utilizzo per gli amministratori IT garantiscono che tu e i tuoi utenti utilizziate firme elettroniche conformi alle varie normative regionali e di settore in materia di firme elettroniche. Per ulteriori informazioni sulla gestione di Sign tramite [Adobe Admin Console](https://helpx.adobe.com/it/enterprise/using/adobe-sign-for-enterprise.html), visita [qui](https://helpx.adobe.com/it/enterprise/using/admin-console.html).
+Adobe Sign è la soluzione leader del settore riconosciuta a livello globale per l’acquisizione di firme legalmente conformi. Adobe Sign è stato progettato appositamente per soddisfare le esigenze di firma elettronica della tua organizzazione. Gli strumenti di facile utilizzo per gli amministratori IT garantiscono che tu e i tuoi utenti utilizziate firme elettroniche conformi alle varie normative regionali e di settore in materia di firme elettroniche. Per ulteriori informazioni sulla gestione di Sign tramite [Adobe Admin Console](https://helpx.adobe.com/it/enterprise/using/admin-console.html), visita [qui](https://helpx.adobe.com/it/enterprise/using/adobe-sign-for-enterprise.html).
 
 Contatta il tuo referente Adobe per valutare come continuare a fornire le funzionalità di firma elettronica della tua organizzazione tramite la più ampia piattaforma di documenti digitali che include Acrobat DC e Adobe Sign Enterprise.
 
@@ -73,7 +84,7 @@ Gli utenti potranno accedere ad https://documentcloud.adobe.com/ per scaricare t
 * [Accesso ad Adobe Document Cloud](https://helpx.adobe.com/it/document-cloud/help/sign-in.html)
 * [Gestione dei file (Dove sono i miei file?)](https://helpx.adobe.com/it/document-cloud/help/manage-files.html)
 * [Utilizzo di [!UICONTROL Acrobat Customization Wizard] per la configurazione](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
-* [Panoramica dell&#39;[!UICONTROL Admin Console]](https://helpx.adobe.com/it/enterprise/using/admin-console.html)
+* [Panoramica di [!UICONTROL Admin Console]](https://helpx.adobe.com/it/enterprise/using/admin-console.html)
 * [Gestione di Adobe Sign nell&#39;[!UICONTROL Admin Console]](https://helpx.adobe.com/it/enterprise/using/adobe-sign-for-enterprise.html)
 
 **Revisioni** 20 maggio 2020; post originale - agosto 2019
