@@ -7,10 +7,15 @@ level: Intermediate
 jira: KT-9345
 thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/e6UxLIxTmzvuzAqZ8gId67CWtOzEuMFM8aHnjlmu3cs
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 0%
+source-wordcount: 737
+ht-degree: 1%
 
 ---
 
@@ -37,7 +42,7 @@ Usa lo strumento Prepare Form per aggiungere automaticamente dei campi modulo a 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3448519?captions=ita&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -47,7 +52,7 @@ Per aggiungere vari tipi di campi modulo e impostarne le proprietà in un PDF es
 
 1. Scarica e apri *Questionnaire.pdf*.
 1. Seleziona **Prepare Form** nel centro Strumenti.
-1. Seleziona **Inizio**.
+1. Seleziona **Avvia**.
 1. Seleziona **Modifica testo e immagini** nella barra degli strumenti per correggere il refuso.
 1. Scegli **Seleziona** nella barra degli strumenti per uscire dalla modalità Modifica.
 1. Seleziona ed elimina il campo modulo superiore.
@@ -62,7 +67,7 @@ L’aggiunta di un campo elenco riduce la possibilità di errori nei dati del mo
 1. Seleziona **Tutte le proprietà** e scegli la scheda **Opzioni**.
 1. Aggiungi tre posizioni diverse nel campo **Elemento:**.
 1. Selezionare il percorso predefinito nel campo **Elenco elementi:**.
-1. Selezionare **Chiudi**.
+1. Seleziona **Chiudi**.
 1. Tieni premuto il tasto Maiusc e seleziona il campo sottostante.
 1. Seleziona **Larghezza e altezza corrispondenti** e **Allinea a sinistra** nel riquadro a destra.
 
@@ -73,9 +78,9 @@ I campi Selezione data aggiungono interattività ed eliminano gli errori in un m
 1. Digita *Inizio progetto* in **Nome campo:**.
 1. Selezionare **Tutte le proprietà** e scegliere la scheda **Formato**.
 1. Scegli un&#39;opzione di formato data e seleziona **Chiudi**.
-1. Mac Per duplicare il campo, tieni premuti i tasti Ctrl + Maiusc (Windows) o Comando + Maiusc (Mac OS).
+1. Per duplicare il campo, tieni premuti i tasti Ctrl + Maiusc (Windows) o Comando + Maiusc (Mac OS).
 1. Fai doppio clic sul nuovo campo, seleziona la scheda **Generali** e rinomina il campo *Fine progetto*.
-1. Selezionare **Chiudi**.
+1. Seleziona **Chiudi**.
 1. Tieni premuto il tasto Maiusc e seleziona tutti e tre i campi.
 1. Seleziona **Larghezza e altezza corrispondenti** nel riquadro a destra.
 1. Se necessario, utilizzare i tasti di direzione per allineare ogni campo.
@@ -86,7 +91,7 @@ Le proprietà del testo vengono utilizzate per distribuire il testo in modo unif
 1. Deseleziona tutte le caselle tranne **Pettine di**.
 1. Digitare *5* nella casella dei caratteri.
 1. Seleziona la scheda **Aspetto** e scegli un colore nella casella **Colore bordo**.
-1. Selezionare **Chiudi**.
+1. Seleziona **Chiudi**.
 1. Selezionare **Anteprima** e immettere alcuni numeri per verificare il campo del pettine.
 1. Selezionare **Altro** > **Cancella modulo** per eliminare i dati nel riquadro a destra.
 
@@ -94,7 +99,7 @@ Le proprietà del testo vengono utilizzate per distribuire il testo in modo unif
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439900?captions=ita&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
 
@@ -105,7 +110,7 @@ Per impostare contemporaneamente le proprietà di più campi, impostare l’ordi
 1. Tieni premuto il tasto Maiusc e seleziona tutti i campi di testo e di elenco nel riquadro a destra.
 1. Fare clic con il pulsante destro del mouse e selezionare **Proprietà...**.
 1. Seleziona *12* dal menu a discesa **Dimensione font:**.
-1. Selezionare **Chiudi**.
+1. Seleziona **Chiudi**.
 
 L’impostazione dell’ordine di tabulazione consente al compilatore del modulo di spostarsi facilmente da un campo all’altro durante la compilazione del modulo.
 

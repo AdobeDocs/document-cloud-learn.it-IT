@@ -6,9 +6,14 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: 7540d070cd8efe97535a1d25f3c49bd46a7bcd44
+TQID: https://experienceleague.adobe.com/YY1KnKoaUlehTZXs8Z3xtzqkD-D4k6BrDTSv4cQ-OtI
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: 227
 ht-degree: 0%
 
 ---
@@ -17,7 +22,7 @@ ht-degree: 0%
 
 Scopri come creare contenuti sicuri per il marchio, estrarre informazioni dettagliate e semplificare i lavori complessi con Acrobat Studio, in modo che il tuo team possa muoversi più velocemente. Acrobat Studio è una soluzione completa che include Acrobat Pro, AI Assistant, PDF Spaces più Adobe Express Premium. Scopri le opzioni interattive **Prova** riportate di seguito per scoprire come Acrobat Studio semplifica il lavoro del tuo team.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475064?captions=ita&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Specifico del team]
 

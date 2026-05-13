@@ -5,10 +5,16 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-19422
-source-git-commit: d23c32d7123e1611d667358b1b070d5d421d2887
+exl-id: f2b2bf31-e9ec-4bda-8f89-d0f268f24c69
+TQID: https://experienceleague.adobe.com/yP0iQGUfN2Y1kRg5Bk781cY8kcia5XBfHFMWCbn7QIw
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 1%
+source-wordcount: 203
+ht-degree: 0%
 
 ---
 
@@ -24,9 +30,9 @@ Scoprite come l&#39;intelligenza artificiale può trasformare i flussi di lavoro
 
 Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e conversazionali](../getting-started/pdf-spaces-legal.md) con assistenti basati su intelligenza artificiale personalizzati.
 
->[!TAB Che cos&#39;è Acrobat Studio?]
+>[!TAB Che cos’è Acrobat Studio?]
 
-Scopri come creare contenuti sicuri per il marchio, estrarre informazioni dettagliate e semplificare i lavori complessi con [Acrobat Studio](../getting-started/acrobat-studio.md).
+Scopri come creare contenuti sicuri per il marchio, estrarre informazioni dettagliate e semplificare il lavoro complesso con [Acrobat Studio](../getting-started/acrobat-studio.md).
 
 >[!TAB Scopri gli insight di PDF con Assistente AI]
 
@@ -63,7 +69,7 @@ Scopri come [scoprire gli insight di PDF](../getting-started/ai-assistant.md) ne
       <img alt="Che cos’è Acrobat Studio?" src="../assets/acrobat-studio.png" />
     </a>
     <div>
-    <a href="../getting-started/acrobat-studio.md"><strong>Che cos'è Acrobat Studio?</strong></a>
+    <a href="../getting-started/acrobat-studio.md"><strong>Che cos’è Acrobat Studio?</strong></a>
     </div>
     <em>Scopri come creare contenuti sicuri per il marchio, estrarre informazioni dettagliate e semplificare il lavoro complesso con Acrobat Studio</em>
     <br>
