@@ -25,7 +25,7 @@ ht-degree: 7%
 
 In questo tutorial video di 60 secondi, scopri come effettuare [semplici modifiche ai PDF](https://www.adobe.com/it/acrobat/online/pdf-editor.html){target="_blank"} su testo e immagini senza nemmeno scaricare PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/336362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409465?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

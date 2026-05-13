@@ -30,7 +30,7 @@ ht-degree: 7%
 
 L’invio di un documento per una singola firma è l’azione più comune in Acrobat Sign. In questo tutorial, scopri il modo più semplice per preparare e inviare un documento per la firma.
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425270?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

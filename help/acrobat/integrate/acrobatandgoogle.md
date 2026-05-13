@@ -27,4 +27,4 @@ ht-degree: 0%
 
 Scopri come accedere a strumenti PDF e flussi di lavoro per firma elettronica che consentono di risparmiare tempo direttamente nell&#39;app [!DNL Google Drive].
 
->[!VIDEO](https://video.tv.adobe.com/v/333600?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409671?captions=ita&quality=12&learn=on&hidetitle=true)

@@ -31,5 +31,5 @@ Scopri come inviare promemoria e scadenze e-mail regolari per aiutarti a firmare
 >
 >I piani Enterprise e Business possono esporre in modo selettivo le opzioni Promemoria durante il processo di invio, oppure abilitare l’automazione a livello di account o gruppo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411445?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425314?captions=ita&quality=12&learn=on&hidetitle=true)
 

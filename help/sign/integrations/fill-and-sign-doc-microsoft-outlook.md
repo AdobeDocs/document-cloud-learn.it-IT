@@ -31,7 +31,7 @@ ht-degree: 0%
 
 Scopri come semplificare i flussi di lavoro dei documenti compilando e firmando un modulo direttamente in [!DNL Microsoft Outlook].
 
->[!VIDEO](https://video.tv.adobe.com/v/344947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443460?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

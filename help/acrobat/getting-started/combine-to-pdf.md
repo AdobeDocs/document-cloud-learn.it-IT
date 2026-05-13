@@ -33,7 +33,7 @@ Per offrire ai clienti la migliore esperienza possibile, è necessario creare i 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35452?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409567?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

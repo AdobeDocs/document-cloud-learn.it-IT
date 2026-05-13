@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Scopri come archiviare automaticamente i documenti firmati in una libreria [!DNL SharePoint] utilizzando [!DNL Power Automate].
 
->[!VIDEO](https://video.tv.adobe.com/v/3409121?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412799?captions=ita&quality=12&learn=on&hidetitle=true)

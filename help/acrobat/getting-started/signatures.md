@@ -31,7 +31,7 @@ Per continuare a promuovere le attività aziendali, raccogli [firme elettroniche
 >
 >Oltre all’abbonamento ad Acrobat Sign Enterprise, è necessario disporre di un’autorizzazione ad Acrobat Enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/338359?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347163?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

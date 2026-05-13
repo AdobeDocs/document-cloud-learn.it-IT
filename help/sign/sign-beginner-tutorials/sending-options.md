@@ -34,4 +34,4 @@ Scopri come personalizzare i dettagli dell’accordo, allegare file e configurar
 >
 >L’amministratore potrebbe aver personalizzato le opzioni di invio, quindi le opzioni visualizzate potrebbero essere diverse da quelle mostrate in questo tutorial.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412764?captions=ita&quality=12&learn=on&hidetitle=true)

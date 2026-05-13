@@ -25,4 +25,4 @@ ht-degree: 13%
 
 Scopri come [compilare e firmare un modulo PDF](https://www.adobe.com/it/acrobat/online/sign-pdf.html){target="_blank"} in modo semplice e veloce. Non è necessario eseguire operazioni di stampa o scansione complesse.
 
->[!VIDEO](https://video.tv.adobe.com/v/35495?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409629?captions=ita&quality=12&learn=on&hidetitle=true)

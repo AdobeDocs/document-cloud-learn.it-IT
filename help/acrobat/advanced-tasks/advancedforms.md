@@ -38,4 +38,4 @@ File di esempio con cui esercitarsi (ZIP, 1,7 MB)
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340379?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446339?captions=ita&quality=12&learn=on&hidetitle=true)

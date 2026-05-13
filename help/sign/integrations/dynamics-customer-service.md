@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Scopri come Acrobat Sign e [!DNL Microsoft Dynamics 365] per il servizio clienti vengono utilizzati per migliorare la soddisfazione dei clienti su un portale Web self-service per i clienti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422046?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445981?captions=ita&quality=12&learn=on&hidetitle=true)

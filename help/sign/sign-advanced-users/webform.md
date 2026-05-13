@@ -39,7 +39,7 @@ Scopri come utilizzare un modulo Web per un complesso flusso di lavoro per l’a
 * [Sovvenzioni e prestiti alle imprese](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=it)
 * [Assistenza alla rioccupazione](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=it)
 
->[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411225?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

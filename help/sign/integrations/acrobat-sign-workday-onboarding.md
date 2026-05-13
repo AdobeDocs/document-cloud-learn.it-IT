@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Acrobat Sign in Workday semplifica la semplificazione dei flussi di lavoro di onboarding con un processo digitale al 100% per la raccolta delle firme. Consente al team di dedicare meno tempo alla gestione dei processi di firma e più tempo allo svolgimento di attività utili.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446641?captions=ita&quality=12&learn=on&hidetitle=true)

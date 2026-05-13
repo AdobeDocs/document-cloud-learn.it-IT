@@ -33,7 +33,7 @@ Scopri come trasformare rapidamente le pagine Web in PDF con l&#39;estensione Ad
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337248?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409095?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

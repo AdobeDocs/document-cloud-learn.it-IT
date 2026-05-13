@@ -25,4 +25,4 @@ ht-degree: 11%
 
 In questo tutorial video di 60 secondi, scopri come [convertire un file PDF in un documento Microsoft Word](https://www.adobe.com/it/acrobat/online/pdf-to-word.html){target="_blank"} completamente modificabile con l&#39;app mobile Acrobat.
 
->[!VIDEO](https://video.tv.adobe.com/v/340214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347118?captions=ita&quality=12&learn=on&hidetitle=true)

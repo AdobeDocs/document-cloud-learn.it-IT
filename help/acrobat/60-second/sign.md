@@ -25,4 +25,4 @@ ht-degree: 0%
 
 In questo tutorial video di 60 secondi, scopri come utilizzare Adobe Scan per firmare un modulo stampato. È sufficiente scansionarlo, firmarlo e inviarlo come PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338331?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347125?captions=ita&quality=12&learn=on&hidetitle=true)

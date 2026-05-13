@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Scopri come modificare o eliminare un modello nella tua libreria.
 
->[!VIDEO](https://video.tv.adobe.com/v/342567?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411201?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -24,4 +24,4 @@ ht-degree: 0%
 
 In questo tutorial video di 60 secondi, scoprite come creare un riepilogo di tutti i commenti e delle marcature nel file PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409907?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436975?captions=ita&quality=12&learn=on&hidetitle=true)

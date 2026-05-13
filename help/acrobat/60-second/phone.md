@@ -25,7 +25,7 @@ ht-degree: 6%
 
 In questo tutorial video di 60 secondi, scopri come convertire un [allegato di PowerPoint in PDF](https://www.adobe.com/it/acrobat/online/ppt-to-pdf.html){target="_blank"} tramite e-mail sul tuo telefono. Quando il file viene restituito, visualizzalo e tocca Condividi per inviarlo al tuo team, il tutto senza PowerPoint nel telefono.
 
->[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409206?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

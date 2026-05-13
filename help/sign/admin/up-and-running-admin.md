@@ -38,7 +38,7 @@ Scopri le sette aree chiave su cui gli amministratori devono concentrarsi per in
 >
 >La creazione di rapporti è disponibile solo per i piani a livello aziendale ed enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/33657?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411237?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
