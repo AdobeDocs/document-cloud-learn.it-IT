@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: d0dff6f4ad6274a97845c5e4b77c7dd968dd18d2
+source-git-commit: 6d5130128ab9c5084b6476ee5bd5c04869a3f0a9
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,8 @@ Scoprite come i team di diverse linee di business utilizzano Acrobat per risolve
     <em>Scopri come i team di marketing semplificano la collaborazione, velocizzano le approvazioni e introducono sul mercato nuove idee più rapidamente</em>
     <br>
   </td>
-  </tr>
-  <tr>
+</tr>
+<tr>
   <td>
     <a href="lob/sales/sales-overview.md">
       <img alt="Casi di utilizzo vendite" src="../assets/use-case-sales.png" />
@@ -75,6 +75,21 @@ Scoprite come i team di diverse linee di business utilizzano Acrobat per risolve
     </div>
     <em>Scoprite come i team di vendita vanno da una semplice analisi all'impatto con una collaborazione più intelligente e una creazione più veloce dei contenuti</em>
     <br>
+  </td>
+  <td>
+        <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spaziatore" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
@@ -87,8 +102,8 @@ Scoprite come i team di diverse linee di business utilizzano Acrobat per risolve
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat per la Pubblica Amministrazione" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat per la Pubblica Amministrazione"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat per la Pubblica Amministrazione" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat per la Pubblica Amministrazione"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -96,11 +111,11 @@ Scoprite come i team di diverse linee di business utilizzano Acrobat per risolve
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat per la Pubblica Amministrazione">Acrobat per la pubblica amministrazione</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat per la Pubblica Amministrazione">Acrobat per la pubblica amministrazione</a>
                     </p>
                     <p class="is-size-6">Esplora i nostri tutorial su Acrobat progettati specificamente per le amministrazioni federali, statali e locali</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Esplorare i tutorial</span>
                 </a>
             </div>
