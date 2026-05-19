@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-21216
-source-git-commit: cfb98b8b463b7217c9b32fab0618e3dc3c81c066
+source-git-commit: 5201568bc89f87becd045c4f60e6baa34cdb1dc2
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '115'
 ht-degree: 1%
 
 ---
@@ -37,8 +37,7 @@ Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le r
     <div>
     <a href="marketing-product-launch.md"><strong>Accelera l’avvio dei prodotti con Acrobat Studio</strong></a>
     </div>
-    <em>Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le risorse di lancio dei prodotti, semplificare le revisioni degli stakeholder e scalare la fattibilità dell'organizzazione
-funzione: Gen AI</em>
+    <em>Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le risorse per il lancio dei prodotti, semplificare le revisioni degli stakeholder e scalare la preparazione dell'organizzazione</em>
     <br>
   </td>
   <td>
