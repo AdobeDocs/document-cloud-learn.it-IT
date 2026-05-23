@@ -26,4 +26,4 @@ Hai già inviato un accordo, ma è scaduto, è stato annullato o devi inviarlo d
 >
 >Crea una copia è disponibile per i piani a livello aziendale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491372?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491380?captions=ita&quality=12&learn=on&hidetitle=true)
