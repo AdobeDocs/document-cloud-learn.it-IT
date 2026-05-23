@@ -19,5 +19,5 @@ In questo tutorial, segui un lead di marketing mentre utilizza uno spazio PDF pe
 
 **Ideale per:** responsabili marketing e lead, responsabili di progetto/programma e team di comunicazione e abilitazione
 
->[!VIDEO](https://video.tv.adobe.com/v/3491107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491115?captions=ita&quality=12&learn=on&hidetitle=true)
 
