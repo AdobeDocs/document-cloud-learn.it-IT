@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-21582
-source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
+source-git-commit: dba63896a6b35d2c8930ad2fad2f92fc8d833945
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Abilitazione IT senza colli di bottiglia
 
-In questo tutorial, segui un membro del team IT di SecurFinancial, seguendo tre flussi di lavoro reali. Rimuovere i dati identificativi e generare un riepilogo esecutivo da un report di incidente. Analizzare un contratto di un fornitore in base agli standard di sicurezza interni e produrre un questionario di follow-up. Quindi prendere documenti relativi a policy statiche e trasformarli in una risorsa di governance interattiva a livello di organizzazione a cui i dipendenti possono accedere ed eseguire query su qualsiasi dispositivo. Ogni esercitazione utilizza l&#39;Assistente AI di Acrobat Studio, PDF Spaces e Adobe Express per ridurre le ore di lavoro manuale a pochi minuti, mantenendo il controllo IT su ogni passaggio.Questo caso di utilizzo è progettato per essere completato in sequenza, con ogni video creato nella fase precedente.
+In questo tutorial, segui un membro del team IT di SecurFinancial, seguendo tre flussi di lavoro reali. Rimuovere i dati identificativi e generare un riepilogo esecutivo da un report di incidente. Analizzare un contratto di un fornitore in base agli standard di sicurezza interni e produrre un questionario di follow-up. Quindi prendere documenti relativi a policy statiche e trasformarli in una risorsa di governance interattiva a livello di organizzazione a cui i dipendenti possono accedere ed eseguire query su qualsiasi dispositivo. Ogni esercitazione utilizza l&#39;Assistente AI di Acrobat Studio, PDF Spaces e Adobe Express per ridurre le ore di lavoro manuale a pochi minuti, mantenendo il controllo del reparto IT su ogni passaggio Questo caso di utilizzo è progettato per essere completato in sequenza, con ogni video creato nel passaggio precedente.
 
 **Ideale per:** responsabili IT, team di sicurezza e team operativi
 
