@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 00f1d9b37a4e9d2a76b7585bf97bd56b7b647f68
+source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,16 @@ Scoprite come i team di diverse linee di business utilizzano Acrobat per risolve
       <br>
     </td>
     <td>
+      <a href="lob/it/it-overview.md">
+        <img alt="Casi di utilizzo IT" src="../assets/use-case-it.png" />
+      </a>
+      <div>
+      <a href="lob/it/it-overview.md"><strong>Esempi di utilizzo IT</strong></a>
+      </div>
+      <em>Scopri come i team IT utilizzano Acrobat Studio per semplificare i flussi di lavoro basati su documenti, rafforzare la sicurezza e la conformità e ridimensionare i programmi di governance nell'organizzazione</em>
+      <br>
+    </td>
+    <td>
       <a href="lob/legal/legal-overview.md">
         <img alt="Casi d&apos;uso legali" src="../assets/use-case-legal.png" />
       </a>
@@ -54,6 +64,8 @@ Scoprite come i team di diverse linee di business utilizzano Acrobat per risolve
       <em>Scopri come i team legali comprendono rapidamente documenti complessi e rischi critici e modifiche di superficie</em>
       <br>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="lob/marketing/marketing-overview.md">
         <img alt="Casi d&apos;uso marketing" src="../assets/use-case-marketing.png" />
@@ -64,8 +76,6 @@ Scoprite come i team di diverse linee di business utilizzano Acrobat per risolve
       <em>Scopri come i team di marketing semplificano la collaborazione, velocizzano le approvazioni e introducono sul mercato nuove idee più rapidamente</em>
       <br>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="lob/sales/sales-overview.md">
         <img alt="Casi di utilizzo vendite" src="../assets/use-case-sales.png" />
@@ -75,11 +85,6 @@ Scoprite come i team di diverse linee di business utilizzano Acrobat per risolve
       </div>
       <em>Scoprite come i team di vendita vanno da una semplice analisi all'impatto con una collaborazione più intelligente e una creazione più veloce dei contenuti</em>
       <br>
-    </td>
-    <td>
-          <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-          <div>
-          <br>
     </td>
     <td>
           <img alt="Spaziatore" src="../assets/Grayspacer.png" />
