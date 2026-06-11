@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 96b25ef9f65fc25684ab971a3e5f8cdcfb5ee343
+source-git-commit: 7f4316ba94749de4ee1edb28948c312674965553
 workflow-type: tm+mt
-source-wordcount: '762'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
@@ -42,8 +42,8 @@ Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le r
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/lob/finance/finance-overview" title="Casi d&apos;uso finanziari" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/media_1b52ae9631f556c39d8b081855b7ee1650b31eabc.png?width=400&format=webply&optimize=medium" alt="Casi d&apos;uso finanziari"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/finance/finance-overview" title="Casi d&apos;uso finanziari" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/media_1b52ae9631f556c39d8b081855b7ee1650b31eabc.png?width=400&format=webply&optimize=medium" alt="Casi d&apos;uso finanziari"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -51,11 +51,11 @@ Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le r
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/lob/finance/finance-overview" target="_self" rel="referrer" title="Casi d&apos;uso finanziari">Casi d'uso finanziari</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/finance/finance-overview" target="_self" rel="referrer" title="Casi d&apos;uso finanziari">Casi d'uso finanziari</a>
                     </p>
                     <p class="is-size-6">Scopri come i team finanziari utilizzano Acrobat per creare, gestire, analizzare e proteggere i documenti finanziari</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/lob/finance/finance-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/finance/finance-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia esercitazioni</span>
                 </a>
             </div>
@@ -65,8 +65,8 @@ Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le r
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/lob/hr/hr-overview" title="Casi d&apos;uso HR" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/media_13ab7a6f08ac944565ae450e819b1523855775716.png?width=400&format=webply&optimize=medium" alt="Casi d&apos;uso HR"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/hr/hr-overview" title="Casi d&apos;uso HR" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/media_13ab7a6f08ac944565ae450e819b1523855775716.png?width=400&format=webply&optimize=medium" alt="Casi d&apos;uso HR"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -74,11 +74,11 @@ Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le r
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/lob/hr/hr-overview" target="_self" rel="referrer" title="Casi d&apos;uso HR">Casi d'uso HR</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/hr/hr-overview" target="_self" rel="referrer" title="Casi d&apos;uso HR">Casi d'uso HR</a>
                     </p>
                     <p class="is-size-6">Scopri come i team HR utilizzano Acrobat per gestire documenti e flussi di lavoro durante il ciclo di vita dei dipendenti</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/lob/hr/hr-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/hr/hr-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia esercitazioni</span>
                 </a>
             </div>
@@ -89,7 +89,7 @@ Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" title="Casi di utilizzo IT" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/media_1a7c003cf866650b1275539d36bf87a4aaa136dda.png?width=400&format=webply&optimize=medium" alt="Casi di utilizzo IT"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/media_1a7c003cf866650b1275539d36bf87a4aaa136dda.png?width=400&format=webply&optimize=medium" alt="Casi di utilizzo IT"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -111,8 +111,8 @@ Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le r
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/lob/legal/legal-overview" title="Casi d&apos;uso legali" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/media_1942bd902664e83f8650d9d51100382c128af30de.png?width=400&format=webply&optimize=medium" alt="Casi d&apos;uso legali"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/legal/legal-overview" title="Casi d&apos;uso legali" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/media_1942bd902664e83f8650d9d51100382c128af30de.png?width=400&format=webply&optimize=medium" alt="Casi d&apos;uso legali"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,11 +120,11 @@ Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le r
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/lob/legal/legal-overview" target="_self" rel="referrer" title="Casi d&apos;uso legali">Casi d'uso legali</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/legal/legal-overview" target="_self" rel="referrer" title="Casi d&apos;uso legali">Casi d'uso legali</a>
                     </p>
                     <p class="is-size-6">Scoprite come i team legali comprendono rapidamente documenti complessi e rischi critici e modifiche superficiali</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/lob/legal/legal-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/legal/legal-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia esercitazioni</span>
                 </a>
             </div>
@@ -134,8 +134,8 @@ Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le r
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/lob/marketing/marketing-overview" title="Casi d&apos;uso marketing" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/media_1e37ca6c212ce654e1d849d9d49f96ccb9e827672.png?width=400&format=webply&optimize=medium" alt="Casi d&apos;uso marketing"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/marketing/marketing-overview" title="Casi d&apos;uso marketing" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/media_1e37ca6c212ce654e1d849d9d49f96ccb9e827672.png?width=400&format=webply&optimize=medium" alt="Casi d&apos;uso marketing"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -143,11 +143,11 @@ Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le r
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/lob/marketing/marketing-overview" target="_self" rel="referrer" title="Casi d&apos;uso marketing">Esempi di utilizzo marketing</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/marketing/marketing-overview" target="_self" rel="referrer" title="Casi d&apos;uso marketing">Esempi di utilizzo marketing</a>
                     </p>
                     <p class="is-size-6">Scopri come i team di marketing semplificano la collaborazione, velocizzano le approvazioni e introducono più rapidamente sul mercato nuove idee</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/lob/marketing/marketing-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/marketing/marketing-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia esercitazioni</span>
                 </a>
             </div>
@@ -157,8 +157,8 @@ Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le r
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/lob/sales/sales-overview" title="Casi di utilizzo vendite" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/media_1a5dfdd3cb87efadbc9724bae411203a85aca3f71.png?width=400&format=webply&optimize=medium" alt="Casi di utilizzo vendite"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/sales/sales-overview" title="Casi di utilizzo vendite" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/media_1a5dfdd3cb87efadbc9724bae411203a85aca3f71.png?width=400&format=webply&optimize=medium" alt="Casi di utilizzo vendite"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -166,11 +166,11 @@ Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le r
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/lob/sales/sales-overview" target="_self" rel="referrer" title="Casi di utilizzo vendite">Esempi di utilizzo delle vendite</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/sales/sales-overview" target="_self" rel="referrer" title="Casi di utilizzo vendite">Esempi di utilizzo delle vendite</a>
                     </p>
                     <p class="is-size-6">Scopri come i team di vendita vanno da una semplice analisi all'impatto con una collaborazione più intelligente e una creazione più veloce dei contenuti</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/lob/sales/sales-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/sales/sales-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia esercitazioni</span>
                 </a>
             </div>
@@ -178,86 +178,6 @@ Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le r
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<!-- COMMENT -->
-
-<table style="table-layout:fixed">
-  <tr>
-    <td>
-      <a href="lob/finance/finance-overview.md">
-        <img alt="Casi d&apos;uso finanziari" src="../assets/use-case-finance.png" />
-      </a>
-      <div>
-      <a href="lob/finance/finance-overview.md"><strong>Casi d'uso finanziari</strong></a>
-      </div>
-      <em>Scopri come i team finanziari utilizzano Acrobat per creare, gestire, analizzare e proteggere i documenti finanziari</em>
-      <br>
-    </td>
-    <td>
-      <a href="lob/hr/hr-overview.md">
-        <img alt="Casi d&apos;uso HR" src="../assets/use-case-hr.png" />
-      </a>
-      <div>
-      <a href="lob/hr/hr-overview.md"><strong>Casi d'uso HR</strong></a>
-      </div>
-      <em>Scopri come i team HR utilizzano Acrobat per gestire documenti e flussi di lavoro durante il ciclo di vita dei dipendenti</em>
-      <br>
-    </td>
-    <td>
-      <a href="lob/it/it-overview.md">
-        <img alt="Casi di utilizzo IT" src="../assets/use-case-it.png" />
-      </a>
-      <div>
-      <a href="lob/it/it-overview.md"><strong>Esempi di utilizzo IT</strong></a>
-      </div>
-      <em>Scopri come i team IT utilizzano Acrobat Studio per semplificare i flussi di lavoro basati su documenti, rafforzare la sicurezza e la conformità e ridimensionare i programmi di governance nell'organizzazione</em>
-      <br>
-    </td>
-    <td>
-      <a href="lob/legal/legal-overview.md">
-        <img alt="Casi d&apos;uso legali" src="../assets/use-case-legal.png" />
-      </a>
-      <div>
-      <a href="lob/legal/legal-overview.md"><strong>Casi d'uso legali</strong></a>
-      </div>
-      <em>Scopri come i team legali comprendono rapidamente documenti complessi e rischi critici e modifiche di superficie</em>
-      <br>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="lob/marketing/marketing-overview.md">
-        <img alt="Casi d&apos;uso marketing" src="../assets/use-case-marketing.png" />
-      </a>
-      <div>
-      <a href="lob/marketing/marketing-overview.md"><strong>Esempi di utilizzo marketing</strong></a>
-      </div>
-      <em>Scopri come i team di marketing semplificano la collaborazione, velocizzano le approvazioni e introducono sul mercato nuove idee più rapidamente</em>
-      <br>
-    </td>
-    <td>
-      <a href="lob/sales/sales-overview.md">
-        <img alt="Casi di utilizzo vendite" src="../assets/use-case-sales.png" />
-      </a>
-      <div>
-      <a href="lob/sales/sales-overview.md"><strong>Esempi di utilizzo delle vendite</strong></a>
-      </div>
-      <em>Scoprite come i team di vendita vanno da una semplice analisi all'impatto con una collaborazione più intelligente e una creazione più veloce dei contenuti</em>
-      <br>
-    </td>
-    <td>
-          <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-          <div>
-          <br>
-    </td>
-    <td>
-          <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-          <div>
-          <br>
-    </td>
-  </tr>
-</table>
-<!-- END COMMENT -->
 
 ## Pubblica Amministrazione
 
@@ -267,8 +187,8 @@ Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le r
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat per la Pubblica Amministrazione" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/media_17395982c8fa084a51a246aeefa9bc159f77cb80a.webp?width=400&format=webply&optimize=medium" alt="Acrobat per la Pubblica Amministrazione"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat per la Pubblica Amministrazione" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/media_17395982c8fa084a51a246aeefa9bc159f77cb80a.webp?width=400&format=webply&optimize=medium" alt="Acrobat per la Pubblica Amministrazione"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -276,11 +196,11 @@ Scopri come i team di marketing utilizzano Acrobat Studio per centralizzare le r
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat per la Pubblica Amministrazione">Acrobat per la pubblica amministrazione</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat per la Pubblica Amministrazione">Acrobat per la pubblica amministrazione</a>
                     </p>
                     <p class="is-size-6">Esplora i nostri tutorial su Acrobat progettati specificamente per le amministrazioni federali, statali e locali</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia esercitazioni</span>
                 </a>
             </div>
