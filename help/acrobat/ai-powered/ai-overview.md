@@ -16,9 +16,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: ee8f99c350ea0931579c2b80d5d2ff26640ff21c
+source-git-commit: 7f4316ba94749de4ee1edb28948c312674965553
 workflow-type: tm+mt
-source-wordcount: 575
+source-wordcount: 467
 ht-degree: 0%
 
 ---
@@ -166,77 +166,3 @@ Scopri come [scoprire gli insight di PDF](../getting-started/ai-assistant.md) ne
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<!-- COMMENT -->
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="../getting-started/ai-assistant.md">
-      <img alt="Scopri gli insight di PDF con AI Assistant" src="../assets/ai-assistant.png" />
-    </a>
-    <div>
-    <a href="../getting-started/ai-assistant.md"><strong>Scopri gli insight di PDF con Assistente AI</strong></a>
-    </div>
-    <em>Ottenete informazioni dettagliate dai file PDF utilizzando l'Assistente all'intelligenza artificiale</em>
-    <br>
-  </td>
-  <td>
-    <a href="../getting-started/pdf-spaces-legal.md">
-      <img alt="Migliorare l&apos;efficienza del team con PDF Spaces" src="../assets/pdf-spaces.png" />
-    </a>
-    <div>
-    <a href="../getting-started/pdf-spaces-legal.md"><strong>Maggiore efficienza del team con PDF Spaces</strong></a>
-    </div>
-    <em>Scopri come trasformare le raccolte di file e siti Web in hub di conoscenza condivisibili e conversazionali</em>
-    <br>
-  </td>
-  <td>
-    <a href="../getting-started/acrobat-studio.md">
-      <img alt="Che cos’è Acrobat Studio?" src="../assets/acrobat-studio.png" />
-    </a>
-    <div>
-    <a href="../getting-started/acrobat-studio.md"><strong>Che cos’è Acrobat Studio?</strong></a>
-    </div>
-    <em>Scopri come creare contenuti sicuri per il marchio, estrarre informazioni dettagliate e semplificare il lavoro complesso con Acrobat Studio</em>
-    <br>
-  </td>
-  <td>
-    <a href="../getting-started/edit-graphics.md">
-      <img alt="Modificare gli elementi grafici in un PDF" src="../assets/edit-graphics.png" />
-    </a>
-    <div>
-    <a href="../getting-started/edit-graphics.md"><strong>Modificare gli elementi grafici in un PDF</strong></a>
-    </div>
-    <em>Scopri come creare, modificare e migliorare gli elementi grafici nel tuo PDF</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-  <a href="../getting-started/stylize-this-pdf.md">
-      <img alt="Stilizza questo PDF" src="../assets/stylize-pdf.png" />
-    </a>
-    <div>
-    <a href="../getting-started/stylize-this-pdf.md"><strong>Stilizza questo PDF</strong></a>
-    </div>
-    <em>Scopri come creare PDF dall'aspetto professionale</em>
-    <br>
-  </td>
-  <td>
-        <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-        <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-        <img alt="Spaziatore" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-</tr>
-</table>
-<!-- END COMMENT -->
