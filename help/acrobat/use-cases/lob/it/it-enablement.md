@@ -22,19 +22,19 @@ In questo tutorial, segui un membro del team IT di SecurFinancial, seguendo tre 
 
 Per iniziare, rimuovi le informazioni riservate da un rapporto di incidente, proteggi e condividi il documento e genera una presentazione pronta per i dirigenti, il tutto senza uscire da Acrobat Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492183?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492191?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Passaggio 2. Analizzare e agire in base a un contratto fornitore
 
 Sulla base del report sugli incidenti protetti della Parte 1, scopri come analizzare istantaneamente un contratto di un fornitore in base agli standard di sicurezza della tua organizzazione, i gap di allineamento superficiale e generare un questionario di follow-up, tutto da un singolo spazio PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492184?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492200?captions=ita&quality=12&learn=on&hidetitle=true)
 
 ## Passaggio 3. Creare e distribuire un criterio di governance dell&#39;intelligenza artificiale
 
 Scopri come trasformare i documenti delle policy statiche in un&#39;area di lavoro interattiva e regolamentata, quindi distribuirli come risorsa autonoma a cui l&#39;intera organizzazione può accedere ed eseguire query su qualsiasi dispositivo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492185?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492209?captions=ita&quality=12&learn=on&hidetitle=true)
 
 Dopo aver analizzato un contratto di un fornitore in base agli standard di sicurezza interni e aver trasformato i documenti relativi alle policy statiche in una risorsa gestita e autonoma per l&#39;intera organizzazione, sono stati creati tre flussi di lavoro, una piattaforma e nessun cambio di strumento.
 
