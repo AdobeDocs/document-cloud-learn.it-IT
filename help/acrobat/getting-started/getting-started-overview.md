@@ -151,7 +151,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="Lavora ovunque ti trovi con Acrobat Web" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337436?enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784302288118" alt="Lavora ovunque ti trovi con Acrobat Web"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443541?captions=ita&enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784302288118" alt="Lavora ovunque ti trovi con Acrobat Web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -174,7 +174,7 @@ Scopri come [scoprire gli insight di PDF](ai-assistant.md) nel tuo PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="Produttività ovunque ti trovi" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337972?quality=12&hidetitle=true&format=jpeg&nocache=1784302288137" alt="Produttività ovunque ti trovi"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/347147?captions=ita&quality=12&hidetitle=true&format=jpeg&nocache=1784302288137" alt="Produttività ovunque ti trovi"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
