@@ -18,16 +18,20 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+source-git-commit: ed17f6a547ddf4e1fd7f5675bade9e2457cc14cb
 workflow-type: tm+mt
-source-wordcount: 483
-ht-degree: 1%
+source-wordcount: 802
+ht-degree: 2%
 
 ---
 
 # Esercitazioni per Acrobat
 
 Adobe Acrobat, una soluzione Adobe Document Cloud, aiuta le aziende a muoversi convertendo, modificando, condividendo e firmando i PDF. Qui puoi trovare un&#39;ampia gamma di esperienze di apprendimento progettate per portare rapidamente all&#39;avanguardia sia i principianti che gli utenti avanzati su Adobe Acrobat.
+
+>[!NOTE]
+>
+>L’accesso alle funzioni dipende dal tuo piano Acrobat. Utilizza il [confronto dei piani Acrobat](https://www.adobe.com/it/acrobat/pricing.html) per identificare le funzionalità disponibili. Alcune funzioni sono in fase di implementazione e potrebbero non essere ancora disponibili per tutti.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
