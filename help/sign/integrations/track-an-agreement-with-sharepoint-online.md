@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Scopri come tenere traccia dell’avanzamento di un accordo direttamente in Microsoft SharePoint. Dopo aver inviato un documento per la firma, puoi monitorarne lo stato senza mai uscire da SharePoint.
 
->[!VIDEO](https://video.tv.adobe.com/v/29767t1?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409585?captions=ita&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
