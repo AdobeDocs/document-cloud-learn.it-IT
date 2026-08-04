@@ -28,11 +28,11 @@ Scopri come utilizzare un [modulo Web](../sign-advanced-users/webform.md) per un
 
 [!BADGE Casi di utilizzo]
 
-* [Applicazione di stage per moduli Web Education](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+* [Applicazione di stage per moduli Web Education](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=it)
 Scopri come utilizzare i moduli Web per migliorare l’accesso degli studenti ai moduli richiesti
-* [Creare un&#39;applicazione di tirocinio per moduli Web didattici](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+* [Creare un&#39;applicazione di tirocinio per moduli Web didattici](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=it)
 Scopri come creare un modulo web per stage
-* [Sovvenzioni e prestiti alle imprese](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
-* [Assistenza alla rioccupazione](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
+* [Sovvenzioni e prestiti alle imprese](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=it)
+* [Assistenza alla rioccupazione](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=it)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421619?quality=12&learn=on&hidetitle=true)
