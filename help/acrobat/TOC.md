@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: f6dc02139caacbab8468d056fbcaef3534c09e1d
+source-git-commit: be030b0a26f367e8c79cdf08329b1597c1e4ee8b
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 5%
+source-wordcount: '702'
+ht-degree: 6%
 
 ---
 
@@ -84,6 +84,11 @@ ht-degree: 5%
   + [Che cos’è Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [Modificare gli elementi grafici in un PDF](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [Stilizza questo PDF](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
++ Analizzatore in Acrobat Studio {#analyzer}
+  + [Panoramica](analyzer/analyzer-overview.md)
+  + [Guida introduttiva](analyzer/get-started.md)
+  + [Usa raccolte](analyzer/collections.md)
+  + [Controllo contratto post&amp;integrazione M&amp;A](analyzer/m-and-a-post-audit.md)
 + Casi di utilizzo {#use-cases}
   + [Panoramica](use-cases/use-cases-overview.md)
   + Area di attività {#lob}
