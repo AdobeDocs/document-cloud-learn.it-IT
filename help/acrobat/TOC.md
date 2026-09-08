@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: be030b0a26f367e8c79cdf08329b1597c1e4ee8b
+source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '705'
 ht-degree: 6%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 6%
   + [Panoramica](analyzer/analyzer-overview.md)
   + [Guida introduttiva](analyzer/get-started.md)
   + [Usa raccolte](analyzer/collections.md)
+  + [Utilizzo degli attributi](analyzer/attributes.md)
   + [Controllo contratto post&amp;integrazione M&amp;A](analyzer/m-and-a-post-audit.md)
 + Casi di utilizzo {#use-cases}
   + [Panoramica](use-cases/use-cases-overview.md)
