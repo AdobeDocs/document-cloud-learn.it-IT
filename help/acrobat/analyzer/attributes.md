@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Scopri come creare, testare e perfezionare gli attributi con Analyzer in Acrobat Studio. Gli attributi definiscono le informazioni che si desidera estrarre dai documenti, consentendo di acquisire in modo coerente i dati chiave e di scoprire informazioni dettagliate in raccolte di grandi dimensioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503139?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503145?captions=ita&quality=12&learn=on&hidetitle=true)
