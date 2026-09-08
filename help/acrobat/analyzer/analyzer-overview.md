@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 17b3c33bb1ff3c88938b9468b9934b7addebfecc
+source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -55,6 +55,16 @@ Scopri come creare [raccolte](collections.md) manuali e collegate, applicare att
     <br>
   </td>
   <td>
+    <a href="attributes.md">
+      <img alt="Utilizzo degli attributi" src="../assets/analyzer_attributes.png" />
+    </a>
+    <div>
+    <a href="attributes.md"><strong>Utilizzo degli attributi</strong></a>
+    </div>
+    Scopri come creare, testare e perfezionare gli attributi con Analyzer in Acrobat Studio
+    <br>
+  </td>
+  <td>
     <a href="m-and-a-post-audit.md">
       <img alt="Controllo contratto post&amp;integrazione M&amp;A" src="../assets/m-and-a.jpg" />
     </a>
@@ -63,11 +73,6 @@ Scopri come creare [raccolte](collections.md) manuali e collegate, applicare att
     </div>
     Informazioni su come Analyzer può aiutare le aziende a eseguire una verifica del contratto di integrazione post-fusione in pochi minuti anziché in settimane
     <br>
-  </td>
-  <td>
-      <img alt="Spaziatore" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
   </td>
 </tr>
 </table>
