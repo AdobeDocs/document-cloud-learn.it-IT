@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 494aca2da9f3540264d81d60620a7a442a85ebc2
+source-git-commit: 099945973714aaa8e903af39ce50f92fb213ce1d
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '733'
 ht-degree: 6%
 
 ---
@@ -89,7 +89,11 @@ ht-degree: 6%
   + [Guida introduttiva](analyzer/get-started.md)
   + [Usa raccolte](analyzer/collections.md)
   + [Utilizzo degli attributi](analyzer/attributes.md)
-  + [Controllo contratto post&amp;integrazione M&amp;A](analyzer/m-and-a-post-audit.md)
+  + Casi di utilizzo {#use-cases}
+    + [Panoramica](/help/acrobat/analyzer/use-cases/use-case-overview.md)
+    + [Controllo contratto post&amp;integrazione M&amp;A](analyzer/use-cases/m-and-a-post-audit.md)
+    + [Accelera l&#39;analisi dei ricavi e della revisione contabile nel settore finanziario](analyzer/use-cases/accelerate-revenue.md)
+    + [Trasformare i rischi per la privacy dei dati in una piena visibilità e monitoraggio](analyzer/use-cases/data-privacy-risk.md)
   + [Webinar](https://experienceleague.adobe.com/it/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + Casi di utilizzo {#use-cases}
   + [Panoramica](use-cases/use-cases-overview.md)

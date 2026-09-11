@@ -1,13 +1,13 @@
 ---
 title: Controllo contratto post-integrazione M&A
-description: Informazioni su come Analyzer può aiutare le aziende a eseguire una verifica del contratto di integrazione post-fusione in pochi minuti anziché in settimane
+description: Scopri in che modo Analyzer in Acrobat Studio può aiutare le aziende a eseguire una revisione del contratto di integrazione post-integrazione M&A in pochi minuti anziché in settimane
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22149
-source-git-commit: fbafd7f563aefc530cdd9d0e7d75a4e29ae8dceb
+source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
