@@ -17,10 +17,10 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 473918bc827d68228d12b8c8107960feb0b7f35a
+source-git-commit: db9d5ade5504ac04927dc7459695fc5cddb96c7c
 workflow-type: tm+mt
-source-wordcount: 2909
-ht-degree: 1%
+source-wordcount: 2884
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,10 @@ Scopri come iniziare a utilizzare Adobe Acrobat con queste brevi esercitazioni g
 
 >[!BEGINTABS]
 
+>[!TAB Che cos’è Acrobat Studio?]
+
+Scopri come creare contenuti sicuri per il marchio, estrarre informazioni dettagliate e semplificare il lavoro complesso con [Acrobat Studio](acrobat-studio.md).
+
 >[!TAB Da carta a PDF]
 
 Scopri come convertire [documenti cartacei](scan-and-ocr.md) in file PDF ricercabili e modificabili
@@ -39,10 +43,6 @@ Scopri come convertire [documenti cartacei](scan-and-ocr.md) in file PDF ricerca
 >[!TAB Maggiore efficienza del team con PDF Spaces]
 
 Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e conversazionali](pdf-spaces-legal.md) con assistenti basati su intelligenza artificiale personalizzati.
-
->[!TAB Che cos’è Acrobat Studio?]
-
-Scopri come creare contenuti sicuri per il marchio, estrarre informazioni dettagliate e semplificare il lavoro complesso con [Acrobat Studio](acrobat-studio.md).
 
 >[!TAB Scopri gli insight di PDF con Assistente AI]
 
