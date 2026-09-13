@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Scopri in che modo Analyzer in Acrobat Studio consente di estrarre dati strutturati e citati da grandi volumi di documenti. Anziché leggere centinaia o migliaia di contratti, accordi con fornitori o documenti di conformità uno alla volta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503110?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503117?captions=ita&quality=12&learn=on&hidetitle=true)
