@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Analyzer in Acrobat Studio consente di trasformare grandi set di documenti in insights strutturati e citati. Le raccolte semplificano questo processo raggruppando i file correlati in modo da poter applicare gli attributi corretti, filtrare i risultati ed esaminare solo le informazioni importanti. Questo video illustra come creare raccolte manuali e collegate, applicare attributi e organizzare i documenti in base alla crescita del contenuto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503111?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503126?captions=ita&quality=12&learn=on&hidetitle=true)
