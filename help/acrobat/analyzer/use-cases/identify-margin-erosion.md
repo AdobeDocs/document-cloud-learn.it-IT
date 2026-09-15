@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Il margine del progetto non viene perso a livello di contratto principale. Si è perso un subcontratto alla volta — in ordini di cambiamento che sono cresciuti prima che qualcuno valutasse il recupero, in richieste di rimborso che invecchiavano silenziosamente in richieste di rimborso, e in protezioni contrattuali che non sono mai diventate carta di credito del sub. Quando compare in un rapporto, i soldi sono già spariti. Informazioni su come identificare i rischi di erosione dei margini nascosti negli accordi di subappalto individuando gli ordini di modifica mancati, le richieste di informazioni sullo scadenzario e le lacune del contratto prima che influiscano sulla redditività del progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503513?captions=ita&quality=12&learn=on&hidetitle=true)
