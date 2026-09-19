@@ -27,4 +27,4 @@ ht-degree: 0%
 
 # Risorse per Adobe Acrobat
 
-Esplora varie [risorse](https://business.adobe.com/resources/acrobat.html?ch_Content-Type=Webinars) come webinar, blog, report, infografiche e guide per ulteriori informazioni su Adobe Acrobat.
+Esplora varie [risorse](https://business.adobe.com/it/resources/acrobat.html?ch_Content-Type=Webinars) come webinar, blog, report, infografiche e guide per ulteriori informazioni su Adobe Acrobat.
