@@ -5,13 +5,12 @@ feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18735
-source-git-commit: 67d0b3568daab5d957b917fa9d52203dcc2bb0f8
+exl-id: ffa5c39a-c3cc-45b1-a8ae-85b2e813e364
+source-git-commit: ff801a13834e099a1769821e908a65e1e9fc077f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '170'
 ht-degree: 0%
-
 ---
-
 # Vista per dispositivi mobili
 
 Completare le attività in mobilità non è più facoltativo: dai professionisti che firmano contratti ai genitori che compilano i moduli scolastici, la domanda di semplici soluzioni mobili è più che mai elevata. Scopri come utilizzare la visualizzazione intuitiva per dispositivi mobili, che consente di eliminare le operazioni di pizzicamento e zoom e di ridurre gli errori durante la compilazione dei moduli sul dispositivo mobile.
