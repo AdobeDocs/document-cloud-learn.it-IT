@@ -21,9 +21,9 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: bb3c692a5b4937778f1f43dbe3ba514f027610b7
+source-git-commit: 054ca00c06987f28d976beb44121787c03bd5709
 workflow-type: tm+mt
-source-wordcount: '925'
+source-wordcount: '920'
 ht-degree: 0%
 ---
 # Panoramica basata su IA
@@ -60,8 +60,8 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" title="Che cos’è Acrobat Studio?" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium" alt="Che cos’è Acrobat Studio?"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" title="Che cos’è Acrobat Studio?" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium" alt="Che cos’è Acrobat Studio?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -69,12 +69,12 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_self" rel="referrer" title="Che cos’è Acrobat Studio?">Che cos’è Acrobat Studio?</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_self" rel="referrer" title="Che cos’è Acrobat Studio?">Che cos’è Acrobat Studio?</a>
                     </p>
                     <p class="is-size-6">Scopri come creare contenuti sicuri per il marchio, estrarre informazioni dettagliate e semplificare il lavoro complesso con Acrobat Studio</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza tutorial</span>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -83,8 +83,8 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" title="Analizzatore in Acrobat Studio" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/media_1659aa44f13bf62372a46a6a0eb7bc5839cfa59f0.webp?width=2000&format=webply&optimize=medium" alt="Analizzatore in Acrobat Stusio"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" title="Analizzatore in Acrobat Studio" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_1659aa44f13bf62372a46a6a0eb7bc5839cfa59f0.webp?width=2000&format=webply&optimize=medium" alt="Analizzatore in Acrobat Stusio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -92,11 +92,11 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" title="Analizzatore in Acrobat Studio">Analizzatore in Acrobat Studio</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" title="Analizzatore in Acrobat Studio">Analizzatore in Acrobat Studio</a>
                     </p>
                     <p class="is-size-6">Scopri come Analyzer in Acrobat Studio aiuta gli utenti aziendali a estrarre informazioni strutturate e verificabili da decine di migliaia di documenti non strutturati</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Esplora</span>
                 </a>
             </div>
@@ -106,8 +106,8 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" title="Scopri gli insight di PDF con AI Assistant" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/ai-powered/media_16b40a5c89df63b8d9116ee1733680b378915394a.png?width=400&format=webply&optimize=medium" alt="Scopri gli insight di PDF con AI Assistant"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" title="Scopri gli insight di PDF con AI Assistant" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/media_16b40a5c89df63b8d9116ee1733680b378915394a.png?width=400&format=webply&optimize=medium" alt="Scopri gli insight di PDF con AI Assistant"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -115,12 +115,12 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" title="Scopri gli insight di PDF con AI Assistant">Scopri gli insight di PDF con Assistente AI</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" title="Scopri gli insight di PDF con AI Assistant">Scopri gli insight di PDF con Assistente AI</a>
                     </p>
                     <p class="is-size-6">Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l'Assistente all'intelligenza artificiale</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza tutorial</span>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -129,8 +129,8 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" title="Migliorare l&apos;efficienza del team con PDF Spaces" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1a0a666ba69346a3cb306b786f1b0681e09316801.png?width=400&format=webply&optimize=medium" alt="Migliorare l&apos;efficienza del team con PDF Spaces"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" title="Migliorare l&apos;efficienza del team con PDF Spaces" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1a0a666ba69346a3cb306b786f1b0681e09316801.png?width=400&format=webply&optimize=medium" alt="Migliorare l&apos;efficienza del team con PDF Spaces"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -138,12 +138,12 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" title="Migliorare l&apos;efficienza del team con PDF Spaces">Maggiore efficienza del team con PDF Spaces</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" title="Migliorare l&apos;efficienza del team con PDF Spaces">Maggiore efficienza del team con PDF Spaces</a>
                     </p>
                     <p class="is-size-6">Scopri come trasformare le raccolte di file e siti Web in centri di conoscenza condivisibili e conversazionali</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza tutorial</span>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -153,7 +153,7 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" title="Creare un podcast" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/ai/media_115e208368a60860fd06236cb04602a4fbd8fdebf.png?width=400&format=webply&optimize=medium" alt="Creare un podcast"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/media_115e208368a60860fd06236cb04602a4fbd8fdebf.png?width=400&format=webply&optimize=medium" alt="Creare un podcast"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -175,8 +175,8 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" title="Modificare gli elementi grafici in un PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/ai-powered/media_10cbcb294cdbd62dc9d8f6b2f5f5f160782370141.png?width=400&format=webply&optimize=medium" alt="Modificare gli elementi grafici in un PDF"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" title="Modificare gli elementi grafici in un PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/media_10cbcb294cdbd62dc9d8f6b2f5f5f160782370141.png?width=400&format=webply&optimize=medium" alt="Modificare gli elementi grafici in un PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -184,12 +184,12 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" title="Modificare gli elementi grafici in un PDF">Modificare gli elementi grafici in un PDF</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" title="Modificare gli elementi grafici in un PDF">Modificare gli elementi grafici in un PDF</a>
                     </p>
                     <p class="is-size-6">Scoprite come creare, modificare e migliorare la grafica nel vostro PDF</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza tutorial</span>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -198,8 +198,8 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" title="Stilizza questo PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/ai-powered/media_199eeb70612b1e3f04c00cbe3ebf7f4cc2016bcef.png?width=400&format=webply&optimize=medium" alt="Stilizza questo PDF"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" title="Stilizza questo PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/media_199eeb70612b1e3f04c00cbe3ebf7f4cc2016bcef.png?width=400&format=webply&optimize=medium" alt="Stilizza questo PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -207,12 +207,12 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" title="Stilizza questo PDF">Stilizza questo PDF</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" title="Stilizza questo PDF">Stilizza questo PDF</a>
                     </p>
                     <p class="is-size-6">Scopri come creare PDF dall’aspetto professionale</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza tutorial</span>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
