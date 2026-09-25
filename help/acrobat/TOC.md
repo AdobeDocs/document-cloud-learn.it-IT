@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 86c5e0581e09572a5ccc52cebbc5db4ad26eeba9
+source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '764'
 ht-degree: 6%
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 6%
   + Lavora in modo più intelligente con l&#39;IA {#ai}
     + [Scopri gli insight di PDF con AI Assistant](getting-started/ai-assistant.md)
     + [Migliorare l&#39;efficienza del team con PDF Spaces](getting-started/pdf-spaces-legal.md)
+    + [Creare un podcast](getting-started/podcast.md)
   + Crea e organizza {#create}
     + [Creazione di un PDF](getting-started/create-pdf.md)
     + [Combina più file in un singolo PDF](getting-started/combine-to-pdf.md)
@@ -80,6 +81,7 @@ ht-degree: 6%
   + [Che cos’è Acrobat Studio?](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
   + [Scopri gli insight di PDF con AI Assistant](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [Migliorare l&#39;efficienza del team con PDF Spaces](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+  + [Creare un podcast](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast)
   + [Modificare gli elementi grafici in un PDF](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [Stilizza questo PDF](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Analizzatore in Acrobat Studio {#analyzer}

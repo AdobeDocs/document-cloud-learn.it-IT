@@ -9,20 +9,23 @@ exl-id: f2b2bf31-e9ec-4bda-8f89-d0f268f24c69
 TQID: https://experienceleague.adobe.com/yP0iQGUfN2Y1kRg5Bk781cY8kcia5XBfHFMWCbn7QIw
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 65870ba3fdc5fb312076fc4b538b10c133cfe378
+    internal-label: Insights
+source-git-commit: 054ca00c06987f28d976beb44121787c03bd5709
 workflow-type: tm+mt
-source-wordcount: 799
+source-wordcount: '920'
 ht-degree: 0%
-
 ---
-
 # Panoramica basata su IA
 
 Scoprite come l&#39;intelligenza artificiale può Trasforma i flussi di lavoro di PDF. Informazioni sugli strumenti che semplificano le attività relative ai documenti e aumentano la produttività.
@@ -30,6 +33,10 @@ Scoprite come l&#39;intelligenza artificiale può Trasforma i flussi di lavoro d
 ## Novità
 
 >[!BEGINTABS]
+
+>[!TAB Creare un podcast]
+
+Scopri come creare [podcast](../getting-started/podcast.md) generati dall&#39;intelligenza artificiale dai tuoi documenti e materiali di ricerca nel tuo PDF.
 
 >[!TAB Che cos’è Acrobat Studio?]
 
@@ -67,7 +74,7 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
                     <p class="is-size-6">Scopri come creare contenuti sicuri per il marchio, estrarre informazioni dettagliate e semplificare il lavoro complesso con Acrobat Studio</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza tutorial</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -113,7 +120,7 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
                     <p class="is-size-6">Scoprite come ottenere informazioni dettagliate dai file PDF utilizzando l'Assistente all'intelligenza artificiale</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza tutorial</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -136,7 +143,30 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
                     <p class="is-size-6">Scopri come trasformare le raccolte di file e siti Web in centri di conoscenza condivisibili e conversazionali</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza tutorial</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create a podcast">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" title="Creare un podcast" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/ai/media_115e208368a60860fd06236cb04602a4fbd8fdebf.png?width=400&format=webply&optimize=medium" alt="Creare un podcast"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" title="Migliorare l&apos;efficienza del team con PDF Spaces">Creare un podcast</a>
+                    </p>
+                    <p class="is-size-6">Scopri come creare podcast generati dall'intelligenza artificiale da documenti e materiali di ricerca</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -159,7 +189,7 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
                     <p class="is-size-6">Scoprite come creare, modificare e migliorare la grafica nel vostro PDF</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza tutorial</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -182,7 +212,7 @@ Trasforma le raccolte di file e siti Web in [hub di conoscenza condivisibili e c
                     <p class="is-size-6">Scopri come creare PDF dall’aspetto professionale</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza tutorial</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
