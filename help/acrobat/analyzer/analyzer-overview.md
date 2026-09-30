@@ -5,14 +5,18 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
+source-git-commit: 577634b37e46b0ff2f6240588d27513c5aef24b6
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '449'
 ht-degree: 0%
 ---
 # Panoramica di Analyzer in Acrobat Studio
 
-Analyzer in Acrobat Studio consente agli utenti aziendali di estrarre informazioni strutturate e verificabili da decine di migliaia di documenti non strutturati per automatizzare i processi aziendali incentrati sui documenti.
+![Analizzatore in Acrobat Studio](../assets/analyzer-overview-banner.png)
+
+Scopri come utilizzare Analyzer in Acrobat Studio per trasformare documenti complessi in informazioni dettagliate. Questi brevi tutorial ti aiutano a iniziare, esplorare le funzionalità avanzate e visualizzare casi d&#39;uso reali.
+
+[!BADGE Informativo]{type=Watch overview video url="https://video.tv.adobe.com/v/3503972"}
 
 ## Novità
 
