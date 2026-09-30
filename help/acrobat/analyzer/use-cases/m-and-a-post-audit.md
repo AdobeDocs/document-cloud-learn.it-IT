@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Trovare i rischi del contratto dopo una fusione o un&#39;acquisizione. Con Analyzer in Acrobat Studio, i team di M&amp;A possono analizzare grandi set di contratti per identificare in pochi minuti i principali obblighi, termini e rischi potenziali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496360?captions=ita&quality=12&learn=on&hidetitle=true)

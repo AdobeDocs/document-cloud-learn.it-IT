@@ -16,4 +16,4 @@ ht-degree: 0%
 Identificare i problemi del contratto che possono ridurre la redditività del progetto. Scopri in che modo i team di costruzione e di progetto possono trovare gli ordini di modifica mancanti, le richieste di informazioni sull&#39;aging e le lacune nelle protezioni per i subcontratti prima che influiscano sui margini con Analyzer in Acrobat Studio.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3503507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503513?captions=ita&quality=12&learn=on&hidetitle=true)
