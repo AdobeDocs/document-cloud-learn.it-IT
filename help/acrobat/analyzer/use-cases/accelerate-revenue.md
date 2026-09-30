@@ -1,20 +1,18 @@
 ---
-title: Accelerare la revisione dei ricavi e dell'audit nella finanza
-description: Scopri come Analyzer in Acrobat Studio aiuta i team finanziari a estrarre, rivedere e convalidare i dati del contratto su larga scala
+title: Finanza - Verifica dei contratti per il riconoscimento dei ricavi e gli audit
+description: Scopri come i team finanziari possono prepararsi per gli audit, supportare il riconoscimento dei ricavi e identificare più rapidamente i rischi contabili
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22588
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '63'
 ht-degree: 0%
-
 ---
 
+# Finanza: verifica dei contratti per il riconoscimento dei ricavi e gli audit
 
-# Accelera l&#39;analisi dei ricavi e della revisione contabile nel settore finanziario
-
-Le informazioni critiche sul fatturato sono spesso nascoste tra centinaia di contratti, rendendo difficile l&#39;identificazione dei rischi contabili prima degli audit o della chiusura finanziaria. Scopri come Analyzer in Acrobat Studio aiuta i team finanziari a estrarre, rivedere e convalidare i dati del contratto su larga scala per migliorare la fattibilità delle verifiche, il riconoscimento dei ricavi e la conformità del leasing.
+Estrarre e convalidare i ricavi, il leasing e le condizioni contabili in grandi serie di contratti. Scopri come i team finanziari possono prepararsi per le verifiche, supportare il riconoscimento dei ricavi e identificare più rapidamente i rischi contabili con Analyzer in Acrobat Studio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503302?quality=12&learn=on&hidetitle=true)
