@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22591
-source-git-commit: 412de3823992cd69436f77c38b1bc1d32dbfbe1c
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '338'
 ht-degree: 0%
 ---
 # Panoramica del caso di utilizzo di Analyzer in Acrobat Studio
@@ -17,6 +17,10 @@ Scopri come Analyzer in Acrobat Studio aiuta i team a estrarre informazioni prez
 ## Novità
 
 >[!BEGINTABS]
+
+>[!TAB Identificare i rischi di contratto del fornitore]
+
+Scopri in che modo Analyzer in Acrobat Studio consente di identificare in modo proattivo [i rischi per la sicurezza delle informazioni derivanti dai contratti dei fornitori](vendor-risk.md).
 
 >[!TAB Identificare il margine di erosione]
 
@@ -32,48 +36,77 @@ Scopri in che modo Analyzer in Acrobat Studio aiuta i [team di privacy, legali e
 
 >[!ENDTABS]
 
-## Esercitazioni per l’utilizzo di Analyzer in Acrobat Studio
+## Casi d&#39;uso in azione
+
+Visualizza scenari reali. Scopri come diversi team utilizzano Analyzer in Acrobat Studio per lavorare in modo più intelligente e veloce.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="m-and-a-post-audit.md">
-      <img alt="Controllo contratto post&amp;integrazione M&amp;A" src="../../assets/analyzer_m-and-a.png" />
+      <img alt="M&amp;A: contratti di audit dopo un’acquisizione" src="../../assets/analyzer_m-and-a.png" />
     </a>
     <div>
-    <a href="m-and-a-post-audit.md"><strong>Audit del contratto post&amp;integrazione M&amp;A</strong></a>
+    <a href="m-and-a-post-audit.md"><strong>M&amp;A: audit dei contratti dopo un'acquisizione</strong></a>
     </div>
-    Scopri in che modo Analyzer in Acrobat Studio può aiutare le aziende a eseguire una revisione del contratto di integrazione post-integrazione M&amp;A in pochi minuti anziché in settimane
+    Scopri come i team di M&amp;A possono analizzare grandi set di contratti per identificare obblighi chiave, termini e rischi potenziali in pochi minuti invece che in settimane
     <br>
   </td>
   <td>
     <a href="accelerate-revenue.md">
-      <img alt="Accelera l&apos;analisi dei ricavi e della revisione contabile nel settore finanziario" src="../../assets/analyzer_accelerate-revenue.png" />
+      <img alt="Finanza: verifica dei contratti per il riconoscimento dei ricavi e gli audit" src="../../assets/analyzer_accelerate-revenue.png" />
     </a>
     <div>
-    <a href="accelerate-revenue.md"><strong>Accelerazione dei ricavi e revisione dei conti nella finanza</strong></a>
+    <a href="accelerate-revenue.md"><strong>Finanza: verifica dei contratti per il riconoscimento dei ricavi e gli audit</strong></a>
     </div>
-    Scopri come Analyzer in Acrobat Studio aiuta i team finanziari a estrarre, rivedere e convalidare i dati del contratto su larga scala
+    Scopri come i team finanziari possono prepararsi per gli audit, supportare il riconoscimento dei ricavi e identificare più rapidamente i rischi contabili
     <br>
   </td>
   <td>
     <a href="data-privacy-risk.md">
-      <img alt="Trasformare i rischi per la privacy dei dati in una piena visibilità e monitoraggio" src="../../assets/analyzer_data-privacy.png" />
+      <img alt="Privacy e sicurezza delle informazioni: rivedi le informative sulla privacy" src="../../assets/analyzer_data-privacy.png" />
     </a>
     <div>
-    <a href="data-privacy-risk.md"><strong>Trasformazione dei rischi relativi alla privacy dei dati in piena visibilità e monitoraggio</strong></a>
+    <a href="data-privacy-risk.md"><strong>Privacy e sicurezza delle informazioni: consulta le informative sulla privacy</strong></a>
     </div>
-    Scopri come Analyzer in Acrobat Studio aiuta i team di privacy, legali e di approvvigionamento a estrarre, monitorare e convalidare i termini DPA critici su larga scala
+    Scoprite come i team per la sicurezza della privacy e delle informazioni possono identificare le lacune nella conformità e convalidare gli obblighi con risultati tracciabili
     <br>
   </td>
   <td>
     <a href="identify-margin-erosion.md">
-      <img alt="Gestione del subcontratto per l&apos;identificazione del rilevamento della fonte del margine di erosione" src="../../assets/analyzer_margin-identification.png" />
+      <img alt="Costruzione: individuazione dei rischi di margine nei subcontratti" src="../../assets/analyzer_margin-identification.png" />
     </a>
     <div>
-    <a href="identify-margin-erosion.md"><strong>Gestione del subcontratto per l'identificazione del rilevamento dell'origine del margine di erosione</strong></a>
+    <a href="identify-margin-erosion.md"><strong>Costruzione: individuazione dei rischi di margine nei contratti secondari</strong></a>
     </div>
-    Scopri in che modo Analyzer in Acrobat Studio consente di rilevare i segni premonitori di perdita di margine tra i contratti di subappalto e di intraprendere azioni prima che i costi aumentino
+    Scoprite come i team di costruzione e progetto possono trovare gli ordini di modifica mancanti, le richieste di informazioni sullo scadenzario e le lacune nelle protezioni per i subcontratti prima che influiscano sui margini
+    <br>
+  </td>
+</tr>
+<tr>
+<td>
+    <a href="vendor-risk.md">
+      <img alt="Controllo della sicurezza delle informazioni: identificazione dei rischi del fornitore" src="../../assets/analyzer_vendor-risk.png" />
+    </a>
+    <div>
+    <a href="vendor-risk.md"><strong>Controllo della sicurezza delle informazioni: identificazione del rischio del fornitore</strong></a>
+    </div>
+    Come identificare in modo proattivo i rischi per la sicurezza delle informazioni derivanti dai contratti con i fornitori
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spaziatore" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>

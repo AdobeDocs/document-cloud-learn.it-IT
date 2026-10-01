@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '764'
-ht-degree: 6%
+source-wordcount: '767'
+ht-degree: 5%
 ---
 
 # Acrobat Tutorials {#acrobat-learning}
@@ -92,10 +92,11 @@ ht-degree: 6%
   + [Esplora le funzionalità avanzate](analyzer/advanced.md)
   + Casi di utilizzo {#use-cases}
     + [Panoramica](/help/acrobat/analyzer/use-cases/use-case-overview.md)
-    + [Controllo contratto post&amp;integrazione M&amp;A](analyzer/use-cases/m-and-a-post-audit.md)
-    + [Accelera l&#39;analisi dei ricavi e della revisione contabile nel settore finanziario](analyzer/use-cases/accelerate-revenue.md)
-    + [Trasformare i rischi per la privacy dei dati in una piena visibilità e monitoraggio](analyzer/use-cases/data-privacy-risk.md)
-    + [Gestione del subcontratto per l&#39;identificazione del rilevamento della fonte del margine di erosione](analyzer/use-cases/identify-margin-erosion.md)
+    + [M&amp;A: contratti di audit dopo un’acquisizione](analyzer/use-cases/m-and-a-post-audit.md)
+    + [Finanza: verifica dei contratti per il riconoscimento dei ricavi e gli audit](analyzer/use-cases/accelerate-revenue.md)
+    + [Privacy e sicurezza delle informazioni: rivedi le informative sulla privacy](analyzer/use-cases/data-privacy-risk.md)
+    + [Costruzione: individuazione dei rischi di margine nei subcontratti](analyzer/use-cases/identify-margin-erosion.md)
+    + [Controllo della sicurezza delle informazioni: identificazione dei rischi del fornitore](analyzer/use-cases/vendor-risk.md)
   + [Webinar](https://experienceleague.adobe.com/it/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + Casi di utilizzo {#use-cases}
   + [Panoramica](use-cases/use-cases-overview.md)
