@@ -9,11 +9,9 @@ thumbnail: 33810.jpg
 exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
 source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '84'
 ht-degree: 0%
-
 ---
-
 # Sovvenzioni e prestiti alle imprese statali
 
 Fornisci assistenza rapida alle aziende fornendo accesso self-service ai moduli di richiesta di concessione, prestito e differimento delle imposte. Scopri come creare un modulo Web online che possa essere compilato con **e** firmato senza stampare né inviare nulla.
