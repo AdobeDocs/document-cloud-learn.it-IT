@@ -7,21 +7,24 @@ level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-TQID: https://experienceleague.adobe.com/zhYzOxdS7g86AcptL1ddWr10xbYulG7tBH-WwUVznsI
+TQID: 'https://experienceleague.adobe.com/zhYzOxdS7g86AcptL1ddWr10xbYulG7tBH-WwUVznsI'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Admin
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 408
+source-wordcount: '408'
 ht-degree: 4%
-
 ---
-
 # Applicazione di tag al testo in Acrobat Sign
 
 Scopri come creare campi modulo di Acrobat Sign con tag di testo. I tag di testo possono essere aggiunti direttamente agli strumenti di creazione come Microsoft Word, Adobe InDesign o, se disponi di un PDF, in Acrobat. Essi possono ridurre in modo significativo lo sforzo richiesto per preparare i documenti utilizzati in Acrobat Sign. Dopo aver caricato un documento con tag in Acrobat Sign, può essere configurato come modello, eliminando la necessità di aggiungere campi ai documenti.

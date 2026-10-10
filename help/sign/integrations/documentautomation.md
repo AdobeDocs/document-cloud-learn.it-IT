@@ -8,28 +8,35 @@ topic: Integrations
 thumbnail: KT-7488.jpg
 jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-TQID: https://experienceleague.adobe.com/-6Wi-1ypmwdIENbdMRe2z8dJ-OM7KQl3cGmyuIyKIC4
+TQID: 'https://experienceleague.adobe.com/-6Wi-1ypmwdIENbdMRe2z8dJ-OM7KQl3cGmyuIyKIC4'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
   - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+    internal-label: Pass
 feature_v2:
   - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+    internal-label: Integrations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Customer experience
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 2466
+source-wordcount: '2445'
 ht-degree: 0%
-
 ---
-
 # Automazione dei documenti con Acrobat Sign per Microsoft Power Platform
 
 Scopri come attivare e utilizzare i connettori Acrobat Sign e Adobe PDF Tools per Microsoft Power Apps. Creazione di flussi di lavoro che automatizzano i processi di approvazione e firma aziendali in modo rapido e sicuro, senza dover ricorrere a codice. Questo tutorial pratico è suddiviso in quattro parti, descritte nei collegamenti seguenti:
@@ -194,7 +201,7 @@ Nella seconda parte, costruiamo la prima parte con un Flusso più robusto e test
    ![Schermata della configurazione di recupero del contenuto del file](assets/documentautomation/automation_15.png)
 
    **Indirizzo sito:** Il tuo sito SharePoint.
-   **Identificatore file:** Cercare &quot;identificatore&quot; e scegliere Identificatore dal passaggio **Ottieni proprietà file**.
+   **Identificatore di file:** Cercare &quot;identificatore&quot; e scegliere Identificatore dal passaggio **Ottieni proprietà file**.
 1. Cerca &quot;Adobe&quot; e scegli **Acrobat Sign** per aggiungere un&#39;altra azione.
 
    ![Schermata del menu di ricerca](assets/documentautomation/automation_16.png)
@@ -316,7 +323,7 @@ A queste cartelle viene ora fatto riferimento come parte del flusso di Power Aut
 1. Modifica l&#39;azione **Crea file** nella parte inferiore del flusso:
 
    Modifica **Indirizzo sito** nell&#39;indirizzo del sito.
-Specificare il percorso della cartella Contratti elaborati nel percorso della cartella.
+   Specificare il percorso della cartella Contratti elaborati nel percorso della cartella.
 
 1. Fai clic su **Salva** nell&#39;angolo in alto a destra.
 1. Fai clic su **Test**.
@@ -397,7 +404,7 @@ Dopo aver creato il flusso, effettua le operazioni riportate di seguito:
 1. Selezionare il trigger **Per un file selezionato**.
 
    Aggiungi il tuo sito SharePoint all&#39;indirizzo del sito.
-Aggiungi la tua libreria nella libreria.
+   Aggiungi la tua libreria nella libreria.
 
    ![Schermata del trigger completato](assets/documentautomation/automation_45.png)
 
@@ -422,7 +429,7 @@ Aggiungi la tua libreria nella libreria.
 1. Espandere l&#39;azione dell&#39;ambito **File selezionato**.
 
    Modificate l&#39;indirizzo del sito e il nome della libreria rispettivamente in Sito di SharePoint e Libreria in **Ottieni proprietà file**.
-Cambia l&#39;indirizzo del sito in **Ottieni contenuto file**.
+   Cambia l&#39;indirizzo del sito in **Ottieni contenuto file**.
 
    ![Schermata dell&#39;azione espansa File selezionato](assets/documentautomation/automation_47.png)
 
