@@ -8,29 +8,37 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-TQID: https://experienceleague.adobe.com/nOxiruWG2sMXMgd2GLSsngPIQ3xR6Kx4rDRWJ3S1dsM
+TQID: 'https://experienceleague.adobe.com/nOxiruWG2sMXMgd2GLSsngPIQ3xR6Kx4rDRWJ3S1dsM'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
   - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
 feature_v2:
   - id: a0ba023f-45f7-46ff-bcd1-92ed8bb4d79d
+    internal-label: Administration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 31b6696fe63501f70cc7de0bf4d00c86e9105d11
+    internal-label: Privacy
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 719
+source-wordcount: '719'
 ht-degree: 3%
-
 ---
-
 
 # Panoramica sugli amministratori
 
@@ -70,7 +78,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="get-started-admin.md"><strong>Guida introduttiva per nuovi amministratori</strong></a>
     </div>
     <em>In questa guida video completa, scoprite tutti gli strumenti necessari per rendere operativa l'organizzazione con Acrobat Sign</em>
-    
+    <br>
   </td>
   <td>
     <a href="up-and-running-admin.md">
@@ -80,7 +88,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="up-and-running-admin.md"><strong>Attivo e in esecuzione per gli amministratori</strong></a>
     </div>
     <em>Panoramica di 7 aree chiave per consentire agli amministratori di essere subito operativi in Acrobat Sign</em>
-    
+    <br>
   </td>
   <td>
     <a href="docusign-templates.md">
@@ -90,7 +98,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="docusign-templates.md"><strong>Migrazione dei modelli Docusign</strong></a>
     </div>
     <em>Scopri come migrare facilmente modelli e flussi di lavoro Docusign</em>
-    
+    <br>
   </td>
   <td>
     <a href="add-users-to-your-account.md">
@@ -100,7 +108,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="add-users-to-your-account.md"><strong>Aggiungi nuovo utente</strong></a>
     </div>
     <em>Scopri come aggiungere nuovi utenti ad Acrobat Sign</em>
-    
+    <br>
   </td>
 </tr>
 <tr>
@@ -112,7 +120,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="automatic-assignment-rules.md"><strong>Abilita regole di assegnazione automatica degli utenti</strong></a>
     </div>
     <em>Scopri come impostare le regole di assegnazione automatica che consentono agli utenti di accedere ad Acrobat Sign nell'Admin Console</em>
-    
+    <br>
   </td>
   <td>
     <a href="add-admin.md">
@@ -122,7 +130,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="add-admin.md"><strong>Aggiungere un nuovo amministratore dell'account</strong></a>
     </div>
     <em>Scopri come creare un nuovo utente o promuovere un utente esistente al ruolo di amministratore di Acrobat Sign</em>
-    
+    <br>
   </td>
     <td>
       <a href="promote-admin.md">
@@ -132,7 +140,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
       <a href="promote-admin.md"><strong>Assegnazione dei ruoli di amministratore di prodotto e supporto</strong></a>
       </div>
       <em>Scopri come assegnare un ruolo di amministratore del prodotto e amministratore del supporto per un utente Acrobat Sign nell'Admin Console</em>
-      
+      <br>
     </td>
     <td>
       <a href="create-and-manage-groups.md">
@@ -142,7 +150,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
       <a href="create-and-manage-groups.md"><strong>Creazione e gestione dei gruppi</strong></a>
       </div>
       <em>Creare gruppi, aggiungere utenti ai gruppi e modificare le impostazioni dei gruppi</em>
-      
+      <br>
     </td>
 </tr>
 <tr>
@@ -154,7 +162,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
       <a href="set-up-your-external-archive.md"><strong>Configurazione di un archivio esterno</strong></a>
       </div>
       <em>Crea un archivio esterno per il backup delle copie degli accordi firmati</em>
-      
+      <br>
     </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
@@ -164,7 +172,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="../sign-advanced-users/create-a-template.md"><strong>Creare un modello riutilizzabile</strong></a>
     </div>
     <em>Crea un modello di documento riutilizzabile per velocità e coerenza</em>
-    
+    <br>
   </td>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
@@ -174,7 +182,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="../sign-advanced-users/creating-a-report.md"><strong>Segnalazione e utilizzo delle transazioni</strong></a>
     </div>
     <em>Informazioni sulla generazione di report e sull'utilizzo delle transazioni</em>
-    
+    <br>
   </td>
   <td>
     <a href="report-options.md">
@@ -184,7 +192,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="report-options.md"><strong>Opzioni report per gli utenti</strong></a>
     </div>
     <em>Informazioni sulla configurazione delle opzioni di report per gli utenti</em>
-    
+    <br>
   </td>
 </tr>  
 <tr>
@@ -196,7 +204,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="../sign-advanced-users/webform.md"><strong>Creazione di un modulo Web</strong></a>
     </div>
     <em>Crea un documento che può essere firmato elettronicamente direttamente sul tuo sito Web</em>
-    
+    <br>
   </td>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
@@ -206,7 +214,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="../sign-advanced-users/modify-webform.md"><strong>Modificare un modulo Web esistente</strong></a>
     </div>
     <em>Scopri come disattivare, modificare e riattivare un modulo Web esistente</em>
-    
+    <br>
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
@@ -216,7 +224,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="../sign-advanced-users/megasign.md"><strong>Invia in modalità collettiva</strong></a>
     </div>
     <em>Raccogli migliaia di firme contemporaneamente per qualsiasi documento</em>
-    
+    <br>
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
@@ -226,7 +234,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="building-a-custom-workflow.md"><strong>Creare un flusso di lavoro personalizzato</strong></a>
     </div>
     <em>Scopri come creare e utilizzare flussi di lavoro personalizzati per accelerare il processo di creazione e invio di un accordo</em>
-    
+    <br>
   </td>
 </tr>
 <tr>
@@ -238,7 +246,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="audit-reports.md"><strong>Report di audit</strong></a>
     </div>
     <em>Informazioni su come accedere, utilizzare e configurare i report di audit</em>
-    
+    <br>
     </td>
     <td>
       <a href="set-up-shared-events-and-alert.md">
@@ -248,7 +256,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
       <a href="set-up-shared-events-and-alert.md"><strong>Configurare le notifiche per eventi e avvisi</strong></a>
       </div>
       <em>Configurare le notifiche per eventi e avvisi per l'account</em>
-      
+      <br>
     </td>
     <td>
       <a href="configure-modify-agreement.md">
@@ -258,7 +266,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
       <a href="configure-modify-agreement.md"><strong>Configurare e modificare l’accordo</strong></a>
       </div>
       <em>Scopri come configurare e gestire Modifica accordo</em>
-      
+      <br>
     </td>
     <td>
       <img alt="Spaziatore" src="../assets/Whitespacer.png" />
@@ -280,7 +288,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="learn-about-global-settings.md"><strong>Impostazioni globali</strong></a>
     </div>
     <em>Modifica le impostazioni del prodotto a livello globale per l'intera organizzazione o per gruppi specifici</em>
-    
+    <br>
   </td>
   <td>
     <a href="share-account-access.md">
@@ -290,7 +298,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="share-account-access.md"><strong>Accesso all'account condiviso</strong></a>
     </div>
     <em>Configurare l'accesso di sola visualizzazione alle transazioni nell'account di un altro utente</em>
-    
+    <br>
   </td>
   <td>
     <a href="advanced-account-sharing.md">
@@ -300,7 +308,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="advanced-account-sharing.md"><strong>Condivisione account avanzata</strong></a>
     </div>
     <em>Configurare la condivisione dell'account per consentire agli amministratori e agli utenti di delegare le autorizzazioni di invio, modifica e visualizzazione</em>
-    
+    <br>
   </td>
   <td>
     <a href="bulk-download-tool.md">
@@ -310,7 +318,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="bulk-download-tool.md"><strong>Strumento di download in blocco</strong></a>
     </div>
     <em>Scopri come utilizzare lo strumento di download in blocco per scaricare rapidamente tutti gli accordi firmati</em>
-    
+    <br>
   </td> 
 </tr>
 <tr>
@@ -322,7 +330,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Tag di testo Acrobat Sign</strong></a>
     <div>
     <em>Compilare i campi modulo di Acrobat Sign tramite tag di testo con Adobe Acrobat</em>
-    
+    <br>
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
@@ -332,7 +340,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="use-bio-pharma-settings.md"><strong>Utilizzo delle impostazioni Bio-Pharma</strong></a>
     </div>
     <em>Configurare le impostazioni Bio-Pharma che consentono di soddisfare i requisiti FDA 21 CFR Part 11</em>
-    
+    <br>
   </td>
   <td>
     <a href="privacy.md">
@@ -342,7 +350,7 @@ Scopri come impostare [le regole di assegnazione automatica](automatic-assignmen
     <a href="privacy.md"><strong>Come configurare gli amministratori della privacy</strong></a>
     </div>
     <em>Informazioni su come configurare e utilizzare gli amministratori della privacy</em>
-    
+    <br>
   </td>
   <td>
     <img alt="Spaziatore" src="../assets/Grayspacer.png" />

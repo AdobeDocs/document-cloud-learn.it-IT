@@ -7,22 +7,25 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-TQID: https://experienceleague.adobe.com/asIglQE0n6Na-3UkKDgsJl8Qex4i1AeLwFdy2e7J1Gs
+TQID: 'https://experienceleague.adobe.com/asIglQE0n6Na-3UkKDgsJl8Qex4i1AeLwFdy2e7J1Gs'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Reporting
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 480
+source-wordcount: '480'
 ht-degree: 3%
-
 ---
-
 # Panoramica delle attività avanzate
 
 Scopri come inviare un documento per la firma a 100 destinatari contemporaneamente, impostare un documento pronto per la firma per il tuo sito Web, gestire le transazioni di firma e creare e gestire i modelli di documento. Questi tutorial sono rivolti a chiunque abbia già familiarità con le nozioni di base sull’invio e la richiesta di firme e desideri scoprire altri modi in cui Acrobat Sign può funzionare per loro.
