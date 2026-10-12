@@ -17,4 +17,4 @@ Scopri come utilizzare i moduli Web per migliorare l’accesso degli studenti ai
 
 Consulta [Creare un&#39;applicazione di stage per moduli Web didattici](usecase-edu-intern-create.md) per scoprire come creare questo modulo Web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430540?captions=ita&quality=12&learn=on&hidetitle=true)
