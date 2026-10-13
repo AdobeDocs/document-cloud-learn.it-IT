@@ -9,16 +9,14 @@ thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
 source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '67'
 ht-degree: 0%
-
 ---
-
 # Contratti commerciali e moduli di richiesta
 
 Sostituisci rapidamente l’elaborazione cartacea con flussi di lavoro digitali conformi, completi di report di audit. Informazioni sullo strumento [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) per semplificare l&#39;intero processo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409213?quality=12&learn=on&hidetitle=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 
 Selezionare questa opzione per scaricare o aprire una composizione PDF dettagliata per contratti e moduli di richiesta.
 
