@@ -20,4 +20,4 @@ Scopri come generare report e tenere traccia dell’utilizzo delle transazioni. 
 >
 >La creazione di rapporti è disponibile solo per i piani a livello aziendale ed enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/346754?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444690?captions=ita&quality=12&learn=on&hidetitle=true)

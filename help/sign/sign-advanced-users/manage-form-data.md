@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Scopri come consolidare i dati dei moduli dai documenti, in modo da poterli visualizzare e gestire in un report o in un foglio di calcolo Excel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419330?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443526?captions=ita&quality=12&learn=on&hidetitle=true)
