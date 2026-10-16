@@ -10,11 +10,9 @@ source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
-
 ---
-
 # Gestire i dati del modulo
 
 Scopri come consolidare i dati dei moduli dai documenti, in modo da poterli visualizzare e gestire in un report o in un foglio di calcolo Excel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443526?quality=12&learn=on&hidetitle=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3419330?quality=12&learn=on&hidetitle=true)

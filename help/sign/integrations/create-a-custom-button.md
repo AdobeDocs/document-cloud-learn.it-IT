@@ -13,9 +13,7 @@ source-git-commit: 0838027300c9d15a20af03b7d49f190acb6256ec
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 16%
-
 ---
-
 # Crea un pulsante personalizzato in Acrobat Sign per [!DNL Salesforce]
 
 Scopri come creare un pulsante personalizzato in un oggetto standard in Salesforce.com. In questo esempio viene aggiunto un pulsante personalizzato a un **Contatto** in [!DNL Salesforce]. Quando si fa clic sul pulsante, viene avviato il processo di invio e vengono inserite le informazioni dal **Contatto** direttamente nell&#39;accordo.
