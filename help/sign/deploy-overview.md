@@ -55,11 +55,11 @@ Articoli con informazioni dettagliate e procedure ottimali sulla distribuzione d
     <br>
   </td>
   <td>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
+    <a href="https://www.adobe.com/it/trust/document-cloud-security.html" target="_blank">
       <img alt="Centro protezione di Adobe" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Centro protezione di Adobe</strong></a>
+    <a href="https://www.adobe.com/it/trust/document-cloud-security.html" target="_blank"><strong>Centro protezione di Adobe</strong></a>
     </div>
     <em>Scopri le nostre attività correnti in materia di sicurezza, legalità e standard per Acrobat Sign</em>
     <br>

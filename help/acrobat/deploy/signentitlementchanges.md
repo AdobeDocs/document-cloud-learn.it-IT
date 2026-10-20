@@ -83,7 +83,7 @@ Gli utenti potranno accedere ad https://documentcloud.adobe.com/ per scaricare t
 
 * [Accesso ad Adobe Document Cloud](https://helpx.adobe.com/it/document-cloud/help/sign-in.html)
 * [Gestione dei file (Dove sono i miei file?)](https://helpx.adobe.com/it/document-cloud/help/manage-files.html)
-* [Utilizzo di [!UICONTROL Acrobat Customization Wizard] per la configurazione](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
+* [Utilizzo di [!UICONTROL Acrobat Customization Wizard] per la configurazione](https://www.adobe.com/it/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [Panoramica di [!UICONTROL Admin Console]](https://helpx.adobe.com/it/enterprise/using/admin-console.html)
 * [Gestione di Adobe Sign nell&#39;[!UICONTROL Admin Console]](https://helpx.adobe.com/it/enterprise/using/adobe-sign-for-enterprise.html)
 
