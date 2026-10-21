@@ -43,7 +43,7 @@ Il contenuto di PDF deve essere univoco e strutturato come segue:
 * Aggiungere un sommario con collegamento ipertestuale per documenti di oltre 25 pagine
 * Esegui [riconoscimento testo](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) in tutti i documenti scansionati
 * Costruisci PDF compatibili con i dispositivi mobili
-Per verificare l&#39;esperienza di visualizzazione per dispositivi mobili del PDF, apri il file nella [app per dispositivi mobili Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) e attiva la modalità Liquid Mode. Se necessario, includere sottotitoli aggiuntivi per migliorare la navigazione.
+Per verificare l&#39;esperienza di visualizzazione per dispositivi mobili del PDF, apri il file nella [app per dispositivi mobili Acrobat Reader](https://www.adobe.com/it/acrobat/mobile/acrobat-reader.html) e attiva la modalità Liquid Mode. Se necessario, includere sottotitoli aggiuntivi per migliorare la navigazione.
 
   ![Schermata di Liquid Mode nell&#39;app Acrobat Reader per dispositivi mobili](../assets/optimizeseo1.png)
 
