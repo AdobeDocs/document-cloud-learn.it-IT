@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Scopri come raccogliere in modo efficiente le firme di tutti i tuoi dipendenti su accordi di telelavoro, aggiornamenti delle policy e altro ancora. In primo luogo, puoi creare un modello di documento riutilizzabile che sia rapidamente accessibile dalla libreria di documenti. In secondo luogo, invii il nuovo modello di documento per la firma a centinaia di dipendenti contemporaneamente utilizzando Mega Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/33978?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506380?captions=ita&quality=12&learn=on&hidetitle=true)
 
 Seleziona questa opzione per scaricare o aprire una ricetta PDF dettagliata per gli accordi in telelavoro.
 
